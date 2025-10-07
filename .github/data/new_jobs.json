@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Back End Developer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Fullstack Internship Opportunities, Neurodiversity Hiring Program",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Back End Developer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58166&source=WEB_Search_NA",
-    "id": "ibm-entry-level-back-end-developer-poughkeepsie"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Full Stack Software Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsMinimum requirement of BS + 3 years of relevant industry experienceHands-on experience in at least one general-purpose programming language (Python, JavaScript, or Go)Experience with frontend web development (React and modern JavaScript frameworks)Experience with SQL and NoSQL databasesExperience with a Linux environmentUnderstanding of RESTful API design and authentication techniques (Eg.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200624450-0836/full-stack-software-engineer?team=HRDWR",
-    "id": "apple-full-stack-software-engineer-cupertino"
+    "job_description": "software engineering job for the role Software Engineer: Fullstack Internship Opportunities, Neurodiversity Hiring Program",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-fullstack-internship-opportunities-neurodiversity-hiring-program-redmond"
   }
 ]
