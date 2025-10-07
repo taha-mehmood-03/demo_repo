@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Intel",
-    "job_title": "SoC Design Verification Engineer",
-    "job_city": "US",
-    "job_state": "Oregon",
-    "job_posted_at": "1d",
-    "job_description": "• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0277457Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted 4 Days AgoJR0277486AI Compiler Engineerlocations2 Locationsposted onPosted 15 Days AgoJR0277310Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881Middleware Engineerlocations2 Locationsposted onPosted 21 Days AgoJR0277311Emulation EngineerlocationsUS, Texas, Austinposted onPosted 15 Days AgoJR0276365Middleware Development Engineerlocations2 Locationsposted onPosted 19 Days AgoJR0277312Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276774Network Security Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0277498Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 30+ Days AgoJR0276771Government Information Security Engineerlocations4 Locationsposted onPosted 27 Days AgoJR0276257Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 18 Days AgoJR0277347GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 21 Days AgoJR0277349SoC Design Verification EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0277661Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 27 Days AgoJR0277075Information Security System Officer (ISSO)locationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0277641Director, Product Management Silicon Photonicslocations4 Locationsposted onPosted 30+ Days AgoJR0276253.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/SoC-Design-Verification-Engineer_JR0277661?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-design-verification-engineer-us"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Computational Photo/Videography",
+    "job_title": "Software Engineer, AI/ML, Computer Vision, Pixel Camera",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Computational Photo/Videography",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86515302031860422-software-engineer-computational-photovideography?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-computational-photo-videography-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, AI/ML, Computer Vision, Pixel Camera",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/141537887542747846-software-engineer-aiml-computer-vision-pixel-camera?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-ai-ml-computer-vision-pixel-camera-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Search",
+    "job_title": "Software Engineer, Embedded Systems, Firmware, Pixel Audio",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75947431920837318-software-engineer-iii-full-stack-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-software-engineer-iii-full-stack-search-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Embedded Systems, Firmware, Pixel Audio",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/84979009409950406-software-engineer-embedded-systems-firmware-pixel-audio?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-embedded-systems-firmware-pixel-audio-mountain-view"
   }
 ]
