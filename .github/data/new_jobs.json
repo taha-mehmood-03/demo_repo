@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "SSD Failure Analysis Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "2w",
-    "job_description": "Description content not available",
-    "job_apply_link": "https://careers.micron.com/careers/job/30690503",
-    "id": "micron-technology-ssd-failure-analysis-engineer-longmont"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Applications Engineer Intern",
-    "job_city": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Google Cloud Platforms",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 20 Days AgoR252197Epitaxy Technician 5, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251177Equipment Engineering Tech 4, Wet Etch / DiffusionlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252148Equipment Engineering Tech.\n• 4, Diffusion / WetlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252121Equipment Engineering Tech 4, Diffusion / Wet EtchlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252128Senior RF Test Development Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252194CMOS Research Engineer (Life Sciences)locationsUS, MA, Bostonposted onPosted 29 Days AgoR255391Device Integration Engineerlocations3 Locationsposted onPosted 30+ Days AgoR254627Staff Applications Engineerlocations2 Locationsposted onPosted 9 Days AgoR252273Senior Applications EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR252934Senior Engineer, ImplantlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR253909Digital Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR255049System Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted YesterdayR255776Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoR255047Yield Enhancement EngineerlocationsUS, OR, Beavertonposted onPosted 8 Days AgoR255473Applications Engineer InternlocationsUS, CA, San Jose, Rio Roblesposted onPosted YesterdayR256352Lead RF Hardware EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252164Technician 1, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted 27 Days AgoR250902Equipment Engineering TechnicianlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251934Energy Management System EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR253247.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-applications-engineer-intern-us"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Controls/Automation Engineer",
-    "job_city": "Troy",
-    "job_state": "Michigan",
-    "job_posted_at": "1d",
-    "job_description": "• Product EngineerlocationsNovi, Michigan, USposted onPosted 8 Days AgoR00209324Quality EngineerlocationsExcelsior Springs, Missouri, USposted onPosted 30 Days AgoR00209590Weld EngineerlocationsEthridge, Tennessee, USposted onPosted 21 Days AgoR00211009Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Process EngineerlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00170906Test EngineerlocationsMesa, Arizona, USposted onPosted 14 Days AgoR00212164Validation EngineerlocationsLowell, Massachusetts, USposted onPosted TodayR00213782Controls EngineerlocationsWarren, Michigan, USposted onPosted YesterdayR00207998Hardware Test EngineerlocationsLowell, Massachusetts, USposted onPosted YesterdayR00213786Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 28 Days AgoR00209882Manufacturing Process EngineerlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00200517Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted TodayR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Student - Engineering OpticslocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00204849Assembly Process EngineerlocationsToledo, Ohio, USposted onPosted 30+ Days AgoR00208818Supplier Quality EngineerlocationsShelby Twp, Michigan, USposted onPosted 14 Days AgoR00211821Supplier Quality EngineerlocationsShelby Twp, Michigan, USposted onPosted 14 Days AgoR00211822Advanced Quality EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00204172Engineer, Quality-1locationsShelby Twp, Michigan, USposted onPosted 30 Days AgoR00209066Student - Engineering Object FusionlocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00207379.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-controls-automation-engineer-troy"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Photonics Software Developer",
-    "job_city": "Ossining",
-    "job_state": "New York",
-    "job_posted_at": "5h",
-    "job_description": "• Research, develop, and integrate advanced modeling algorithms for photonic devices based on evolving customer and product requirements.\n• Strong proficiency in C++ programming, with experience in developing commercial engineering software.\n• Excellent technical communication skills—written, verbal, and presentation.\n• Preferred: Experience with parallel processing/GPU computing, inverse design, machine learning algorithms, cloud platforms, and Agile/Lean development processes.\n• Analytical thinker with strong problem-solving skills.\n• Design and implement high-performance C++ solutions for photonic CAD/CAE software used by industry-leading companies.\n• Apply modern software development practices to deliver robust, scalable, and efficient solutions.\n• Ensure code quality and maintainability through rigorous refactoring, code reviews, and regression testing.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/ossining/photonics-software-developer/44408/87052845056",
-    "id": "synopsys-photonics-software-developer-ossining"
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111930608938033862-software-engineer-iii-full-stack-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-iii-full-stack-google-cloud-platforms-sunnyvale"
   }
 ]
