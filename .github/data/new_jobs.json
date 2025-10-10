@@ -1,132 +1,62 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "University, Software Developer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• University, Software DeveloperlocationsMcLean, VAposted onPosted TodayR0228026 Advanced Data Analytics Full-Stack Technical Lead DeveloperlocationsArlington, VAposted onPosted 10 Days AgoR0227195 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 14 Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 10 Days AgoR0221867 React Software Engineer & Web ExpertlocationsAlexandria, VAposted onPosted 9 Days AgoR0227377 Application Developer, SeniorlocationsBethesda, MDposted onPosted 9 Days AgoR0227441 Software Development Team LeadlocationsMcLean, VAposted onPosted 8 Days AgoR0226938 Full-Stack Developer, JuniorlocationsHuntsville, ALposted onPosted TodayR0226649 Full Stack Developer, SeniorlocationsMcLean, VAposted onPosted YesterdayR0227913.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Software-Developer_R0228026?q=software+engineering",
-    "id": "bae-systems-university-software-developer-mclean"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "SOC Design Engineer",
-    "job_city": "US",
-    "job_state": "Arizona",
-    "job_posted_at": "1d",
-    "job_description": "• MES EngineerlocationsUS, Arizona, Phoenixposted onPosted 10 Days AgoJR0277565MES Engineerlocations3 Locationsposted onPosted 2 Days AgoJR0277570Triton Compiler Engineerlocations3 Locationsposted onPosted 30 Days AgoJR0277157Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 17 Days AgoJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0277457DevOps and Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 2 Days AgoJR0277658Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted 7 Days AgoJR0277486Engineering Analytics Developerlocations4 Locationsposted onPosted YesterdayJR0277350AI Compiler Engineerlocations2 Locationsposted onPosted 18 Days AgoJR0277310Substrate Yield AnalystlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277737Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881SOC Design EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277667CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0277654Emulation EngineerlocationsUS, Texas, Austinposted onPosted 18 Days AgoJR0276365Emulation Engineerlocations4 Locationsposted onPosted YesterdayJR0277771Middleware Development Engineerlocations2 Locationsposted onPosted 22 Days AgoJR0277312Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276774.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/SOC-Design-Engineer_JR0277667?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-design-engineer-us"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Quality Technician 1st Shift",
-    "job_city": "Ethridge",
-    "job_state": "Tennessee",
-    "job_posted_at": "1d",
-    "job_description": "• EHS Specialist (Environmental Focus)locationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00205564Quality Technician/Weld DestructlocationsEthridge, Tennessee, USposted onPosted 6 Days AgoR00213936Quality Inspect/Weld DestructlocationsEthridge, Tennessee, USposted onPosted 6 Days AgoR00214126Materials ManagerlocationsEthridge, Tennessee, USposted onPosted 2 Days AgoR00206366Manager - Customer Qualitylocations2 Locationsposted onPosted 30+ Days AgoR00182173Clerk, AccountinglocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00208801Quality Technician 1st ShiftlocationsEthridge, Tennessee, USposted onPosted TodayR00215026Quality TechnicianlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00203409Category Manager Facilities & Utilities ServiceslocationsTroy, Michigan, USposted onPosted 3 Days AgoR00212380Mgr, ProductionlocationsExcelsior Springs, Missouri, USposted onPosted 18 Days AgoR00184407Weld Technician - 2nd ShiftlocationsNew Hudson, Michigan, USposted onPosted 30+ Days AgoR00192749Weld Tech - 3rd ShiftlocationsNew Hudson, Michigan, USposted onPosted 30+ Days AgoR00199326Maintenance TechnicianlocationsHighland Park, Michigan, USposted onPosted 24 Days AgoR00210722.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Ethridge-Tennessee-US/Quality-Technician-1st-Shift_R00215026?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-quality-technician-1st-shift-ethridge"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Software Engineer Intern - Bachelor's Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Director of Design VerificationlocationsSanta Clara, CAposted onPosted Yesterday2502952SoC Design LeadlocationsSanta Clara, CAposted onPosted 7 Days Ago2502987Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 7 Days Ago2502955Sr Director, BU Planning – S&OP and S&OElocationsSanta Clara, CAposted onPosted 21 Days Ago2502856Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 23 Days Ago2501691Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted 23 Days Ago2500457Software Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502351Principal Engineer, Test Operations & Customer Strategylocations2 Locationsposted onPosted Yesterday2503119Test Engineer Intern - Bachelor's Degreelocations2 Locationsposted onPosted Yesterday2502291Physical Design Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502379AMS CAD Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Yesterday2502707Software Validation Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502445NPI PlannerlocationsSanta Clara, CAposted onPosted Yesterday2502170Principal Engineer, Design For TestlocationsWestborough, MAposted onPosted Yesterday2501513Signal and Power Integrity - Principal Engineer / Technical ManagerlocationsUS - MA - Westboroughposted onPosted Yesterday2500955Director – Corporate Program Management Office (PMO)locations3 Locationsposted onPosted 2 Days Ago2503103Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2502963Senior Staff Optical EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2501775Firmware Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 2 Days Ago2502348Firmware Engineering Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 2 Days Ago2502500.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern---Bachelor-s-Degree_2502351-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-software-engineer-intern-bachelor-s-degree-santa-clara"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Design Automation Engineer - Front-End Methodologies & Design Flows",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/design-automation-engineer-front-end-methodologies-and-design-flows/33099/87112637216",
-    "id": "arm-design-automation-engineer-front-end-methodologies-design-flows-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "5G/Networking Performance Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/5g-networking-performance-engineer/33099/86845170432",
-    "id": "arm-5g-networking-performance-engineer-austin"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Engineering Productivity, Google Cloud Platforms",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering AMTS",
+    "job_city": "Texas - Dallas",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Engineering Productivity, Google Cloud Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108906005927994054-software-engineer-engineering-productivity-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-engineering-productivity-google-cloud-platforms-sunnyvale"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Architect, design, implement, test and deliver highly scalable productsMaster our development process, culture and code base, then improve itWork closely with a team of engineers, product managers, user experience experts and performance engineers to build new features our customers will love, adopt and use while keeping our trusted platform stable and scalableDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metricsAnalyze, design and develop test cases and implement automated test suites Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Strong background in Computer Science or a related engineering discipline.\n• Must be located in North AmericaAcademic, professional or internship experience working in a professional coding setting environmentFluency in object-oriented programming/designAcademic, professional or internship experience in one of Java, Python, Javascript, HTML, SQL or C++ Strong analytical and problem-solving skillsTeam-player with the ability to work effectively and efficiently with othersBe a self-starter and possess strong sense of self-motivationExperience using telemetry and metrics to drive operational excellence University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313404/software-engineering-amts/",
+    "id": "salesforce-software-engineering-amts-texas-dallas"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Engineering Productivity, Search",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Salesforce",
+    "job_title": "Product Analyst - Analyst",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137880336343147206-software-engineer-iii-engineering-productivity-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-engineering-productivity-search-mountain-view"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Analyze data, conduct surveys, participate in focus groups, and other meetings to facilitate the gathering of business needs and requirements.\n• Write functional specifications for new capabilities based on users’ needs.\n• Clearly document and communicate to engineers the information they need for the design of the solutions.\n• Keep pace with evolving business requirements and be willing to work directly with engineers in designing the best possible solution.\n• Org Sustainability Investors Give us your Feedback Excellent spoken and written communication skills.\n• Receptive listening skills, willing to ask questions to get a full understanding of what end-users need and why.\n• Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences A solid understanding of the Software Development Lifecycle (SDLC) covering business process analysis, requirements and design, data modeling, detailed functional design, test planning, and UAT execution.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313405/product-analyst-analyst/",
+    "id": "salesforce-product-analyst-analyst-indiana-indianapolis"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Global Services Security Engineering",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "19h",
-    "job_description": "software engineering job for the role Software Development Engineer, Global Services Security Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3106424/software-development-engineer-global-services-security-engineering",
-    "id": "amazon-software-development-engineer-global-services-security-engineering-arlington"
+    "employer_name": "Salesforce",
+    "job_title": "Sales Skills Trainer, Analyst",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Facilitate and produce training sessions for Account Executives, Sales Leaders and Sales Development Representatives, Solutions Engineers and Customer Success Managers focusing on topics such as advanced sales prospecting techniques, impactful executive communications, customer-centric discovery methodologies, and do-my-job training sessions.\n• Reinforce learning requirements so participants are clear on key milestones ranging from prework, class times, show-you-knows assessments, and certification requirementsKnowledgeable of effective learning strategies to most effectively enable field resources 1-2 years of relevant experience, including corporate learning experience in a mid-to-large-sized organization.\n• Proficient interpersonal skills.\n• Proficient communication skills and attention to detailEnergetic and able to engage an audience.\n• Some exposure to sales experience or familiarity with sales processes.\n• Hybrid-Based: Employee who lives within 40 miles of an office who is expected to be in the office 3 days a week based on job role/function to deliver in person training (as needed) and work remotely for virtual delivery.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager Bachelor's degree is required.\n• Facilitate and produce engaging training activities and assessments to strengthen and evaluate participants' knowledge and application of topics.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313839/sales-skills-trainer-analyst/",
+    "id": "salesforce-sales-skills-trainer-analyst-california-san-francisco"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Engineer - Digital Twin, Project Kuiper",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Engineer - Digital Twin, Project Kuiper",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper",
-    "id": "amazon-software-engineer-digital-twin-project-kuiper-redmond"
+    "employer_name": "Salesforce",
+    "job_title": "Associate UX Researcher",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Collaborate with product and UX teams to outline research plans, execute research, consolidate findings, and present meaningful insightsPlan, design, and lead research strategy that inform business, product and design decisions for multiple product areas in a domainDefine and consolidate quantitative and qualitative research, including surveys, usability studies, field studies, and more to provide insights on requirements definition, content strategy, wireframes, visual and interaction designWork closely with partners across multiple teams to clearly define and prioritize user research needs and lead efforts to execute on necessary researchIdentify and recommend the best methods to answer research questions and prioritize them according to schedule and opportunity constraintsActively find opportunities to improve the user experience across your business domainEstimate work effort and define work plans and research project timelinesPresent actionable, creative, compelling insights and recommendations to multiple teams and stakeholders across the organizationContribute to the team by providing research ops support, staying tapped into emerging trends and methods, leveraging your strengths to help others grow and evolve our team, the UX Research practice and our cultureDistill complex multi-method research reports into understandable, compelling, connected and actionable insights to multiple teams/leadership levels across the business domain 1-3 years of relevant work experience (including internships) conducting research as part of an internal or agency team and/or academic studies in a relevant field (e.\n• , anthropology, business, behavioral science, design, psychology)Experience with various research methods: in context qualitative research, diary studies, IDIs, moderated and unmoderated usability, and surveysExperience working firsthand with UX design and software product teams and planning UX research across the product lifecycleAbility to develop creative, flexible and rapid approaches to user experience problemsEffective communication and storytelling skills, with experience presenting to diverse audiences that translate findings into business impactStrong understanding of design thinking and user-centered practicesEnthusiasm for working in a collaborative environment with a culture of feedbackExemplary verbal, presentation, and written communication skillsAbility to multi-task, prioritize, and manage time effectivelyPositive attitude, bias toward iteration & action, and ability to work with Product, Engineering, and Architecture colleagues in ways that build relationships and uplift UX maturityWe also seek someone with a creative streak, a love for experimentation and the desire and skills to deliver quickly Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Experience conducting qualitative research in a B2B settingExperience with enterprise software solutionsExperience working in digital and emerging technologiesExperience with journey mapping and storytellingUser testing platforms, Figma, Adobe Creative Suite, Canva, LucidChart, and GPT model experience (Cursor and/or vibe-coding experience a plus)Subject matter expertise in consumer product, Global Safety & Security, HR (including Employee Success), and/or Real Estate & Workplace Services functions and users a plus Projects and teammates that push you to grow by challenging your assumptions, skills, and knowledgeWorking on cross-disciplinary teams that balance business unit subject matter expertise, with a beginner’s mindExperimenting and prototyping with emerging technologies to bring ideas to life in new waysHoning your storytelling craft to create engagement and conviction for stakeholders and customersUsing research and design methods to catalyze change at the executive level User Experience Georgia - Atlanta Full time Posted 10 October 2025 JR313407 University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313407/associate-ux-researcher/",
+    "id": "salesforce-associate-ux-researcher-georgia-atlanta"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Ops & Tech Channels",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Development Engineer, Ops & Tech Channels",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3095707/software-development-engineer-ops-tech-channels",
-    "id": "amazon-software-development-engineer-ops-tech-channels-new-york"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer (ML), AGI Foundations",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_posted_at": "3w",
-    "job_description": "software engineering job for the role Software Development Engineer (ML), AGI Foundations",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3086502/software-development-engineer-ml-agi-foundations",
-    "id": "amazon-software-development-engineer-ml-agi-foundations-bellevue"
+    "employer_name": "Micron Technology",
+    "job_title": "Diffusion Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "20h",
+    "job_description": "• Seeking an individual who has recently graduated from college and has 2 years or less of fulltime work experience You have strong collaboration skills to help inspire good teamwork among colleagues and vendor counterparts.\n• You have sound troubleshooting skills and fluency to work on equipment related issues.\n• You have excellent verbal and written communication skills.\n• Less than 2 years Must be detail oriented and data driven in order to track equipment performance, develop pareto analysis of tool issues and lead vendor support through documented continuous improvement project (CIP) commitments.\n• Senior Diffusion and Implant Equipment EngineerBoise, Idaho, United States of AmericaPosted 2 days ago EDE-SG Senior Equipment Engineer/Equipment Engineer (Dry Etch)Singapore, SingaporePosted 3 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30552277",
+    "id": "micron-technology-diffusion-equipment-engineer-manassas"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Research Intern - AI Agents & Reasoning",
+    "job_title": "Research Intern - Cloud Reliability & Efficiency",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Research Intern - AI Agents & Reasoning",
+    "job_description": "software engineering job for the role Research Intern - Cloud Reliability & Efficiency",
     "job_apply_link": "https://jobs.careers.microsoft.com",
-    "id": "microsoft-research-intern-ai-agents-reasoning-redmond"
+    "id": "microsoft-research-intern-cloud-reliability-efficiency-redmond"
   }
 ]
