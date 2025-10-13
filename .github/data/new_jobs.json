@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "OI System Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "1d",
+    "job_description": "• Ensuring projects are properly prioritized and that deliverables and timelines are in line with constraint dates and business needs.\n• Demonstrate basic programming skill with one of the following environment: SQL, Angular, C#, Java/JavaScript.\n• Completes all required safety training and ensures all work is conducted in accordance with safety policies Ensure availability and accuracy of documentation to empower users to self-diagnose issues where possible The ability to deliver comprehensive solutions to address root cause through systematic analysis.\n• Support and provide technical expertise for area management decision making (including queue time management, equipment and recipe releases, and general workstation optimization) Ensure availability and currency of documentation to enable all on call team members to support first-level investigation and resolution of IT ticket for OI system Support and provide technical expertise for line management decision making (including linearity, cycle time, line yield, wafer starts and output optimization) The ability to utilize Industrial Engineering concepts (queueing theory, lean, theory of constraints, Little’s Law, scheduling, etc.\n• ) to implement solutions.\n• The ability to provide fast and repeatable data mining through the use of relational databases.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38374727",
+    "id": "micron-technology-oi-system-engineer-manassas"
+  }
+]
