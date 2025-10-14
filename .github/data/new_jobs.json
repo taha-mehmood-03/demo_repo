@@ -1,72 +1,102 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Engineer",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Electrical Engineer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0209591.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer_R0228109?q=software+engineering",
-    "id": "bae-systems-software-engineer-beavercreek"
+    "job_description": "software engineering job for the role Entry Level Electrical Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63321&source=WEB_Search_NA",
+    "id": "ibm-entry-level-electrical-engineer-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum EDA Junior Developer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Quantum EDA Junior Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63351&source=WEB_Search_NA",
+    "id": "ibm-quantum-eda-junior-developer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Firmware Developer",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Firmware Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52293&source=WEB_Search_NA",
+    "id": "ibm-firmware-developer-rochester"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Photolithography Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Or graduate degree in Engineering, Chemistry, Physics, or study relevant to Photolithography.\n• Data Science, programming experience, and coursework/experience in statistics and data analysis are preferred.\n• Coursework or experience in photolithography and semiconductor manufacturing preferred.\n• Strong communication skills (written, verbal and presentation).\n• Candidates must continue their education in Fall of 2026.\n• Good analytical skills.\n• Less than 2 years Intern - Metrology Process Development EngineerBoise, Idaho, United States of AmericaPosted a month ago NTI NAND Senior/Principal Process Integration EngineerSingapore, SingaporePosted 2 months ago.\n• Applicants should be working towards a B.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38516943",
+    "id": "micron-technology-intern-photolithography-process-engineer-boise"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Facility Water Services Technician",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Ability to work 12-hour shifts (3 days on/4 days off and 4 days on/3 days off), progress between day and night shifts every 4 months and adapt to different shifts and overtime as needed to support business operations.\n• Associate degree in relevant technical fields such as Mechatronics, Electronics, or Robotics and/or 2 years of experience in maintaining manufacturing equipment, automation, and/or technical military experience.\n• 4 years of experience maintaining manufacturing or automation equipment, including leading related improvement projects with a focus on scope, schedule, and budget management 2 years of experience performing preventative maintenance and repair on manufacturing equipment, ensuring minimal downtime, and maintaining industrial equipment, automation.\n• Experience leading equipment maintenance and improvement projects, with a focus on meeting defined scope, schedule, and budget requirements.\n• Consistently follow safety protocols and wear required PPE.\n• Apply strong problem-solving skills and Microsoft Office tools to manage tasks, communicate effectively, and support operational goals.\n• Minimum of 4 years’ experience in maintaining manufacturing equipment, automation systems, or equivalent technical military background.\n• 2 years of experience in using mechanical, electronic, and PC/software skills to fix and resolve manufacturing equipment issues.",
+    "job_apply_link": "https://careers.micron.com/careers/job/28192257",
+    "id": "micron-technology-facility-water-services-technician-boise"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "F-35 Systems Engineer",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• Software Developer, Seniorlocations2 Locationsposted onPosted 15 Days AgoR0226885 AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224541 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted TodayR0227944.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/F-35-Systems-Engineer_R0228088-1?q=software+engineering",
+    "id": "bae-systems-f-35-systems-engineer-arlington"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "JAVA Full Stack Developer/Angular v.17, v.18 , or v.19",
-    "job_city": "Any Location /",
+    "job_title": "Systems Engineer (Active TS/SCI with Poly/NEW HIRE SIGN-ON BONUS UP TO $30,000)",
+    "job_city": "USA MD Annapolis Junction",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/JAVA-Full-Stack-Developer-Angular-v17--v18---or-v19_RQ206397?q=software+engineering",
-    "id": "general-dynamics-java-full-stack-developer-angular-v-17-v-18-or-v-19-any-location"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Systems-Engineer--Active-TS-SCI-with-Poly-NEW-HIRE-SIGN-ON-BONUS-UP-TO--30-000-_RQ208797?q=software+engineering",
+    "id": "general-dynamics-systems-engineer-active-ts-sci-with-poly-new-hire-sign-on-bonus-up-to-30-000-usa-md-annapolis-junction"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Deep Learning Software Engineer, Inference and Model Optimization - New College Grad",
-    "job_city": "2 Locations",
+    "employer_name": "General Dynamics",
+    "job_title": "ThinPro Automation Engineer - TS/SCI w/Poly",
+    "job_city": "USA MD Annapolis Junction",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026locations2 Locationsposted onPosted YesterdayJR2005097Deep Learning Software Engineer, Inference and Model Optimization - New College Grad 2025locations2 Locationsposted onPosted TodayJR2004584Senior Systems Software Security Engineer – Data Center SystemslocationsUS, CO, Remoteposted onPosted 2 Days AgoJR2004966Senior Systems Software Security Engineer – Factory and Security Provisioninglocations2 Locationsposted onPosted YesterdayJR1996707Principal Engineer - DL and AI SoftwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1992150Senior Engineer, Performance - Cloud Softwarelocations2 Locationsposted onPosted 30+ Days AgoJR2003215Senior Methodology Engineer, CAD Tool Developmentlocations2 Locationsposted onPosted 8 Days AgoJR2000621Senior Software R&D Engineer, VLSI Physical DesignlocationsUS, TX, Austinposted onPosted 19 Days AgoJR2000714Principal Firmware Engineer - Data Center Server Managementlocations2 Locationsposted onPosted 3 Days AgoJR1978573Senior Software Manager, NetworkinglocationsUS, CA, Santa Claraposted onPosted YesterdayJR2005622Software Architect, NIM Factorylocations2 Locationsposted onPosted 30 Days AgoJR2003908Software QA Test Dev EngineerlocationsUS, CA, Santa Claraposted onPosted TodayJR2000178Manager, System Software - Triton Inference Serverlocations3 Locationsposted onPosted 25 Days AgoJR2003888Principal Software Architect – GPU DriverlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1997149System Software Manager - Core Graphicslocations2 Locationsposted onPosted 4 Days AgoJR2005829Senior Software Architectlocations3 Locationsposted onPosted 30+ Days AgoJR1997335System Software Architect, HPC NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000738Software Solutions ArchitectlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2005709Senior Software Test Developer – DriveOSlocationsUS, CA, Santa Claraposted onPosted 9 Days AgoJR2004676Technical Marketing Engineer - AI Platform SoftwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1986301.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--Inference-and-Model-Optimization---New-College-Grad-2025_JR2004584?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-deep-learning-software-engineer-inference-and-model-optimization-new-college-grad-2-locations"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "SMTS C++ Software Engineer, AI Open-Source Software",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Experience with open-source software development, engaging with upstream reviewers, and reviewing PRs.\n• Highly proficient in C/C++, object-oriented programming, and tools such as debuggers and profilers AMD Partner Hub Authorized Distributors AMD University Program Demonstrated ability to write high-quality code with strong attention to detail Experience with software development processes such as Agile, Scrum, or Sprint Experience with GPU kernel and parallel programming: ROCm, HIP, or CUDA Experience with both training and inferencing machine learning models Experience with Linux and containerized environments (e.\n• , Docker) Experience with source code control systems such as GitHub.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/72464/login",
-    "id": "amd-smts-c-software-engineer-ai-open-source-software-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "SMTS Systems Design Eng.",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Years of experience in software solutions engineering, customer engineering, or technical consulting roles.\n• Strong programming skills in Python, C++, and BASH for automation and workload optimization.\n• Hands-on experience with AI/ML frameworks and GPU workload tuning.\n• Experience contributing to or leveraging open-source software ecosystems.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master’s degree in Computer Science, Computer Engineering, or a related field.\n• Partner with customers to architect and optimize AI solution deployments using AMD Instinct GPUs.\n• Automate workload deployment packaging, pipelines, monitoring, and error-handling workflows to reduce overhead and speed up customer time-to-solution.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/72406/login",
-    "id": "amd-smts-systems-design-eng-us"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engr II- Electrical",
-    "job_city": "Mason",
-    "job_state": "OH",
-    "job_posted_at": "21h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/123280/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engr-ii-electrical-mason"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/ThinPro-Automation-Engineer---TS-SCI-w-Poly_RQ208620-1?q=software+engineering",
+    "id": "general-dynamics-thinpro-automation-engineer-ts-sci-w-poly-usa-md-annapolis-junction"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - DevOps / Python / AWS",
+    "job_title": "Software Engineer III - GCP",
     "job_city": "Jersey City",
     "job_state": "NJ",
     "job_posted_at": "1d",
-    "job_description": "• Create a profile so we can help Join the Network Software Engineer III – Applied AI/ML Python Software Engineer LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer III – Applied AI/ML Python Software Engineer Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform 2026 Software Engineer Program - Full-time – United States (July Start) Austin, TX, United States and 9 more TechnologySoftware Engineering Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.\n• Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210667729/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-devops-python-aws-jersey-city"
+    "job_description": "• Create a profile so we can help Join the Network Software Engineer III – Applied AI/ML Python Software Engineer LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer III – Applied AI/ML Python Software Engineer Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Lead Software Engineer- Android New York, NY, United States TechnologySoftware Engineering Seeking a strong Lead Android Software Engineer Lead Software Engineer – External Collaboration BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the Technology and Digital Solutions division Software Engineer III Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Senior Manager of Software Engineering- Python / AWS Boston, MA, United States TechnologySoftware Engineering Seeking a Software Engineering Manager who has knowledge of Python and AWS Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Lead Software Engineer - Public Cloud Services Jersey City, NJ, United States and 1 more TechnologySoftware Engineering Seeking a Lead Software Engineer with expertise in Azure Services Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Python Test Automation Engineer - Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Seek expert Software Developer to automate test engineering with top tools like Pytest and Behave.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674995/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-gcp-jersey-city"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Java/Spark/AWS Software Engineer",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• Create a profile so we can help Join the Network Software Engineer III – Applied AI/ML Python Software Engineer LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer III – Applied AI/ML Python Software Engineer Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Lead Software Engineer- Android New York, NY, United States TechnologySoftware Engineering Seeking a strong Lead Android Software Engineer Lead Software Engineer – External Collaboration BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the Technology and Digital Solutions division Software Engineer III Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Senior Manager of Software Engineering- Python / AWS Boston, MA, United States TechnologySoftware Engineering Seeking a Software Engineering Manager who has knowledge of Python and AWS Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Lead Software Engineer - Public Cloud Services Jersey City, NJ, United States and 1 more TechnologySoftware Engineering Seeking a Lead Software Engineer with expertise in Azure Services Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Python Test Automation Engineer - Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Seek expert Software Developer to automate test engineering with top tools like Pytest and Behave.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674390/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-java-spark-aws-software-engineer-jersey-city"
   }
 ]
