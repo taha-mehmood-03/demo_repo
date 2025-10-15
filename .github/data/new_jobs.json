@@ -1,122 +1,52 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Full-stack Software Engineer, MTS/SMTS (Commerce Cloud)",
-    "job_city": "Massachusetts - Burlington",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• 3+ years of professional software development experience (MTS) 5+ years of professional software development experience (SMTS) Proficient in JavaExperience developing API's or REST servicesExperience in performance optimization, scalability and algorithmsHigh proficiency in at least one high-level programming language and web framework (NodeJS, Express, Hapi, etc.\n• )Experience with modern HTML5, JavaScript (ES6+) and CSS3Solid understanding of web technologies, such as JavaScript, CSS, HTML5, XML, JavaScript, JSON, and/or AjaxSolid understanding of Database technologies such as SQL, PL/SQL and relational database schema designExperience in automated testing including unit and functional testing using Java, JUnit, JSUnit, SeleniumExcellent communication skills, ability to present ideas and solutions and coherently discuss complex topics with the team and broader technical audienceA related technical degree required Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Architect, design, implement, test and deliver highly scalable productsMaster our development process, culture and code base, then improve itOperate optimally in the hybrid engineering model where engineers are encouraged to be able to craft and complete the vital work to ensure quality in their own code as well as other engineersMentor others in development technologies, tools, and processesPresent your own designs to internal/external groups and review designs of othersDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metricsParticipate in the team’s on-call rotation to address sophisticated problems in real-time and keep services operational and highly available Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Experience building highly scalable web applicationsExperience with Lightning Web Components (LWC)Working experience with multiple front-end frameworks, such as Angular, Vue, Ember, React, etc.\n• To have an opinion of the qualities of each versus the othersExperience with Agile software development and test-driven developmentMaster’s degree in Computer Sciences or equivalent field University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr314461/full-stack-software-engineer-mtssmts-commerce-cloud/",
-    "id": "salesforce-full-stack-software-engineer-mts-smts-commerce-cloud-massachusetts-burlington"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Embedded Software Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "20h",
-    "job_description": "• Impact: We are continuously challenged to develop innovative production test solutions that are customized to Micron's needs.\n• We must be more agile, robust, efficient, and capable than our competitors.\n• Bachelor of Science degree in Electrical, Electronics Engineering, Computer Engineering, or equivalent Impact: Our work directly impacts Micron’s ability to ship its products on time and on budget.\n• In-depth knowledge of lab equipment (oscilloscopes, DMMs, SMUs) Experience building physical systems (software + hardware) Dev Tool Experience (Jira, Git, Jenkins, Artifactory) 3+ years of experience in industry embedded work Lab equipment knowledge (oscilloscopes, DMMs) Experience in Linux and the GNU toolchain Experience with embedded software tools.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38527295",
-    "id": "micron-technology-embedded-software-engineer-boise"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Mechanical Design Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "20h",
-    "job_description": "• The output being design documents to include requirement specifications, CAD models, fabrication prints, detailed assembly prints, end use documentation, and test/check-out specifications.\n• Interact and maintain close communication with other engineering disciplines, including controls engineering, electrical engineering, and software engineering, to translate customer requirements into engineering design documents.\n• Interact with Micron suppliers to drive new designs or the customization of existing products to meet unique internal requirements.\n• CAD/FEA Software including SolidWorks, SolidWorks Simulation, SolidWorks PDM, Solid Edge, Ansys, preferred Bachelor’s degree - Mechanical Engineering Less than 2 years Provide technical support (Example: failure analysis, questions, etc.\n• Mechanical design of automated/semi-automated equipment, tooling, fixturing, and support assemblies.\n• Work with the New Product Introduction (NPI) team to ensure proper design for manufacturability, test, assembly, and quality control systems are established.\n• ) to any internal or external customer as part of the mechanical development.\n• Intern - Intern - Facilities Operations Mechanical EngineerBoise, Idaho, United States of America + 2 morePosted 6 days ago Lead Principal Electrical Design EngineerSan Jose, California, United States of AmericaHybridPosted a month ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38527291",
-    "id": "micron-technology-mechanical-design-engineer-san-jose"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Gas Systems Design and Operations Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum of 3–5 years of experience in gas systems engineering, with at least 2 years overseeing third-party design or managing design processes for specialty gas, bulk gas, or cryogenic systems.\n• Collaborate with external design teams, contractors, vendors, and internal stakeholders to align gas system designs with facility needs and project schedules.\n• Experience overseeing third-party designs for semiconductor, pharmaceutical, or data center facilities with stringent gas system requirements.\n• Experience with control systems (e.\n• Bachelor’s degree in chemical engineering, mechanical engineering, or a related field.\n• Perform quality assurance and risk assessments to identify and resolve issues related to constructability, safety, and regulatory compliance.\n• Ability to mentor internal teams or liaise effectively with external stakeholders to ensure design alignment.\n• Familiarity with industry standards such as SEMI S2/S6, ASME BPE, and CGA guidelines for gas handling.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-gas-systems-design-and-operations-engineer-boise"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "FAB Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "1d",
-    "job_description": "• Bachelor’s degree or equivalent experience in Chemical Engineering, Electrical Engineering, Material Science, or related field.\n• Strong problem-solving skills and attention to detail.\n• Excellent communication and organizational skills.\n• Handle new process baseline qualifications.\n• Less than 2 years Principal Product Engineer (Advance Data Analytics), Heterogeneous Integration Group (HIG), High Bandwidth Memory (HBM) Product EngineeringSingapore, SingaporePosted 3 months ago Layout Design Environment Development/Support CAD Staff Engineer/Senior Engineer/EngineerSagamihara-shi Chuo-ku, Kanagawa, JapanPosted 7 days ago.\n• Principal / Senior / Engineer, DRAM ReliabilityHigashi Hiroshima-shi, Hiroshima, JapanPosted 7 days ago Upgrade process capability and reduce production costs.\n• Ability to work collaboratively in a team environment.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-fab-engineer-manassas"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Full Stack Developer",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_posted_at": "1d",
-    "job_description": "• Full Stack Developer, SeniorlocationsHuntsville, ALposted onPosted 22 Days AgoR0226696 Full Stack Developer, SeniorlocationsBremerton, WAposted onPosted 20 Days AgoR0226995 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 16 Days AgoR0226625 Application Developer, SeniorlocationsBethesda, MDposted onPosted 14 Days AgoR0227441 Full-Stack Developer, JuniorlocationsHuntsville, ALposted onPosted 5 Days AgoR0226649 Azure Cloud Developer, Seniorlocations2 Locationsposted onPosted 19 Days AgoR0227101 AWS Cloud Developer, Seniorlocations2 Locationsposted onPosted 13 Days AgoR0227102 Full Stack Developer, SeniorlocationsHuntsville, ALposted onPosted TodayR0228189 Full-Stack Developer, LeadlocationsArlington, VAposted onPosted TodayR0227195.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer_R0228191?q=software+engineering",
-    "id": "bae-systems-full-stack-developer-huntsville"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Border Security Technical Analyst",
-    "job_city": "US - DC",
-    "job_state": "Washington",
-    "job_posted_at": "1d",
-    "job_description": "• Associate Director, AI & Data, Federal Civilian Agencieslocations2 Locationsposted onPosted 5 Days Ago30806Data ScientistlocationsUS - VA, Springfieldposted onPosted 30+ Days Ago30703Data ScientistlocationsUS - VA, Springfieldposted onPosted 15 Days Ago32224Appian Solution ArchitectlocationsUS - VA, McLeanposted onPosted 20 Days Ago31943Project SchedulerlocationsUS - AL, Huntsvilleposted onPosted 15 Days Ago32450Quality Assurance SpecialistlocationsUS - MO, St.\n• Louisposted onPosted 5 Days Ago31423ServiceNow Business Analystlocations2 Locationsposted onPosted 12 Days Ago32654Cyber Security ArchitectlocationsUS - Remote (Any location)posted onPosted 20 Days Ago32178Salesforce Business AnalystlocationsUS - Remote (Any location)posted onPosted 5 Days Ago31525Senior Air Force Cost EstimatorlocationsUS - OH, Beavercreekposted onPosted 20 Days Ago31363Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 15 Days Ago32457Associate Scientist, Formulation DevelopmentlocationsUS - MD, Gaithersburgposted onPosted 8 Days Ago31188Border Security Technical AnalystlocationsUS - DC, Washingtonposted onPosted Today33195Scientific Program ManagerlocationsUS - MD, Frederickposted onPosted 30+ Days Ago31740ServiceNow DeveloperlocationsUS - VA, McLeanposted onPosted 5 Days Ago31622ServiceNow DeveloperlocationsUS - VA, McLeanposted onPosted 8 Days Ago32663Senior ServiceNow Business AnalystlocationsUS - VA, McLeanposted onPosted 8 Days Ago32655Technology Account Lead, TransportationlocationsUS - VA, McLeanposted onPosted 16 Days Ago32479Journeyman Appian Developerlocations2 Locationsposted onPosted 15 Days Ago32455Technology Account Lead, USDAlocations2 Locationsposted onPosted 5 Days Ago32481.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Border-Security-Technical-Analyst_33195?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-border-security-technical-analyst-us-dc"
-  },
-  {
-    "employer_name": "Workday",
-    "job_title": "Software Development Engineer- Professional Services(Python)",
-    "job_city": "USA",
-    "job_state": "GA",
-    "job_posted_at": "1d",
-    "job_description": "• Sr Software Engineer - Evisortremote typeFlexlocations2 Locationsposted onPosted 26 Days AgoJR-0100113Principal, Software Engineer (Distributed Systems)remote typeOnsitelocationsUSA, CA, Pleasantonposted onPosted 30+ Days AgoJR-0098309Software Engineer, DBaas - US Federalremote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097446Software Development Engineerremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 2 Days AgoJR-0097419Manager, Software Development Engineeringremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 30+ Days AgoJR-0100317Manager, Software Development Engineeringremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 7 Days AgoJR-0100470Manager, Software Development Engineering, Flowiseremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 15 Days AgoJR-0100575Principal Software Development Engineer, Flowiseremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 19 Days AgoJR-0100573Software Development Engineer (Backend), Flowiseremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 2 Days AgoJR-0100577Sr Director, Software Development Engineeringremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 13 Days AgoJR-0100866Senior Associate Software Development Engineerremote typeFlexlocationsUSA, GA, Atlantaposted onPosted TodayJR-0097283Sr Distributed Systems Engineer (DevOps)remote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 21 Days AgoJR-0100108Sr Software Development Engineer (Full Stack)remote typeFlexlocations6 Locationsposted onPosted 22 Days AgoJR-0099508Sr Software Development Engineer (Front End)remote typeFlexlocations6 Locationsposted onPosted 21 Days AgoJR-0099509Sr Software Development Engineer, AI Securityremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 21 Days AgoJR-0100117Senior Associate Software Development Engineer (Python)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted TodayJR-0100413Software Development Engineer- Professional Services(Python)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted TodayJR-0100414Principal Software Development Engineer, Full Stackremote typeFlexlocations6 Locationsposted onPosted 28 Days AgoJR-0100545Senior Software Development Engineer (Backend), Flowiseremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 19 Days AgoJR-0100574Software Development Engineer (Front End), Flowiseremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 5 Days AgoJR-0100595.",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Development-Engineer_JR-0100414?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-professional-services-python-usa"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Physical Implementation Applications Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-physical-implementation-applications-engineer/33099/87300720688",
-    "id": "arm-graduate-physical-implementation-applications-engineer-austin"
+    "employer_name": "Honeywell",
+    "job_title": "Software Engineer",
+    "job_city": "Salem",
+    "job_state": "OR",
+    "job_posted_at": "23h",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/123126/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-software-engineer-salem"
   },
   {
     "employer_name": "Honeywell",
-    "job_title": "Systems Engineer",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "21h",
+    "job_title": "Quality Engineer",
+    "job_city": "Clearwater",
+    "job_state": "FL",
+    "job_posted_at": "23h",
     "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/123155/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-systems-engineer-redmond"
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/122968/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-quality-engineer-clearwater"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Hybrids Engineering Technician",
+    "job_city": "Minneapolis",
+    "job_state": "MN",
+    "job_posted_at": "23h",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/123385/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-hybrids-engineering-technician-minneapolis"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II -C++/.NET",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
+    "job_title": "Software Engineer II - QA Automation, Java, Spring, AWS, Oracle, Postgres",
+    "job_city": "Plano",
+    "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Lead Software Engineer – External Collaboration BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the Technology and Digital Solutions division Software Engineer III Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Senior Manager of Software Engineering- Python / AWS Boston, MA, United States TechnologySoftware Engineering Seeking a Software Engineering Manager who has knowledge of Python and AWS Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Software Engineer II - DevOps Columbus, OH, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer III -ETL Bengaluru, Karnataka, India TechnologySoftware Engineering This AWS ETL Analyst role focuses on building and maintaining ETL jobs for incentive compensation using AWS services, translating requirements into solutions and resolving issues.\n• Strong analytical skills and adherence to Agile practices are essential.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210641716/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-c-net-jersey-city"
+    "job_description": "• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Lead Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Lead Software Engineer – External Collaboration BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the Technology and Digital Solutions division Software Engineer III Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Software Engineer II - DevOps Columbus, OH, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer III -ETL Bengaluru, Karnataka, India TechnologySoftware Engineering This AWS ETL Analyst role focuses on building and maintaining ETL jobs for incentive compensation using AWS services, translating requirements into solutions and resolving issues.\n• Strong analytical skills and adherence to Agile practices are essential.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675918/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-qa-automation-java-spring-aws-oracle-postgres-plano"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Software Development Engineer",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3109633/software-development-engineer",
-    "id": "amazon-software-development-engineer-arlington"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Android Text",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Android Text",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/110966157858480838-software-engineer-android-text?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-android-text-mountain-view"
   }
 ]
