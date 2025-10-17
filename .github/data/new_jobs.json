@@ -1,92 +1,192 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Process Quality Technician",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "20h",
-    "job_description": "• Minimum of 2 years of experience using personal protective equipment (PPE) and safely handling gases and chemicals in a controlled environment.\n• Partners with Operations, Facilities, Gas/Chemical Technicians, Engineers, and Leaders to resolve issues and support production needs.\n• Associate or Bachelor’s degree in a STEM related field (or equivalent trade school/military experience) Adhere to all safety protocols, contamination control guidelines, and clean room requirements.\n• Previous hands-on experience working in a laboratory or cleanroom environment.\n• Oversee the performance and reliability of contamination control systems, including cleanroom, UPW, chemical delivery, and process tool environments.\n• Execute detailed preventative maintenance on highly technical facilities equipment to improve uptime and system stability.\n• Knowledge of cleanroom principles, airflow dynamics, filtration, AMC, ESD, ionization, and analytical testing methods.\n• Intermediate level understanding of statistics and an ability to make informed decisions using statistical data.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38518356",
-    "id": "micron-technology-process-quality-technician-boise"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Python Software Engineer",
-    "job_city": "Ashburn",
-    "job_state": "VA",
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineering Intern",
+    "job_city": "shipAustin",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineering Manager, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0226146 DevOps Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220920 Chief Product Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoR0220298 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224543 Software Engineer, SeniorlocationsChantilly, VAposted onPosted YesterdayR0228250 Software Engineer, SeniorlocationsHerndon, VAposted onPosted YesterdayR0228242 Software Engineer, SeniorlocationsChantilly, VAposted onPosted TodayR0228327 Software Engineer, SeniorlocationsRome, NYposted onPosted YesterdayR0228285.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Python-Software-Engineer_R0228103?q=software+engineering",
-    "id": "bae-systems-python-software-engineer-ashburn"
+    "job_description": "software engineering job for the role Site Reliability Engineering Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66497&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineering-intern-shipaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Site Reliability Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64732&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Network Administrator",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Network Administrator 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66489&source=WEB_Search_NA",
+    "id": "ibm-entry-level-network-administrator-"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Network Administrator Intern",
+    "job_city": "shipPOUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Network Administrator Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66135&source=WEB_Search_NA",
+    "id": "ibm-network-administrator-intern-shippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Elk Grove Village (Chicago, IL Service Territory)",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role System Services Representative - Elk Grove Village (Chicago, IL Service Territory)",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66098&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-elk-grove-village-chicago-il-service-territory-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Algorithm Research",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Algorithm Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66980&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-algorithm-research-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: IBM Quantum Writing Intern",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role 2026 Intern: IBM Quantum Writing Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66588&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-quantum-writing-intern-ship"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Software Application Engineer",
+    "job_title": "Software Engineer",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
+    "job_posted_at": "1d",
+    "job_description": "• Search: \"software+engineering\" Clear All (1) Software EngineerlocationsSt Inigoes, MDposted onPosted 2 Days AgoR0222484 Software EngineerlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0223635 Software Engineerlocations3 Locationsposted onPosted 18 Days AgoR0225756 Software EngineerlocationsFort Meade, MDposted onPosted 25 Days AgoR0226678 Software EngineerlocationsAlbuquerque, NMposted onPosted 16 Days AgoR0226728 Software EngineerlocationsLexington, MAposted onPosted 10 Days AgoR0227767 Software EngineerlocationsLexington, MAposted onPosted 10 Days AgoR0227766 Software EngineerlocationsLexington, MAposted onPosted 10 Days AgoR0227768 Software EngineerlocationsRome, NYposted onPosted YesterdayR0227489 Software Engineerlocations2 Locationsposted onPosted TodayR0227905 Software EngineerlocationsRome, NYposted onPosted 8 Days AgoR0227910 Software EngineerlocationsRome, NYposted onPosted 7 Days AgoR0228061 Software EngineerlocationsBeavercreek, OHposted onPosted TodayR0228111 Software EngineerlocationsBeavercreek, OHposted onPosted TodayR0228107 Software Engineerlocations2 Locationsposted onPosted 3 Days AgoR0228143 Software EngineerlocationsLexington, MAposted onPosted 2 Days AgoR0228158 Software EngineerlocationsChantilly, VAposted onPosted YesterdayR0228251 Software EngineerlocationsColorado Springs, COposted onPosted TodayR0228258 Software EngineerlocationsChantilly, VAposted onPosted TodayR0228325 Signals Software EngineerlocationsAustraliaposted onPosted 30+ Days AgoR0204682.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Full-Stack-Developer--Mid_R0228258?q=software+engineering",
+    "id": "bae-systems-software-engineer-colorado-springs"
+  },
+  {
+    "employer_name": "Illumina",
+    "job_title": "BMS Technician 3- 1st Shift",
+    "job_city": "US - California - San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Staff Software Engineer - Instrument SoftwarelocationsUS - California - San Diegoposted onPosted 14 Days Ago41346-JOBSr Software Test EngineerlocationsUS - California - San Diegoposted onPosted 9 Days Ago41253-JOBSoftware Test Engineer 2locationsUS - California - San Diegoposted onPosted 30 Days Ago41225-JOBSAP Test Lead - S/4HANA TransformationlocationsUS - California - San Diegoposted onPosted 8 Days Ago41470-JOBSr.\n• Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)locations7 Locationsposted onPosted 29 Days Ago40197-JOBStaff Software Technical Product ManagerlocationsUS - California - San Diegoposted onPosted 30 Days Ago41229-JOBStaff Inbound Content Marketing Strategist - Global Software and InformaticslocationsUS - California - San Diegoposted onPosted 30 Days Ago41103-JOBOptical Engineer IIlocationsUS - California - San Diegoposted onPosted 16 Days Ago41361-JOBStaff IT Engineer, End User Computing & Manufacturing/Lab ITlocationsUS - California - San Diegoposted onPosted 21 Days Ago41402-JOBSenior Staff ScientistlocationsUS - California - San Diegoposted onPosted 4 Days Ago40900-JOBBMS Technician 3- 1st ShiftlocationsUS - California - San Diegoposted onPosted Today41132-JOB.",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-bms-technician-3-1st-shift-us-california-san-diego"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "GPU Compiler Engineer",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineering Manager, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0226146 DevOps Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220920 Chief Product Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoR0220298 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224543 Software Engineer, SeniorlocationsChantilly, VAposted onPosted YesterdayR0228250 Software Engineer, SeniorlocationsHerndon, VAposted onPosted YesterdayR0228242 Software Engineer, SeniorlocationsChantilly, VAposted onPosted TodayR0228327 Software Engineer, SeniorlocationsRome, NYposted onPosted YesterdayR0228285.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Software-Application-Engineer_R0228342?q=software+engineering",
-    "id": "bae-systems-software-application-engineer-2-locations"
+    "job_description": "• Software Application Development Engineerlocations2 Locationsposted onPosted YesterdayJR0277558Triton Compiler Engineerlocations3 Locationsposted onPosted YesterdayJR0277157GPU Compiler Engineerlocations2 Locationsposted onPosted TodayJR0277843Physical Verification Application Engineerlocations3 Locationsposted onPosted YesterdayJR0272754MES EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277565MES Engineerlocations3 Locationsposted onPosted YesterdayJR0277570Supply Planning Capabilities Leadlocations4 Locationsposted onPosted YesterdayJR0277614Foundry Automation Database Engineerlocations2 Locationsposted onPosted TodayJR0277561Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted TodaySpotlight JobJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted TodaySpotlight JobJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted TodaySpotlight JobJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted TodaySpotlight JobJR0277457Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted YesterdayJR0277486Technical Sales Support Engineer for Network Solutionslocations4 Locationsposted onPosted 3 Days AgoJR0277777Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted YesterdayJR0277654Middleware Development Engineerlocations2 Locationsposted onPosted YesterdayJR0277312Emulation EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0276365Network Application Delivery Infrastructure Engineerlocations2 Locationsposted onPosted YesterdayJR0277750.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/GPU-Compiler-Engineer_JR0277843?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-gpu-compiler-engineer-2-locations"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Backend Node Developer",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• University, Software DeveloperlocationsMcLean, VAposted onPosted 7 Days AgoR0228026 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 21 Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 17 Days AgoR0221867 React Software Engineer & Web ExpertlocationsAlexandria, VAposted onPosted 16 Days AgoR0227377 Full-Stack Developer, JuniorlocationsHuntsville, ALposted onPosted 7 Days AgoR0226649 Full Stack Developer, SeniorlocationsHuntsville, ALposted onPosted 2 Days AgoR0228189 Software Development Team LeadlocationsMcLean, VAposted onPosted 15 Days AgoR0226938 Full Stack Developer, Seniorlocations2 Locationsposted onPosted TodayR0228367 Back-End Developer, Seniorlocations2 Locationsposted onPosted TodayR0228364.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Backend-Node-Developer_R0228357?q=software+engineering",
-    "id": "bae-systems-backend-node-developer-fort-belvoir"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "SOC Design Engineer",
+    "employer_name": "Intel",
+    "job_title": "Foundry Automation Database Engineer",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Director of Design VerificationlocationsSanta Clara, CAposted onPosted 8 Days Ago2502952SoC Design LeadlocationsSanta Clara, CAposted onPosted 14 Days Ago2502987Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 14 Days Ago2502955Sr Director, BU Planning – S&OP and S&OElocationsSanta Clara, CAposted onPosted 28 Days Ago2502856Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30 Days Ago2501691Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted 30 Days Ago2500457SOC Design Engineerlocations2 Locationsposted onPosted Today2502188Senior Director, HR Business PartnerlocationsSanta Clara, CAposted onPosted Today2503029Hardware Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502440Software Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502439Hardware Design Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502390Senior Director - Silicon Engineering Program Management (Cloud Data Center)locations3 Locationsposted onPosted 2 Days Ago2502862Principal Analog Mixed-Signal IC Design EngineerlocationsIrvine, CAposted onPosted 2 Days Ago2502838SERDES Validation DirectorlocationsSanta Clara, CAposted onPosted 2 Days Ago2502830Senior Staff Engineer - SerDes Digital DesignlocationsUS - NY - Hudson Valleyposted onPosted 2 Days Ago2502611Advanced Packaging SI/PI Senior Engineerlocations2 Locationsposted onPosted 2 Days Ago2503127Director – Corporate Program Management Office (PMO)locations3 Locationsposted onPosted 2 Days Ago2503103Advanced Packaging Thermal EngineerlocationsAustin, TXposted onPosted 2 Days Ago2500931Senior Principal Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 3 Days Ago2500444Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2501552.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/SOC-Design-Engineer_2502188?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-soc-design-engineer-2-locations"
+    "job_description": "• Software Application Development Engineerlocations2 Locationsposted onPosted YesterdayJR0277558Triton Compiler Engineerlocations3 Locationsposted onPosted YesterdayJR0277157GPU Compiler Engineerlocations2 Locationsposted onPosted TodayJR0277843Physical Verification Application Engineerlocations3 Locationsposted onPosted YesterdayJR0272754MES EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277565MES Engineerlocations3 Locationsposted onPosted YesterdayJR0277570Supply Planning Capabilities Leadlocations4 Locationsposted onPosted YesterdayJR0277614Foundry Automation Database Engineerlocations2 Locationsposted onPosted TodayJR0277561Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted TodaySpotlight JobJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted TodaySpotlight JobJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted TodaySpotlight JobJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted TodaySpotlight JobJR0277457Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted YesterdayJR0277486Technical Sales Support Engineer for Network Solutionslocations4 Locationsposted onPosted 3 Days AgoJR0277777Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted YesterdayJR0277654Middleware Development Engineerlocations2 Locationsposted onPosted YesterdayJR0277312Emulation EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0276365Network Application Delivery Infrastructure Engineerlocations2 Locationsposted onPosted YesterdayJR0277750.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-Automation-Database-Engineer_JR0277561?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-foundry-automation-database-engineer-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Compiler Engineer, LLVM- New College Grad",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineer, Planning and Controls - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted TodayJR2005839Senior Technical Program Manager - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted TodayJR2006010Senior Manager, Software Engineering - Neural GraphicslocationsUS, CA, Santa Claraposted onPosted TodayJR2003821Senior Deep Learning Algorithm EngineerlocationsUS, CA, Santa Claraposted onPosted TodayJR2001415Manager, GPU Compiler Engineeringlocations4 Locationsposted onPosted TodayJR2006401Senior Developer Relations Manager - COSMOS and Foundation ModelslocationsUS, NC, Remoteposted onPosted TodayJR2005694Solutions Architect, AI Modelslocations2 Locationsposted onPosted TodayJR2002944Senior Software Engineer - Bare Metal Provisioninglocations4 Locationsposted onPosted TodayJR2001439Developer Relations Manager, CAE Higher Education and Researchlocations6 Locationsposted onPosted TodayJR1999898Developer Relations Manager, Industrial Engineering GSIlocations2 Locationsposted onPosted TodayJR2002434Solutions Architect, AI and MLlocations3 Locationsposted onPosted TodayJR2005988Compiler Engineer, LLVM- New College Grad 2025locations3 Locationsposted onPosted YesterdayJR2005960Senior Data Visualization Engineer – AI Systems Performancelocations3 Locationsposted onPosted YesterdayJR2006314Software Engineer, NVLINKlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2006107Senior Product Manager, Multimodal Datalocations6 Locationsposted onPosted YesterdayJR2005102Senior Software Engineer, SONiClocationsUS, WA, Redmondposted onPosted YesterdayJR2006098Senior Deep Learning Software Engineer, Inference and Model Optimizationlocations2 Locationsposted onPosted YesterdayJR2006284Senior Full-Stack Software Engineer - VLSI Toolslocations4 Locationsposted onPosted YesterdayJR1999535System Software Engineer, GPU Development ToolslocationsUS, CA, Santa Claraposted onPosted YesterdayJR1997319Firmware EngineerlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2006050.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM--New-College-Grad-2025_JR2005960?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-compiler-engineer-llvm-new-college-grad-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Firmware Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineer, Planning and Controls - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted TodayJR2005839Senior Technical Program Manager - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted TodayJR2006010Senior Manager, Software Engineering - Neural GraphicslocationsUS, CA, Santa Claraposted onPosted TodayJR2003821Senior Deep Learning Algorithm EngineerlocationsUS, CA, Santa Claraposted onPosted TodayJR2001415Manager, GPU Compiler Engineeringlocations4 Locationsposted onPosted TodayJR2006401Senior Developer Relations Manager - COSMOS and Foundation ModelslocationsUS, NC, Remoteposted onPosted TodayJR2005694Solutions Architect, AI Modelslocations2 Locationsposted onPosted TodayJR2002944Senior Software Engineer - Bare Metal Provisioninglocations4 Locationsposted onPosted TodayJR2001439Developer Relations Manager, CAE Higher Education and Researchlocations6 Locationsposted onPosted TodayJR1999898Developer Relations Manager, Industrial Engineering GSIlocations2 Locationsposted onPosted TodayJR2002434Solutions Architect, AI and MLlocations3 Locationsposted onPosted TodayJR2005988Compiler Engineer, LLVM- New College Grad 2025locations3 Locationsposted onPosted YesterdayJR2005960Senior Data Visualization Engineer – AI Systems Performancelocations3 Locationsposted onPosted YesterdayJR2006314Software Engineer, NVLINKlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2006107Senior Product Manager, Multimodal Datalocations6 Locationsposted onPosted YesterdayJR2005102Senior Software Engineer, SONiClocationsUS, WA, Redmondposted onPosted YesterdayJR2006098Senior Deep Learning Software Engineer, Inference and Model Optimizationlocations2 Locationsposted onPosted YesterdayJR2006284Senior Full-Stack Software Engineer - VLSI Toolslocations4 Locationsposted onPosted YesterdayJR1999535System Software Engineer, GPU Development ToolslocationsUS, CA, Santa Claraposted onPosted YesterdayJR1997319Firmware EngineerlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2006050.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Engineer_JR2006050?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-firmware-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Data Analyst, Finance",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4d",
+    "job_description": "• Principal Software Engineer L3, Planning and Controls - Autonomous Vehicleslocations2 Locationsposted onPosted 4 Days AgoJR2006109Senior Solutions Architect, Autonomous Vehicles - Data CenterlocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR1995134Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicleslocations6 Locationsposted onPosted 4 Days AgoJR1994974Data Analyst, FinancelocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR1996671Senior ASIC Verification Engineerlocations2 Locationsposted onPosted 4 Days AgoJR2005437Senior Software Manager, NetworkinglocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2005622Software Manager - Router Testing PythonlocationsUS, WA, Redmondposted onPosted 4 Days AgoJR2005567Senior Firmware Engineer – GPU NetworkinglocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2005933Senior SONiC Python EngineerlocationsUS, WA, Redmondposted onPosted 4 Days AgoJR2005568Senior Software Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2005652Senior System Software Engineer, AI Solutions EngineeringlocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR1999178Senior Server Firmware Bringup EngineerlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2001012Distinguished Software Engineer - NVLink Fusion Softwarelocations6 Locationsposted onPosted 5 Days AgoJR2000295Senior HPC Performance EngineerlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR1997214Senior Linux Kernel Systems Software Engineer – CSP Engagementslocations4 Locationsposted onPosted 5 Days AgoJR1999600Senior Storage Production Engineer - DGX Cloudlocations2 Locationsposted onPosted 5 Days AgoJR2001696Senior System Software Engineer - DevSecOps locationsUS, CO, Remoteposted onPosted 5 Days AgoJR2004967Site Reliability Engineer - Air Platform TeamlocationsUS, NC, Durhamposted onPosted 5 Days AgoJR2005919Senior NPI Technical Program Manager - OperationslocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2004843Senior BuyerlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2005628.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analyst--Finance_JR1996671?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-data-analyst-finance-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Site Reliability Engineer - Air Platform Team",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "5d",
+    "job_description": "• Principal Software Engineer L3, Planning and Controls - Autonomous Vehicleslocations2 Locationsposted onPosted 4 Days AgoJR2006109Senior Solutions Architect, Autonomous Vehicles - Data CenterlocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR1995134Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicleslocations6 Locationsposted onPosted 4 Days AgoJR1994974Data Analyst, FinancelocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR1996671Senior ASIC Verification Engineerlocations2 Locationsposted onPosted 4 Days AgoJR2005437Senior Software Manager, NetworkinglocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2005622Software Manager - Router Testing PythonlocationsUS, WA, Redmondposted onPosted 4 Days AgoJR2005567Senior Firmware Engineer – GPU NetworkinglocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2005933Senior SONiC Python EngineerlocationsUS, WA, Redmondposted onPosted 4 Days AgoJR2005568Senior Software Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2005652Senior System Software Engineer, AI Solutions EngineeringlocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR1999178Senior Server Firmware Bringup EngineerlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2001012Distinguished Software Engineer - NVLink Fusion Softwarelocations6 Locationsposted onPosted 5 Days AgoJR2000295Senior HPC Performance EngineerlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR1997214Senior Linux Kernel Systems Software Engineer – CSP Engagementslocations4 Locationsposted onPosted 5 Days AgoJR1999600Senior Storage Production Engineer - DGX Cloudlocations2 Locationsposted onPosted 5 Days AgoJR2001696Senior System Software Engineer - DevSecOps locationsUS, CO, Remoteposted onPosted 5 Days AgoJR2004967Site Reliability Engineer - Air Platform TeamlocationsUS, NC, Durhamposted onPosted 5 Days AgoJR2005919Senior NPI Technical Program Manager - OperationslocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2004843Senior BuyerlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2005628.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Site-Reliability-Engineer---Air-Platform-Team_JR2005919?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-site-reliability-engineer-air-platform-team-us"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Cloud Software Test Engineer",
+    "job_title": "Software Engineer, Creativity Apps",
     "job_city": "Seattle",
     "job_state": "US",
-    "job_posted_at": "3w",
-    "job_description": "• Minimum Qualifications3+ years of software automation & validation experience3+ years of experience working on cloud technologies including Kubernetes, Virtualization, and cloud computeHave experience in designing, architecting, and developing cloud services and cloud infrastructure for compute is a plusExperience with testing and using REST APIs and DevOps toolsUnderstanding of large scale distributed systems architecture and applications is a big plusExperience in testing Cloud Platform that is developed on top of either private or public Cloud InfrastructureGood coding experience in C/C++/Go/Swift or a any c type languageStrong development/programming experience in Python/Ansible/KubernetesCreative, collaborative, and product-focusedExcellent communication skillsB.\n• , in Computer Engineering, Electrical Engineering, Computer Science, or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200622698-3337/cloud-software-test-engineer?team=SFTWR",
-    "id": "apple-cloud-software-test-engineer-seattle"
+    "job_posted_at": "1w",
+    "job_description": "• Minimum Qualifications2+ years of proven experience developing and shipping reliable, scalable, maintainable, and testable code.\n• 2+ years of experience with Apple platforms including iOS and macOS.\n• Industry experience with the latest Swift technologies.\n• Strong communication, collaboration, and project management skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent industry experience.\n• Solid grasp of computer science fundamentals and object-oriented design.\n• Ability to write performant, scalable, maintainable, and correct multi-threaded code.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625233-3337/software-engineer-creativity-apps?team=SFTWR",
+    "id": "apple-software-engineer-creativity-apps-seattle"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II - Data Technology",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_posted_at": "1d",
-    "job_description": "• Experience and certifications preferred.\n• Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Manager of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical Tech solutions and strategy across multiple technical areas as an integral part of an agile team Lead Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer - Java - AWS Plano, TX, United States TechnologySoftware Engineering Lead software engineering efforts using Java MicroService and AWS to create innovative solutions.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Manager of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Java Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Serve as an emerging member of an agile team to enhance, build and deliver technology products with our dynamic, innovative team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Software Engineer III -ETL Bengaluru, Karnataka, India TechnologySoftware Engineering This AWS ETL Analyst role focuses on building and maintaining ETL jobs for incentive compensation using AWS services, translating requirements into solutions and resolving issues.\n• Strong analytical skills and adherence to Agile practices are essential.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675561/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-data-technology-columbus"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Storage",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Storage",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131434580421812934-software-engineer-iii-infrastructure-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-storage-raleigh"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - React JS, JavaScript",
-    "job_city": "",
-    "job_state": "OH",
-    "job_posted_at": "1d",
-    "job_description": "• Experience and certifications preferred.\n• Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Manager of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical Tech solutions and strategy across multiple technical areas as an integral part of an agile team Lead Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer - Java - AWS Plano, TX, United States TechnologySoftware Engineering Lead software engineering efforts using Java MicroService and AWS to create innovative solutions.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Manager of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Java Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Serve as an emerging member of an agile team to enhance, build and deliver technology products with our dynamic, innovative team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Software Engineer III -ETL Bengaluru, Karnataka, India TechnologySoftware Engineering This AWS ETL Analyst role focuses on building and maintaining ETL jobs for incentive compensation using AWS services, translating requirements into solutions and resolving issues.\n• Strong analytical skills and adherence to Agile practices are essential.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664347/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-react-js-javascript-"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Cloud Storage",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Storage",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111394331738153670-software-engineer-iii-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-iii-google-cloud-storage-kirkland"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Ring",
-    "job_city": "North Reading",
-    "job_state": "MA",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Software Development Engineer, Ring",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3111712/software-development-engineer-ring",
-    "id": "amazon-software-development-engineer-ring-north-reading"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Google Cloud Data Management",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Google Cloud Data Management",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137970884991165126-software-engineer-iii-aiml-google-cloud-data-management?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ai-ml-google-cloud-data-management-kirkland"
   }
 ]
