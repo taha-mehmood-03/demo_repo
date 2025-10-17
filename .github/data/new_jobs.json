@@ -1,32 +1,212 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "ML Frameworks Software Development Engineer - vLLM",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Ability to work independently, define project goals and scope, and lead your own development effortDeep Learning experience or knowledge - Natural Language Processing, Vision, Audio, Recommendation systemsProgramming in High-Performance Domain-Specific Languages for GPU or ML ASIC Computing (HIP, CUDA, OpenCL, Triton, KNYFE, Mojo)Using debuggers (LLDB, GDB) and profilers on heterogeneous hardwarePyTorch or TensorFlowFamiliarity with ML Graph Compilers (Glow, FX, XLA) is a plusKnowledge of the lower levels of typical ML workflows from MLIR to LLVM all the way down to assembly language(s) is a plus Develop and finetune inference and serving engines for large language modelsCollaborate with AMD’s architecture specialists to improve future productsCollaborate with operator libraries team to analyze and optimize training and inference for deep learningWork in a distributed computing setting to optimize for both scale-up (multi-accelerator) and scale-out (multi-node) systemsOptimize the entire deep learning pipeline including graph compiler integrationParticipate in new ASIC and hardware bring upsApply your knowledge of software engineering best practices Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Master’s or PhD in Computer Science, Computer Engineering or related fields Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70926/login",
-    "id": "amd-ml-frameworks-software-development-engineer-vllm-us"
+    "employer_name": "Micron Technology",
+    "job_title": "Fab Equipment Maintenance Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "3w",
+    "job_description": "• Education in industry related associate degree.\n• Working towards a STEM related degree.\n• Equivalent military training and experience.\n• Or equivalent work experience Experience with semiconductor manufacturing processes.\n• Familiarity with statistical process control (SPC) and other quality control methodologies Bachelor’s degree or equivalent experience in Engineering, Materials Science, or related field Strong analytical and problem-solving skills.\n• Excellent communication and teamwork abilities Ability to work 12-hour shifts (3 on/4 off and 4 on/3 off) including night shift Certification in equipment maintenance or relevant technical areas Less than 2 years Intern – Fab Equipment Maintenance TechnicianManassas, Virginia, United States of AmericaPosted a month ago.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-fab-equipment-maintenance-technician-manassas"
   },
   {
     "employer_name": "Apple",
     "job_title": "Software Development Engineer",
-    "job_city": "Austin",
+    "job_city": "San Diego",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsMaster's degree or foreign equivalent in Computer Science, Electrical Engineering, Electronics Engineering, or a related field and 2 years of experience in the job offered or related occupation.\n• Experience and/or education must include:Utilizing C, C++ and Python to work on multi-language codebases.\n• Experience in HW and SW interaction using C and C++.\n• Developing device drivers (or embedded systems software) for ARM processors.\n• Utilizing Jenkins for continuous integration testing of software.\n• Automating the execution of software testing workflows on macOS or Linux.\n• Debugging complex failures using tools including GDB, LLDB, Xcode, or Visual Studio.\n• Using software versioning, and performing releases using Git.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200625564-0157/software-development-engineer?team=HRDWR",
-    "id": "apple-software-development-engineer-austin"
+    "job_description": "• Minimum QualificationsBachelor's degree or foreign equivalent in Computer Engineering, Computer Science and Technology, or a related field and 6 months of experience in the job offered or related occupation.\n• Experience and/or education must include:Modern web technologies including HTML5, CSS, and TypeScript to design, debug, and implement featuresSingle Page Web Application Development in Typescript/ES6 using frameworks such as including React.\n• Integrating with web services using JSON, XML and AJAX.\n• Developing secure web applications and knowledge of application vulnerabilities including Cross Site Scripting (XSS) or Cross Site Request Forgery (CSRF)Writing robust and comprehensive unit tests, ensuring the quality and reliability of the applicationsUtilize logging and statistics tooling to provide insightful performance dashboards and create queries to identify and resolve site reliability issues.\n• Maintaining legacy codebases, and provide relevant updates for performance upgradesUsing Swift to work on integrating iCloud features to native applicationsMaintaining legacy code and integrate with new features that are developed on modern frameworksContribute and maintain code repositories through efficient version control practices including branching and merging, repository management, conflict resolution, collaborating and provide code review to peers.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625623-3543/software-development-engineer?team=SFTWR",
+    "id": "apple-software-development-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer",
+    "job_city": "Beaverton",
+    "job_state": "US",
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsA minimum of 7 years of industry experience in software developmentProficiency in a modern programming language like Swift, Objective-C, C++, Python.\n• With a proven track record of delivering high-quality softwareAt least 2 years experience of using AI/LLMs for generation of production code.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200626766-0505/software-development-engineer?team=SFTWR",
+    "id": "apple-software-development-engineer-beaverton"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Applied ML",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "4d",
+    "job_description": "• Minimum QualificationsBS or MS in Computer Science or related field.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625868-3543/software-engineer-applied-ml?team=SFTWR",
+    "id": "apple-software-engineer-applied-ml-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Cellular Embedded Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum QualificationsStrong coding skill in C or C++Algorithm, Data Structures, Embedded System KnowledgeBachelor or Graduate degree in Electrical Engineering, Computer Engineering, Computer Science or equivalent degree.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625899-3543/cellular-embedded-software-engineer?team=SFTWR",
+    "id": "apple-cellular-embedded-software-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Content Software Engineer, Apps",
+    "job_city": "Pittsburgh",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsProficiency with Swift or Objective-CProficiency in Python or another scripting languageSkilled with object-oriented designExperience with Metal, CoreGraphics, or other 2D graphics environmentsDemonstrated experience planning and delivering software projects with and for cross-functional teamsAbility to communicate clearly—both verbally and in writing—and build trust across business linesBachelor’s degree in Computer Science or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200626421-2926/content-software-engineer-apps?team=SFTWR",
+    "id": "apple-content-software-engineer-apps-pittsburgh"
   },
   {
     "employer_name": "Apple",
     "job_title": "Software QA Engineer",
-    "job_city": "Culver City",
+    "job_city": "Cupertino",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science or 3 years manual QA experienceExperience with audio recording technology and principlesExperience with Apple hardware running iOS, macOS and watchOSThorough understanding of the application development life-cycleStrong analytical, problem solving and creative thinking skillsAn enthusiasm for user-focused design and high-quality productsAdaptable and comfortable in a dynamic environment.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200626174-0670/software-qa-engineer?team=SFTWR",
-    "id": "apple-software-qa-engineer-culver-city"
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200626174-0836/software-qa-engineer?team=SFTWR",
+    "id": "apple-software-qa-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Creativity Apps",
+    "job_city": "Culver City",
+    "job_state": "US",
+    "job_posted_at": "6d",
+    "job_description": "• Minimum Qualifications2+ years of proven experience developing and shipping reliable, scalable, maintainable, and testable code.\n• 2+ years of experience with Apple platforms including iOS and macOS.\n• Industry experience with the latest Swift technologies.\n• Strong communication, collaboration, and project management skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent industry experience.\n• Solid grasp of computer science fundamentals and object-oriented design.\n• Ability to write performant, scalable, maintainable, and correct multi-threaded code.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625233-0670/software-engineer-creativity-apps?team=SFTWR",
+    "id": "apple-software-engineer-creativity-apps-culver-city"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer, AiDP",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum Qualifications3+ years of industry experience1+ of Java development experienceExperience with both front-end and back-end frameworks, including a with a modern JavaScript frameworkDemonstrated experience in designing, developing, and deploying scalable applications and APIsExperience with version control systems (e.\n• )BS in Computer Science or related fields or experience.\n• , Git) and build tools (e.\n• , Maven, Gradle)Fundamentals of system design, microservices architecture, and API developmentFamiliarity with relational databases (e.\n• , PostgreSQL, Oracle)Familiarity with cloud platforms (e.\n• , AWS, GCP, Azure) and containerization (Docker, Kubernetes, etc.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624757-0240/software-development-engineer-aidp?team=CORSV",
+    "id": "apple-software-development-engineer-aidp-"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Creativity Apps",
+    "job_city": "Pittsburgh",
+    "job_state": "US",
+    "job_posted_at": "6d",
+    "job_description": "• Minimum Qualifications2+ years of proven experience developing and shipping reliable, scalable, maintainable, and testable code.\n• 2+ years of experience with Apple platforms including iOS and macOS.\n• Industry experience with the latest Swift technologies.\n• Strong communication, collaboration, and project management skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent industry experience.\n• Solid grasp of computer science fundamentals and object-oriented design.\n• Ability to write performant, scalable, maintainable, and correct multi-threaded code.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625233-2926/software-engineer-creativity-apps?team=SFTWR",
+    "id": "apple-software-engineer-creativity-apps-pittsburgh"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Product Security Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsBS/MS in Computer Science, Engineering, Cybersecurity or related technical field, or equivalent industry experienceStrong proficiency in one or more programming languages (Python, Swift, or C/C++) for building robust security automation systemsFamiliarity with common AI capabilities, such as function calling, and their application to security use casesExperience with production deployment using containerization, CI/CD pipelines, and monitoring toolsProven ability to analyze and investigate security issues through systematic approaches and toolingUnderstanding of security principles including vulnerability classes, exploit techniques, and common attack vectorsExcellent communication skills for collaborating across diverse technical teams and stakeholders.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200626353-0836/product-security-software-engineer?team=SFTWR",
+    "id": "apple-product-security-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software QA Automation Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum QualificationsB.\n• In Computer Science, Computer Engineering, or equivalent experienceAutomation experience with high-level knowledge of modern scripting or compiled languages such as Python, Java, or SwiftCapacity to define/design/develop/maintain test automation frameworks plus experience with Continuous Integration tools (e.\n• Jenkins)Expertise with Software Version Control systems like Git (GitHub/Gitlab)Experience with API testing and familiarity with server architectureProficiency with XcodeKnowledge of the software development lifecycle and SQA methodologiesCapability to investigate problems, prioritize accordingly, and propose a resolutionDemonstrated ability to present technical concepts to diverse audiences.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625970-0836/software-qa-automation-engineer?team=SFTWR",
+    "id": "apple-software-qa-automation-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Creativity Apps",
+    "job_city": "Cary",
+    "job_state": "US",
+    "job_posted_at": "6d",
+    "job_description": "• Minimum Qualifications2+ years of proven experience developing and shipping reliable, scalable, maintainable, and testable code.\n• 2+ years of experience with Apple platforms including iOS and macOS.\n• Industry experience with the latest Swift technologies.\n• Strong communication, collaboration, and project management skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent industry experience.\n• Solid grasp of computer science fundamentals and object-oriented design.\n• Ability to write performant, scalable, maintainable, and correct multi-threaded code.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625233-1435/software-engineer-creativity-apps?team=SFTWR",
+    "id": "apple-software-engineer-creativity-apps-cary"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "iOS Telephony Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsBachelors/Master degree in Computer Science, Electrical Engineering, Wireless Communications or equivalent majors.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625931-0836/ios-telephony-software-engineer?team=SFTWR",
+    "id": "apple-ios-telephony-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Applications",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsMaster’s degree or foreign equivalent in Computer Science, Computer Engineering, or a related field and 3 years of experience in the job offered or related occupation.\n• 2 years of experience with each of the following skills is required:Using Java, JavaScript, CoffeeScript, React.\n• Using SQL databases to design, develop, and test software applications with complex data persistence requirements while applying computer science fundamentals in algorithms.\n• Js, and SQL to build data visualization features for web applications to implement reporting functionality.\n• Implementing distributed caching solutions in Java to optimize API response times and improve system performance in large-scale applications.\n• Js, and JavaScript to support core application functionality in cloud-based analytics platforms to develop and maintain RESTful APIs.\n• Using Splunk to monitor application logs to detect and diagnose errors, performance bottlenecks, and other anomalies, enabling rapid issue resolution and improved application reliability.\n• Building fault-tolerant, scalable APIs with Java to enhance resilience and concurrence of distributed software systems.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625844-3543/software-engineer-applications?team=SFTWR",
+    "id": "apple-software-engineer-applications-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "iOS Software Engineer, Health Research",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "4d",
+    "job_description": "• Minimum Qualifications3+ years of experience with Swift and/or Objective-C codingKnowledge of Apple platforms and frameworksRecord of producing testable, high quality softwareBS Computer Science or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625064-3543/ios-software-engineer-health-research?team=SFTWR",
+    "id": "apple-ios-software-engineer-health-research-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer - Applications",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsBachelor's degree or foreign equivalent in Computer Science, Computer Engineering, or a related field and 5 years of progressive, post-baccalaureate experience in the job offered or related occupation.\n• 3 years of experience with each of the following skills is required:Utilizing Java to create enterprise-grade backend solutions, build APIs, manage server-side logic, and ensure compatibility across distributed systems.\n• Using Kafka for building systems that require high-throughput, low-latency, and reliable event streaming to ensure efficient communication between microservices, enabling fault-tolerant, distributed data pipelines.\n• Utilizing Javascript to create real-time, user-centric web applications to develop interactive features such as dynamic forms, real-time updates, and seamless transitions.\n• Utilizing React for building modular, maintainable, and reusable UI components to simplify the development of complex interfaces by providing tools for state management and virtual DOM manipulation, ensuring efficient rendering of dynamic content.\n• Using HTML for web development and structuring web content including Semantic HTML to ensure accessibility compliance and facilitates search engine optimization used for user engagement and discoverability.\n• Using Couchbase to handle large volumes of unstructured data and delivering low-latency responses and ensuing scalability and high availability, critical for real-time applications.\n• Applying Cybersecurity to protect systems, networks, and programs from digital attacks by using software development for creation of complex, interconnected systems.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625626-0836/software-development-engineer-applications?team=SFTWR",
+    "id": "apple-software-development-engineer-applications-cupertino"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer II - Full Stack Mac DevOps",
+    "job_city": "",
+    "job_state": "OH",
+    "job_posted_at": "1d",
+    "job_description": "• Experience and certifications preferred.\n• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Principal Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Lead Software Engineer - Java - AWS Plano, TX, United States TechnologySoftware Engineering Lead software engineering efforts using Java MicroService and AWS to create innovative solutions.\n• Software Engineer II - Java, React, Kafka Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer with Java Full Stack serve as an emerging member of an agile team to design and deliver market-leading technology Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Software Engineering Lead - Java Backend Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Software Engineering Lead Manager of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Software Engineer III -ETL Bengaluru, Karnataka, India TechnologySoftware Engineering This AWS ETL Analyst role focuses on building and maintaining ETL jobs for incentive compensation using AWS services, translating requirements into solutions and resolving issues.\n• Strong analytical skills and adherence to Agile practices are essential.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210670521/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-full-stack-mac-devops-"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - AI Automation Test Engineer",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Experience and certifications preferred.\n• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Principal Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Lead Software Engineer - Java - AWS Plano, TX, United States TechnologySoftware Engineering Lead software engineering efforts using Java MicroService and AWS to create innovative solutions.\n• Software Engineer II - Java, React, Kafka Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer with Java Full Stack serve as an emerging member of an agile team to design and deliver market-leading technology Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Software Engineering Lead - Java Backend Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Software Engineering Lead Manager of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Software Engineer III -ETL Bengaluru, Karnataka, India TechnologySoftware Engineering This AWS ETL Analyst role focuses on building and maintaining ETL jobs for incentive compensation using AWS services, translating requirements into solutions and resolving issues.\n• Strong analytical skills and adherence to Agile practices are essential.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210676939/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-ai-automation-test-engineer-plano"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Foundational AI Applications",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_posted_at": "2d",
+    "job_description": "software engineering job for the role Software Development Engineer, Foundational AI Applications",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3109355/software-development-engineer-foundational-ai-applications",
+    "id": "amazon-software-development-engineer-foundational-ai-applications-arlington"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, EFS File Systems",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_posted_at": "2d",
+    "job_description": "software engineering job for the role Software Development Engineer, EFS File Systems",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3108910/software-development-engineer-efs-file-systems",
+    "id": "amazon-software-development-engineer-efs-file-systems-boston"
   }
 ]
