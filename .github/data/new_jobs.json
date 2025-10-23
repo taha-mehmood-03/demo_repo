@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Business Development Representative - East",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 1-2 years experience in business development, sales or related field experience Ability to work in a fast paced environment.\n• You think out-of-the-box and wow people with your interesting angles and quality workExperience researching, account planning, prospecting, and cold calling into a large list of accounts that are a hybrid of net-new and existing installProven track record of achieving sales metrics and consistent achievement of year-over-year quota attainment University Overview Interns New Grads Advanced Degrees Associate Program Manager Generate new business pipeline primarily through prospecting outbound opportunitiesManage inbound leads that are driven by outbound effortNurture early-stage opportunitiesGain interest through outbound cold calling across a set of existing Salesforce customers and breaking into net new logos in assigned territoryPartner with core seller to identify and source net new pipeline and assist by researching lines of business and personasAlign with internal account teamIdentify key decision makers within new accounts.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309424/business-development-representative-east/",
-    "id": "salesforce-business-development-representative-east-georgia-atlanta"
+    "employer_name": "Arm",
+    "job_title": "Lab Technician",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/lab-technician/33099/87348085200",
+    "id": "arm-lab-technician-austin"
   },
   {
-    "employer_name": "Dell",
-    "job_title": "Undergraduate Intern",
-    "job_city": "Hopkinton",
-    "job_state": "Massachusetts",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Systems Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 16 Days AgoR276110Wireless Engineering Technologistremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 9 Days AgoR277441Life Cycle Assessment Principal Engineerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 16 Days AgoR277559Battery Technologistremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 15 Days AgoR278808Technical Staff-Network Architect remote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 3 Days AgoR271883Electrical and Computer Engineerremote typeOnsitelocations2 Locationsposted onPosted 8 Days AgoR268810Principal Systems Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 2 Days AgoR272350Client Sales Engineer - Northeast USremote typeFieldlocations2 Locationsposted onPosted 2 Days AgoR266458Electrical Engineer for Data Center Hardwareremote typeOnsitelocations2 Locationsposted onPosted 8 Days AgoR268809Senior Principal Electrical Engineer - Work Leadremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 24 Days AgoR276251Validation Hardware Architectremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 14 Days AgoR274983Cybersecurity Engineering & Operations Consultant- Round Rock, TXremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 28 Days AgoR275824Undergraduate Internremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted YesterdayR273064Technical Staff AI Architect - Agentic AI GenAIremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 16 Days AgoR274673Solutions Architect - Direct Liquid Coolingremote typeFieldlocationsAustin, Texas, United Statesposted onPosted 2 Days AgoR279357Senior Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274793Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 24 Days AgoR274794Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 24 Days AgoR274405Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 24 Days AgoR274411Program Manager supporting F-35 Joint Program Officeremote typeFieldlocations2 Locationsposted onPosted 6 Days AgoR274330.",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Hopkinton-Massachusetts-United-States/Undergraduate-Intern_R273064-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-undergraduate-intern-hopkinton"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Google Distributed Cloud Air-Gapped",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Google Distributed Cloud Air-Gapped",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75455514686694086-software-engineer-google-distributed-cloud-airgapped?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-google-distributed-cloud-air-gapped-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Google Cloud Platforms",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111930608938033862-software-engineer-iii-full-stack-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-iii-full-stack-google-cloud-platforms-austin"
   }
 ]
