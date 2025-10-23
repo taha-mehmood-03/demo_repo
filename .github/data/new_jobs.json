@@ -1,72 +1,132 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Machine Learning Platform Engineer",
-    "job_city": "New York - New York",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Security & Compliance: Participate in security reviews and ensure all platform components adhere to security best practices and compliance requirements.\n• Proven experience as a Platform Engineer, Software Engineer, or ML Infrastructure Engineer.\n• Strong software engineering skills, particularly with Python, for building scalable tools, automation scripts, and platform components.\n• Extensive experience with CI/CD tools, especially GitHub Actions and ArgoCDProficiency in infrastructure-as-code principles and tools (e.\n• Experience with containerization technologies (Docker) and orchestration (Kubernetes).\n• , Istio)Experience with MLOps concepts and tools.\n• Experience with monitoring and alerting systems (Grafana, PagerDuty).\n• Experience with tenant and project onboarding processes in a multi-tenant environment.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313747/machine-learning-platform-engineer/",
-    "id": "salesforce-machine-learning-platform-engineer-new-york-new-york"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Data Engineer, Finance Data Office (Internal Only)",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• 7+ yrs of hands-on experience in Operations, Finance, and Data Management in analytics, reporting, data analysis and aggregation4+ yrs experience in advanced SQL authoring, editing and optimization with tools like Snowflake, SQL Developer, MySQL, dbt/dbtCloudMaking API calls to integrated systems, such as: Salesforce, Coupa, Workday, Concur, Hyperion, Slack, etc2+ yrs Data Science relevant work experience: Machine Learning, Natural Language Processing, Predictive models, and Time SeriesHands-on large company experience in managing data integrations and data pipelines across an entire business unitComfortable building end-to-end processes from scratch, in an undefined environmentAbility to “connect the dots” between business process, business outcomes, transformation, and dataCreative problem-solver who can adapt themselves and enjoys working in an ever-changing environmentUnderstanding the importance of data governance and managing data sets in a tool like AlationPassion and love for data/new technology, proactively bringing new ideas and technologies forwardEffectively communicate to business partners in unambiguous, non-technical termsCertifications: SnowPro Advanced (Architect/Data Engineer).\n• Develop and refine data curations to eliminate manual workCollect and translate business requests into documented requirements and scalable data modelsCollaborate with multiple stakeholders and personas to define KPIs, align on approaches, and audit data results ensuring we provide holistic completeness and accuracyOur organization is embedded within Finance, as such we are expected to broadly understand the processes, goals, and strategies to help operators overcome data limitations, get to insight faster, provide time savings, and other forms of ROI 5+ yrs of hands-on experience in Operations, Finance, and Data Management in analytics, reporting, data analysis and aggregationAdvanced in SQL authoring, editing and optimization (test will be administered)API calls knowledge with Python, VM, Airflow, Alteryx, and experience transforming data with dbtKnowledgeable of Data Science and statistical techniquesHands-on large company experience in managing data integrations and data pipelinesHands-on large company experience in building new processes in an undefined environmentAbility to connect the data between business processesCreative in approaches to problem solvingKnowledge and understanding of data governancePassion and love for data/new technology is a must, as well as understanding industry trendsExcellent verbal and written communication skillsCertifications: SnowPro Specialty (Snowpark).\n• Python for ETL/ELT Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Dbt Analytics Engineering.\n• Python for ETL/ELT Landing and wrangling large data sets using Salesforce, SQL/Snowflake, and Python to identify, quantify and monitor financial and/or operational risks in financial and companywide processesManaging and building complex multi-source data sets while ensuring refresh accuracy and timelinessMigrating and rebuilding data infrastructure from an evolving tool landscapeConduct end to end testing, auditing ELT pipelines/data curations to improve the runtime, accuracy, efficiency, and cost.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr314593/data-engineer-finance-data-office-internal-only/",
-    "id": "salesforce-data-engineer-finance-data-office-internal-only-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Foundry Services Customer Experience Engineer",
-    "job_city": "5 Locations",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Robotics Engineer",
+    "job_city": "Wharton",
+    "job_state": "NJ",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 30+ Days AgoJR0276773System Software Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0277569Foundry Automation Software Application EngineerlocationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0277560Foundry Automation Software Application Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0277559Cloud Software Development Engineer (Intel Contract Employee)locations5 Locationsposted onPosted 8 Days AgoJR0277691Cloud Software Development Engineer (Intel Contract Employee)locations5 Locationsposted onPosted 8 Days AgoJR0277690Cloud Software Development Engineer (Intel Contract Employee)locations5 Locationsposted onPosted 8 Days AgoJR0277689Automation Software Development Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 6 Days AgoJR0277568Software Application Development Engineerlocations2 Locationsposted onPosted 7 Days AgoJR0277567Software Application Development Engineerlocations2 Locationsposted onPosted 7 Days AgoJR0277556Foundry Services Customer Experience Engineerlocations5 Locationsposted onPosted TodayJR0277895Process Integration and Yield Development System EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0277779Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 7 Days AgoJR0276922Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0277566Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0277571Software Application Development Engineerlocations2 Locationsposted onPosted 7 Days AgoJR0277558Physical Verification Application Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0272754Supply Planning Capabilities Leadlocations4 Locationsposted onPosted 7 Days AgoJR0277614GPU Compiler Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0277843.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Services-Customer-Experience-Engineer_JR0277895-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-foundry-services-customer-experience-engineer-5-locations"
+    "job_description": "• Android Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 2 Days AgoR0221762 iOS Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 6 Days AgoR0221763 Vulnerability Research Engineer and DeveloperlocationsQuantico, VAposted onPosted 22 Days AgoR0226452 Vulnerability Researcher, SeniorlocationsFort Meade, MDposted onPosted 21 Days AgoR0222871 Defensive Cyber Operations DirectorlocationsMcLean, VAposted onPosted 30+ Days AgoR0219980 Software Developer, Seniorlocations2 Locationsposted onPosted 24 Days AgoR0226885 AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224541 Splunk Developer, SeniorlocationsMcLean, VAposted onPosted 27 Days AgoR0226351 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 9 Days AgoR0227944 AWS Engineer, SeniorlocationsAshburn, VAposted onPosted YesterdayR0227786.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Robotics-Engineer_R0224046?q=software+engineering",
+    "id": "bae-systems-robotics-engineer-wharton"
   },
   {
     "employer_name": "Magna International",
-    "job_title": "Production Planner",
-    "job_city": "Ethridge",
-    "job_state": "Tennessee",
+    "job_title": "Testing and Validation Engineer",
+    "job_city": "Troy",
+    "job_state": "Michigan",
     "job_posted_at": "1d",
-    "job_description": "• Metallurgical Lab TechnicianlocationsSterling Heights, Michigan, USposted onPosted 21 Days AgoR00213749Technical Project LeadlocationsSouthfield, Michigan, USposted onPosted 8 Days AgoR00213784UI/UX Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190129Group Product Manager - Unified FactorylocationsLowell, Massachusetts, USposted onPosted 20 Days AgoR00213371Expert, Business Process Optimizationlocations2 Locationsposted onPosted 30+ Days AgoR00198754Account Manager, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00106519Senior UX ResearcherlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00202632Quality Auditor 2nd shiftlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00194113Quality Auditor 1st ShiftlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00194112Tool & Die Journeyman - 2nd & 3rd shiftslocationsBowling Green, Ohio, USposted onPosted 23 Days AgoR00213354Controls Technician - 3rd ShiftlocationsAlto, Michigan, USposted onPosted 30+ Days AgoR001981421st shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 23 Days AgoR002126082nd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 23 Days AgoR002126103rd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 23 Days AgoR00212611Maintenance Technician - OFF SHIFTlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00166686Materials SupervisorlocationsBattle Creek, Michigan, USposted onPosted 10 Days AgoR00215194Thinning Analysis TechlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00175377Controls Technician - 3rd Shift (11 PM - 7:30 AM)locationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00204483Thinning Analysis Team LeaderlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00174307Production PlannerlocationsEthridge, Tennessee, USposted onPosted TodayR00215873.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Ethridge-Tennessee-US/Master-Scheduler_R00215873?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-production-planner-ethridge"
+    "job_description": "• Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 15 Days AgoR00213782Hardware Test EngineerlocationsLowell, Massachusetts, USposted onPosted 16 Days AgoR00213786Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00209882Foam Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 10 Days AgoR00214219Manufacturing Process EngineerlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00200517Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 6 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Supplier Quality EngineerlocationsShelby Twp, Michigan, USposted onPosted 10 Days AgoR00211821Supplier Quality EngineerlocationsShelby Twp, Michigan, USposted onPosted 10 Days AgoR00211822Advanced Quality EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00204172Engineer, Quality-1locationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00209066Student - Engineering Object FusionlocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00207379Senior Engineer, Mechatronics SystemslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00210439Process Development Engineer - AssemblylocationsTroy, Michigan, USposted onPosted 6 Days AgoR00203326Senior Electrical Hardware EngineerlocationsGrand Rapids, Michigan, USposted onPosted 30+ Days AgoR00210039Testing and Validation EngineerlocationsTroy, Michigan, USposted onPosted TodayR00216769Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 9 Days AgoR00164195Technical Program ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00201678Maintenance InternlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00210720Cloud Solutions Architect, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00187092.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Testing-and-Validation-Engineer_R00216769?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-testing-and-validation-engineer-troy"
+  },
+  {
+    "employer_name": "Workday",
+    "job_title": "AI Software Engineer, AI Apps and Agents",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Sr Software Engineer - Evisortremote typeFlexlocations2 Locationsposted onPosted 30+ Days AgoJR-0100113Software Engineer, DBaas - US Federalremote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097446Software Development Engineerremote typeFlexlocationsUSA, CO, Boulderposted onPosted YesterdayJR-0101209Software Development Engineerremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 10 Days AgoJR-0097419Senior Associate Software Engineer - Professional Services(Python)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted 6 Days AgoJR-0100413AI Software Engineer, AI Apps and Agentsremote typeFlexlocations2 Locationsposted onPosted TodayJR-0101343Manager, Software Development Engineeringremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 30+ Days AgoJR-0100317Manager, Software Development Engineeringremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 15 Days AgoJR-0100470Principal Software Development Engineer, Flowiseremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 27 Days AgoJR-0100573Software Development Engineer (Backend), Flowiseremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 10 Days AgoJR-0100577Sr Director, Software Development Engineeringremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 21 Days AgoJR-0100866Sr Distributed Systems Engineer (DevOps)remote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 29 Days AgoJR-0100108Sr Distributed Systems Engineer (DevOps)remote typeFlexlocations6 Locationsposted onPosted 7 Days AgoJR-0100605Principal, Performance and Capacity Engineer (Infrastructure & Platform)remote typeOnsitelocationsUSA, CA, Pleasantonposted onPosted YesterdayJR-0098309Sr Software Development Engineer (Full Stack)remote typeFlexlocations6 Locationsposted onPosted 30 Days AgoJR-0099508Sr Software Development Engineer (Front End)remote typeFlexlocations6 Locationsposted onPosted 29 Days AgoJR-0099509Sr Software Development Engineer, AI Securityremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 7 Days AgoJR-0100117Software Development Engineer- Professional Services(Python)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted 6 Days AgoJR-0100414Principal Software Development Engineer, Full Stackremote typeFlexlocations7 Locationsposted onPosted 2 Days AgoJR-0100545Senior Software Development Engineer (Backend), Flowiseremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 27 Days AgoJR-0100574.",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-ON-Toronto/AI-Software-Engineer--AI-Apps-and-Agents_JR-0101343?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-ai-software-engineer-ai-apps-and-agents-2-locations"
+  },
+  {
+    "employer_name": "RIVIAN",
+    "job_title": "Software Engineering Intern - Manufacturing AI (Winter 2026 Co-op Program)",
+    "job_city": "Normal",
+    "job_state": "Illinois US",
+    "job_posted_at": "1d",
+    "job_description": "• Actively pursuing a degree or one closely related in computer science, data science, or similar.\n• Must be currently pursuing a bachelors, masters, or PhD degree at an accredited university.\n• Knowledge of front-end development is preferred.\n• Previous experience with JavaScript Experience with Shell Scripting Excellent Python coding skills HTML/CSS experience.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26984/login",
+    "id": "rivian-software-engineering-intern-manufacturing-ai-winter-2026-co-op-program-normal"
+  },
+  {
+    "employer_name": "RIVIAN",
+    "job_title": "Design Intern - Digital Product Designer (Winter 2026 Co-op Program)",
+    "job_city": "Palo Alto",
+    "job_state": "California US",
+    "job_posted_at": "1d",
+    "job_description": "• Become an expert on the Rivian mobile app framework and design system, and act as a resource for the larger team in translating cross-functional experiences into clean, reliable iOS/Android solutions.\n• Stay aware of trends within industry UI/UX and feature offerings as needed to ensure designs are unique and pushing the envelope in the industry.\n• Actively pursuing a degree or one closely related in Interaction Design, Human Factors, Product Design, or related discipline.\n• Experience delivering end-to-end digital design and a portfolio that highlights solutions relating to those requirements.\n• Must be currently pursuing a bachelors or masters degree at an accredited university.\n• Specialize in experiences or features that require a major mobile app component.\n• Translate desired experiences into clear, actionable requirements.\n• Portfolio link required (with credentials for review).",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26948/login",
+    "id": "rivian-design-intern-digital-product-designer-winter-2026-co-op-program-palo-alto"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Systems Engineer",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_posted_at": "19h",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/124593/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-systems-engineer-phoenix"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Machinist - Level 3 (2nd Shift)",
+    "job_city": "Urbana",
+    "job_state": "OH",
+    "job_posted_at": "19h",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/117554/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-machinist-level-3-2nd-shift-urbana"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Exp Manufacturing Technician - 2nd, 3rd, 5th Shift",
+    "job_city": "Minneapolis",
+    "job_state": "MN",
+    "job_posted_at": "19h",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/123118/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-exp-manufacturing-technician-2nd-3rd-5th-shift-minneapolis"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Assembler - Level",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "19h",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/124620/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-assembler-level-redmond"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Glass Polish Machine (3rd Shift)",
+    "job_city": "Minneapolis",
+    "job_state": "MN",
+    "job_posted_at": "19h",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/123183/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-glass-polish-machine-3rd-shift-minneapolis"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - React and Java Developer",
-    "job_city": "Atlanta",
-    "job_state": "GA",
+    "job_title": "Software Engineer III - iOS",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team JAVA Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Enablement Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Experience and certifications preferred.\n• Software Engineer III - Java, AWS Hyderabad, Telangana, India TechnologySoftware Engineering We are seeking a highly skilled and experienced Software Engineer to drive development efforts in the Connected Commerce space.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Platform & Services Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Senior Lead Software Engineer -.\n• Lead Software Engineer Herzliya, Israel TechnologySoftware Engineering As a Software Engineer, your mission is to be part of a team of innovators and technologists creating the next generation Identity Software Engineer II - Cloud BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Seeking a software engineer to help manage and secure JPMorganChase’s Azure platform Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Software Engineer III - Backend Java Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Software Engineer III - Backend Java Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677033/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-react-and-java-developer-atlanta"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Engineering Productivity",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103819616148431558-software-engineer-iii-engineering-productivity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-iii-engineering-productivity-seattle"
+    "job_description": "• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team JAVA Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Enablement Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Experience and certifications preferred.\n• Software Engineer III - Java, AWS Hyderabad, Telangana, India TechnologySoftware Engineering We are seeking a highly skilled and experienced Software Engineer to drive development efforts in the Connected Commerce space.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Platform & Services Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Senior Lead Software Engineer -.\n• Lead Software Engineer Herzliya, Israel TechnologySoftware Engineering As a Software Engineer, your mission is to be part of a team of innovators and technologists creating the next generation Identity Software Engineer II - Cloud BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Seeking a software engineer to help manage and secure JPMorganChase’s Azure platform Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210655091/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-ios-new-york"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Contract Onboarding",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "17h",
-    "job_description": "software engineering job for the role Software Development Engineer II, Contract Onboarding",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3114128/software-development-engineer-ii-contract-onboarding",
-    "id": "amazon-software-development-engineer-ii-contract-onboarding-new-york"
+    "job_title": "iOS Software Development Engineer, Ring",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "4w",
+    "job_description": "software engineering job for the role iOS Software Development Engineer, Ring",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3092585/ios-software-development-engineer-ring",
+    "id": "amazon-ios-software-development-engineer-ring-austin"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer (ML), AGI Customization",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Development Engineer (ML), AGI Customization",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3113731/software-development-engineer-ml-agi-customization",
+    "id": "amazon-software-development-engineer-ml-agi-customization-boston"
   }
 ]
