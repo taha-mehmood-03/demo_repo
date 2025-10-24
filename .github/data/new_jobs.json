@@ -1,42 +1,62 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Engineering Technician",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "General Dynamics",
+    "job_title": "Software Developer - TS/SCI with Polygraph",
+    "job_city": "USA VA Chantilly",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Perform electrical testing on packaged silicon devices using detailed test procedures to verify functionalityChange hardware and software setups on Automated Test Equipment (ATE) testers or bench systems as neededUtilize internal hardware test tools, internal software utilities, and third-party utilities to capture and report failuresCommunicate test failures to engineering and debug teams for further analysisRecord and document test results/data into various databases accuratelyComplete assigned tests within expected timeframes and according to customer/internal roadmap deadlinesEffectively manage multiple tasks under high-pressure situations to meet deadlines Solid understanding of semiconductor testing Experience with test tools such as curve tracer, oscilloscope, and data loggers Strong background in handling ESD-sensitive devices Experience using ATE testers such as Agilent, Advantest, or equivalent systems Solid soldering skills Proficient with MS Windows and Microsoft Office software (e.\n• , Word, Excel, PowerPoint) Good organizational skills with the ability to multitask, prioritize, and track many activities Excels at working with minimal supervision and being able to lead others Superior interpersonal and communication skills, both verbal and written, with strong attention to detail AMD Partner Hub Authorized Distributors AMD University Program AAS Degree in Computer Engineering/Technology or equivalent training and experience Bachelor’s degree in related discipline Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/72844/login",
-    "id": "amd-engineering-technician-us"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Software-Developer---TS-SCI-with-Polygraph_RQ209186-2?q=software+engineering",
+    "id": "general-dynamics-software-developer-ts-sci-with-polygraph-usa-va-chantilly"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer",
-    "job_city": "Johannesburg",
-    "job_state": "Gauteng",
+    "employer_name": "Apple",
+    "job_title": "Camera Software QA Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Cloud Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Revolutionize mobile banking with Chase as a Lead Software Engineer.\n• JAVA Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Enablement Software Engineering Atlanta, GA, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Experience and certifications preferred.\n• Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Platform & Services Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team 2026 Software Engineer Program - Summer Internship – United States Austin, TX, United States and 9 more Program Analysts & AssociateSeasonal Employee Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.\n• Lead Software Engineer Herzliya, Israel TechnologySoftware Engineering As a Software Engineer, your mission is to be part of a team of innovators and technologists creating the next generation Identity Software Engineer II - Cloud BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Seeking a software engineer to help manage and secure JPMorganChase’s Azure platform Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Lead Software Engineer - Windows Server Software Engineer Columbus, OH, United States and 3 more TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Senior Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Python/Java Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Java, AWS Hyderabad, Telangana, India TechnologySoftware Engineering We are seeking a highly skilled and experienced Software Engineer to drive development efforts in the Connected Commerce space.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679436/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-johannesburg"
+    "job_description": "• Minimum QualificationsWorking knowledge of QA testing methodologies and strategy.\n• Working knowledge of Photo and Video formats and technologies.\n• Working knowledge of test tracking and reporting tools.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200627708-0836/camera-software-qa-engineer?team=SFTWR",
+    "id": "apple-camera-software-qa-engineer-cupertino"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineering",
-    "job_city": "Atlanta",
-    "job_state": "GA",
+    "employer_name": "Apple",
+    "job_title": "Systems Software Engineer, Compute",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum QualificationsLanguages: Familiarity with a programming language well suited to systems programming.\n• Like C, C++, Rust, or Swift (for Servers)Programming, Networking (HTTP, TCP/UDP, DNS, TLS), Distributed System DesignResourcefulness: Excellent analytical, problem-solving, and debugging skillsEnd-to-end ownership: management of projects from low-level technical design up to the interface and user experienceBachelor’s or Master’s Degree in an engineering-related field (or equivalent industry experience).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200627178-3577/systems-software-engineer-compute?team=SFTWR",
+    "id": "apple-systems-software-engineer-compute-san-francisco"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Health Software Test Automation Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Analyst Pega Low Code Developer Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Pega Low Code Developer Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Cloud Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Revolutionize mobile banking with Chase as a Lead Software Engineer.\n• JAVA Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Enablement Software Engineering Atlanta, GA, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Experience and certifications preferred.\n• Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Platform & Services Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team 2026 Software Engineer Program - Summer Internship – United States Austin, TX, United States and 9 more Program Analysts & AssociateSeasonal Employee Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.\n• Lead Software Engineer Herzliya, Israel TechnologySoftware Engineering As a Software Engineer, your mission is to be part of a team of innovators and technologists creating the next generation Identity Software Engineer II - Cloud BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Seeking a software engineer to help manage and secure JPMorganChase’s Azure platform Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Lead Software Engineer - Windows Server Software Engineer Columbus, OH, United States and 3 more TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Senior Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Python/Java Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Java, AWS Hyderabad, Telangana, India TechnologySoftware Engineering We are seeking a highly skilled and experienced Software Engineer to drive development efforts in the Connected Commerce space.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680372/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineering-atlanta"
+    "job_description": "• Minimum QualificationsProficient programming knowledge in Swift, Objective-C, or similar architected language.\n• Strong object oriented programming and software design skillsIndependent thinker with the ability to proactively triage, investigate, and debug difficult technical and UX problems autonomously as well as collaborativelyExcellent written and verbal communication skills to facilitate close interaction with development teams, management, and other organizations within ApplePassion for quality assurance in software, including developing, extending and maintaining test plans, methodologies, as well as automation librariesBachelors degree in Computer Science, Software Engineering or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200627960-3543/health-software-test-automation-engineer?team=SFTWR",
+    "id": "apple-health-software-test-automation-engineer-san-diego"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Biometrics, Imaging, Silicon",
+    "job_title": "Software Engineer III, Workspace",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/84762159061312198-software-engineer-iii-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-workspace-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, BigQuery BeyondSQL",
     "job_city": "Kirkland",
     "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Biometrics, Imaging, Silicon",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131054759686611654-software-engineer-biometrics-imaging-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-biometrics-imaging-silicon-kirkland"
+    "job_description": "software engineering job for the role Software Engineer, BigQuery BeyondSQL",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/89723155525837510-software-engineer-bigquery-beyondsql?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-bigquery-beyondsql-kirkland"
   }
 ]
