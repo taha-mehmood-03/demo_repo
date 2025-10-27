@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Electrical Design Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "2h",
+    "job_description": "• Experience with lab test equipment operation including DMM, oscilloscope, power supply, and electronic load instruments.\n• Experience with PCB develop tools for EDA like Siemens Xpedition, Cadence OrCAD, KiCad, or similar.\n• Contribute to requirements specifications, design documents, test plans, and lab reports.\n• Familiarity with digital design including microcontrollers and FPGA devices BS or MS degree in Electrical Engineering or related subject area.\n• Less than 2 years Lead Principal Electrical Design EngineerSan Jose, California, United States of AmericaHybridPosted 2 hours ago.\n• Proven understanding of Analog Device LTspice, Cadence PSpice, or other electronic circuit simulation tools.\n• Knowledge of Python or other scripting languages for automation of testing and analysis.\n• Familiarity with PCB layout including power integrity (PI) and signal integrity (SI).",
+    "job_apply_link": "https://careers.micron.com/careers/job/38529947",
+    "id": "micron-technology-electrical-design-engineer-san-jose"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern – Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "2h",
+    "job_description": "• Proficient in one or more scripting, programming and visualization tools: Python, Java, Tableau, Matlab, Microsoft Suite Recognize, identify, and raise awareness of process anomalies with the motivation of \"who needs to know this now.\n• \" Advanced problem-solver – understanding of data, good data intuition and data visualization skills Hands-on experience in the field of data analytics, preferably with experience querying databases Experience or knowledge of data collection, warehousing systems, and data cleansing In-depth understanding and working knowledge of SPC and Design of Experiments The ability work on multiple tasks concurrently, prioritize issues and tasks We need an intern drawn to creative problem solving and innovative solutions We need someone who wants to work in an exciting and fast paced environment Excellent technical, communication, and analytical skills.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38609795",
+    "id": "micron-technology-intern-equipment-engineer-manassas"
+  }
+]
