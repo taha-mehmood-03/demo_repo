@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Machine Learning Platform Engineer, LMTS",
-    "job_city": "New York - New York",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Security & Compliance: Participate in security reviews and ensure all platform components adhere to security best practices and compliance requirements.\n• Proven experience as a Platform Engineer, Software Engineer, or ML Infrastructure Engineer.\n• Strong software engineering skills, particularly with Python, for building scalable tools, automation scripts, and platform components.\n• Extensive experience with CI/CD tools, especially GitHub Actions and ArgoCDProficiency in infrastructure-as-code principles and tools (e.\n• Experience with containerization technologies (Docker) and orchestration (Kubernetes).\n• , Istio)Experience with MLOps concepts and tools.\n• Experience with monitoring and alerting systems (Grafana, PagerDuty).\n• Experience with tenant and project onboarding processes in a multi-tenant environment.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313747/machine-learning-platform-engineer-lmts/",
-    "id": "salesforce-machine-learning-platform-engineer-lmts-new-york-new-york"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Power Firmware Developer - Simulation",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• ‘Wherever Computing Happens’, we need to enable Arm by providing software solutions that interface higher-level software stacks with the hardware itself.\n• Experience in development and maintenance of product quality firmware with good knowledge of bootloaders and device drivers.\n• Experience in providing support and maintenance of production quality firmware in server segment.\n• Expert in C programming for embedded systems with excellent debugging skills.\n• Server firmware development experience.\n• “Nice To Have” Skills and Experience: Required Skills and Experience: Experienced Professionals.\n• Technology built on Arm is all around us, from industrial and automotive applications, to the IoT, to the desktop and data center.\n• Familiarity with technologies such as RAS, hypervisors, CXL, power management and security.",
-    "job_apply_link": "https://careers.arm.com/job/austin/software-engineer/33099/77745466144",
-    "id": "arm-software-engineer-austin"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engineer",
-    "job_city": "Valliant",
-    "job_state": "OK",
-    "job_posted_at": "3w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/120796/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engineer-valliant"
+    "job_description": "software engineering job for the role Power Firmware Developer - Simulation",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69175&source=WEB_Search_NA",
+    "id": "ibm-power-firmware-developer-simulation-"
   }
 ]
