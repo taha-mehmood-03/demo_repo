@@ -1,92 +1,72 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Test Engineer - Product Development",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern",
+    "job_city": "shipROCHESTER",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Staff Product Engineer - RFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 20 Days AgoR255658Principal Systems Application EngineerlocationsUS, MA, Wilmingtonposted onPosted 29 Days AgoR256172Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255971Algorithm Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR255043Technician 5, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR254787Senior Engineer, Mixed Signal Design EngineeringlocationsUS, NC, Durhamposted onPosted YesterdayR257737Test Engineerlocations4 Locationsposted onPosted 9 Days AgoR255212Staff Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR255459Senior Engineer, Mixed Signal Design Engineering (multiple openings)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR253276Product Engineering (Prod Dev)locations5 Locationsposted onPosted 15 Days AgoR255207Senior Engineer, Mixed Signal Design Engineering (multiple openings)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR253275Mixed Signal EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR255204Senior-Level Product Engineer – Battery Management Systemslocations2 Locationsposted onPosted 21 Days AgoR256337Field Sales Engineerlocations7 Locationsposted onPosted 21 Days AgoR257218Principal Systems Architect, Communications PHYlocations2 Locationsposted onPosted 30+ Days AgoR252371System Architect - IBC Powerlocations2 Locationsposted onPosted 20 Days AgoR254128Principal Engineer, Systems Design/Architecture Engineering - GMSL Product Definitionlocations6 Locationsposted onPosted 30+ Days AgoR251790Test Engineer - Product DevelopmentlocationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR256194Senior Engineer, Si Photonics IC Integration and Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252114Principal Mixed Signal Design EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251701.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Test-Engineer---Product-Development_R256194?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-test-engineer-product-development-us"
+    "job_description": "software engineering job for the role Hardware Developer Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68446&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-shiprochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Hardware Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58496&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Physical Design Engineer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Physical Design Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69123&source=WEB_Search_NA",
+    "id": "ibm-physical-design-engineer-poughkeepsie"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "Cloud Security Information Analyst",
+    "job_title": "JAVA Full STACK Developer/Angular 17+/ Tester",
     "job_city": "Any Location /",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Cloud-Security-Information-Analyst_RQ209538?q=software+engineering",
-    "id": "general-dynamics-cloud-security-information-analyst-any-location"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/JAVA-Full-Stack-Developer-Angular-v17--v18---or-v19_RQ206397?q=software+engineering",
+    "id": "general-dynamics-java-full-stack-developer-angular-17-tester-any-location"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "NISSC 3 Opportunities",
-    "job_city": "USA CO Peterson AFB",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Peterson-AFB/NISSC-3-Opportunities_RQ198404-1?q=software+engineering",
-    "id": "general-dynamics-nissc-3-opportunities-usa-co-peterson-afb"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Adv Field Service Engineer - Aerospace",
-    "job_city": "West Palm Beach",
-    "job_state": "FL",
-    "job_posted_at": "21h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/125253/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-adv-field-service-engineer-aerospace-west-palm-beach"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Seeking an Oracle DBA with Development (Java)",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Experience and certifications preferred.\n• Software Engineer II - Python GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Grow your software engineering skills by developing impactful Python applications with our collaborative Capital Team.\n• JAVA Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Enablement Software Engineering Atlanta, GA, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Python & Databricks GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Advance your software engineering career by developing impactful Python applications as part of our collaborative Capital Team Software Engineer II GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Software Engineer in the Core Infrastructure/SRE Team for IPB Platform Modernisation program Senior Lead Software Engineer, ServiceNow Jersey City, NJ, United States TechnologySoftware Engineering ServiceNow and Full Stack Java Senior Lead Software Engineer Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Principal Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Lead Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Design, develop and implement software solutions.\n• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform 2026 Software Engineer Program - Summer Internship – United States Austin, TX, United States and 9 more Program Analysts & AssociateSeasonal Employee Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.\n• Lead Software Engineer- Python / Spark Big Data Mumbai, Maharashtra, India TechnologySoftware Engineering Promote the creation and execution of top-tier tech products as an experienced Software Engineer with Python and Big Data expertise.\n• Software Engineer III - GCP Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Lead Software Engineer - Python BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III - Mainframe Bengaluru, Karnataka, India TechnologySoftware Engineering Mainframe developer having strong experience COBOL, DB2, MVS Utilities, VSAM and JCL.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675937/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-seeking-an-oracle-dba-with-development-java-plano"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Mobile (Android), Wear OS",
-    "job_city": "San Jose",
+    "employer_name": "NVIDIA",
+    "job_title": "Robotics Software Engineer - Build and Developer Experience",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Mobile (Android), Wear OS",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80724378701963974-software-engineer-iii-mobile-android-wear-os?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-mobile-android-wear-os-san-jose"
+    "job_posted_at": "1d",
+    "job_description": "• Senior Deep Learning Software Engineer - Autonomous Vehicleslocations4 Locationsposted onPosted 26 Days AgoJR2005482Senior Manager, Linux GPU System Software Engineeringlocations2 Locationsposted onPosted 15 Days AgoJR2006006Senior Performance Software Engineer, Deep Learning Librarieslocations5 Locationsposted onPosted 9 Days AgoJR2006435Frontend Angular Software Engineer - Air Platform TeamlocationsUS, NC, Durhamposted onPosted YesterdayJR2006403Robotics Software Engineer - Build and Developer ExperiencelocationsUS, CA, Santa Claraposted onPosted TodayJR2007063Senior Software Engineer, Distributed Systems Engineer - DGX Cloudlocations2 Locationsposted onPosted 3 Days AgoJR1999506Senior Software Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2006178Senior Software QA EngineerlocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2006229Senior Staff Software Engineer, End-user Compute Platformlocations2 Locationsposted onPosted 14 Days AgoJR1998281Senior Software Engineer, Hardware Tools and Methodology DevelopmentlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000050Software Engineering Manager - Image and Data Compression LibrarieslocationsUS, CA, Remoteposted onPosted 30+ Days AgoJR1990877Senior System Software Engineer - DevOps and Infrastructure AutomationlocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR1993144Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicleslocations6 Locationsposted onPosted 16 Days AgoJR1994974Senior Software Engineer, Prediction and Planning - Autonomous Vehicleslocations2 Locationsposted onPosted 5 Days AgoJR1998034Senior Software Engineer, Bare Metal Automation - DGX Cloudlocations2 Locationsposted onPosted YesterdayJR1999487Senior Linux Kernel Systems Software Engineer – CSP Engagementslocations4 Locationsposted onPosted 2 Days AgoJR1999600Senior System Software Engineer Platform - Server Embedded FirmwarelocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2001011Senior Software Engineer, Cloud-Native Stack – CSP Engagementslocations4 Locationsposted onPosted 3 Days AgoJR2001098Senior Software Engineer - GeForce NOW Video Streaming TechnologylocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2001262Principal Storage Kernel Software Engineer, Linux - DGX CloudlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2003341.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Build-and-Developer-Experience_JR2007063?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-robotics-software-engineer-build-and-developer-experience-us"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Storage",
-    "job_city": "Madison",
-    "job_state": "WI",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Storage",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/72401075679699654-software-engineer-iii-infrastructure-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-iii-infrastructure-google-cloud-storage-madison"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer II, Site Reliability",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer II, Site Reliability",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/88621071212651206-software-engineer-ii-site-reliability?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-ii-site-reliability-pittsburgh"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Ordering",
-    "job_city": "Seattle",
+    "job_title": "Software Engineer III, Google Cloud Security and Privacy",
+    "job_city": "Kirkland",
     "job_state": "WA",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Software Development Engineer, Ordering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3118179/software-development-engineer-ordering",
-    "id": "amazon-software-development-engineer-ordering-seattle"
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Security and Privacy",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/123067602279768774-software-engineer-iii-google-cloud-security-and-privacy?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-iii-google-cloud-security-and-privacy-kirkland"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer - Windows + Devices, Windows Cloud Experience (WCX)",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Engineer - Windows + Devices, Windows Cloud Experience (WCX)",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-windows-devices-windows-cloud-experience-wcx-redmond"
   }
 ]
