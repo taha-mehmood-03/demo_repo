@@ -1,92 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "System Services Representatives - Austin",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role System Services Representatives - Austin",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68963&source=WEB_Search_NA",
-    "id": "ibm-system-services-representatives-austin-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Layout Mask Designer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Layout Mask Designer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69610&source=WEB_Search_NA",
-    "id": "ibm-layout-mask-designer-austin"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Gas Systems Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "1d",
-    "job_description": "Description content not available",
-    "job_apply_link": "https://careers.micron.com/careers/job/37902374",
-    "id": "micron-technology-gas-systems-engineer-boise"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "ServiceNow CMDB Engineer",
-    "job_city": "USA FL MacDill AFB",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/ServiceNow-CMDB-Engineer_RQ209594-2?q=software+engineering",
-    "id": "general-dynamics-servicenow-cmdb-engineer-usa-fl-macdill-afb"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Infrastructure",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "17h",
-    "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science, or equivalent practical experience (5+ years).\n• Strong programming skills in Python, Go, or Java.\n• Experience designing and operating high-availability infrastructure or security systems.\n• Experience building and operating distributed systems or cloud-native applications at scale.\n• Strong coding skills producing maintainable, efficient, and testable software.\n• Experience deploying and supporting production systems handling sensitive or critical workloads.\n• Background in monitoring, observability, and incident response.\n• Demonstrated collaboration and problem-solving skills in complex engineering environments.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200628856-0157/software-engineer-infrastructure?team=SFTWR",
-    "id": "apple-software-engineer-infrastructure-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Test Infrastructure",
+    "employer_name": "BAE Systems",
+    "job_title": "Network Engineer",
     "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224541.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Network-Engineer_R0228482?q=software+engineering",
+    "id": "bae-systems-network-engineer-san-diego"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "ATE Test Development Engineer",
+    "job_city": "USA-Colorado-Fort Collins-4380 Ziegler Road",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsStrong understanding of software development lifecycles, methodologies, and best practices.\n• Advanced programming skills in a language like Swift, Python, Go, or Objective-C.\n• 2 plus years of industry experience building automation frameworks, test infrastructure, or backend services.\n• Excellent communication and collaboration skills.\n• Bachelor's degree in Computer Science or equivalent experience building software.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200628824-3543/software-engineer-test-infrastructure?team=SFTWR",
-    "id": "apple-software-engineer-test-infrastructure-san-diego"
+    "job_description": "• Senior Software EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 9 Days AgoR023906 Senior Linux QA EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 9 Days AgoR023891 Director - Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 14 Days AgoR023902 Kubernetes Engineering ManagerlocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 14 Days AgoR023908.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ATE-Test-Development-Engineer_R023971-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-ate-test-development-engineer-usa-colorado-fort-collins-4380-ziegler-road"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Test Infrastructure",
-    "job_city": "Cupertino",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Quality Compliance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsStrong understanding of software development lifecycles, methodologies, and best practices.\n• Advanced programming skills in a language like Swift, Python, Go, or Objective-C.\n• 2 plus years of industry experience building automation frameworks, test infrastructure, or backend services.\n• Excellent communication and collaboration skills.\n• Bachelor's degree in Computer Science or equivalent experience building software.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200628824-0836/software-engineer-test-infrastructure?team=SFTWR",
-    "id": "apple-software-engineer-test-infrastructure-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Development Engineer in Test",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBachelors or Masters degree in CS/CE or equivalent REQUIREDExcellence in a scripting language (such as Python)Strong coding skills in C/C++, Objective C/Swift or JavaStrong QA/testing knowledge & experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200624231-3543/software-development-engineer-in-test?team=SFTWR",
-    "id": "apple-software-development-engineer-in-test-san-diego"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Machinist - Level 2 (Mon-Thurs) 4:00 PM -2:00 AM (2nd Shift)",
-    "job_city": "Greer",
-    "job_state": "SC",
-    "job_posted_at": "17h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/124541/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-machinist-level-2-mon-thurs-4-00-pm-2-00-am-2nd-shift-greer"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/quality-compliance-engineer/33099/61697469856",
+    "id": "arm-quality-compliance-engineer-austin"
   }
 ]
