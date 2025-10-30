@@ -1,72 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer Intern",
-    "job_city": "shipROCHESTER",
+    "employer_name": "Broadcom",
+    "job_title": "Software Engineer (Performance)",
+    "job_city": "USA-CA - Promontory D",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Hardware Developer Intern 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68446&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-intern-shiprochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hardware Developer",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Hardware Developer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58496&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Physical Design Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Physical Design Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69123&source=WEB_Search_NA",
-    "id": "ibm-physical-design-engineer-poughkeepsie"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "JAVA Full STACK Developer/Angular 17+/ Tester",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/JAVA-Full-Stack-Developer-Angular-v17--v18---or-v19_RQ206397?q=software+engineering",
-    "id": "general-dynamics-java-full-stack-developer-angular-17-tester-any-location"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Robotics Software Engineer - Build and Developer Experience",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Deep Learning Software Engineer - Autonomous Vehicleslocations4 Locationsposted onPosted 26 Days AgoJR2005482Senior Manager, Linux GPU System Software Engineeringlocations2 Locationsposted onPosted 15 Days AgoJR2006006Senior Performance Software Engineer, Deep Learning Librarieslocations5 Locationsposted onPosted 9 Days AgoJR2006435Frontend Angular Software Engineer - Air Platform TeamlocationsUS, NC, Durhamposted onPosted YesterdayJR2006403Robotics Software Engineer - Build and Developer ExperiencelocationsUS, CA, Santa Claraposted onPosted TodayJR2007063Senior Software Engineer, Distributed Systems Engineer - DGX Cloudlocations2 Locationsposted onPosted 3 Days AgoJR1999506Senior Software Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2006178Senior Software QA EngineerlocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2006229Senior Staff Software Engineer, End-user Compute Platformlocations2 Locationsposted onPosted 14 Days AgoJR1998281Senior Software Engineer, Hardware Tools and Methodology DevelopmentlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000050Software Engineering Manager - Image and Data Compression LibrarieslocationsUS, CA, Remoteposted onPosted 30+ Days AgoJR1990877Senior System Software Engineer - DevOps and Infrastructure AutomationlocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR1993144Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicleslocations6 Locationsposted onPosted 16 Days AgoJR1994974Senior Software Engineer, Prediction and Planning - Autonomous Vehicleslocations2 Locationsposted onPosted 5 Days AgoJR1998034Senior Software Engineer, Bare Metal Automation - DGX Cloudlocations2 Locationsposted onPosted YesterdayJR1999487Senior Linux Kernel Systems Software Engineer – CSP Engagementslocations4 Locationsposted onPosted 2 Days AgoJR1999600Senior System Software Engineer Platform - Server Embedded FirmwarelocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2001011Senior Software Engineer, Cloud-Native Stack – CSP Engagementslocations4 Locationsposted onPosted 3 Days AgoJR2001098Senior Software Engineer - GeForce NOW Video Streaming TechnologylocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2001262Principal Storage Kernel Software Engineer, Linux - DGX CloudlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2003341.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Build-and-Developer-Experience_JR2007063?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-robotics-software-engineer-build-and-developer-experience-us"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Cloud Security and Privacy",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Security and Privacy",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/123067602279768774-software-engineer-iii-google-cloud-security-and-privacy?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-iii-google-cloud-security-and-privacy-kirkland"
+    "job_description": "• Senior Software EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 9 Days AgoR023906 Senior Linux QA EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 9 Days AgoR023891 Director - Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 14 Days AgoR023902.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/Software-Engineer--Performance-_R023416?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-software-engineer-performance-usa-ca-promontory-d"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Software Engineer - Windows + Devices, Windows Cloud Experience (WCX)",
+    "job_title": "Software Engineer - Windows + Devices, Windows Experiences",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Engineer - Windows + Devices, Windows Cloud Experience (WCX)",
+    "job_description": "software engineering job for the role Software Engineer - Windows + Devices, Windows Experiences",
     "job_apply_link": "https://jobs.careers.microsoft.com",
-    "id": "microsoft-software-engineer-windows-devices-windows-cloud-experience-wcx-redmond"
+    "id": "microsoft-software-engineer-windows-devices-windows-experiences-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer - Windows + Devices, Windows Servicing and Delivery (WSD)",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Engineer - Windows + Devices, Windows Servicing and Delivery (WSD)",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-windows-devices-windows-servicing-and-delivery-wsd-redmond"
   }
 ]
