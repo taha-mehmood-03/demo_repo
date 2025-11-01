@@ -1,42 +1,52 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Mainframe System Administrator Apprentice",
-    "job_city": "Dallas",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer, MTS (Force.com Developer)",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Collaborate with business stakeholders, technical teams, and cross-functional partners to design and implement solutions that meet business requirements.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback 4+ years of experience in Information Technology and Software Engineering.\n• 2+ years of hands-on experience with Force.\n• 2+ years of experience in Java, JavaScript, and HTML.\n• Experience developing test strategies, executing tests, and maintaining test automation frameworks for large enterprise projects.\n• Bachelor’s degree in Computer Science or equivalent experience.\n• Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Salesforce Admin and/or Developer Certification.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr316480/software-engineer-mts-forcecom-developer/",
+    "id": "salesforce-software-engineer-mts-force-com-developer-california-san-francisco"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Systems Software Engineer, GeForce NOW Low Latency Streaming Technology - New College Grad",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Software Applications Engineer, Datacenter ProductslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002203Senior Software Cloud Engineer - Golanglocations2 Locationsposted onPosted 16 Days AgoJR2005947Senior System Software Bringup Engineerlocations2 Locationsposted onPosted 5 Days AgoJR2006503Senior DGX Cloud Software Engineer - Infrastructure Automation and Distributed Systemslocations3 Locationsposted onPosted 3 Days AgoJR2001014Lead System Software Engineer, CPU and GPU Performance Visualization Toolslocations3 Locationsposted onPosted 30+ Days AgoJR2000994Senior Systems Software Engineer, AV Infrastructure - Validation and Distributed Systemslocations2 Locationsposted onPosted 30+ Days AgoJR2003769Software Release Engineer, Embedded Platform TeamlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1999199Senior System Software Test Engineer, Networkinglocations2 Locationsposted onPosted 10 Days AgoJR2005364Senior System Software Test Engineer, Networkinglocations2 Locationsposted onPosted 10 Days AgoJR2005535Principal Software Integration Engineer - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted 21 Days AgoJR2005610Senior System Software Test Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR2006494Senior Software Development Engineer in TestlocationsUS, CA, Santa Claraposted onPosted 7 Days AgoJR2006792Senior Software Development Engineer, TensorRT-LLMlocations2 Locationsposted onPosted TodayJR2007055AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026locations2 Locationsposted onPosted 7 Days AgoJR2005097Systems Software Engineer - GeForce NOW Low Latency Streaming Technology - New Grad 2025locationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2006827AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2025locations2 Locationsposted onPosted TodayJR2006974Systems Software Engineer, GeForce NOW Low Latency Streaming Technology - New College Grad 2025locationsUS, CA, Santa Claraposted onPosted TodayJR2007180Senior Systems Software Security Engineer – Data Center SystemslocationsUS, CO, Remoteposted onPosted 5 Days AgoJR2004966Senior Software Development Engineer in Test - Confidential ComputinglocationsUS, CA, Santa Claraposted onPosted 7 Days AgoJR2006798Senior Embedded Software DeveloperlocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR1998573.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--GeForce-NOW-Low-Latency-Streaming-Technology---New-College-Grad-2025_JR2007180?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-software-engineer-geforce-now-low-latency-streaming-technology-new-college-grad-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Quality Engineer, Media",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsBS in CS/CE/EEProficiency in coding with Python or similar OOP languages.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200627832-3543/software-quality-engineer-media?team=SFTWR",
+    "id": "apple-software-quality-engineer-media-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, System Experience",
+    "job_city": "Cupertino",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Mainframe System Administrator Apprentice",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70047&source=WEB_Search_NA",
-    "id": "ibm-mainframe-system-administrator-apprentice-dallas"
+    "job_description": "• Minimum QualificationsExcellent Swift programming and design skillsExceptional problem solving, critical thinking, and communication skillsInter-process communication and systems development experienceDeep understanding of optimization and performance issues across OS software layers.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200602358-0836/software-engineer-system-experience?team=SFTWR",
+    "id": "apple-software-engineer-system-experience-cupertino"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Golang",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer II - Python GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Grow your software engineering skills by developing impactful Python applications with our collaborative Capital Team.\n• Software Engineering Atlanta, GA, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Python & Databricks GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Advance your software engineering career by developing impactful Python applications as part of our collaborative Capital Team Software Engineer III - AWS Cloud Engineer Plano, TX, United States TechnologySoftware Engineering Looking for a software engineer to help with improving our public cloud Software Engineer II GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Software Engineer in the Core Infrastructure/SRE Team for IPB Platform Modernisation program Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Lead Software Engineer - Java/Python, AWS Plano, TX, United States TechnologySoftware Engineering Promote full-stack projects as a Lead Software Engineer with Java, Python, and AWS expertise.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform AWS/Scala/Python Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Exciting opportunity to grow and advance your career as a Scala/Java Software Engineer with the Liquidity Risk Team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III - SQL Database Engineer OH, United States TechnologySoftware Engineering Seeking a Software Engineer with database expertise to design and maintain data infrastructure for Small Business Banking Lending apps.\n• Senior Lead Software Engineer, ServiceNow Jersey City, NJ, United States TechnologySoftware Engineering ServiceNow and Full Stack Java Senior Lead Software Engineer Lead Software Engineer- Python / Spark Big Data Mumbai, Maharashtra, India TechnologySoftware Engineering Promote the creation and execution of top-tier tech products as an experienced Software Engineer with Python and Big Data expertise.\n• Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Software Engineer III - SRE Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Manager of Software Engineering - Fullstack Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210670171/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-golang-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Mobile (iOS), Google Workspace",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Mobile (iOS), Google Workspace",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78566819060687558-software-engineer-iii-mobile-ios-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-iii-mobile-ios-google-workspace-kirkland"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "iOS Software Development Engineer, Key",
+    "employer_name": "Arm",
+    "job_title": "5G/Network Performance Engineer",
     "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "23h",
-    "job_description": "software engineering job for the role iOS Software Development Engineer, Key",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3119562/ios-software-development-engineer-key",
-    "id": "amazon-ios-software-development-engineer-key-austin"
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/5g-network-performance-engineer/33099/87916449264",
+    "id": "arm-5g-network-performance-engineer-austin"
   }
 ]
