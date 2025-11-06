@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Data Analyst - Application Support Engineer",
+    "job_city": "Argentina - Buenos Aires",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• 4+ years of experience in data engineering, analytics engineering, or data management roles.\n• Experience building ETL/ELT pipelines using tools such as Airflow, Pentaho, dbt, or similar.\n• Strong analytical and problem-solving skills, with attention to accuracy and traceability.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Experience with Python or TypeScript for data processing and automation.\n• Experience with version control (Git) and CI/CD for data workflows.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Design and maintain data pipelines and ETL processes to integrate, transform, and validate estimation and consumption data from multiple sources.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313603/data-analyst-application-support-engineer/",
+    "id": "salesforce-data-analyst-application-support-engineer-argentina-buenos-aires"
+  }
+]
