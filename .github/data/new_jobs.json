@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Guidehouse",
+    "job_title": "Health Data Scientist",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Data ScientistlocationsUS - DC, Washingtonposted onPosted 7 Days Ago33327Senior ServiceNow Business AnalystlocationsUS - VA, McLeanposted onPosted 8 Days Ago32655RPA DeveloperlocationsUS - Remote (Any location)posted onPosted 7 Days Ago33167Senior Data ScientistlocationsUS - DC, Washingtonposted onPosted 9 Days Ago33321Service Desk Front Line Support Agentlocations5 Locationsposted onPosted 2 Days Ago33675Health Data Scientistlocations2 Locationsposted onPosted Today33732Technology Account Lead, TransportationlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32479Journeyman Appian Developerlocations2 Locationsposted onPosted 10 Days Ago32455Technology Account Lead, USDAlocations2 Locationsposted onPosted 27 Days Ago32481Program Manager - SAP OperationslocationsUS - MD, Patuxent Riverposted onPosted 3 Days Ago28862Senior Appian Developerlocations2 Locationsposted onPosted 10 Days Ago32460SailPoint IIQ Architectlocations2 Locationsposted onPosted 30+ Days Ago32608Consultant - Clinical Operations, Payer Provider Consulting - Campus 2026locations6 Locationsposted onPosted 7 Days Ago33631Senior Cybersecurity Analystlocations2 Locationsposted onPosted 29 Days Ago31850Energy, Sustainability and Infrastructure - Program Managerlocations10 Locationsposted onPosted 2 Days Ago33713Energy and Sustainability - Portfolio Managerlocations7 Locationsposted onPosted 2 Days Ago33718Key Client Consulting Partner Energy and Utilities in the WestlocationsUS - Remote (Any location)posted onPosted 23 Days Ago32507.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Health-Data-Scientist_33732?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-health-data-scientist-2-locations"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SOC Core Data Path Design Verification Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• Strong background in SOC and IP-level ASIC verification.\n• Hands-on experience with UVM-based testbenches in both Linux and Windows environments.\n• Skilled in Verilog, SystemVerilog.\n• Experience developing and maintaining UVM verification frameworks, test environments, and automation flows.\n• Strong C++ programming skills, especially on Linux.\n• Scripting experience in Perl, Ruby, Makefile, or shell.\n• Leadership or mentorship experience is considered an asset.\n• Collaborate with architects, hardware engineers, and others to understand the new features to be verified Build test plan documentation, accounting for interactions with other features, the hardware, the firmware, and the software driver use cases Estimate the time required to write the new feature tests and any required changes to the test environment Build the directed and random verification tests Debug test failures to determine the root cause.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/73094/login",
+    "id": "amd-soc-core-data-path-design-verification-engineer-us"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Core",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Compute",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86201429043094214-software-engineer-iii-full-stack-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-full-stack-core-seattle"
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Compute",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133684076253979334-software-engineer-iii-infrastructure-google-cloud-compute?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-compute-sunnyvale"
   }
 ]
