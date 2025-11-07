@@ -1,12 +1,102 @@
 [
   {
-    "employer_name": "Honeywell",
-    "job_title": "Exp Quality Eng Technician",
-    "job_city": "Clearwater",
-    "job_state": "FL",
-    "job_posted_at": "15h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Cyber Security Manager Locations Phoenix, AZ, United States (Hybrid) Posting Date11/03/2025 Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• This is an opportunity to influence the design and evolution of a platform at the forefront of AI-powered productivity, with a primary focus on Android-based experiences.\n• Advanced Tech Product Owner Locations Atlanta, GA, United States (Hybrid) Posting Date10/27/2025 As an Advanced Tech Product Owner here at Honeywell, you will lead and mentor a team, define technical requirements, oversee development, and drive innovation in product management.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/126397/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-exp-quality-eng-technician-clearwater"
+    "employer_name": "Salesforce",
+    "job_title": "AI Engineer - Forward Deployed Engineer (Multiple Levels)",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• You'll directly push its capabilities to the limit, developing bespoke intelligent agents, automating intricate business processes, and crafting intuitive user experiences that deliver tangible value.\n• You'll translate these nuanced needs into clear, actionable technical requirements, building strong relationships as their primary technical advisor.\n• Prototype and Iterate Rapidly: Quickly develop proofs-of-concept and minimum viable products, coding alongside client teams to demonstrate capabilities and gather feedback for iterative refinement.\n• Strong background in Computer Science or a related engineering discipline.\n• Hands-on experience building solutions with AI/LLM technologies, including integrating LLMs, applying AI orchestration frameworks, and prompt engineering techniques.\n• Strong experience in data modeling, processing, integration, and analytics, with demonstrable proficiency in data platforms (e.\n• Excellent collaboration and communication skills, both written and verbal.\n• Ability to travel 25-50% of the time, as needed to customer sites.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr305675/ai-engineer-forward-deployed-engineer-multiple-levels/",
+    "id": "salesforce-ai-engineer-forward-deployed-engineer-multiple-levels-mexico-mexico-city"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Full-Stack Software Developer, TS/SCI with Polygraph",
+    "job_city": "USA VA Herndon",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Full-Stack-Software-Developer--TS-SCI-with-Polygraph_RQ209940-1?q=software+engineering",
+    "id": "general-dynamics-full-stack-software-developer-ts-sci-with-polygraph-usa-va-herndon"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Payments Engineering",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum Qualifications5+ years of professional backend software engineering experience, with demonstrated proficiency in Java, Kotlin, or similar object oriented programming languagesProven ability to design, build, and operate distributed systems at scale in production environmentsProficiency with relational (SQL) and NoSQL databasesClear, thoughtful communication across code reviews, documentation, and cross-functional collaborationBachelor’s degree in Computer Science or related field, or equivalent practical experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630537-0836/software-engineer-payments-engineering?team=SFTWR",
+    "id": "apple-software-engineer-payments-engineering-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Graphics Software Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsBS in Computer Science, Computer Graphics, or a related fieldProgramming skills and knowledge of a C Style language (C, C++, Obj-c, or Swift)Familiar with 3D graphics API ( Metal, OpenGL, DirectX, CUDA, CG, or Vulkan)Proficient in mathematics for 3D games (linear algebra).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630200-3956/graphics-software-engineer?team=SFTWR",
+    "id": "apple-graphics-software-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Freeform",
+    "job_city": "Pittsburgh",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum QualificationsProficiency with Swift or Objective-CSkilled with object-oriented designDemonstrated experience planning and delivering software projects with cross-functional teamsAbility to communicate clearly—both verbally and in writing—and build trust across business linesBachelor’s degree in Computer Science, Computer Engineering, Physics, Math, or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630215-2926/software-engineer-freeform?team=SFTWR",
+    "id": "apple-software-engineer-freeform-pittsburgh"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "AirPods Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsYou have solid C/C++ coding abilities.\n• Python experience is a plusYou have proven excellence in firmware, device driver, or equivalent for experienced candidatesYou have strong analytical and software debugging skillsYou have a passion for product ownership and track record of product developmentYou thrive in collaborative environment with excellent written and verbal communication skillsYou have a Bachelors Degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630246-0836/airpods-software-engineer?team=SFTWR",
+    "id": "apple-airpods-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Cellular Power Optimization Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsBachelors and/or Master's degree in Electrical Engineering, Computer Science, or equivalent field.\n• Minimum 5 years hands-on experience in power and thermal optimization and embedded software.\n• Strong embedded skills including design, programming (using C and/or C++).\n• Hands-on experience in debugging of modem products.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630023-3543/cellular-power-optimization-software-engineer?team=SFTWR",
+    "id": "apple-cellular-power-optimization-software-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer - UI",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsAbility to effectively contribute to several concurrent projects Ability to thrive in a highly collaborative environmentExperience designing an iOS application or framework of significant scopeExperience with Objective-C, C, and C++ programmingBachelor's degree in Computer Science/Engineering discipline or equivalent.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630516-0836/software-development-engineer-ui?team=SFTWR",
+    "id": "apple-software-development-engineer-ui-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Siri App Experiences",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsM.\n• In Computer Science, Engineering or a related field or equivalent experience3+ years of professional software engineering experience, preferably working on an end-user product.\n• IOS software development experience.\n• Excellent verbal and written communication skills.\n• Proficiency in programming languages such as Swift, C++, Objective C, etc.\n• Strong understanding of software engineering and computer science fundamentals, including object-oriented design principles, design patterns, data structures, and algorithms.\n• We are a highly collaborative work environment.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614462-3337/software-engineer-siri-app-experiences?team=SFTWR",
+    "id": "apple-software-engineer-siri-app-experiences-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Workspace",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137795566976279238-software-engineer-iii-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-iii-workspace-boulder"
   }
 ]
