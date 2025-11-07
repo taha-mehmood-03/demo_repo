@@ -1,72 +1,82 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Computer Engineer",
-    "job_city": "Odon",
-    "job_state": "IN",
-    "job_posted_at": "1d",
-    "job_description": "• Platform Engineer, SeniorlocationsO'Fallon, ILposted onPosted 16 Days AgoR0226990 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 30+ Days AgoR0226901 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 30+ Days AgoR0226898 Computer Vision ExpertlocationsBethesda, MDposted onPosted 21 Days AgoR0225632.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Computer-Engineer_R0225672?q=software+engineering",
-    "id": "bae-systems-computer-engineer-odon"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Cloud DevSecOps Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 4 Days Ago33026AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 11 Days Ago32672SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 28 Days Ago31299Software Testing ManagerlocationsUS - VA, McLeanposted onPosted 3 Days Ago33642AWS DevOps Engineerlocations2 Locationsposted onPosted 4 Days Ago32100AWS DevOps Engineerlocations2 Locationsposted onPosted Yesterday32930Cloud DevSecOps Engineerlocations2 Locationsposted onPosted Today33846Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 2 Days Ago33763Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32174IT Endpoint Engineerlocations6 Locationsposted onPosted 8 Days Ago33109DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 30+ Days Ago32570Wi-Fi Cellular EngineerlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago29529Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 9 Days Ago33432Senior Service Desk Engineerlocations2 Locationsposted onPosted 22 Days Ago29910Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31179Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 28 Days Ago31777Enclave Program ManagerlocationsUS - MD, Bethesdaposted onPosted 9 Days Ago33433Program Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 9 Days Ago33494.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Cloud-DevSecOps-Engineer_33846?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-cloud-devsecops-engineer-2-locations"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "AirPods Software Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Minimum QualificationsYou have solid C/C++ coding abilities.\n• Python experience is a plusYou have proven excellence in firmware, device driver, or equivalent for experienced candidatesYou have strong analytical and software debugging skillsYou have a passion for product ownership and track record of product developmentYou thrive in collaborative environment with excellent written and verbal communication skillsYou have a Bachelors Degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200630246-3543/airpods-software-engineer?team=SFTWR",
-    "id": "apple-airpods-software-engineer-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Apple Pay",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "19h",
-    "job_description": "• Minimum QualificationsWe want you to have experience with object-oriented analysis and design using languages such as Java or Kotlin.\n• We are looking for experience in developing scalable and distributed systems.\n• Experience authoring and supporting web servicesExperience with Relational and NoSQL DatabasesExperience with Cloud EngineeringBS degree in computer science or equivalent field, plus 8+ years of software development experience or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200630949-0836/software-engineer-apple-pay?team=SFTWR",
-    "id": "apple-software-engineer-apple-pay-cupertino"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "FYE26 US Graduate Network Performance Engineer",
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Apprentice",
     "job_city": "Austin",
-    "job_state": "Texas",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/fye26-us-graduate-network-performance-engineer/33099/87916449264",
-    "id": "arm-fye26-us-graduate-network-performance-engineer-austin"
+    "job_description": "software engineering job for the role Software Engineer Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72695&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-apprentice-austin"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Incident Commander SRE",
+    "job_city": "Washington - Seattle",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• 8+ years in IT operations, incident management, or site reliability work.\n• Proven experience in a 24x7 high availability environment with enterprise systems.\n• Establish impact, evaluate solutions with subject matter experts, and make decisions that balance technical and business needs.\n• Excellent verbal and written communication skills for technical and executive audiences.\n• Experience leading or mentoring technical teams in incident response or operations roles.\n• Experience with cloud platforms (e.\n• Industry certifications from public cloud platforms like AWS/Azure/Google, CCNA, RHCE or Microsoft associateA related technical degree required.\n• Use your technical skills to diagnose complex problems across multiple platforms and vendors before they impact users.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313957/incident-commander-sre/",
+    "id": "salesforce-incident-commander-sre-washington-seattle"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Technician 3, Equipment Engineering",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "1d",
+    "job_description": "• Sr RF / Microwave Test TechnicianlocationsUS, MA, Chelmsford, Elizabethposted onPosted 11 Days AgoR255701Robotics Domain ExpertlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252449CMOS Research Engineer (Life Sciences)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR255391CMP Equipment Engineering TechnicianlocationsUS, OR, Beavertonposted onPosted 21 Days AgoR257081Technician 3, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted TodayR257577Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 18 Days AgoR254260Equipment Engineering Technician 3locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251935Lead RF Hardware EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252164RF Design EngineeringlocationsUS, MA, Chelmsford, Elizabethposted onPosted 25 Days AgoR256072Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 8 Days AgoR251918Device Integration Engineerlocations3 Locationsposted onPosted 30+ Days AgoR254627Senior Engineer, Analog Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR257681Principal Device Technologistlocations2 Locationsposted onPosted 30+ Days AgoR254004Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 28 Days AgoR254049Digital Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR255049Staff Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted YesterdayR257663Senior Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 30+ Days AgoR253361RF Test Technicianlocations2 Locationsposted onPosted 16 Days AgoR254217Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoR255047Digital IC Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 14 Days AgoR254362.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Technician-3--Equipment-Engineering_R257577-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-technician-3-equipment-engineering-us"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Cloud Engineer - TS/SCI with Polygraph",
+    "job_city": "USA VA Herndon",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Cloud-Engineer---TS-SCI-with-Polygraph_RQ209861-1?q=software+engineering",
+    "id": "general-dynamics-cloud-engineer-ts-sci-with-polygraph-usa-va-herndon"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Network Engineer - Top Secret",
+    "job_city": "USA VA Arlington",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer---Top-Secret_RQ210055-1?q=software+engineering",
+    "id": "general-dynamics-network-engineer-top-secret-usa-va-arlington"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Privacy Engineering and Trust",
-    "job_city": "Cambridge",
-    "job_state": "MA",
+    "job_title": "Software Engineer, Protocol Buffers",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Privacy Engineering and Trust",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138093534627406534-software-engineer-privacy-engineering-and-trust?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-privacy-engineering-and-trust-cambridge"
+    "job_description": "software engineering job for the role Software Engineer, Protocol Buffers",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81607086823088838-software-engineer-protocol-buffers?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-protocol-buffers-seattle"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Front End, Material Studio",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Software Engineer, Infrastructure",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Front End, Material Studio",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/76028302262706886-software-engineer-iii-front-end-material-studio?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-front-end-material-studio-new-york"
+    "job_description": "software engineering job for the role Software Engineer, Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/102741349576385222-software-engineer-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-infrastructure-sunnyvale"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Device Software Engineer, Kuiper Government Solutions",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_posted_at": "21h",
+    "job_description": "software engineering job for the role Device Software Engineer, Kuiper Government Solutions",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3123200/device-software-engineer-kuiper-government-solutions",
+    "id": "amazon-device-software-engineer-kuiper-government-solutions-el-segundo"
   }
 ]
