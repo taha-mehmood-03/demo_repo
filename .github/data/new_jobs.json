@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Quantum Hardware Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
+    "employer_name": "Micron Technology",
+    "job_title": "Specialty Gas Design and Operations Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Quantum Hardware Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69136&source=WEB_Search_NA",
-    "id": "ibm-quantum-hardware-engineer-yorktown-heights"
+    "job_description": "• 3–5 years of experience in specialty gas engineering, with at least 2 years coordinating third-party design or handling gas system projects in high-purity industrial, pharmaceutical, or semiconductor environments.\n• Review and verify design work such as P&IDs, gas panel schematics, equipment specifications, and system routing to ensure compliance with project requirements and codes (e.\n• Bachelor’s degree in chemical engineering, mechanical engineering, or a related field.\n• , SEMI S2, NFPA 55, CGA).\n• Perform constructability reviews, risk assessments, and QA/QC checks on third-party designs to identify and resolve issues related to safety, code compliance, or operational performance.\n• Advanced certifications (e.\n• , PE, GAWDA, or hazardous gas safety training) are a plus.\n• Strong knowledge of gas delivery system design, including pressure regulation, gas cabinet/panel design, and hazardous gas monitoring.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-specialty-gas-design-and-operations-engineer-boise"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Technology Lifecycle Services Renewals Intern – Entry Level Sales Program",
-    "job_city": "ship",
+    "employer_name": "Broadcom",
+    "job_title": "RTL IC Design Engineer",
+    "job_city": "USA-Colorado-Colorado Springs-4420 Arrowswest Drive",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Technology Lifecycle Services Renewals Intern – Entry Level Sales Program 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72256&source=WEB_Search_NA",
-    "id": "ibm-technology-lifecycle-services-renewals-intern-entry-level-sales-program-ship"
+    "job_description": "• Senior Hardware System Design EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 3 Days AgoR024089 Senior-Level Technical WriterlocationsCZE-Praha 11 V Parku 2308/8time typeFull timeposted onPosted 3 Days AgoR024063 R&D Principal Engineer SoftwarelocationsARM-Yerevan-Mamikonyantstime typeFull timeposted onPosted 5 Days AgoR023926 Head Of Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted TodayR023902.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R024177-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-rtl-ic-design-engineer-usa-colorado-colorado-springs-4420-arrowswest-drive"
   }
 ]
