@@ -1,82 +1,42 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Software Engineer Apprentice",
+    "job_title": "Printed Circuit Board Technician Apprentice",
     "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Engineer Apprentice",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72695&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-apprentice-austin"
+    "job_description": "software engineering job for the role Printed Circuit Board Technician Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72326&source=WEB_Search_NA",
+    "id": "ibm-printed-circuit-board-technician-apprentice-austin"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Incident Commander SRE",
-    "job_city": "Washington - Seattle",
+    "job_title": "Summer 2026 Intern - Sales Immersion, Financial Services",
+    "job_city": "New York - New York",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• 8+ years in IT operations, incident management, or site reliability work.\n• Proven experience in a 24x7 high availability environment with enterprise systems.\n• Establish impact, evaluate solutions with subject matter experts, and make decisions that balance technical and business needs.\n• Excellent verbal and written communication skills for technical and executive audiences.\n• Experience leading or mentoring technical teams in incident response or operations roles.\n• Experience with cloud platforms (e.\n• Industry certifications from public cloud platforms like AWS/Azure/Google, CCNA, RHCE or Microsoft associateA related technical degree required.\n• Use your technical skills to diagnose complex problems across multiple platforms and vendors before they impact users.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313957/incident-commander-sre/",
-    "id": "salesforce-incident-commander-sre-washington-seattle"
+    "job_description": "• Current Sophomore/rising Junior and current Junior/rising Senior pursuing a Bachelor’s degree with a preferred concentration in Business / Computer Science / Information Systems or equivalent.\n• Strong academic background and performancePreferred prior working experience (can include part-time or over school breaks)Strong communication, networking, and presenting skillsAble to work independently with minimal supervision whilst producing tangible resultsAdaptable to change and enjoys learning in a fast-paced environmentSuperior attention to detailStrategic thinker with a bias toward actionTeam player with a willingness to go above and beyond to deliver excellenceAble to work with collaboration tools: Slack, Google Suite, Quip, Salesforce technologies knowledge a plusLong-term interest in a Software Distribution (Sales/Technical Sales) rolePassion for technology - learning new domains and specialized areas.\n• You don’t have to be a Salesforce expert, but you should be willing to learn about our product, our sales process, and the tools/methodologies Sales need to excel.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Meet and interview individuals from Sales, and supporting departments to understand how the organization is structured and how it works togetherExecute assigned training activitiesCreate and present customized software demonstrations (demos) that could be used for customer presentationsSupport day-to-day operational needs of the teamLearn the sales forecasting processDisplay a strong understanding of Salesforce Values, business acumen, and professionalismPresent a final project to leadership University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Interest in the Financial Services space a plus.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317426/summer-2026-intern-sales-immersion-financial-services/",
+    "id": "salesforce-summer-2026-intern-sales-immersion-financial-services-new-york-new-york"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Technician 3, Equipment Engineering",
+    "employer_name": "Micron Technology",
+    "job_title": "Supply Chain Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "2d",
+    "job_description": "• Category Supplier Manager I, Construction - Global ProcurementBoise, Idaho, United States of AmericaPosted 3 days ago Senior Construction Supply Chain Project ManagerSanand, Gujarat, IndiaPosted 2 months ago Supply Chain ManagerPerai, Pulau Pinang (Penang), MalaysiaPosted 2 months ago Global Facilities Cost Program ManagerSingapore, SingaporePosted 2 months ago Supplier ManagerTaichung City, Taichung City, TaiwanPosted 2 months ago Senior Planning EngineerSanand, Gujarat, IndiaPosted 2 months ago ATSM SUPPLY MANAGER, SMTSanand, Gujarat, IndiaPosted a month ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38635451",
+    "id": "micron-technology-supply-chain-engineer-boise"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "ROCm GPU Communication Libraries Engineer",
     "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "1d",
-    "job_description": "• Sr RF / Microwave Test TechnicianlocationsUS, MA, Chelmsford, Elizabethposted onPosted 11 Days AgoR255701Robotics Domain ExpertlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252449CMOS Research Engineer (Life Sciences)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR255391CMP Equipment Engineering TechnicianlocationsUS, OR, Beavertonposted onPosted 21 Days AgoR257081Technician 3, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted TodayR257577Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 18 Days AgoR254260Equipment Engineering Technician 3locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251935Lead RF Hardware EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252164RF Design EngineeringlocationsUS, MA, Chelmsford, Elizabethposted onPosted 25 Days AgoR256072Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 8 Days AgoR251918Device Integration Engineerlocations3 Locationsposted onPosted 30+ Days AgoR254627Senior Engineer, Analog Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR257681Principal Device Technologistlocations2 Locationsposted onPosted 30+ Days AgoR254004Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 28 Days AgoR254049Digital Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR255049Staff Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted YesterdayR257663Senior Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 30+ Days AgoR253361RF Test Technicianlocations2 Locationsposted onPosted 16 Days AgoR254217Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoR255047Digital IC Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 14 Days AgoR254362.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Technician-3--Equipment-Engineering_R257577-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-technician-3-equipment-engineering-us"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Cloud Engineer - TS/SCI with Polygraph",
-    "job_city": "USA VA Herndon",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Cloud-Engineer---TS-SCI-with-Polygraph_RQ209861-1?q=software+engineering",
-    "id": "general-dynamics-cloud-engineer-ts-sci-with-polygraph-usa-va-herndon"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Network Engineer - Top Secret",
-    "job_city": "USA VA Arlington",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer---Top-Secret_RQ210055-1?q=software+engineering",
-    "id": "general-dynamics-network-engineer-top-secret-usa-va-arlington"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Protocol Buffers",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Protocol Buffers",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81607086823088838-software-engineer-protocol-buffers?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-protocol-buffers-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Infrastructure",
-    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/102741349576385222-software-engineer-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-infrastructure-sunnyvale"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Device Software Engineer, Kuiper Government Solutions",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Device Software Engineer, Kuiper Government Solutions",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3123200/device-software-engineer-kuiper-government-solutions",
-    "id": "amazon-device-software-engineer-kuiper-government-solutions-el-segundo"
+    "job_posted_at": "1d",
+    "job_description": "• Engage with clients and industry partners to deeply understand technical needs, ensuring their satisfaction with tailored solutions that leverage your experience in strategic customer engagements and architectural wins.\n• Collaborate with hardware and software architects, system engineers and business teams in identifying requirements and building roadmaps for future products.\n• Experience architecting and developing communication software solutions for accelerators using RDMA and accelerator-to-accelerator fabrics (eg.\n• Infinity Fabric, UALink), from low-level device drivers and OS internals up through applications and AI/ML frameworksDeep expertise with distributed programming models (MPI, SHMEM), and the implementation and optimization of collective communication algorithmsDeep expertise with RoCE, RDMA, and network topologiesExperience with system software development in C/C++, and GPU software development and parallel programingAnalytical and performance analysis skills Effective communication and problem-solving skills ​Proven history of communication software thought leadership, backed with patents, publications, and participation in industry standards bodies Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering, or relatedAdvanced degrees, such as Master’s or Ph.\n• Are preferred AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Provide deep technical leadership and guidance for GPU communication technologies, define the technical vision and direction for the GPU communication software stack.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/73844/login",
+    "id": "amd-rocm-gpu-communication-libraries-engineer-us"
   }
 ]
