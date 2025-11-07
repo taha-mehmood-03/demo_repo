@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Summer 2026 Intern - Applied Scientist, Optimization",
-    "job_city": "Massachusetts - Boston",
+    "employer_name": "IBM",
+    "job_title": "Quantum Hardware Engineer",
+    "job_city": "Yorktown Heights",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Currently enrolled in a Ph.\n• Strong research experience and foundational knowledge in solving complex optimization problems through mathematical programming or metaheuristics, with an interest in blending mathematical models and machine learning techniques to solve complex industrial problems.\n• Experiences in one or more of the following areas: large-scale forecasting and data-driven decision making.\n• Strong communication and collaboration skills.\n• Org Sustainability Investors Give us your Feedback Experience with online learning or applying Reinforcement Learning (RL) specifically to optimization problems.\n• Prior experience working within cross-functional teams that include data scientists, operations research specialists, and software engineers.\n• Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Program in Operations Research, Applied Mathematics, Computer Science, or equivalent.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317299/summer-2026-intern-applied-scientist-optimization/",
-    "id": "salesforce-summer-2026-intern-applied-scientist-optimization-massachusetts-boston"
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Quantum Hardware Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69136&source=WEB_Search_NA",
+    "id": "ibm-quantum-hardware-engineer-yorktown-heights"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Tooling / Compiler Engineer",
-    "job_city": "US",
-    "job_state": "NC",
+    "employer_name": "IBM",
+    "job_title": "Technology Lifecycle Services Renewals Intern – Entry Level Sales Program",
+    "job_city": "ship",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Strong background in binary instrumentation and performance analysis tools.\n• Experience with compilers.\n• Strong C/C++ programming skills.\n• Experience with wide variety of aspects of tooling technologies in an parallel programming context.\n• Preferably experience with AMD GPUConfirmed understanding of at least one of the following languages: C++, CUDA, OpenMP, OpenCL.\n• Effective communication and problem-solving skills Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Motivating leader with good interpersonal skills Work with AMD’s architecture specialists to improve future products Apply a data minded approach to target optimization efforts Stay informed of software and hardware trends and innovations, especially pertaining to algorithms and architecture Design and develop new groundbreaking AMD technologies Participating in new ASIC and hardware bring ups Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Parallel Programming Models, Languages and Runtime Systems.\n• Good understanding of GPU execution model and architecture.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/73178/login",
-    "id": "amd-tooling-compiler-engineer-us"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Vehicle Operator II, Autonomy Systems Validation",
-    "job_city": "Plymouth",
-    "job_state": "Michigan US",
-    "job_posted_at": "1d",
-    "job_description": "• Attention to detail, excellent written and verbal communication skills and ability to describe events quickly and concisely.\n• Must have a valid driver's license in the state of residence that you will be driving/operating a vehicle.\n• Prior professional automotive driving or autonomous vehicle testing experience.\n• No drug or alcohol related driving incidents in the last 3 years.\n• No more than 1 serious moving violation in the last 3 years.\n• Additional work and tasks as needed by the team.\n• Must be flexible to work overtime as needed.\n• Ability to travel up to 50% Minimum age of 21.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/27344/login",
-    "id": "rivian-vehicle-operator-ii-autonomy-systems-validation-plymouth"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Vehicle Operator II, Autonomy Systems Validation",
-    "job_city": "Tustin",
-    "job_state": "California US",
-    "job_posted_at": "1d",
-    "job_description": "• Attention to detail, excellent written and verbal communication skills and ability to describe events quickly and concisely.\n• Must have a valid driver's license in the state of residence that you will be driving/operating a vehicle.\n• Prior professional automotive driving or autonomous vehicle testing experience.\n• No drug or alcohol related driving incidents in the last 3 years.\n• No more than 1 serious moving violation in the last 3 years.\n• Additional work and tasks as needed by the team.\n• Must be flexible to work overtime as needed.\n• Ability to travel up to 50% Minimum age of 21.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/27340/login",
-    "id": "rivian-vehicle-operator-ii-autonomy-systems-validation-tustin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Firmware Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• ‘Wherever Computing Happens’, we need to enable Arm by providing software solutions that interface higher-level software stacks with the hardware itself.\n• Experience in development and maintenance of product quality firmware with good knowledge of bootloaders and device drivers.\n• Experience in providing support and maintenance of production quality firmware in server segment.\n• Expert in C programming for embedded systems with excellent debugging skills.\n• Server firmware development experience.\n• “Nice To Have” Skills and Experience: Required Skills and Experience: Experienced Professionals.\n• Technology built on Arm is all around us, from industrial and automotive applications, to the IoT, to the desktop and data center.\n• Familiarity with technologies such as RAS, hypervisors, CXL, power management and security.",
-    "job_apply_link": "https://careers.arm.com/job/austin/firmware-engineer/33099/77745466144",
-    "id": "arm-firmware-engineer-austin"
+    "job_description": "software engineering job for the role Technology Lifecycle Services Renewals Intern – Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72256&source=WEB_Search_NA",
+    "id": "ibm-technology-lifecycle-services-renewals-intern-entry-level-sales-program-ship"
   }
 ]
