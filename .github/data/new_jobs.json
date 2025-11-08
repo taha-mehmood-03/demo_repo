@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Developer Intern 2026 (Lansing, MI)",
-    "job_city": "shipLansing",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Developer Intern 2026 (Lansing, MI)",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66529&source=WEB_Search_NA",
-    "id": "ibm-developer-intern-2026-lansing-mi-shiplansing"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Developer Intern 2026 (Monroe, LA)",
-    "job_city": "shipMONROE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Developer Intern 2026 (Monroe, LA)",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66521&source=WEB_Search_NA",
-    "id": "ibm-developer-intern-2026-monroe-la-shipmonroe"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Developer Intern 2026 - (Baton Rouge, LA)",
-    "job_city": "shipBATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Developer Intern 2026 - (Baton Rouge, LA)",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66509&source=WEB_Search_NA",
-    "id": "ibm-developer-intern-2026-baton-rouge-la-shipbaton-rouge"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Technician 3, Equipment Engineering, Thin Films",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "1d",
-    "job_description": "• Sr RF / Microwave Test TechnicianlocationsUS, MA, Chelmsford, Elizabethposted onPosted 11 Days AgoR255701Robotics Domain ExpertlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252449CMOS Research Engineer (Life Sciences)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR255391CMP Equipment Engineering TechnicianlocationsUS, OR, Beavertonposted onPosted 21 Days AgoR257081Technician 3, Equipment Engineering, Thin FilmslocationsUS, OR, Beavertonposted onPosted TodayR257577Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 18 Days AgoR254260Equipment Engineering Technician 3locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251935Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 8 Days AgoR251918Lead RF Hardware EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252164RF Design EngineeringlocationsUS, MA, Chelmsford, Elizabethposted onPosted 25 Days AgoR256072Device Integration Engineerlocations3 Locationsposted onPosted 30+ Days AgoR254627Senior Engineer, Analog Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR257681Principal Device Technologistlocations2 Locationsposted onPosted 30+ Days AgoR254004Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 28 Days AgoR254049Digital Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR255049Staff Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted YesterdayR257663Senior Engineer, Product EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30 Days AgoR255267Senior Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 30+ Days AgoR253361RF Test Technicianlocations2 Locationsposted onPosted 16 Days AgoR254217Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoR255047.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Technician-3--Equipment-Engineering_R257577-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-technician-3-equipment-engineering-thin-films-us"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Cloud Engineer - TS/SCI with Polygraph",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Cloud-Engineer---TS-SCI-with-Polygraph_RQ210170-1?q=software+engineering",
-    "id": "general-dynamics-cloud-engineer-ts-sci-with-polygraph-2-locations"
-  },
-  {
     "employer_name": "Apple",
-    "job_title": "Software Development Engineer - Test",
-    "job_city": "San Diego",
+    "job_title": "Software Engineer, Payments",
+    "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBS in Computer Science or equivalentExperience developing in Python, Java, Swift or C/C++ or Objective-C,Experience in software development lifecycle and development tools like gitExperience in testing and automating APIs, UIs and Native Applications for Mobile and/or Desktop.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200630980-3543/software-development-engineer-test?team=SFTWR",
-    "id": "apple-software-development-engineer-test-san-diego"
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsA commitment to continuous learning and improvement, and curiosity for new technologies, techniques and patterns in pursuit of engineering excellence.\n• No formal degree is required.\n• What matters most is your mindset, your initiative, and your ability to apply your skills to real-world applications.\n• A solid understanding of distributed systems fundamentals.\n• An ability to communicate thoughtfully and clearly, both verbally and in writing, to discuss complex technical concepts with diverse audiences, including global teams and external partners.\n• A track record of building and sustaining healthy long-term relationships within your team, and beyond its boundaries.\n• The tenacity and perseverance to drive a complex project all the way from conception to production.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630986-0836/software-engineer-payments?team=SFTWR",
+    "id": "apple-software-engineer-payments-cupertino"
   }
 ]
