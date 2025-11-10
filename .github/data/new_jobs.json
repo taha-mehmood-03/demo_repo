@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "RDA Application Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "5d",
-    "job_description": "• Director of PROCT ADT Module EngineeringTaichung City, Taichung City, Taiwan + 2 morePosted 2 years ago 3-5 years in leadership roles managing team performance with relevant semiconductor working experience Masters/bachelor’s degree in engineering or relevant field of experience 1+ years of experience in PAC (pump, abatement, chiller) Chemical engineering degree/background Less than 2 years Develop and supervise metrics for benchmarking Fabs performance, collaborate with Fabs and other functional areas to develop strategic objectives with agreed business processes, standardize PAC equipment, and lead multi-functional initiatives or enabling projects that support company objectives.\n• Define and drive environmental sustainability strategy across network to achieve corporate environmental sustainability goals.\n• Provide tactical support and coordination with the fab team to resolve key issues upon request.\n• Snr Manager, Operations Central Team(OCT) MTE Pump, Abatement and Chiller(PAC)Taichung City, Taichung City, Taiwan + 2 morePosted 7 months ago Senior Manager/ Manager, Advanced Packaging Technology Development - Package IntegrationSingapore, SingaporePosted 2 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38753470",
-    "id": "micron-technology-rda-application-engineer-boise"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Field Applications Engineer",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "6d",
-    "job_description": "• Equipment EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257320Manufacturing EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR252696Field Applications EngineerlocationsUS, NC, Durhamposted onPosted 6 Days AgoR257839Sr RF / Microwave Test TechnicianlocationsUS, MA, Chelmsford, Elizabethposted onPosted 13 Days AgoR255701Epitaxy Technician 5, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251177Equipment Engineering Tech.\n• 4, Diffusion / WetlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252121Equipment Engineering Tech 4, Diffusion / Wet EtchlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252128Robotics Domain ExpertlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252449CMOS Research Engineer (Life Sciences)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR255391CMP Equipment Engineering TechnicianlocationsUS, OR, Beavertonposted onPosted 23 Days AgoR257081Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR254260Senior Engineer, Analog Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR257681Technician 3, Equipment Engineering, Thin FilmslocationsUS, OR, Beavertonposted onPosted 2 Days AgoR257577Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR254049Product EngineerlocationsUS, NC, Durhamposted onPosted 24 Days AgoR255656Equipment Engineering Technician 3locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251935Senior Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 30+ Days AgoR253361Staff Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR257663Manufacturing EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR255202Senior Engineer, Product Engineering (Mfg.\n• )locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR252068.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Field-Applications-Engineer_R257839?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-applications-engineer-us"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - FoundationDB",
-    "job_city": "San Francisco",
+    "employer_name": "Broadcom",
+    "job_title": "Systems Applications Engineer",
+    "job_city": "Taiwan-Taipei-Neihu-Ruiguang Road",
     "job_state": "US",
-    "job_posted_at": "4d",
-    "job_description": "• Minimum Qualifications3+ years of experience designing, implementing, and operating distributed systemsIndustry experience developing software in C++ and large software systemsExperience in performance benchmarking, debugging, and tuning distributed systemsBachelor's Degree in an engineering-related field or equivalent related experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200630616-3577/software-engineer-foundationdb?team=SFTWR",
-    "id": "apple-software-engineer-foundationdb-san-francisco"
+    "job_posted_at": "1d",
+    "job_description": "• Senior-Level Technical WriterlocationsCZE-Praha 11 V Parku 2308/8time typeFull timeposted onPosted 7 Days AgoR024063 Head Of Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 4 Days AgoR023902.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Taiwan-Taipei-Neihu-Ruiguang-Road/Systems-Applications-Engineer_R024185?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-systems-applications-engineer-taiwan-taipei-neihu-ruiguang-road"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Core Data Processing Infrastructure, Conduit",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Core Data Processing Infrastructure, Conduit",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/99378454608126662-software-engineer-core-data-processing-infrastructure-conduit?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-core-data-processing-infrastructure-conduit-sunnyvale"
   }
 ]
