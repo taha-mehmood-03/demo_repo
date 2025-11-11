@@ -1,72 +1,82 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern 2026: SVL",
+    "job_city": "shipSan Jose",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Developer Intern 2026: SVL",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72366&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-2026-svl-shipsan-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Designer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Designer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66042&source=WEB_Search_NA",
+    "id": "ibm-entry-level-designer-"
+  },
+  {
     "employer_name": "Salesforce",
-    "job_title": "Summer 2026 Intern - Security Internal Engagement",
+    "job_title": "Summer 2026 Intern - Systems Engineer",
     "job_city": "California - San Francisco",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Strong background in Computer Science, English, Communications, Cyber Security, Engineering Management, or related fieldMust be located in North AmericaExcellent interpersonal and communications skillsExperienced writer/editorAbility to adapt to changing priorities while handling high-volume requests Interest in Cyber SecurityExperience driving communication plans/initiativesAbility to build programs from start to finish that are replicable in the future University Overview Interns New Grads Advanced Degrees Associate Program Manager Drive initiatives for Security including Incident Response, Security Awareness, Security Assurance, Engineering, Product Management, GRC (Governance, Risk and Compliance), Threat Intel, Information Management, and others.\n• Partner with key stakeholders in Security, and across the enterprise, to understand upcoming initiatives and/or changes.\n• Develop integrated communications plans, then execute.\n• Includes drafting key messaging, FAQs, talk tracks and other support materials.\n• Foster employee engagement for the Security Organization through planned activities, communications, and recognition programs.\n• Create memorable, engaging communications programs to drive awareness of key initiatives and inspire employees to take action.\n• Learn to utilize Marketing Cloud, Pardot, Slack, Google Suite, Quip and other creative platforms.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr310974/summer-2026-intern-security-internal-engagement/",
-    "id": "salesforce-summer-2026-intern-security-internal-engagement-california-san-francisco"
+    "job_description": "• You agree to complete a Minimum Background Investigation (MBI) for a Moderate Public Trust position with the U.\n• **Strong background in Computer Science, Computer Engineering, Information Security, or a related technical/analytical disciplineMust be located in North AmericaFundamental knowledge of Python, Golang, and AWS demonstrated through coursework, personal projects, or previous experience.\n• Strong analytical and data visualization skills, with an ability to present complex information clearly and concisely.\n• Excellent communication, collaboration, and interpersonal skills with an ability to articulate thoughts clearly in writing and verbally to technical and non-technical audiences.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences **This candidate must be a U.\n• Due to the citizenship requirements for this role, which supports U.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager Experience with KubernetesFamiliarity with networking.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317430/summer-2026-intern-systems-engineer/",
+    "id": "salesforce-summer-2026-intern-systems-engineer-california-san-francisco"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Embedded Adaptive Hardware Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "• Senior Engineer, Product EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR255267Embedded Adaptive Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR256582Senior Engineer, Test DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR253875Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 27 Days AgoR252697Director, Systems Design/Architecture EngineeringlocationsUS, NC, Durhamposted onPosted 4 Days AgoR255039Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 6 Days AgoR252154Staff Digital Chip Architect and Digital Systems Engineerlocations2 Locationsposted onPosted 30+ Days AgoR255041Engineer, Product Engineering (Prod Dev)locationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR253861MEMS System Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR252004Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR255200Semi Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255209Test Development EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR256376Photolithography Technician 5, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252600Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR255208Equipment Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR255011Manufacturing EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR252696Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR256011Senior Manager, Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR251574Senior Digital Design Engineer _FPGAlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252165Sr.\n• Systems and Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR251086.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Embedded-Adaptive-Hardware-Engineer_R256582?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-embedded-adaptive-hardware-engineer-us"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Chip Fabrication Process Engineer",
-    "job_city": "Malaysia-Penang B 1 & 2",
+    "employer_name": "Salesforce",
+    "job_title": "Sales Development Representative, Nonprofit (Early Career)",
+    "job_city": "Illinois - Chicago",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Head Of Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 4 Days AgoR023902 Entry-Level Embedded Systems Engineerlocations3 Locationstime typeFull timeposted onPosted TodayR024167.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Chip-Fabrication-Process-Engineer_R024088?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-chip-fabrication-process-engineer-malaysia-penang-b-1-2"
+    "job_posted_at": "1h",
+    "job_description": "• The Sales Development Representative will generate new business pipeline and interest through calling on inbound leadsLeverage the use of Salesforce's AI tools to streamline sales workflows, empower the team with timely insights, and articulate the value proposition of our offerings to drive business growthCreate a great first impression for prospects and customers by providing them with a world-class experienceQualify leads ranging from inbound calls, chats, website downloads, content syndication from third party websites, and webinars across all products in the Salesforce Portfolio (Core Products, Marketing Cloud, Slack, Tableau and Mulesoft)Managing a high volume of inbound leads with a strategy on prioritization of your leadsPartnering closely with Account Executives to help move along qualified pipeline through the sales cycleBuilding a point of view on how to help qualify customers needsSpeaking to value and return on investment vs.\n• Technical functionalityLearning how to anticipate and prepare for objectionsResearching and understanding various lines of business and personas Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Strong desire to be in technology salesLong-term interest in a client-facing sales careerSelf-Starter, high energy and positive attitudeCompetitive spirit and the drive for resultsCoachable and Comfortable working in a fast-paced and dynamic environmentSuperior organizational skills and attention to detailExcellent written/verbal communication skills Being part of an International TeamBuild a solid foundation on tech sales and NGO IndustryDevelop strategic partnerships with experienced Account Executives across all lines of business to help generate new businessWork hands-on with Salesforce products and expand your technical knowledge Experiences in NGOs (internship, volunteering)Previous internship or full-time corporate sales experienceB2B software sales experience is a plus University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317525/sales-development-representative-nonprofit-early-career/",
+    "id": "salesforce-sales-development-representative-nonprofit-early-career-illinois-chicago"
   },
   {
-    "employer_name": "Broadcom",
-    "job_title": "Government & Public Sector (India, Bangalore, Remote)",
-    "job_city": "2 Locations",
+    "employer_name": "Salesforce",
+    "job_title": "Solution Engineer, Salesforce Industries",
+    "job_city": "Brazil - Sao Paulo",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Head Of Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 4 Days AgoR023902 Entry-Level Embedded Systems Engineerlocations3 Locationstime typeFull timeposted onPosted TodayR024167.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Government---Public-Sector--India--Bangalore--Remote-_R023975?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-government-public-sector-india-bangalore-remote-2-locations"
+    "job_posted_at": "1h",
+    "job_description": "• Technical Leadership: Act as a deep product and industry expert, teaming with Account Executives to develop sales strategies and solutions that address customer needs in new and existing CG and Retail accounts.\n• Industry Expertise: Understand customer needs through detailed discovery of their industry processes to identify value and challenges addressable by our platform.\n• Feedback Loop: Provide valuable customer feedback to the Product Management and Engineering teams to capture new requirements and enhancements.\n• 8-10+ years of software/business application sales consulting experience.\n• Established and experienced pre-sales professional, ideally with previous experience as a Sales Engineer/Architect for a CRM/AI company or similar technology.\n• Experience in project delivery and working with large groups in pressurized environments to deliver challenging complex proposals, solution designs, and solutions.\n• Solid presentation and communication skills, with the capability to translate business requirements into compelling software demonstrations.\n• Self-management and organizational skills, able to prioritize work based on an evaluation of different requirements.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr315896/solution-engineer-salesforce-industries/",
+    "id": "salesforce-solution-engineer-salesforce-industries-brazil-sao-paulo"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Quality Technician",
-    "job_city": "Mesa",
-    "job_state": "Arizona",
+    "employer_name": "BAE Systems",
+    "job_title": "Secure AI Engineer",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
     "job_posted_at": "1d",
-    "job_description": "• Technical Project LeadlocationsSouthfield, Michigan, USposted onPosted TodayR00213784CNC Programmer SupervisorlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00209942Metallurgical Lab TechnicianlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00213749UI/UX Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190129Group Product Manager - Unified FactorylocationsLowell, Massachusetts, USposted onPosted 5 Days AgoR00213371Manager - Program Qualitylocations2 Locationsposted onPosted 6 Days AgoR00217039Expert, Business Process Optimizationlocations2 Locationsposted onPosted 30+ Days AgoR00198754Account Manager, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00106519Senior UX ResearcherlocationsLowell, Massachusetts, USposted onPosted 5 Days AgoR00202632Quality Auditor 2nd shiftlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00194113Quality Auditor 1st ShiftlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00194112Sr.\n• Material Planning and Logistics Project ManagerlocationsTroy, Michigan, USposted onPosted 13 Days AgoR00216543Tool & Die Journeyman - 2nd & 3rd shiftslocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR00213354Quality TechnicianlocationsMesa, Arizona, USposted onPosted TodayR00218102Controls Technician - 3rd ShiftlocationsAlto, Michigan, USposted onPosted 30+ Days AgoR001981421st shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR002126082nd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR002126103rd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR00212611Maintenance Technician - OFF SHIFTlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00166686Materials SupervisorlocationsBattle Creek, Michigan, USposted onPosted 28 Days AgoR00215194.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Mesa-Arizona-US/Quality-Technician_R00218102?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-quality-technician-mesa"
+    "job_description": "• Android Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 20 Days AgoR0221762 iOS Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 24 Days AgoR0221763 Vulnerability Research Engineer and DeveloperlocationsQuantico, VAposted onPosted 30+ Days AgoR0226452 Vulnerability Researcher, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0222871 Defensive Cyber Operations DirectorlocationsMcLean, VAposted onPosted 30+ Days AgoR0219980 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 25 Days AgoR0227508 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 25 Days AgoR0227510 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 27 Days AgoR0227944 AWS Engineer, SeniorlocationsAshburn, VAposted onPosted 19 Days AgoR0227786.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274?q=software+engineering",
+    "id": "bae-systems-secure-ai-engineer-fort-meade"
   },
   {
-    "employer_name": "RIVIAN",
-    "job_title": "Engineering Intern - Material Flow (Winter 2026 Co-Op Program)",
-    "job_city": "Normal",
-    "job_state": "Illinois US",
+    "employer_name": "BAE Systems",
+    "job_title": "Cyber System Engineer",
+    "job_city": "San Antonio",
+    "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Must be currently pursuing a bachelors, masters degree at an accredited university in Industrial Engineering, Manufacturing Engineering, Supply Chain, Mechanical Engineering, or related field.\n• Experience with AutoCAD, Tableau, or simulation software preferred.\n• Strong analytical and problem-solving skills.\n• Excellent communication and teamwork skills.\n• Proficient in MS Office (Excel, PowerPoint).\n• Familiarity with Lean Manufacturing and material handling principles is a plus.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26996/login",
-    "id": "rivian-engineering-intern-material-flow-winter-2026-co-op-program-normal"
+    "job_description": "• Android Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 20 Days AgoR0221762 iOS Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 24 Days AgoR0221763 Vulnerability Research Engineer and DeveloperlocationsQuantico, VAposted onPosted 30+ Days AgoR0226452 Vulnerability Researcher, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0222871 Defensive Cyber Operations DirectorlocationsMcLean, VAposted onPosted 30+ Days AgoR0219980 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 25 Days AgoR0227508 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 25 Days AgoR0227510 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 27 Days AgoR0227944 AWS Engineer, SeniorlocationsAshburn, VAposted onPosted 19 Days AgoR0227786.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Cyber-System-Engineer_R0229286?q=software+engineering",
+    "id": "bae-systems-cyber-system-engineer-san-antonio"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Software Defined Network Control Plane, Project Kuiper",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "2h",
-    "job_description": "software engineering job for the role Software Development Engineer II, Software Defined Network Control Plane, Project Kuiper",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3124108/software-development-engineer-ii-software-defined-network-control-plane-project-kuiper",
-    "id": "amazon-software-development-engineer-ii-software-defined-network-control-plane-project-kuiper-redmond"
+    "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Available in one of 183 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Explore ABB Life at ABB Diversity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015630/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-available-in-one-of-183-locations"
   }
 ]
