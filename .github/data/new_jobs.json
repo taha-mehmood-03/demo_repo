@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Power Firmware Developer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Power Firmware Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72278&source=WEB_Search_NA",
+    "id": "ibm-power-firmware-developer-"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Software Engineer – Frontend",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 8 Days Ago33026Software Engineer – Frontendlocations2 Locationsposted onPosted Today33737AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 15 Days Ago32672Senior Software Engineer – Frontendlocations2 Locationsposted onPosted Yesterday33727Software Engineer-Mid – Backendlocations2 Locationsposted onPosted Yesterday33736Software Engineer-Senior / Lead – Backendlocations2 Locationsposted onPosted Yesterday33725Quality Assurance Software Testerlocations2 Locationsposted onPosted Yesterday33751SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31299AWS DevOps Engineerlocations2 Locationsposted onPosted 8 Days Ago32100AWS DevOps Engineerlocations2 Locationsposted onPosted 5 Days Ago32930Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 4 Days Ago33846Software Testing ManagerlocationsUS - VA, McLeanposted onPosted 7 Days Ago33642Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 6 Days Ago33763CyberArk Engineerlocations2 Locationsposted onPosted Today33797Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32174IT Endpoint Engineerlocations6 Locationsposted onPosted 12 Days Ago33109DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 30+ Days Ago32570Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 13 Days Ago33432.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Software-Engineer---Frontend_33737?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-software-engineer-frontend-2-locations"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "CyberArk Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 8 Days Ago33026Software Engineer – Frontendlocations2 Locationsposted onPosted Today33737AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 15 Days Ago32672Senior Software Engineer – Frontendlocations2 Locationsposted onPosted Yesterday33727Software Engineer-Mid – Backendlocations2 Locationsposted onPosted Yesterday33736Software Engineer-Senior / Lead – Backendlocations2 Locationsposted onPosted Yesterday33725Quality Assurance Software Testerlocations2 Locationsposted onPosted Yesterday33751SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31299AWS DevOps Engineerlocations2 Locationsposted onPosted 8 Days Ago32100AWS DevOps Engineerlocations2 Locationsposted onPosted 5 Days Ago32930Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 4 Days Ago33846Software Testing ManagerlocationsUS - VA, McLeanposted onPosted 7 Days Ago33642Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 6 Days Ago33763CyberArk Engineerlocations2 Locationsposted onPosted Today33797Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32174IT Endpoint Engineerlocations6 Locationsposted onPosted 12 Days Ago33109DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 30+ Days Ago32570Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 13 Days Ago33432.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/CyberArk-Engineer_33797?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-cyberark-engineer-2-locations"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "3D Graphics Software Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• In-depth knowledge and experience with Direct3D 12 (D3D12) and/or Vulkan APIs.\n• Experience with graphics debuggers such as PIX and RenderDoc.\n• Experience with game development or real-time rendering applications.\n• Excellent communication skills and ability to work collaboratively in a team environment.\n• Bachelor’s or Master’s degree in Computer/Software Engineering, Computer Science, or related technical discipline AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Design and develop graphics tools that analyze and process D3D12 & Vulkan workloads.\n• Develop techniques for analyzing how different game engines leverage graphics APIs.\n• Investigate and resolve complex graphics issues, utilizing deep technical expertise in both APIs.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/73427/login",
+    "id": "amd-3d-graphics-software-engineer-us"
+  }
+]
