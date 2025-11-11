@@ -1,42 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Power Firmware Developer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Power Firmware Developer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72278&source=WEB_Search_NA",
-    "id": "ibm-power-firmware-developer-"
-  },
-  {
     "employer_name": "Guidehouse",
-    "job_title": "Software Engineer – Frontend",
+    "job_title": "Quality Assurance (QA) Tester",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 8 Days Ago33026Software Engineer – Frontendlocations2 Locationsposted onPosted Today33737AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 15 Days Ago32672Senior Software Engineer – Frontendlocations2 Locationsposted onPosted Yesterday33727Software Engineer-Mid – Backendlocations2 Locationsposted onPosted Yesterday33736Software Engineer-Senior / Lead – Backendlocations2 Locationsposted onPosted Yesterday33725Quality Assurance Software Testerlocations2 Locationsposted onPosted Yesterday33751SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31299AWS DevOps Engineerlocations2 Locationsposted onPosted 8 Days Ago32100AWS DevOps Engineerlocations2 Locationsposted onPosted 5 Days Ago32930Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 4 Days Ago33846Software Testing ManagerlocationsUS - VA, McLeanposted onPosted 7 Days Ago33642Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 6 Days Ago33763CyberArk Engineerlocations2 Locationsposted onPosted Today33797Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32174IT Endpoint Engineerlocations6 Locationsposted onPosted 12 Days Ago33109DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 30+ Days Ago32570Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 13 Days Ago33432.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Software-Engineer---Frontend_33737?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-software-engineer-frontend-2-locations"
+    "job_description": "• Enclave Program ManagerlocationsUS - MD, Bethesdaposted onPosted 13 Days Ago33433Program Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 13 Days Ago33494Linkage Project ManagerlocationsUS - MD, Bethesdaposted onPosted 5 Days Ago33461Senior Service Desk Engineerlocations2 Locationsposted onPosted 26 Days Ago29910Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31179Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 30+ Days Ago31777Senior Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 30+ Days Ago31753Senior Servicenow DeveloperlocationsIN - Chennaiposted onPosted 15 Days Ago33257ServiceNow ArchitectlocationsGH Office: Chennai, India (Keppel)posted onPosted 15 Days Ago33251Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 30+ Days Ago31229AI Architectlocations4 Locationsposted onPosted 30+ Days Ago31443Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 29 Days Ago30536Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32206Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 5 Days Ago32590Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32207Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32547Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 30+ Days Ago32512Technology Account Lead, HealthcarelocationsUS - Remote (Any location)posted onPosted 14 Days Ago32848Palantir Full Stack Developer - Senior Consultantlocations4 Locationsposted onPosted Yesterday33859Quality Assurance (QA) Testerlocations2 Locationsposted onPosted Today33820.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Quality-Assurance--QA--Tester_33820?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-quality-assurance-qa-tester-2-locations"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "CyberArk Engineer",
-    "job_city": "2 Locations",
+    "employer_name": "Apple",
+    "job_title": "Linux Platform Software Engineer",
+    "job_city": "Sunnyvale",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 8 Days Ago33026Software Engineer – Frontendlocations2 Locationsposted onPosted Today33737AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 15 Days Ago32672Senior Software Engineer – Frontendlocations2 Locationsposted onPosted Yesterday33727Software Engineer-Mid – Backendlocations2 Locationsposted onPosted Yesterday33736Software Engineer-Senior / Lead – Backendlocations2 Locationsposted onPosted Yesterday33725Quality Assurance Software Testerlocations2 Locationsposted onPosted Yesterday33751SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31299AWS DevOps Engineerlocations2 Locationsposted onPosted 8 Days Ago32100AWS DevOps Engineerlocations2 Locationsposted onPosted 5 Days Ago32930Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 4 Days Ago33846Software Testing ManagerlocationsUS - VA, McLeanposted onPosted 7 Days Ago33642Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 6 Days Ago33763CyberArk Engineerlocations2 Locationsposted onPosted Today33797Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32174IT Endpoint Engineerlocations6 Locationsposted onPosted 12 Days Ago33109DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 30+ Days Ago32570Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 13 Days Ago33432.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/CyberArk-Engineer_33797?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-cyberark-engineer-2-locations"
+    "job_posted_at": "19h",
+    "job_description": "• Minimum QualificationsExperience in infrastructure automation, with a focus on configuration management tools.\n• Experience with configuration management tools (e.\n• Experience with build systems such as Jenkins or Rio.\n• Understanding of software development principles and the software development lifecycle.\n• Familiarity with release engineering principles and practices, including GitFlow branching.\n• Proficiency in at least one object orientated scripting language, such as Python or Go.\n• , Puppet, Ansible, Chef)Understanding of Linux system administration and networking concepts.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625128-3956/linux-platform-software-engineer?team=SFTWR",
+    "id": "apple-linux-platform-software-engineer-sunnyvale"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "3D Graphics Software Engineer",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "Arm",
+    "job_title": "3DIC Integration Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
     "job_posted_at": "1d",
-    "job_description": "• In-depth knowledge and experience with Direct3D 12 (D3D12) and/or Vulkan APIs.\n• Experience with graphics debuggers such as PIX and RenderDoc.\n• Experience with game development or real-time rendering applications.\n• Excellent communication skills and ability to work collaboratively in a team environment.\n• Bachelor’s or Master’s degree in Computer/Software Engineering, Computer Science, or related technical discipline AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Design and develop graphics tools that analyze and process D3D12 & Vulkan workloads.\n• Develop techniques for analyzing how different game engines leverage graphics APIs.\n• Investigate and resolve complex graphics issues, utilizing deep technical expertise in both APIs.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/73427/login",
-    "id": "amd-3d-graphics-software-engineer-us"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/3dic-integration-engineer/33099/88312481504",
+    "id": "arm-3dic-integration-engineer-san-diego"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Dev Engineer, Antenna Calibration, Kuiper",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Dev Engineer, Antenna Calibration, Kuiper",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3124596/software-dev-engineer-antenna-calibration-kuiper",
+    "id": "amazon-software-dev-engineer-antenna-calibration-kuiper-redmond"
   }
 ]
