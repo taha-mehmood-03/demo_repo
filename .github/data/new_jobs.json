@@ -1,52 +1,72 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Corporate Counsel, Employment & Labor",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 5+ years of legal practice in employment law.\n• Experience providing employment law advice, including practical applications and issue-spotting.\n• Experience in employment litigation in one or more states, including California, Georgia, Illinois, Indiana, New York, and/or Washington.\n• Experience responding to federal and state/local agency charges.\n• Experience preparing employment policies and training materials.\n• Experience supporting multi-jurisdictional projects.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 1+ year in-house experience (this experience could be secondment-based).\n• Experience providing advice directly to clients.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317213/corporate-counsel-employment-labor/",
-    "id": "salesforce-corporate-counsel-employment-labor-california-san-francisco"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "ASIC Design Automation Engineer",
-    "job_city": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern 2026: Lowell",
+    "job_city": "shipLOWELL",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Principal Engineer, VCF Cluster Management TeamlocationsUSA-WA-Bellevue - 108th Avetime typeFull timeposted onPosted TodayR023420 Head Of Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 5 Days AgoR023902 Entry-Level Embedded Systems Engineerlocations3 Locationstime typeFull timeposted onPosted YesterdayR024167 Senior R&D Software EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted YesterdayR024204.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design-Automation-Engineer_R024234?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-asic-design-automation-engineer-usa-colorado-fort-collins-4380-ziegler-road"
+    "job_description": "software engineering job for the role Software Developer Intern 2026: Lowell",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72996&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-2026-lowell-shiplowell"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Vehicle Verification Engineering Student",
-    "job_city": "Troy",
-    "job_state": "Michigan",
-    "job_posted_at": "1d",
-    "job_description": "• Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 5 Days AgoR00213782Hardware Test EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213786Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00209882Foam Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 29 Days AgoR00214219Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 8 Days AgoR00218232Manufacturing Process EngineerlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00200517Deployment Engineer-AMRlocationsTroy, Michigan, USposted onPosted 8 Days AgoR00217971Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 25 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Manufacturing Engineer, EquipmentlocationsMesa, Arizona, USposted onPosted 12 Days AgoR00218006Supplier Quality EngineerlocationsShelby Twp, Michigan, USposted onPosted 29 Days AgoR00211821Supplier Quality EngineerlocationsShelby Twp, Michigan, USposted onPosted 29 Days AgoR00211822Advanced Quality EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00204172Engineer, Quality-1locationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00209066Student - Engineering Object FusionlocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00207379Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted TodayR00219364Process Development Engineer - AssemblylocationsTroy, Michigan, USposted onPosted 25 Days AgoR00203326Senior Electrical Hardware EngineerlocationsGrand Rapids, Michigan, USposted onPosted 30+ Days AgoR00210039Testing and Validation EngineerlocationsTroy, Michigan, USposted onPosted 19 Days AgoR00216769Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 28 Days AgoR00164195.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Vehicle-Verification-Engineering-Student_R00219364?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-vehicle-verification-engineering-student-troy"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Prototype Manufacturing Engineer",
-    "job_city": "Plymouth",
-    "job_state": "Michigan US",
-    "job_posted_at": "1d",
-    "job_description": "• Prior experience in manufacturing or a lab environment is preferred.\n• High school diploma or GED required.\n• Technical certification, bachelor or associate degree preferred.\n• Experience with CAE/FEA software to simulate a design’s structural performance when under loads.\n• Advanced CAD skills (e.\n• , Catia/ 3D Experience Preferred, Autodesk Fusion) Demonstrated ability to work with tools and complete hands on tasks.\n• 3D Scanning Software experience is a plus.\n• Excellent communication skills.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/27575/login",
-    "id": "rivian-prototype-manufacturing-engineer-plymouth"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Compute Runtime Software Engineer",
-    "job_city": "Seattle",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer 2026: Lowell",
+    "job_city": "LOWELL",
     "job_state": "US",
-    "job_posted_at": "2h",
-    "job_description": "• Minimum QualificationsBachelor’s Degree in Computer Science, or equivalent related experience.\n• At least 5+ years of software design and development experience in infrastructure engineering (compute, storage and network virtualization) with an emphasis on micro-services architectures and containerizationAdvanced programming language proficiency in C, C++, Swift or Go, with a track record of designing and developing high performance, secured, scalable and reliable systemsHands-on experience with some or all of the following topics: Linux containerization, Linux filesystems, Image distribution, Content storage, Kernel and container securityLove open source and collaboration.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200631573-3337/compute-runtime-software-engineer?team=SFTWR",
-    "id": "apple-compute-runtime-software-engineer-seattle"
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Software Developer 2026: Lowell",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73011&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-2026-lowell-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern 2026 (Buffalo, NY)",
+    "job_city": "shipBuffalo",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Data Scientist Intern 2026 (Buffalo, NY)",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66495&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-2026-buffalo-ny-shipbuffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern 2026 (Lansing, MI)",
+    "job_city": "shipLansing",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Data Scientist Intern 2026 (Lansing, MI)",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71530&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-2026-lansing-mi-shiplansing"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern 2026 (Baton Rouge, LA)",
+    "job_city": "shipBATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Data Scientist Intern 2026 (Baton Rouge, LA)",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66490&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-2026-baton-rouge-la-shipbaton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Supply Chain Operations Professional",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Supply Chain Operations Professional  2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73374&source=WEB_Search_NA",
+    "id": "ibm-entry-level-supply-chain-operations-professional-"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Technical Support Representative (z/VM)",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Technical Support Representative (z/VM)",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73403&source=WEB_Search_NA",
+    "id": "ibm-entry-level-technical-support-representative-z-vm-poughkeepsie"
   }
 ]
