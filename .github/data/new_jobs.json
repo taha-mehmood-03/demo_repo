@@ -1,122 +1,52 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Intern Austin",
-    "job_city": "shipAustin",
+    "employer_name": "Salesforce",
+    "job_title": "Corporate Counsel, Employment & Labor",
+    "job_city": "California - San Francisco",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Developer Intern Austin 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72308&source=WEB_Search_NA",
-    "id": "ibm-software-developer-intern-austin-shipaustin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Benchmarking Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Benchmarking Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73148&source=WEB_Search_NA",
-    "id": "ibm-benchmarking-engineer-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Ecosystem Engineer Intern",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Ecosystem Engineer Intern",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72057&source=WEB_Search_NA",
-    "id": "ibm-ecosystem-engineer-intern-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry-Level Developer Advocate – AI & Open Source",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry-Level Developer Advocate – AI & Open Source",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71789&source=WEB_Search_NA",
-    "id": "ibm-entry-level-developer-advocate-ai-open-source-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Competitive Strategist",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Competitive Strategist",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73146&source=WEB_Search_NA",
-    "id": "ibm-competitive-strategist-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer Engineer Intern",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Hardware Developer Engineer Intern",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73089&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-engineer-intern-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hardware Developer Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Hardware Developer Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73100&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-engineer-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sales Development Representative – Data Platform",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Sales Development Representative – Data Platform",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72021&source=WEB_Search_NA",
-    "id": "ibm-sales-development-representative-data-platform-austin"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Photolithography Technician 5, Equipment Engineering",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "1d",
-    "job_description": "• Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 28 Days AgoR252697Principal Systems Applications EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR255566Engineer, Product Engineering (Prod Dev)locationsUS, MA, Chelmsford, Elizabethposted onPosted 20 Days AgoR253861Embedded Adaptive Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR256582Senior Engineer, Test DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR253875Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 7 Days AgoR252154Manufacturing EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR252696Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR255200Photolithography Technician 5, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted TodayR252600Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR255208Equipment Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR255011Director, Systems Design/Architecture EngineeringlocationsUS, NC, Durhamposted onPosted 5 Days AgoR255039Semi Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255209Staff Digital Chip Architect and Digital Systems Engineerlocations2 Locationsposted onPosted 30+ Days AgoR255041Test Development EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR256376Equipment EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257320Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254049MEMS System Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 18 Days AgoR252004Senior Manager, Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR251574Senior Digital Design Engineer _FPGAlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252165.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Photolithography-Technician-5--Equipment-Engineering_R252600?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-photolithography-technician-5-equipment-engineering-us"
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 5+ years of legal practice in employment law.\n• Experience providing employment law advice, including practical applications and issue-spotting.\n• Experience in employment litigation in one or more states, including California, Georgia, Illinois, Indiana, New York, and/or Washington.\n• Experience responding to federal and state/local agency charges.\n• Experience preparing employment policies and training materials.\n• Experience supporting multi-jurisdictional projects.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 1+ year in-house experience (this experience could be secondment-based).\n• Experience providing advice directly to clients.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317213/corporate-counsel-employment-labor/",
+    "id": "salesforce-corporate-counsel-employment-labor-california-san-francisco"
   },
   {
     "employer_name": "Broadcom",
-    "job_title": "Outbound Product Management",
-    "job_city": "CAN-Waterloo Kumpf Drive",
+    "job_title": "ASIC Design Automation Engineer",
+    "job_city": "USA-Colorado-Fort Collins-4380 Ziegler Road",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Head Of Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 5 Days AgoR023902 Entry-Level Embedded Systems Engineerlocations3 Locationstime typeFull timeposted onPosted YesterdayR024167 Senior R&D Software EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted YesterdayR024204.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/CAN-Waterloo-Kumpf-Drive/Outbound-Product-Management_R024145-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-outbound-product-management-can-waterloo-kumpf-drive"
+    "job_description": "• Principal Engineer, VCF Cluster Management TeamlocationsUSA-WA-Bellevue - 108th Avetime typeFull timeposted onPosted TodayR023420 Head Of Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 5 Days AgoR023902 Entry-Level Embedded Systems Engineerlocations3 Locationstime typeFull timeposted onPosted YesterdayR024167 Senior R&D Software EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted YesterdayR024204.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design-Automation-Engineer_R024234?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-asic-design-automation-engineer-usa-colorado-fort-collins-4380-ziegler-road"
   },
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Systems Application Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "Magna International",
+    "job_title": "Vehicle Verification Engineering Student",
+    "job_city": "Troy",
+    "job_state": "Michigan",
     "job_posted_at": "1d",
-    "job_description": "• Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2502955Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500457Systems Application EngineerlocationsSanta Clara, CAposted onPosted Today2501748Firmware Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2503452Firmware Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted Today2503482Senior Staff Engineer, Advanced Package Technology Development & DesignlocationsWestlake Village, CAposted onPosted Today2503426Principal Hardware Engineer, OpticslocationsSanta Clara, CAposted onPosted Today2503371Application Engineering Intern - Master's Degreelocations2 Locationsposted onPosted Today2502257Principal Engineer, Hardware Systems & Silicon ValidationlocationsIrvine, CAposted onPosted Yesterday2503253System Validation Intern - Master's DegreelocationsSanta Clara, CAposted onPosted Yesterday2503456Foundry Technology - NPI & Yield Intern - Master's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502722Demand Planning Analyst Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502273Electrical Hardware Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502467Senior Staff Test Engineer (Optical Module)locationsWestlake Village, CAposted onPosted Yesterday2503222Senior Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503283Staff Design EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503342Director of Product Management AI System Management and SecuritylocationsSanta Clara, CAposted onPosted Yesterday2503353Senior Director Product Marketing - DCIlocationsSanta Clara, CAposted onPosted 4 Days Ago2500660Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2501552.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer_2501748-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-systems-application-engineer-santa-clara"
+    "job_description": "• Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 5 Days AgoR00213782Hardware Test EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213786Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00209882Foam Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 29 Days AgoR00214219Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 8 Days AgoR00218232Manufacturing Process EngineerlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00200517Deployment Engineer-AMRlocationsTroy, Michigan, USposted onPosted 8 Days AgoR00217971Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 25 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Manufacturing Engineer, EquipmentlocationsMesa, Arizona, USposted onPosted 12 Days AgoR00218006Supplier Quality EngineerlocationsShelby Twp, Michigan, USposted onPosted 29 Days AgoR00211821Supplier Quality EngineerlocationsShelby Twp, Michigan, USposted onPosted 29 Days AgoR00211822Advanced Quality EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00204172Engineer, Quality-1locationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00209066Student - Engineering Object FusionlocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00207379Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted TodayR00219364Process Development Engineer - AssemblylocationsTroy, Michigan, USposted onPosted 25 Days AgoR00203326Senior Electrical Hardware EngineerlocationsGrand Rapids, Michigan, USposted onPosted 30+ Days AgoR00210039Testing and Validation EngineerlocationsTroy, Michigan, USposted onPosted 19 Days AgoR00216769Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 28 Days AgoR00164195.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Vehicle-Verification-Engineering-Student_R00219364?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-vehicle-verification-engineering-student-troy"
+  },
+  {
+    "employer_name": "RIVIAN",
+    "job_title": "Prototype Manufacturing Engineer",
+    "job_city": "Plymouth",
+    "job_state": "Michigan US",
+    "job_posted_at": "1d",
+    "job_description": "• Prior experience in manufacturing or a lab environment is preferred.\n• High school diploma or GED required.\n• Technical certification, bachelor or associate degree preferred.\n• Experience with CAE/FEA software to simulate a design’s structural performance when under loads.\n• Advanced CAD skills (e.\n• , Catia/ 3D Experience Preferred, Autodesk Fusion) Demonstrated ability to work with tools and complete hands on tasks.\n• 3D Scanning Software experience is a plus.\n• Excellent communication skills.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/27575/login",
+    "id": "rivian-prototype-manufacturing-engineer-plymouth"
   },
   {
     "employer_name": "Apple",
-    "job_title": "System Software Engineer",
+    "job_title": "Compute Runtime Software Engineer",
     "job_city": "Seattle",
     "job_state": "US",
-    "job_posted_at": "23h",
-    "job_description": "• Minimum Qualifications4+ years of software engineering experienceProficiency in one of C/C++, Obj-C, SwiftStrong knowledge of OS architecture, and low-level system components.\n• Passion for software architecture, APIs, and high performance extensible softwareExcellent communication skillsCreative, collaborative, and product-focusedSolid understanding of Linux or Apple OS system programming, including process management, IPC, signals, and daemon lifecycle.\n• Bachelors or Masters in Computer Science, Computer Engineering, or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200631589-3337/system-software-engineer?team=SFTWR",
-    "id": "apple-system-software-engineer-seattle"
+    "job_posted_at": "2h",
+    "job_description": "• Minimum QualificationsBachelor’s Degree in Computer Science, or equivalent related experience.\n• At least 5+ years of software design and development experience in infrastructure engineering (compute, storage and network virtualization) with an emphasis on micro-services architectures and containerizationAdvanced programming language proficiency in C, C++, Swift or Go, with a track record of designing and developing high performance, secured, scalable and reliable systemsHands-on experience with some or all of the following topics: Linux containerization, Linux filesystems, Image distribution, Content storage, Kernel and container securityLove open source and collaboration.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200631573-3337/compute-runtime-software-engineer?team=SFTWR",
+    "id": "apple-compute-runtime-software-engineer-seattle"
   }
 ]
