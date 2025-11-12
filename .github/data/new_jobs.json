@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Broadcom",
+    "job_title": "Junior Firmware Engineer - NIC Products",
+    "job_city": "USA-NC-Durham-Swabia Court-Suite 400",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Principal Engineer, VCF Cluster Management TeamlocationsUSA-WA-Bellevue - 108th Avetime typeFull timeposted onPosted YesterdayR023420 Junior Firmware Engineer - NIC ProductslocationsUSA-NC-Durham-Swabia Court-Suite 400time typeFull timeposted onPosted TodayR024193 Head Of Kubernetes Application Engineeringlocations6 Locationstime typeFull timeposted onPosted 6 Days AgoR023902 Entry-Level Embedded Systems Engineerlocations3 Locationstime typeFull timeposted onPosted 2 Days AgoR024167 Senior R&D Software EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted 2 Days AgoR024204.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Durham-Swabia-Court-Suite-400/Junior-Firmware-Engineer---NIC-Products_R024193?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-junior-firmware-engineer-nic-products-usa-nc-durham-swabia-court-suite-400"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Google Workspace",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100795424448619206-software-engineer-iii-full-stack-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-full-stack-google-workspace-raleigh"
+  }
+]
