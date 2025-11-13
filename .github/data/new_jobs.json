@@ -1,72 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hire Remote Technical Support - AI and Data Science Engineer and Support",
-    "job_city": "",
-    "job_state": "United States",
+    "employer_name": "Dell",
+    "job_title": "Graphics & NPU Technologist (Client Solutions - Desktop & PC Product Portfolio - AI PC)",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Hire  Remote Technical Support - AI and Data Science Engineer and Support 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73386&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hire-remote-technical-support-ai-and-data-science-engineer-and-support-"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "ServiceNow Developer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Full Stack Big Data Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220917 Full Stack Cloud Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220915 User Interface Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0227236 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0225767 SharePoint Developer, SeniorlocationsBethesda, MDposted onPosted 30+ Days AgoR0226248 Back End Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220919 Front End Engineer, Seniorlocations4 Locationsposted onPosted 7 Days AgoR0229202 Full Stack Developer, LeadlocationsMcLean, VAposted onPosted 15 Days AgoR0225397.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/ServiceNow-Developer_R0223982-1?q=software+engineering",
-    "id": "bae-systems-servicenow-developer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Linux Engineer",
-    "job_city": "Lexington Park",
-    "job_state": "MD",
-    "job_posted_at": "1d",
-    "job_description": "• Software Developer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 15 Days AgoR0228920 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 28 Days AgoR0227508 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 28 Days AgoR0227510 Integration Engineer, LeadlocationsBeavercreek, OHposted onPosted 28 Days AgoR0228025 Project Engineer, Seniorlocations2 Locationsposted onPosted 15 Days AgoR0228925 Project Engineer, Leadlocations2 Locationsposted onPosted 15 Days AgoR0228927.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Linux-Engineer_R0229384?q=software+engineering",
-    "id": "bae-systems-linux-engineer-lexington-park"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "AI/ML Delivery Engineer",
-    "job_city": "USA VA Herndon",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/AI-ML-Delivery-Engineer_RQ210085-1?q=software+engineering",
-    "id": "general-dynamics-ai-ml-delivery-engineer-usa-va-herndon"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Border Security Technical Data Analyst",
-    "job_city": "US - DC",
-    "job_state": "Washington",
-    "job_posted_at": "1d",
-    "job_description": "• DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 30+ Days Ago32570Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 15 Days Ago33432Project Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted Yesterday33495Enclave Program ManagerlocationsUS - MD, Bethesdaposted onPosted 15 Days Ago33433Program Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 15 Days Ago33494Linkage Project ManagerlocationsUS - MD, Bethesdaposted onPosted 7 Days Ago33461Senior Service Desk Engineerlocations2 Locationsposted onPosted 28 Days Ago29910Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31179Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 30+ Days Ago31777Senior Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 30+ Days Ago31753Senior Servicenow DeveloperlocationsIN - Chennaiposted onPosted 17 Days Ago33257ServiceNow ArchitectlocationsGH Office: Chennai, India (Keppel)posted onPosted 17 Days Ago33251Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 30+ Days Ago31229AI Architectlocations4 Locationsposted onPosted 30+ Days Ago31443Border Security Technical Data AnalystlocationsUS - DC, Washingtonposted onPosted Today33926Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago30536Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32206Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 7 Days Ago32590Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32207.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Border-Security-Technical-Data-Analyst_33926?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-border-security-technical-data-analyst-us-dc"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Electronics Engineering Technician – Failure Analysis & Radiography",
-    "job_city": "Clearwater",
-    "job_state": "FL",
-    "job_posted_at": "19h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Sr Advanced Software Engr Locations Richmond, VA, United States (Hybrid) Posting Date11/13/2025 Be the First to Apply Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Lead Systems Engineer - Flight Management System Locations United States (Hybrid) Posting Date11/10/2025 As a Lead Systems Engineer at Honeywell, you will be responsible for providing technical leadership and guidance in the design, development, and implementation of complex systems, ensuring their functionality, reliability, and integration to meet customer requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• This is an opportunity to influence the design and evolution of a platform at the forefront of AI-powered productivity, with a primary focus on Android-based experiences.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/126290/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-electronics-engineering-technician-failure-analysis-radiography-clearwater"
+    "job_description": "• Graphics & NPU Technologist (Client Solutions - Desktop & PC Product Portfolio | AI PC)remote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR278865Power Technologist (Client-USB, Thunderbolt, PCIe, power delivery, energy efficiency, battery systems)remote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 9 Days AgoR278800Electrical Principal Engineer (I8)remote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 3 Days AgoR279904Client Sales Engineer - Northeast USremote typeFieldlocations2 Locationsposted onPosted 23 Days AgoR266458Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 7 Days AgoR273436Battery Technologistremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 9 Days AgoR278808Graphics Senior Principal Product Development Managerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 2 Days AgoR281000Sr.\n• Principal Engineer, Mechanical Architect for PC Notebooksremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 20 Days AgoR279998Sr.\n• Principal Engineer, Mechanical Architect for PC Notebooksremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 20 Days AgoR279954Electrical Engineer for Data Center Hardwareremote typeOnsitelocations2 Locationsposted onPosted 29 Days AgoR268809Cybersecurity Engineering & Operations Consultant- Round Rock, TXremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted TodayR275824Packaging Designerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR277574Solutions Architect - Direct Liquid Coolingremote typeFieldlocationsAustin, Texas, United Statesposted onPosted 13 Days AgoR279357Technical Staff AI Architect - Agentic AI GenAIremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 13 Days AgoR274673Senior Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 3 Days AgoR274793Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274794Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274405Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274411Undergraduate Intern, Dell Venture Capitalremote typeOnsitelocationsPalo Alto, California, United Statesposted onPosted 7 Days AgoR273048.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Graphics-and-NPU-Technologist_R278865-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-graphics-npu-technologist-client-solutions-desktop-pc-product-portfolio-ai-pc-austin"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Mobile (Android), Search Video, Images",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer III, Google Cloud Platforms",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Mobile (Android), Search Video, Images",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/74386567119938246-software-engineer-iii-mobile-android-search-video-images?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-mobile-android-search-video-images-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/122305208003764934-software-engineer-iii-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-google-cloud-platforms-sunnyvale"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Kuiper Trust Services",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "21h",
+    "job_description": "software engineering job for the role Software Development Engineer, Kuiper Trust Services",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3126384/software-development-engineer-kuiper-trust-services",
+    "id": "amazon-software-development-engineer-kuiper-trust-services-redmond"
   }
 ]
