@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "System Service Representative - Oxmoor DC #3",
-    "job_city": "HUNTSVILLE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role System Service Representative - Oxmoor DC #3",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73736&source=WEB_Search_NA",
-    "id": "ibm-system-service-representative-oxmoor-dc-3-huntsville"
+    "employer_name": "Micron Technology",
+    "job_title": "Change Management Technician",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "2w",
+    "job_description": "• Associate’s degree (AAS or AS) in Information Technology Management, Computer Science, Physics, Mathematics, or Supply Chain Management.\n• Or equivalent military/trade school experience.\n• Complete all required safety training, conduct audits and walkthroughs, and ensure adherence to established safety and quality protocols to maintain a safe work environment.\n• Utilize Microsoft Office applications (Outlook, Word, PowerPoint, OneNote, Excel) to efficiently complete tasks and support operational needs.\n• 2+ years’ experience identifying performance gaps and implementing strategic improvements.\n• 2+ years of industry experience or equivalent military training.\n• Willingness to return to on-site work as needed.\n• Availability to work Monday through Friday (8 AM – 5 PM) with flexibility for overtime, global meetings, and on-call rotation.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38676095",
+    "id": "micron-technology-change-management-technician-boise"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Rapid Prototyping AI Engineer",
-    "job_city": "2 Locations",
+    "employer_name": "Apple",
+    "job_title": "File Systems Software Engineer",
+    "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0226888 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0228031 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 30+ Days AgoR0226901 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 30+ Days AgoR0226898 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0227750 Computer Vision ExpertlocationsBethesda, MDposted onPosted 26 Days AgoR0225632 Network Engineer, Seniorlocations2 Locationsposted onPosted TodayR0229302.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Rapid-Prototyping-AI-Engineer_R0229343?q=software+engineering",
-    "id": "bae-systems-rapid-prototyping-ai-engineer-2-locations"
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsExcellent C and C++ programming skills, experience with software debuggers (e.\n• GDB, LLDB), compilers and linkersSolid understanding of storage specific data structures, operating systems internals, storage performance evaluationGenuine passion for file systems technology, data security, privacy, and strong commitment towards developing testability, reliabilityBachelors in Computer Science/Electrical Engineering or equivalent experience/skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200631962-0836/file-systems-software-engineer?team=SFTWR",
+    "id": "apple-file-systems-software-engineer-cupertino"
   }
 ]
