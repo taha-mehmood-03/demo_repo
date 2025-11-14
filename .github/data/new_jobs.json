@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Treasury Analyst",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Execute KYC, AML, and tax refresh requirements with banking partners.\n• Act as Control Performer for SOX compliance, completing required inquiries and documentation.\n• 2+ years of relevant experience in Treasury, Finance, Banking, or related fields.\n• Degree or equivalent relevant experience required.\n• Experience will be evaluated based on theValues & Behaviors for the role (e.\n• Extracurricular leadership roles, military experience, volunteer roles, work experience, etc.\n• Experience with Access or other database tools a plus.\n• Excellent analytical and problem-solving skills with high attention to detail.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr312666/treasury-analyst/",
-    "id": "salesforce-treasury-analyst-indiana-indianapolis"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineering, Core Data Processing Infrastructure, Conduit",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineering, Core Data Processing Infrastructure, Conduit",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/88930717953598150-software-engineering-core-data-processing-infrastructure-conduit?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineering-core-data-processing-infrastructure-conduit-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Data Protection",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Data Protection",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/122243721251955398-software-engineer-data-protection?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-data-protection-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Embedded Systems/Firmware, Pixel Bootloader",
+    "job_title": "Software Engineer III, Core",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Embedded Systems/Firmware, Pixel Bootloader",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133264074757546694-software-engineer-embedded-systemsfirmware-pixel-bootloader?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-embedded-systems-firmware-pixel-bootloader-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/130237445663793862-software-engineer-iii-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-core-mountain-view"
   }
 ]
