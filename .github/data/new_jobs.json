@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, System Services",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum Qualifications4+ years of software engineering experienceProficiency in one of C/C++, Obj-CPassion for software architecture, APIs, and high performance extensible softwareExcellent communication skillsCreative, collaborative, and product-focusedComfortable diving deep, working across multiple levels of abstraction.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200632302-3337/software-engineer-system-services?team=SFTWR",
+    "id": "apple-software-engineer-system-services-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Messaging Protocols Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science or equivalent domainStrong software development and design skills for embedded systemsFamiliarity with client-server driven architecture and network protocols used for real-time communications.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200632352-0836/messaging-protocols-software-engineer?team=SFTWR",
+    "id": "apple-messaging-protocols-software-engineer-cupertino"
+  }
+]
