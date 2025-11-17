@@ -1,42 +1,32 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "AI Solutions Engineer",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "4d",
-    "job_description": "• Information System Security Engineer, SeniorlocationsLexington, MAposted onPosted 30+ Days AgoR0222757 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0227735 Network Engineer, SeniorlocationsFayetteville, NCposted onPosted 3 Days AgoR0229437 Network Support SpecialistlocationsBremerton, WAposted onPosted 24 Days AgoR0228664 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0226888 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0227750 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0228031 Network Engineer, Seniorlocations2 Locationsposted onPosted 4 Days AgoR0229302 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0222576.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-Solutions-Engineer_R0229303?q=software+engineering",
-    "id": "bae-systems-ai-solutions-engineer-washington"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Data Analyst",
-    "job_city": "USA VA Fort Belvoir",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Fort-Belvoir/Data-Analyst_RQ210233-1?q=software+engineering",
-    "id": "general-dynamics-data-analyst-usa-va-fort-belvoir"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - HomeKit",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "7h",
-    "job_description": "• Minimum Qualifications5-10 years of software development experience.\n• Strong programming skills in one or more object-oriented languages such as Objective-C or C++.\n• Bachelor's degree in Computer Engineering, Computer Science or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200631524-3543/software-engineer-homekit?team=SFTWR",
-    "id": "apple-software-engineer-homekit-san-diego"
+    "job_title": "System and Network Administrator",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_posted_at": "4w",
+    "job_description": "• Information System Security Engineer, SeniorlocationsLexington, MAposted onPosted 30+ Days AgoR0222757 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0227735 Network Engineer, SeniorlocationsFayetteville, NCposted onPosted 4 Days AgoR0229437 Network Support SpecialistlocationsBremerton, WAposted onPosted 25 Days AgoR0228664 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0226888 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0227750 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0228031 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0222576.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/System-and-Network-Administrator_R0228405?q=software+engineering",
+    "id": "bae-systems-system-and-network-administrator-annapolis-junction"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Infrastructure, Search Content Platform",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_title": "Software Engineer III, Google Cloud Networking",
+    "job_city": "Cambridge",
+    "job_state": "MA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Infrastructure, Search Content Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/117216900118651590-software-engineer-infrastructure-search-content-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-infrastructure-search-content-platform-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/85713592698970822-software-engineer-iii-google-cloud-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-google-cloud-networking-cambridge"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Cloud SDK",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Cloud SDK",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/107080227544277702-software-engineer-iii-cloud-sdk?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-cloud-sdk-kirkland"
   }
 ]
