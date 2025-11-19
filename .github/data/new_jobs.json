@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Power Designer/Applications Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/chandler/power-designer-applications-engineer/33099/87878769552",
-    "id": "arm-power-designer-applications-engineer-chandler"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, ML Performance",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, ML Performance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/112799943940285126-software-engineer-iii-ml-performance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ml-performance-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Trust and Safety",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Software Engineer III, AI/ML, Platforms and Devices",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Trust and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79430581007327942-software-engineer-iii-full-stack-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-iii-full-stack-trust-and-safety-kirkland"
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131210484060693190-software-engineer-iii-aiml-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ai-ml-platforms-and-devices-mountain-view"
   }
 ]
