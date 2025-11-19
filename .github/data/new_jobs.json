@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "New College Grad - Process Integration Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
+    "employer_name": "Arm",
+    "job_title": "Power Designer/Applications Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "1d",
-    "job_description": "• New College Grad - Diffusion Equipment EngineerManassas, Virginia, United States of AmericaPosted 13 days ago Bachelor’s degree in Materials Science, Electrical, Electronics, Chemical, or related engineering fields.\n• Internship experience in a 300mm semiconductor environment.\n• Be prepared to work a shifted schedule as required.\n• New College Grad - ATE Process Engineer ID1Boise, Idaho, United States of AmericaPosted 3 days ago New College Grad - R2R EngineerManassas, Virginia, United States of AmericaPosted 13 days ago Start up, develop, and optimize processes for product quality and reliability.\n• Run Design of Experiments (DOE) to enhance process capability and margin.\n• Ability to support SPC/FDC/RMS/APC systems and site-to-site portability.\n• Address top detractors to improve device yield and reliability.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38773026",
-    "id": "micron-technology-new-college-grad-process-integration-engineer-boise"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/chandler/power-designer-applications-engineer/33099/87878769552",
+    "id": "arm-power-designer-applications-engineer-chandler"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Setup",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "5h",
-    "job_description": "• Minimum QualificationsBachelor of Computer Science or equivalent skills and work experienceFoundation for growth — you have 1-3 years of software engineering experience and are ready to take on increasing responsibility.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200632852-3401/software-engineer-setup?team=SFTWR",
-    "id": "apple-software-engineer-setup-"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Trust and Safety",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Trust and Safety",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79430581007327942-software-engineer-iii-full-stack-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-iii-full-stack-trust-and-safety-kirkland"
   }
 ]
