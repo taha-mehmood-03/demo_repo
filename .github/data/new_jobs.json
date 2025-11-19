@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "NVIDIA",
-    "job_title": "System Software Engineer, Distributed Systems",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Full Stack Software Engineerlocations4 Locationsposted onPosted 12 Days AgoJR2006511Manager, Software Engineering - Cumulus LinuxlocationsUS, CA, Santa Claraposted onPosted 25 Days AgoJR2006607Senior Software Engineer, Networking PlatformlocationsUS, CA, Santa Claraposted onPosted 23 Days AgoJR2006612Senior Software Engineer - Deep LearninglocationsUS, CA, Santa Claraposted onPosted 21 Days AgoJR2006872Senior System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 21 Days AgoJR2006880Senior Software Engineer - AI SystemlocationsUS, CA, Santa Claraposted onPosted TodayJR2006877Senior Software Engineer, Profiling Serviceslocations2 Locationsposted onPosted 20 Days AgoJR2006014Senior System Software Engineer - Infrastructurelocations3 Locationsposted onPosted 15 Days AgoJR2006864Senior Software Engineer, Profiling Serviceslocations2 Locationsposted onPosted 12 Days AgoJR2007788Senior Software Engineer, Profiling Serviceslocations2 Locationsposted onPosted 9 Days AgoJR2007817Senior AI Infrastructure Software Engineerlocations5 Locationsposted onPosted 5 Days AgoJR2008140Senior Generative AI Software Engineerlocations2 Locationsposted onPosted TodayJR2008326Senior Software Engineer, Subnet ManagerlocationsUS, CA, Santa Claraposted onPosted TodayJR2007452Senior Software Engineer, GDN CloudlocationsUS, CA, Santa Claraposted onPosted TodayJR2007573System Software Engineer, Distributed SystemslocationsUS, CA, Santa Claraposted onPosted TodayJR2008089Senior DFX Software Engineer - Machine LearninglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998872Senior Software Engineer, AI Storage Infrastructurelocations2 Locationsposted onPosted 6 Days AgoJR2001360Senior System Software Engineer, Linux GPUlocations3 Locationsposted onPosted 30+ Days AgoJR2006005Senior Software Engineer, Fabric Networking - GPUlocations2 Locationsposted onPosted 4 Days AgoJR1990846Senior System Software Engineer, Robotics SimulationlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1995554.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Distributed-Systems_JR2008089?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-software-engineer-distributed-systems-us"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "R&D Engineer II (AI Simulation Engineer)",
-    "job_city": "United States Off-site",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Collaborating with senior engineers and domain experts to translate technical requirements into functional, robust software components.\n• BS in Computer Science, Applied Mathematics, Engineering, or a related field with 2 years of experience, or MS in a relevant discipline.\n• Demonstrated experience in technical software development (academic, research, or industry projects).\n• Strong background in AI/ML frameworks, including experience with large language models.\n• Preferred: Knowledge of physics-based simulation tools (LS-DYNA, Ansys), CAD modeling, CFD, real-time simulation, optimization workflows, or generative design.\n• Designing, implementing, testing, and maintaining software modules with a focus on integrating AI capabilities into physics-based simulation workflows.\n• Refining prototypes for AI-driven features, assisting in their transition from concept to production-ready code.\n• Staying current with the latest advancements in AI, machine learning, and simulation technologies, and proposing innovative ideas to enhance product capabilities.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/evanston/r-and-d-engineer-ii-ai-simulation-engineer/44408/87085296208",
-    "id": "synopsys-r-d-engineer-ii-ai-simulation-engineer-united-states-off-site"
-  },
-  {
     "employer_name": "Apple",
-    "job_title": "Software Engineer",
-    "job_city": "Austin",
+    "job_title": "Software Engineer, Observability",
+    "job_city": "San Francisco",
     "job_state": "US",
-    "job_posted_at": "2h",
-    "job_description": "• Minimum Qualifications3+ years working in data science theory and engineeringExpertise and experience in various facets of machine learning, such as classification, feature engineering, information extraction, clustering, semi-supervised learning, topic modeling or rankingProficiency in data science and analytics, including statistical analysis and A/B testingExperience designing, conducting, analyzing, interpreting experiments and investigationsBS in Computer Science or equivalent work related experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200626114-0157/software-engineer?team=SFTWR",
-    "id": "apple-software-engineer-austin"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Welder - Level",
-    "job_city": "Greer",
-    "job_state": "SC",
-    "job_posted_at": "1d",
-    "job_description": "• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Sr Advanced Software Engr Locations Richmond, VA, United States (Hybrid) Posting Date11/13/2025 Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Lead Systems Engineer Locations Phoenix, AZ, United States (Hybrid) Posting Date11/17/2025 Be the First to Apply As a Lead Systems Engineer at Honeywell, you will be responsible for providing technical leadership and guidance in the design, development, and implementation of complex systems, ensuring their functionality, reliability, and integration to meet customer requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/128117/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-welder-level-greer"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Security Automation",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "2h",
-    "job_description": "software engineering job for the role Software Development Engineer II, Security Automation",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3128798/software-development-engineer-ii-security-automation",
-    "id": "amazon-software-development-engineer-ii-security-automation-austin"
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsExperience and insight into designing, implementing and supporting highly scalable infrastructure services.\n• 4+ years of industry experience.\n• Deep understanding and work experience in distributed systems.\n• Deep understanding and work experience with distributed data collection and data streaming.\n• Experience with SNMP is desirable.\n• Experience integrating and using observability or telemetry systems to monitor distributed services.\n• Experience with one of Prometheus, Telegraf, OpenTelemetry is desirable.\n• Great communication skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200632611-3577/software-engineer-observability?team=SFTWR",
+    "id": "apple-software-engineer-observability-san-francisco"
   }
 ]
