@@ -1,22 +1,22 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, ML Performance",
+    "job_title": "Software Engineer, Mobile, Android Toolkit",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, ML Performance",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/112799943940285126-software-engineer-iii-ml-performance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-ml-performance-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Mobile, Android Toolkit",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96989506825003718-software-engineer-mobile-android-toolkit?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-mobile-android-toolkit-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Platforms and Devices",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer, Ads Data Hub",
+    "job_city": "Los Angeles",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Platforms and Devices",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131210484060693190-software-engineer-iii-aiml-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-ai-ml-platforms-and-devices-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Ads Data Hub",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/82742035152282310-software-engineer-ads-data-hub?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-ads-data-hub-los-angeles"
   }
 ]
