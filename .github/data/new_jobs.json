@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Mobile, Android Toolkit",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer SSR",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Mobile, Android Toolkit",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96989506825003718-software-engineer-mobile-android-toolkit?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-mobile-android-toolkit-mountain-view"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr318412/software-engineer-ssr/",
+    "id": "salesforce-software-engineer-ssr-mexico-mexico-city"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Ads Data Hub",
-    "job_city": "Los Angeles",
+    "job_title": "Software Engineer III, GDC Air Gapped Cluster",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Ads Data Hub",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/82742035152282310-software-engineer-ads-data-hub?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-ads-data-hub-los-angeles"
+    "job_description": "software engineering job for the role Software Engineer III, GDC Air Gapped Cluster",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108004414312063686-software-engineer-iii-gdc-air-gapped-cluster?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-gdc-air-gapped-cluster-sunnyvale"
   }
 ]
