@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Software and Systems Engineer, Mid",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• University, 2026 Summer Games Software Developer Internlocations11 Locationsposted onPosted YesterdayR0225356 University, Software DeveloperlocationsMcLean, VAposted onPosted 30+ Days AgoR0228026 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 20 Days AgoR0228960 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Software Developer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 21 Days AgoR0228920 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted TodayR0228044.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-and-Systems-Engineer--Mid_R0229474?q=software+engineering",
-    "id": "bae-systems-software-and-systems-engineer-mid-chantilly"
+    "employer_name": "Apple",
+    "job_title": "RF Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsMinimum BS with 10 years of relevant industry experienceSolid understanding of mobile communications in 4G/5G 3GPP protocols and radio architecture and Interfaces.\n• Excellent in embedded C/C++ programming, and working experience with compilers, build and source code control tools.\n• Experience with using RF Test equipment for RF validation and debugging.\n• Proven knowledge of RF transceiver and RF front-end component's control for 4G/5G radio.\n• Strong understanding of RF calibrations for compensating RF impairments.\n• Deep understanding of software engineering principles and core computer science fundamentals.\n• Proficiency with debugging in embedded software systems.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200633252-3543/rf-software-engineer?team=HRDWR",
+    "id": "apple-rf-software-engineer-san-diego"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Infor Developer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• University, 2026 Summer Games Software Developer Internlocations11 Locationsposted onPosted YesterdayR0225356 University, Software DeveloperlocationsMcLean, VAposted onPosted 30+ Days AgoR0228026 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 20 Days AgoR0228960 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Software Developer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 21 Days AgoR0228920 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted TodayR0228044.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Infor-Developer_R0229665?q=software+engineering",
-    "id": "bae-systems-infor-developer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "SATCOM Engineer",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_posted_at": "1d",
-    "job_description": "• Cybersecurity Software Sales Specialist, SeniorlocationsWashington, DCposted onPosted 20 Days AgoR0228946 Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted YesterdayR0229486 AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224541 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 30+ Days AgoR0227944 AWS Engineer, SeniorlocationsAshburn, VAposted onPosted 28 Days AgoR0227786.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/SATCOM-Engineer_R0229670?q=software+engineering",
-    "id": "bae-systems-satcom-engineer-tampa"
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Host Access",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsConsistent record of delivering high quality enterprise software (3 + years of experience)Experience writing applications in Rust, C++, C, and/or GOSolid understanding of the full SW development lifecycleKnowledgeable of distributed systems design patterns and security implications, as well as common infrastructure components including: network architecture, server fleet provisioning and configuration, OOB management, storage, load balancing, virtualization, KubernetesIn-depth knowledge of technologies such as SSL, TCP/IP, Caching solutions, X 509 certificates, and systems application performance tuningDeep understanding of Object Oriented and SOA design conceptsExperience with Linux, Shell ScriptsExperience in designing and handling systems with high performance, scalability and availabilityAbility to work in a collaborative team environment on fast paced projects.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200633250-3337/software-engineer-host-access?team=SFTWR",
+    "id": "apple-software-engineer-host-access-seattle"
   }
 ]
