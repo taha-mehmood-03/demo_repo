@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "RF Product Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "1d",
-    "job_description": "• Equipment Engineering Tech 4, Diffusion / Wet EtchlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252128CMOS Research Engineer (Life Sciences)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR255391CMP Equipment Engineering TechnicianlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR257081Semi Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255209Algorithm Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR255043Test Development EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR256376Technician 3, Equipment Engineering, Thin FilmslocationsUS, OR, Beavertonposted onPosted 13 Days AgoR257577Associate Mechatronics EngineerlocationsUS, OR, Beavertonposted onPosted 9 Days AgoR257066Field Applications EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 2 Days AgoR255563Product Engineering (Prod Dev)locationsUS, NC, Durhamposted onPosted 6 Days AgoR256077Senior Manager, Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR251574Senior Digital Design Engineer _FPGAlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252165Equipment Engineering Technician 3locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251935Director, Systems Design/Architecture EngineeringlocationsUS, NC, Durhamposted onPosted 14 Days AgoR255039Sr RF / Microwave Test TechnicianlocationsUS, MA, Chelmsford, Elizabethposted onPosted 24 Days AgoR255701Field Sales Engineerlocations7 Locationsposted onPosted 30+ Days AgoR257218RF Product EngineerlocationsUS, MA, Wilmingtonposted onPosted YesterdayR255417Staff Digital Chip Architect and Digital Systems Engineerlocations2 Locationsposted onPosted 30+ Days AgoR255041MEMS System Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 27 Days AgoR252004Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR256011.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/RF-Product-Engineer_R255417?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-rf-product-engineer-us"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Data and Telemetry, Google Beam",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Data and Telemetry, Google Beam",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/121837490360197830-software-engineer-data-and-telemetry-google-beam?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-data-and-telemetry-google-beam-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Application Builder, Ring Software Product Builders",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_posted_at": "3w",
+    "job_description": "software engineering job for the role Application Builder, Ring Software Product Builders",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3115266/application-builder-ring-software-product-builders",
+    "id": "amazon-application-builder-ring-software-product-builders-hawthorne"
   }
 ]
