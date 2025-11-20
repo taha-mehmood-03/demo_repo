@@ -1,52 +1,32 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering SMTS",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• 8+ years of Salesforce Developer experience, with a proven track record of designing and implementing complex enterprise-level solutionsStrong working knowledge of APEX (classes, triggers, and web services), Lightning Web Components (LWC), Salesforce Flows, Salesforce APIs, SOQL including a strong understanding of best practices for performance, scalability, and securitySolid understanding of Salesforce's governance limits and how to design solutions that operate efficiently within themExperience with integrating Salesforce.\n• Com with other applications using SOAP, REST, BULK, and Streaming APIsHands-on experience in working with a Version Control System (Git/GitHub preferred) and SFDX from Visual Studio Code IDEExperience with migration from sandboxes to production and administering a production systemDemonstrated ability to meet deadlines, handle and prioritize simultaneous requests, and manage laterally and upwardsExperience working in a SCRUM or agile environmentExperienced in configuring and managing Jenkins-based CI/CD pipelines to automate build and deployment workflowsTroubleshoot and resolve technical issues and bugsExcellent problem-solving and communication skillsA related technical degree required Translate functional requirements into technical requirementsDesign agents, custom objects, custom fields, pick lists, page layouts, workflow, approval processes, validation rules, custom tabs, reports, Lightning pages, and dashboardsDevelop, test and deploy custom capabilities within Salesforce instances using Apex and Lightning technologies.\n• Should work as a strong individual contributor with minimal technical support from team membersWork with a cross-functional team, business analysts, and product owners for product deliveryDocument and present implementation designs to peers, stakeholders and review boardWrite, execute and maintain automated unit testsWork with project managers to provide timely status and feedback to stakeholdersAlign to Agile Methodology Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Salesforce Platform Developer I and Platform Developer II certifications are highly preferredKnowledge of Agentforce, Generative AI, and LLMs, with an ability to apply these technologies to create intelligent, automated solutionsExperience in object-oriented programming (such as Java) and web technologies such as React, Next.\n• Js, TypescriptExperience in Responsive Web development, HTML, CSSKnowledge of Heroku, MuleSoft and other Salesforce tech-stack University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Build new applications on the Salesforce platform and adhere to all the best practices.\n• Coordinate the evaluation, scope, and completion of new development requests.\n• Deploy the new functionalities to higher sandbox environments.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr316908/software-engineering-smts/",
-    "id": "salesforce-software-engineering-smts-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Full Stack and Automation/Testing Engineer - MTS or SMTS",
-    "job_city": "Texas - Dallas",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Analysis and Design: Participate in a Test Design Review Board for integration test plans within and across clouds with focus on functional, business, complex scenarios, high impact projects, usability, and accessibilityMaster clouds requirements (e.\n• Underlying techstack, business usage, implementation)Create end-to-end, cross cloud-impacting, integration automation (API and UI) with complex Salesforce orgsInterface with customers to understand real life usage, build test casesExecute Testing with complex org setup, varied data modelsOrganize and drive cross product testingMonitor product and/or feature-level quality health metrics (testability, test health, test coverage, etc)Works closely with senior developers, PM, and UX to ensure their features are delivered to meet business and quality requirementsYou are providing leadership and coaching to others on your scrum teams, as well as providing mentoring to others who may be on other scrum teams.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 4+ years of proven experience programming/development with Java and Apex.\n• Experience in design and implementation of Web Services and Prompt Engineering.\n• Testing experience in Selenium/Gherkins.\n• Proven experience with the development and maintenance of regression and performance tests in a complex architecture.\n• 3+ years of automated testing experience in a web-based environment.\n• Excellent problem solving and communication skills.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306036/full-stack-and-automationtesting-engineer-mts-or-smts/",
-    "id": "salesforce-full-stack-and-automation-testing-engineer-mts-or-smts-texas-dallas"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Product Marketing",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Software and Systems Engineer, Mid",
+    "job_city": "Chantilly",
+    "job_state": "VA",
     "job_posted_at": "1d",
-    "job_description": "• Senior Scrum MasterlocationsIND-Hyderabad 115 IT Park Areatime typeFull timeposted onPosted TodayR024296 Engineering Manager - VCF Division VMware at BroadcomlocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted TodayR024182 Principal Engineer - Security IntelligencelocationsUSA-CA - Promontory Etime typeFull timeposted onPosted 5 Days AgoR024205 Senior DSP and ASIC EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 5 Days AgoR024235 Principal Kubernetes Software Engineerlocations7 Locationstime typeFull timeposted onPosted TodayR024239 Senior Kubernetes Software Engineerlocations5 Locationstime typeFull timeposted onPosted TodayR024240.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CO-Broomfield/Product-Marketing_R024272?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-product-marketing-2-locations"
+    "job_description": "• University, 2026 Summer Games Software Developer Internlocations11 Locationsposted onPosted YesterdayR0225356 University, Software DeveloperlocationsMcLean, VAposted onPosted 30+ Days AgoR0228026 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 20 Days AgoR0228960 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Software Developer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 21 Days AgoR0228920 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted TodayR0228044.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-and-Systems-Engineer--Mid_R0229474?q=software+engineering",
+    "id": "bae-systems-software-and-systems-engineer-mid-chantilly"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Software Engineer – Datacenter",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Infor Developer",
+    "job_city": "McLean",
+    "job_state": "VA",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer – Datacenterlocations2 Locationsposted onPosted TodayJR0278509Software QA EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0278507AI Software Solutions EngineerlocationsUS, California, Santa Claraposted onPosted 5 Days AgoJR0277154GPU Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0278254GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 2 Days AgoJR0278404GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted TodayJR0278454Foundry Automation Software Application EngineerlocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoJR0277560Foundry Automation Software Application Engineerlocations2 Locationsposted onPosted 5 Days AgoJR0277559Software Product Managerlocations3 Locationsposted onPosted 5 Days AgoJR0277468Automation Software Development Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoJR0277568Software Application Development Engineerlocations2 Locationsposted onPosted 5 Days AgoJR0277567Global Head, AI Software Developer Evangelismlocations3 Locationsposted onPosted YesterdayJR0278422Software Applications Development EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0278506Software Architect - GPU AI Kernel Librarylocations2 Locationsposted onPosted 5 Days AgoJR0278111Supply Planning Capabilities Leadlocations4 Locationsposted onPosted 5 Days AgoJR0277614Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoJR0277566Triton Compiler Engineerlocations3 Locationsposted onPosted 5 Days AgoJR0277157Unreal Engine DevTech Engineerlocations4 Locationsposted onPosted YesterdayJR0278406Linux Kernel EngineerlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0278075Linux Kernel EngineerlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0278070.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0278509?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-software-engineer-datacenter-2-locations"
+    "job_description": "• University, 2026 Summer Games Software Developer Internlocations11 Locationsposted onPosted YesterdayR0225356 University, Software DeveloperlocationsMcLean, VAposted onPosted 30+ Days AgoR0228026 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 20 Days AgoR0228960 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Software Developer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 21 Days AgoR0228920 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted TodayR0228044.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Infor-Developer_R0229665?q=software+engineering",
+    "id": "bae-systems-infor-developer-mclean"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Apple Video Services",
-    "job_city": "Seattle",
-    "job_state": "US",
-    "job_posted_at": "2h",
-    "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science and Engineering or related field3+ years of industry experience building systems and delivering internet services at scale.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200607855-3337/software-engineer-apple-video-services?team=SFTWR",
-    "id": "apple-software-engineer-apple-video-services-seattle"
+    "employer_name": "BAE Systems",
+    "job_title": "SATCOM Engineer",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "1d",
+    "job_description": "• Cybersecurity Software Sales Specialist, SeniorlocationsWashington, DCposted onPosted 20 Days AgoR0228946 Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted YesterdayR0229486 AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224541 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 30+ Days AgoR0227944 AWS Engineer, SeniorlocationsAshburn, VAposted onPosted 28 Days AgoR0227786.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/SATCOM-Engineer_R0229670?q=software+engineering",
+    "id": "bae-systems-satcom-engineer-tampa"
   }
 ]
