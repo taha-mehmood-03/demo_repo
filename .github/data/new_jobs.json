@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Software and Systems Engineer",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• University, 2026 Summer Games Software Developer Internlocations11 Locationsposted onPosted 3 Days AgoR0225356 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 22 Days AgoR0228960 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 2 Days AgoR0228044 Software Developer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 23 Days AgoR0228920.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-and-Systems-Engineer_R0229714?q=software+engineering",
-    "id": "bae-systems-software-and-systems-engineer-chantilly"
+    "employer_name": "Apple",
+    "job_title": "Systems Software Engineer, Compute",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "12h",
+    "job_description": "• Minimum QualificationsLanguages: Familiarity with a programming language well suited to systems programming.\n• Like C, C++, Rust, or Swift (for Servers)Programming, Networking (HTTP, TCP/UDP, DNS, TLS), Distributed System DesignResourcefulness: Excellent analytical, problem-solving, and debugging skillsEnd-to-end ownership: management of projects from low-level technical design up to the interface and user experienceBachelor’s or Master’s Degree in an engineering-related field (or equivalent industry experience).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200633411-0836/systems-software-engineer-compute?team=SFTWR",
+    "id": "apple-systems-software-engineer-compute-cupertino"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "DevSecOps Engineer, Mid",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
-    "job_posted_at": "1d",
-    "job_description": "• Cybersecurity Software Sales Specialist, SeniorlocationsWashington, DCposted onPosted 22 Days AgoR0228946 Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted 3 Days AgoR0229486 SATCOM Engineer, SeniorlocationsFayetteville, NCposted onPosted YesterdayR0229675 AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224541 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 30+ Days AgoR0227944 AWS Engineer, SeniorlocationsAshburn, VAposted onPosted 30 Days AgoR0227786.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/DevSecOps-Engineer--Mid_R0222127?q=software+engineering",
-    "id": "bae-systems-devsecops-engineer-mid-albuquerque"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Workspace",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86188132226998982-software-engineer-iii-infrastructure-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-infrastructure-workspace-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Google Ads",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Google Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131421668676379334-software-engineer-iii-aiml-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ai-ml-google-ads-los-angeles"
   }
 ]
