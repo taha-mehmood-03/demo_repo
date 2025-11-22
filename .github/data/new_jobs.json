@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Test Engineer",
-    "job_city": "Tinker AFB",
-    "job_state": "OK",
+    "employer_name": "Apple",
+    "job_title": "Compute SRE Software Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• University, Software DeveloperlocationsMcLean, VAposted onPosted 30+ Days AgoR0228026 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 23 Days AgoR0228960 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 3 Days AgoR0228044 Software Developer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 24 Days AgoR0228920 Pega System Architect, Seniorlocations2 Locationsposted onPosted YesterdayR0229814.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tinker-AFB-OK/Software-Test-Engineer_R0228701?q=software+engineering",
-    "id": "bae-systems-software-test-engineer-tinker-afb"
+    "job_description": "• Minimum QualificationsBachelor's Degree in Computer Science, an engineering-related field, or equivalent related experience.\n• Advanced Degree preferred.\n• Operate, monitor, and triage all aspects of our production and non-production environments.\n• Design, build and implement innovative solutions around Kubernetes in a highly distributed environment.\n• Prepare alert handling procedures, runbooks, and collaborate with other SRE teams.\n• Participate in on-call rotations to troubleshoot and resolve production issues, minimizing downtime.\n• Automate deployment and orchestration of services into the cloud environment as well as other routine processes.\n• Interact with and support partner teams, including engineering, QA, and program management.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200633176-0157/compute-sre-software-engineer?team=SFTWR",
+    "id": "apple-compute-sre-software-engineer-austin"
   }
 ]
