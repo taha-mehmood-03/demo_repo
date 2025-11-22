@@ -1,122 +1,52 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: AI Systems Research Scientist",
-    "job_city": "ship",
+    "employer_name": "General Dynamics",
+    "job_title": "SharePoint/Power BI Developer",
+    "job_city": "USA LA Bossier City",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern 2026: AI Systems Research Scientist",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76131&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-ai-systems-research-scientist-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Research US Government Intern",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role IBM Research US Government Intern",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76135&source=WEB_Search_NA",
-    "id": "ibm-ibm-research-us-government-intern-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern – IBM Product Marketing",
-    "job_city": "shipAustin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role 2026 Intern – IBM Product Marketing",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75087&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-ibm-product-marketing-shipaustin"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Icertis Developer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• CNO Analyst and Programmer, SeniorlocationsAnnapolis Junction, MDposted onPosted 11 Days AgoR0228968 CNO Analyst and Programmer, SeniorlocationsAnnapolis Junction, MDposted onPosted 11 Days AgoR0228976 CNO Analyst and Programmer, SeniorlocationsAnnapolis Junction, MDposted onPosted 11 Days AgoR0228979 CNO Analyst and Programmer, SeniorlocationsAnnapolis Junction, MDposted onPosted 7 Days AgoR0228977 Application Developer, SeniorlocationsBethesda, MDposted onPosted 30+ Days AgoR0228530 Pega System Architect, Seniorlocations2 Locationsposted onPosted 29 Days AgoR0228629 AWS Cloud Developer, Seniorlocations2 Locationsposted onPosted 2 Days AgoR0229652 Pega System Architect, Seniorlocations2 Locationsposted onPosted TodayR0229737.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Icertis-Developer_R0229791?q=software+engineering",
-    "id": "bae-systems-icertis-developer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Splunk SOAR Cyber Automation Engineer",
-    "job_city": "6 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Cyber Automation Engineer, LeadlocationsEgg Harbor Township, NJposted onPosted 3 Days AgoR0229486.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Splunk-SOAR-Cyber-Automation-Engineer_R0229745?q=software+engineering",
-    "id": "bae-systems-splunk-soar-cyber-automation-engineer-6-locations"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-Bossier-City/SharePoint-Power-BI-Developer_RQ210403-1?q=software+engineering",
+    "id": "general-dynamics-sharepoint-power-bi-developer-usa-la-bossier-city"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "Cyber Network Engineer",
+    "job_title": "API / Microservices Developer Jr",
     "job_city": "Any Location /",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Cyber-Network-Engineer_RQ210135-2?q=software+engineering",
-    "id": "general-dynamics-cyber-network-engineer-any-location"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/API---Microservices--Developer-Jr_RQ210527-1?q=software+engineering",
+    "id": "general-dynamics-api-microservices-developer-jr-any-location"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Identity Security Engineer",
-    "job_city": "3 Locations",
+    "employer_name": "General Dynamics",
+    "job_title": "Front End Engineer Junior",
+    "job_city": "Any Location /",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Government Information Security Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0276257Engineering Commodity Managerlocations3 Locationsposted onPosted 7 Days AgoJR0278269Identity Security Engineerlocations3 Locationsposted onPosted TodayJR0278584Senior DFT Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0277527Senior Silicon Design Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0277768SoC GFX PnP Validation EngineerlocationsUS, California, Folsomposted onPosted 7 Days AgoJR0278189GPU Logic Design Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0275905Senior SoC Design Verification EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0278440Senior System Architectlocations4 Locationsposted onPosted 7 Days AgoJR0277991Senior Director, Computer Security and Privacylocations4 Locationsposted onPosted 7 Days AgoJR0278316Client SoC Architectlocations3 Locationsposted onPosted 7 Days AgoJR0278106AI Systems and Solutions Senior DirectorlocationsUS, California, Santa Claraposted onPosted 7 Days AgoJR0277696Senior SOC Performance Architectlocations3 Locationsposted onPosted 7 Days AgoJR0277396Director, Product Management Silicon Photonicslocations4 Locationsposted onPosted 7 Days AgoJR0276253Director-Commercial Workstation Segmentlocations4 Locationsposted onPosted 7 Days AgoJR0277012Vice President - DCG - Get to Market Grouplocations2 Locationsposted onPosted TodayJR0278570Network Security Analystlocations2 Locationsposted onPosted 7 Days AgoJR0277300.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Identity-Security-Engineer_JR0278584?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-identity-security-engineer-3-locations"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Front-End-Engineer-Junior_RQ210537-1?q=software+engineering",
+    "id": "general-dynamics-front-end-engineer-junior-any-location"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Cloud Infrastructure Software Engineer",
-    "job_city": "Plano",
-    "job_state": "TX",
+    "employer_name": "General Dynamics",
+    "job_title": "ServiceNow Developer",
+    "job_city": "2 Locations",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Lead Software Engineer - Blockchain and Digital Assets, Java Jersey City, NJ, United States TechnologySoftware Engineering The blockchain engineering team is looking for a passionate and experienced software engineer(s) to join its team of expert engineers.\n• Strong Java, DB, cloud, and automation skills.\n• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer II Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Manager of Software Engineering- Java/AWS Jersey City, NJ, United States TechnologySoftware Engineering Seeking a hands on Java Software Engineer who will manage a software engineering team.\n• Mobile Automation Software Engineer III Wilmington, DE, United States TechnologySoftware Engineering Software Engineer III - Mobile Automation Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• JAVA Software Engineer III Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Enablement Software Engineer II - Mainframe Wilmington, DE, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer III-QA Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer II - React GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer III- MLOps Bengaluru, Karnataka, India TechnologySoftware Engineering Looking for a skilled Developer with expertise in AWS, AI/ML and Python Software Engineer III - Mainframe Wilmington, DE, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Mainframe Wilmington, DE, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - ServiceNow OH, United States and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team.\n• Software Engineer III - Blockchain Jersey City, NJ, United States TechnologySoftware Engineering Serve as an emerging member of an agile team to enhance, build and deliver technology products with our dynamic, innovative team Java Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a strong Lead Java Developer to join the Digital Technology Team Software Engineer III - SRE Bengaluru, Karnataka, India TechnologySoftware Engineering Apply your skillsets to drive innovation and modernize the world's most complex and mission-critical systems Lead Software Engineer - Java, AWS Hyderabad, Telangana, India TechnologySoftware Engineering Tech software engineer leading a scrum team up to 7 people to work on micrservice development in Java and AWS.\n• Software Engineering Atlanta, GA, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Data New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Python/AWS/Databricks LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer with experience in building data pipelines and software solutions in Financial services across Python, Java, AWS.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659621/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-cloud-infrastructure-software-engineer-plano"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-Bossier-City/ServiceNow-Developer_RQ210754-1?q=software+engineering",
+    "id": "general-dynamics-servicenow-developer-2-locations"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Photos",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Google Photos",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75602193188561606-software-engineer-iii-google-photos?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-iii-google-photos-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Google Cloud AI",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Google Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/128392357778203334-software-engineer-iii-full-stack-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-software-engineer-iii-full-stack-google-cloud-ai-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Google Cloud AI",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Google Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/74574562133451462-software-engineer-iii-aiml-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-ai-ml-google-cloud-ai-sunnyvale"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Engineer II, Redshift",
-    "job_city": "East Palo Alto",
-    "job_state": "CA",
-    "job_posted_at": "23h",
-    "job_description": "software engineering job for the role Software Engineer II, Redshift",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3130942/software-engineer-ii-redshift",
-    "id": "amazon-software-engineer-ii-redshift-east-palo-alto"
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Apple Ads",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum Qualifications5+ or more years of industry experience building scalable services and data driven platforms.\n• Experience working on complex problems and real-time systems where every millisecond counts.\n• Bachelor’s degree in Computer Science or equivalent is required Master’s degree preferred.\n• Expertise in object oriented software development with a deep understanding of scalable indexing solutions systems like Solr, Elastisearch.\n• Ability to communicate effectively, both written and verbal, with technical and non-technical multi-functional teams.\n• A desire to work in a fast-paced and challenging work environment.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630865-0157/software-engineer-apple-ads?team=SFTWR",
+    "id": "apple-software-engineer-apple-ads-austin"
   }
 ]
