@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, GDC Security Infrastructure",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, GDC Security Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140728291978814150-software-engineer-gdc-security-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-gdc-security-infrastructure-sunnyvale"
+    "employer_name": "Magna International",
+    "job_title": "Student - Engineering ADAS Algorithm",
+    "job_city": "Lowell",
+    "job_state": "Massachusetts",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592Software Engineer I - Thermal CameralocationsGoleta, California, USposted onPosted 30+ Days AgoR00193769Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00205992Engineer Sr Staff - SoftwarelocationsGoleta, California, USposted onPosted 30+ Days AgoR00182947Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 21 Days AgoR00201689Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 21 Days AgoR00209295Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00205993Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135Tooling EngineerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00206379Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted TodayR00221215Patent CounsellocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00216057Sr.\n• Developer - CAD AutomationlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00203967Systems EngineerlocationsNashville, Illinois, USposted onPosted 6 Days AgoR00220755Product EngineerlocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00209324Simulation EngineerlocationsTroy, Michigan, USposted onPosted 28 Days AgoR00200693Controls EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00215662Weld EngineerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00211009Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 21 Days AgoR00218593.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Student--Product-Engineering_R00221215?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-student-engineering-adas-algorithm-lowell"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Last Mile Delivery",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "15h",
+    "job_description": "software engineering job for the role Software Development Engineer, Last Mile Delivery",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3133115/software-development-engineer-last-mile-delivery",
+    "id": "amazon-software-development-engineer-last-mile-delivery-bellevue"
   }
 ]
