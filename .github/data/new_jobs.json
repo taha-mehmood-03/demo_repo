@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - Cryptographic Key Management",
+    "job_city": "5 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineer, DGXC Data Serviceslocations2 Locationsposted onPosted 2 Days AgoJR2003389Principal Systems Software Engineer - DGX Cloudlocations2 Locationsposted onPosted 30+ Days AgoJR2004459Senior System Software Engineer – Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted 26 Days AgoJR2007508Senior System Software Engineer – Genomics HPClocations2 Locationsposted onPosted 22 Days AgoJR2007387Senior Software Engineer, AI Inference SystemslocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2007798Senior Software Engineer - Accelerated Quantum Chemistrylocations2 Locationsposted onPosted 18 Days AgoJR2007361Senior Software Engineer, Perception - Autonomous Vehicleslocations2 Locationsposted onPosted 15 Days AgoJR2008276Senior System Software Engineer, GPU VirtualizationlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2008391System Software Engineering - Cryptographic PKI Managementlocations5 Locationsposted onPosted 13 Days AgoJR2008415Senior Software Engineer, PyTorch - Deep Learninglocations4 Locationsposted onPosted 11 Days AgoJR2008549System Software Engineer - Cryptographic Key Managementlocations5 Locationsposted onPosted TodayJR2008724Senior System Software Engineer, Cloud Software and Infrastructurelocations2 Locationsposted onPosted 7 Days AgoJR2008310Principal Software Engineer - Inference as a ServicelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002215Principal Platform Software Engineer - OpenBMC Platform Architectlocations2 Locationsposted onPosted 2 Days AgoJR1968239Senior System Software Engineer, NCCL - Partner Enablementlocations3 Locationsposted onPosted 3 Days AgoJR1985696Senior Software Engineer - Data Center System BringuplocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR1993516Senior Software Engineer, GPU Communications and NetworkinglocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR1997186Senior DGX Cloud AI Infrastructure Software Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR1997415Senior Deep Learning Software Engineer, LLM Performancelocations2 Locationsposted onPosted 8 Days AgoJR1997464Senior Full-Stack Software Engineer - VLSI Toolslocations4 Locationsposted onPosted 30+ Days AgoJR1999535.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Cryptographic-Key-Management_JR2008724-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-cryptographic-key-management-5-locations"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Safari Extensions",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsThorough understanding of Swift, Objective-C, C++, or CStrong object-oriented programming experienceExcellent debugging and analytical skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200634673-3543/software-engineer-safari-extensions?team=SFTWR",
+    "id": "apple-software-engineer-safari-extensions-san-diego"
+  }
+]
