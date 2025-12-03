@@ -1,72 +1,82 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level IT Lab Administrator",
-    "job_city": "POUGHKEEPSIE",
+    "employer_name": "Salesforce",
+    "job_title": "Distributed Systems Software Engineer - Public Cloud SMTS",
+    "job_city": "California - San Francisco",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level IT Lab Administrator 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78250&source=WEB_Search_NA",
-    "id": "ibm-entry-level-it-lab-administrator-poughkeepsie"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "AI Solutions Engineer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Information System Security Engineer, SeniorlocationsLexington, MAposted onPosted 30+ Days AgoR0222757 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0227735 Network Engineer, SeniorlocationsFayetteville, NCposted onPosted 12 Days AgoR0229671 Network Support SpecialistlocationsBremerton, WAposted onPosted 30+ Days AgoR0228664 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0227750 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0228031 Network Engineer, Seniorlocations2 Locationsposted onPosted 20 Days AgoR0229302 Network Engineer, Seniorlocations6 Locationsposted onPosted 7 Days AgoR0229903 Network Engineer, SeniorlocationsTampa, FLposted onPosted 12 Days AgoR0229605 Solutions Architect, LeadlocationsOkinawaposted onPosted TodayR0230078.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-Solutions-Engineer_R0227290?q=software+engineering",
-    "id": "bae-systems-ai-solutions-engineer-mclean"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Data/Software Engineer",
-    "job_city": "US - MD",
-    "job_state": "Fort Meade",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 6 Days Ago33026Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted Today34117Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted Today34114AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32672SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31299Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 25 Days Ago33846Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053SME Automation Engineer – DoD DevSecOps & CI/CDlocationsUS - Remote (Any location)posted onPosted Yesterday33844Senior Systems Engineer – DoD/USACE Infrastructure (remote)locations7 Locationsposted onPosted Yesterday33811SME Cloud Engineer – DoD/USACE Cloud Infrastructure (remote)locationsUS - Remote (Any location)posted onPosted Yesterday33842Senior Cloud Engineer – DoD Enterprise Cloud Operations (remote)locationsUS - Remote (Any location)posted onPosted Yesterday33817Full Stack DeveloperlocationsUS - Remote (Any location)posted onPosted 12 Days Ago33299DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 27 Days Ago33763CyberArk Engineerlocations2 Locationsposted onPosted 21 Days Ago33797Systems EngineerlocationsUS - MD, Fort Meadeposted onPosted Today34125Associate Engineer - CampuslocationsIN - Chennaiposted onPosted Yesterday34381System Security EngineerlocationsUS - MD, Bethesdaposted onPosted 15 Days Ago34015Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32174Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33432.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Fort-Meade/Data-Software-Engineer_34117?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-data-software-engineer-us-md"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Systems Engineer",
-    "job_city": "US - MD",
-    "job_state": "Fort Meade",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 6 Days Ago33026Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted Today34117Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted Today34114AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32672SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31299Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 25 Days Ago33846Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053SME Automation Engineer – DoD DevSecOps & CI/CDlocationsUS - Remote (Any location)posted onPosted Yesterday33844Senior Systems Engineer – DoD/USACE Infrastructure (remote)locations7 Locationsposted onPosted Yesterday33811SME Cloud Engineer – DoD/USACE Cloud Infrastructure (remote)locationsUS - Remote (Any location)posted onPosted Yesterday33842Senior Cloud Engineer – DoD Enterprise Cloud Operations (remote)locationsUS - Remote (Any location)posted onPosted Yesterday33817Full Stack DeveloperlocationsUS - Remote (Any location)posted onPosted 12 Days Ago33299DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 27 Days Ago33763CyberArk Engineerlocations2 Locationsposted onPosted 21 Days Ago33797Systems EngineerlocationsUS - MD, Fort Meadeposted onPosted Today34125Associate Engineer - CampuslocationsIN - Chennaiposted onPosted Yesterday34381System Security EngineerlocationsUS - MD, Bethesdaposted onPosted 15 Days Ago34015Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32174Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33432.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Fort-Meade/Systems-Engineer_34125-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-systems-engineer-us-md"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "SoC Debug Engineer",
-    "job_city": "5 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoSpotlight JobJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoSpotlight JobJR0277457DevOps and Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 14 Days AgoJR0277658AI Compiler Engineerlocations2 Locationsposted onPosted 11 Days AgoJR0277310AI Frameworks Architectlocations5 Locationsposted onPosted 7 Days AgoJR0278545Technical Sales Support Engineer for Network Solutionslocations4 Locationsposted onPosted 18 Days AgoJR0277777CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted 18 Days AgoJR0277654SoC Firmware Architect- Senior Principal EngineerlocationsUS, Texas, Austinposted onPosted 18 Days AgoJR0278101Application Owner, DEAP Platformlocations3 Locationsposted onPosted 15 Days AgoJR0278408Emulation EngineerlocationsUS, Texas, Austinposted onPosted 18 Days AgoJR0276365SoC Debug Engineerlocations5 Locationsposted onPosted TodayJR0278482CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted 18 Days AgoJR0278193Network Application Delivery Infrastructure Engineerlocations2 Locationsposted onPosted 18 Days AgoJR0277750CPU Verification Engineerlocations2 Locationsposted onPosted 11 Days AgoJR0278559Identity Engineerlocations2 Locationsposted onPosted 18 Days AgoJR0278271Government Information Security Engineerlocations4 Locationsposted onPosted 18 Days AgoJR0276257Identity Security Engineerlocations3 Locationsposted onPosted 11 Days AgoJR0278584Senior Silicon Design Engineerlocations3 Locationsposted onPosted YesterdayJR0277772Senior Silicon Design Engineerlocations2 Locationsposted onPosted 13 Days AgoJR0277768SoC GFX PnP Validation EngineerlocationsUS, California, Folsomposted onPosted 18 Days AgoJR0278189.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Massachusetts-Beaver-Brook/SoC-Debug-Engineer_JR0278482?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-debug-engineer-5-locations"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Computational Photography, Extended Reality Camera",
-    "job_city": "Mountain View",
-    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Computational Photography, Extended Reality Camera",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/142767100069323462-software-engineer-computational-photography-extended-reality-camera?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-computational-photography-extended-reality-camera-mountain-view"
+    "job_description": "• You have experience balancing live-site management, feature delivery, and retirement of technical debtParticipate in the team’s on-call rotation to address complex problems in real-time and keep services operational and highly available Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences A related technical degree required4+ years backend software development experienceDeep knowledge of programming in Java, Golang, or PythonExperience owning and operating multiple instances of a critical serviceExperience with Agile development methodology and Test Driven DevelopmentExperience with critical infrastructure services including, monitoring, alerting, logging, and reporting application University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Deliver cloud infrastructure automation tools, frameworks, workflows, and validation platforms on our public cloud platforms such as AWS, GCP, Azure, or AlibabaDesigning, developing, debugging, and operating resilient distributed systems that run across thousands of compute nodes in multiple data centersUsing and contributing to open source technology (Spinnaker, Zookeeper, etc.\n• )Developing Infrastructure-as-Code using TerraformWriting microservices on containerization frameworks such as Kubernetes, Docker, MesosResolving complex technical issues and drive innovations that improve system availability, resilience, and performanceEat, sleep, and breathe services.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317911/distributed-systems-software-engineer-public-cloud-smts/",
+    "id": "salesforce-distributed-systems-software-engineer-public-cloud-smts-california-san-francisco"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II - Threat Intelligence Systems, ACTI Engineering",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "23h",
-    "job_description": "software engineering job for the role Software Development Engineer II - Threat Intelligence Systems, ACTI Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3136175/software-development-engineer-ii-threat-intelligence-systems-acti-engineering",
-    "id": "amazon-software-development-engineer-ii-threat-intelligence-systems-acti-engineering-annapolis-junction"
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - RAM Engineer ID1",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "3w",
+    "job_description": "• New College Grad - Engineer, Shift EquipmentBoise, Idaho, United States of AmericaPosted a month ago New College Grad - ATE Process Engineer ID1Boise, Idaho, United States of AmericaPosted a day ago Experience with scripting, programming, or visualization tools (Python, Java, Tableau, Matlab).\n• Hands-on experience in data analytics and database querying.\n• Strong technical, analytical, and communication skills.\n• Strong data intuition and visualization skills.\n• Familiarity with data collection systems, warehousing, and cleansing.\n• Ability to recognize and escalate process anomalies with urgency.\n• Ability to manage multiple tasks and prioritize effectively.\n• Junior-level status in Electrical Engineering, Material Science, Physics, Chemical Engineering, Mechanical Engineering, or related fields.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-intern-ram-engineer-id1-boise"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Area Manufacturing Engineer - Probe",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Bachelor’s degree in Engineering, Manufacturing, or related field, or equivalent experience.\n• Complete required safety training and ensure compliance with Micron safety policies.\n• 3+ years of experience in manufacturing operations or similar environment.\n• Advanced degree or equivalent experience in Engineering or Manufacturing.\n• Strong analytical, problem-solving, and decision-making skills.\n• Advanced knowledge of Fab Operations, Capacity Planning, Floor Scheduling, and Line Management systems.\n• Senior Photolithography Process EngineerBoise, Idaho, United States of AmericaPosted 9 days ago Intern – Manufacturing Engineer ID1Boise, Idaho, United States of AmericaPosted 2 months ago Intern - Probe Equipment EngineerBoise, Idaho, United States of AmericaPosted a month ago Provide leadership in capital deployment decisions through detailed risk assessments.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39048843",
+    "id": "micron-technology-area-manufacturing-engineer-probe-boise"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "HBM Integration Engineer",
+    "job_city": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Customer Experience Engineer 4locationsUSA-CA - Promontory Etime typeFull timeposted onPosted 7 Days AgoR024276 Principle Product Line Manager, Outbound Marketing – Ethernet SwitcheslocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted TodayR024457 Senior Quality Engineer - Virtual Machine Monitorlocations3 Locationstime typeFull timeposted onPosted 8 Days AgoR024216 Kubernetes Platform Tech ManagerlocationsSGP-Singapore Afro Asia SOtime typeFull timeposted onPosted 9 Days AgoR024365 Senior Software Engineer, Tanzu Intelligent Assistlocations3 Locationstime typeFull timeposted onPosted TodayR024249 Kubernetes Platform Tech Managerlocations2 Locationstime typeFull timeposted onPosted 8 Days AgoR024367 Senior Software Engineerlocations2 Locationstime typeFull timeposted onPosted TodayR024199 Senior Software Engineerlocations2 Locationstime typeFull timeposted onPosted TodayR024215.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/HBM-Integration-Engineer_R024469-2?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-hbm-integration-engineer-usa-colorado-fort-collins-4380-ziegler-road"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Website Design UI/UX Developer",
+    "job_city": "Any Location /",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Website-Design-UI-UX-Developer_RQ211014?q=software+engineering",
+    "id": "general-dynamics-website-design-ui-ux-developer-any-location"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, Deep Learning Libraries - New College Graduate",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineer, World Model Systems Engineering - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted TodayJR2008561Senior System Software Engineer - AI Performance and Efficiency ToolslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996041Systems Software Engineer - GeForce NOW Low Latency Streaming TechnologylocationsUS, CA, Santa Claraposted onPosted 29 Days AgoJR1996756Senior Systems Software Engineer, TAO Machine Learning Data ModelinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2001133Senior Software Engineer, Deep Learning Inference - New HW Enablementlocations2 Locationsposted onPosted 30+ Days AgoJR2002173Senior Manager, Software Engineering - AI Gaming and Neural GraphicslocationsUS, CA, Santa Claraposted onPosted 29 Days AgoJR2003821Senior Software Engineer - NIM Factory Container and Cloud Infrastructurelocations2 Locationsposted onPosted 30+ Days AgoJR2003580Systems Software Engineer, AV Infrastructure - Tooling, Coverage, and Analysislocations2 Locationsposted onPosted 30+ Days AgoJR2003796Senior System Software Engineer - Computer Vision Algorithms and SDKlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2003437Senior Software Engineer - NIM Factory Container and Cloud Infrastructurelocations4 Locationsposted onPosted 30+ Days AgoJR2004245Senior Software Engineer - NIM Factory Container and Cloud Infrastructurelocations2 Locationsposted onPosted 30+ Days AgoJR2004244Principal Software Engineer L3, Planning and Controls - Autonomous Vehicleslocations2 Locationsposted onPosted 30+ Days AgoJR2006109Senior Software Engineer, Data Ingestion and Movement - DGX Cloudlocations2 Locationsposted onPosted YesterdayJR2005982Senior Software Engineer - Computer Vision and VLM Deep LearninglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2005570Senior System Software Engineer, Networking Linux Kernel - DGX Cloudlocations2 Locationsposted onPosted 2 Days AgoJR2007993Deep Learning Software Engineer, Inference - New College Grad 2026locationsUS, CA, Santa Claraposted onPosted YesterdayJR2008454Software Engineer, Deep Learning Libraries - New College Graduate 2026locationsUS, CA, Santa Claraposted onPosted TodayJR2009134Senior System Software Engineer - QNX BSP and IO Virtualizationlocations2 Locationsposted onPosted TodayJR2008841Senior Software Cloud Engineer - Golanglocations2 Locationsposted onPosted 30+ Days AgoJR2005947Senior System Software Bringup Engineerlocations2 Locationsposted onPosted 4 Days AgoJR2006503.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2009134-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-deep-learning-libraries-new-college-graduate-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Applied AI/ML SW Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsBachelor’s Degree in Computer Science, Computer Engineering, related field, or equivalent work experience2+ years professional software engineering experience working in Python or other object-oriented programming language(s)Demonstrated software engineering expertise in web, native, and/or Machine Learning/AI applicationsExcellent written and verbal communication to both technical and non-technical audiences.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200633565-0836/applied-ai-ml-sw-software-engineer?team=HRDWR",
+    "id": "apple-applied-ai-ml-sw-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "SW Engineer, Media Services",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsWe value strong programming fundamentals and extensive experience with both Swift and Objective-CObject Oriented ProgrammingExperience with Cocoa and the iOS SDKFamiliarity with mobile application UI developmentStrong problem solving and critical thinking skillsExperience in defining and building APIsPassion for quality and attention to detail.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200631408-3337/sw-engineer-media-services?team=SFTWR",
+    "id": "apple-sw-engineer-media-services-seattle"
   }
 ]
