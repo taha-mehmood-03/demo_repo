@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Commerce Engineering",
-    "job_city": "Seattle",
+    "employer_name": "General Dynamics",
+    "job_title": "Unison PRISM Techno/Oracle SOA/OSB Analyst",
+    "job_city": "USA MD Germantown",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsJava programming experience.\n• Object-oriented programmingHands-on software engineering experience, particularly with Java and Service Oriented ArchitecturesKnowledge of databases both SQL and NoSQL and entity relationship modelingExcellent interpersonal skillsBS in Computer Engineering/Computer Science or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200634640-3337/software-engineer-commerce-engineering?team=SFTWR",
-    "id": "apple-software-engineer-commerce-engineering-seattle"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Germantown/Unison-PRISM-Techno-Oracle-SOA-OSB-Analyst_RQ210602?q=software+engineering",
+    "id": "general-dynamics-unison-prism-techno-oracle-soa-osb-analyst-usa-md-germantown"
+  },
+  {
+    "employer_name": "Illumina",
+    "job_title": "Systems Support Engineer",
+    "job_city": "US - California - San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Staff Software Engineer - Instrument SoftwarelocationsUS - California - San Diegoposted onPosted 30+ Days Ago41346-JOBSr Software Test EngineerlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41253-JOBSoftware Quality Engineer 2locationsUS - California - San Diegoposted onPosted 17 Days Ago41585-JOBFirmware Test Engineer 1locationsUS - California - San Diegoposted onPosted 30+ Days Ago41610-JOBSAP Test Lead - S/4HANA TransformationlocationsUS - California - San Diegoposted onPosted 21 Days Ago41470-JOBSr Deep Learning/AI Engineer - Machine Learninglocations7 Locationsposted onPosted 13 Days Ago41352-JOBOptical Engineer IIlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41361-JOBLead IT Engineer, End User Computing & Lab ITlocationsUS - California - San Diegoposted onPosted 21 Days Ago41402-JOBSystems Support Engineer 1locationsUS - California - San Diegoposted onPosted Today41764-JOBInformatics Success Specialistlocations10 Locationsposted onPosted 16 Days Ago41701-JOBSenior Staff ScientistlocationsUS - California - San Diegoposted onPosted 30+ Days Ago40900-JOBFacilities Compliance Specialist 1locationsUS - California - San Diegoposted onPosted 10 Days Ago41711-JOBBMS Technician 3- 1st ShiftlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41132-JOB.",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Systems-Support-Engineer-1_41764-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-systems-support-engineer-us-california-san-diego"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Storage",
+    "job_title": "Software Engineer, Google Distributed Cloud",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Storage",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131434580421812934-software-engineer-iii-infrastructure-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
-    "id": "google-software-engineer-iii-infrastructure-google-cloud-storage-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Google Distributed Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/112991517735297734-software-engineer-google-distributed-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-google-distributed-cloud-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, AI and Infrastructure",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, AI and Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/114670233620226758-software-engineer-iii-aiml-ai-and-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-ai-ml-ai-and-infrastructure-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Display Ads, Infrastructure",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Display Ads, Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/87053213802341062-software-engineer-iii-display-ads-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-display-ads-infrastructure-mountain-view"
   }
 ]
