@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Synopsys",
-    "job_title": "Software Developer - EO/IR (Exton, PA)",
-    "job_city": "Exton",
-    "job_state": "Pennsylvania",
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Commerce Engineering",
+    "job_city": "Seattle",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "Next-page description extraction failed after retries",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/exton/software-developer-eo-ir-exton-pa/44408/87085298624",
-    "id": "synopsys-software-developer-eo-ir-exton-pa-exton"
+    "job_description": "• Minimum QualificationsJava programming experience.\n• Object-oriented programmingHands-on software engineering experience, particularly with Java and Service Oriented ArchitecturesKnowledge of databases both SQL and NoSQL and entity relationship modelingExcellent interpersonal skillsBS in Computer Engineering/Computer Science or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200634640-3337/software-engineer-commerce-engineering?team=SFTWR",
+    "id": "apple-software-engineer-commerce-engineering-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Storage",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Storage",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131434580421812934-software-engineer-iii-infrastructure-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-storage-sunnyvale"
   }
 ]
