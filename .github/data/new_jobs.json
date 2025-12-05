@@ -1,32 +1,62 @@
 [
   {
-    "employer_name": "Honeywell",
-    "job_title": "Mechanical Design Engineer",
-    "job_city": "Rocky Mount",
-    "job_state": "NC",
-    "job_posted_at": "14h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engr II Locations Mason, OH, United States (Hybrid) Posting Date10/20/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Lead Systems Engineer - Flight Management System Locations Phoenix, AZ, United States (Hybrid) Posting Date11/10/2025 Be the First to Apply As a Lead Systems Engineer at Honeywell, you will be responsible for providing technical leadership and guidance in the design, development, and implementation of complex systems, ensuring their functionality, reliability, and integration to meet customer requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/129791/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-mechanical-design-engineer-rocky-mount"
+    "employer_name": "IBM",
+    "job_title": "AI/ML Engineering internship: SVL",
+    "job_city": "shipSan Jose",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role AI/ML Engineering internship: SVL",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79669&source=WEB_Search_NA",
+    "id": "ibm-ai-ml-engineering-internship-svl-shipsan-jose"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Splunk Engineer",
+    "job_city": "USA FL MacDill AFB",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Splunk-Engineer_RQ211176-1?q=software+engineering",
+    "id": "general-dynamics-splunk-engineer-usa-fl-macdill-afb"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Microsoft Dynamics Developer",
+    "job_city": "28 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago30536Microsoft Dynamics Developerlocations28 Locationsposted onPosted Today34507Power Platform DeveloperlocationsUS - IN, Indianapolisposted onPosted 15 Days Ago34205Power Platform DeveloperlocationsUS - VA, McLeanposted onPosted 11 Days Ago34262Power Platform DeveloperlocationsUS - IN, Indianapolisposted onPosted 3 Days Ago34398IT Service Design Lead – USACE Mission Support (remote)locationsUS - Remote (Any location)posted onPosted 4 Days Ago33819Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 21 Days Ago32512Technology Account Lead, HealthcarelocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32848Salesforce DeveloperlocationsUS - Remote (Any location)posted onPosted 14 Days Ago32653Palantir Developer - Senior Consultantlocations4 Locationsposted onPosted 11 Days Ago33859Quality Assurance (QA) TesterlocationsUS - VA, McLeanposted onPosted 16 Days Ago32485Senior Data Scientist (Senior Consultant)locations6 Locationsposted onPosted 15 Days Ago34036Senior Data ScientistlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32934Blockchain Senior Developerlocations2 Locationsposted onPosted 30+ Days Ago33366Data and AI Project Manager (AI & Data - Public Sector)locations4 Locationsposted onPosted 15 Days Ago34037Senior ServiceNow DeveloperlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32664Senior ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago33146Data Warehouse Architect – AI & Data Modernizationlocations4 Locationsposted onPosted 30+ Days Ago31739Senior Salesforce Developerlocations2 Locationsposted onPosted 15 Days Ago30979BAS TechnicianlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago32779.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Microsoft-Dynamics-Developer_34507?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-microsoft-dynamics-developer-28-locations"
+  },
+  {
+    "employer_name": "Marvel Technology",
+    "job_title": "Test Solutions Engineer",
+    "job_city": "Burlington",
+    "job_state": "VT",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2502955Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Test Solutions EngineerlocationsBurlington, VTposted onPosted Today2503580Design Verification Intern - Master's DegreelocationsAustin, TXposted onPosted Yesterday2502728Principal Mixed Signal Design EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503741Sr.\n• Principal Product EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503337Senior Staff Engineer, Physical DesignlocationsSanta Clara, CAposted onPosted 2 Days Ago2503621Senior Staff Engineer, Physical Designlocations2 Locationsposted onPosted Yesterday2503628Senior Engineer, Physical Designlocations2 Locationsposted onPosted Yesterday2503625Senior Engineer, Physical Designlocations2 Locationsposted onPosted 2 Days Ago2503618Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2503631Vice President, Corporate Developmentlocations2 Locationsposted onPosted 2 Days Ago2503737Senior Staff Hardware Design Engineer - PCB Board Level Circuit Design Simulation TestlocationsSanta Clara, CAposted onPosted 3 Days Ago2503706Senior Staff Physical Verification CAD engineer - EDA ToolslocationsSanta Clara, CAposted onPosted 3 Days Ago2503634Associate Vice President, Chief of Staff - Custom Cloud SolutionslocationsUS - CA - Santa Clara - Marvell Parkposted onPosted 3 Days Ago2502841Senior Procurement Manager - OSATlocationsSanta Clara, CAposted onPosted 3 Days Ago2503638Staff Applications EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2501671Technical Director, Foundry TechnologylocationsSanta Clara, CAposted onPosted 4 Days Ago2503505Advanced Packaging SI/PI Senior Engineerlocations2 Locationsposted onPosted 4 Days Ago2503632Digital IC Principal Design EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2503466.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineer_2503580?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-test-solutions-engineer-burlington"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Machine Learning, User Understanding, Attention",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer, IDE, Extensions, Gemini Code Assist",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, IDE, Extensions, Gemini Code Assist",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/141773847543063238-software-engineer-ide-extensions-gemini-code-assist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-ide-extensions-gemini-code-assist-new-york"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer II, Twitch",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Machine Learning, User Understanding, Attention",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79854300469043910-software-engineer-machine-learning-user-understanding-attention?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-machine-learning-user-understanding-attention-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Persistent Disk Capacity",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Persistent Disk Capacity",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127611656740971206-software-engineer-iii-persistent-disk-capacity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-iii-persistent-disk-capacity-kirkland"
+    "job_posted_at": "17h",
+    "job_description": "software engineering job for the role Software Engineer II, Twitch",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3138052/software-engineer-ii-twitch",
+    "id": "amazon-software-engineer-ii-twitch-san-francisco"
   }
 ]
