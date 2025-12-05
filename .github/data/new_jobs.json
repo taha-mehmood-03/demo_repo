@@ -1,62 +1,122 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Compliance Lab Technician",
-    "job_city": "POUGHKEEPSIE",
+    "job_title": "Entry level AI/ML Engineer: SVL",
+    "job_city": "San Jose",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Compliance Lab Technician",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77600&source=WEB_Search_NA",
-    "id": "ibm-compliance-lab-technician-poughkeepsie"
+    "job_description": "software engineering job for the role Entry level AI/ML Engineer: SVL",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79649&source=WEB_Search_NA",
+    "id": "ibm-entry-level-ai-ml-engineer-svl-san-jose"
   },
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern- US Expansion Industrial Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "1d",
-    "job_description": "• Working towards completion of Bachelor’s or Master’s degree in the following areas: industrial engineering, manufacturing engineering, supply chain or related discipline with expected graduation after this internship timeframe Experience analyzing and interpreting data, drawing conclusions, defining recommended actions, and reporting results across diverse technical and non-technical groups Experience turning sophisticated and ambiguous problem statements into structured solutions while working in a highly multi-functional environment Time management and prioritization skills and proven ability to follow basic procedures and work with minimal supervision.\n• Experience working in teams, establishing and maintaining multi-functional and working relationships New College Grad - Industrial EngineerManassas, Virginia, United States of AmericaPosted a day ago Advanced communication skills and ability to present effectively to a wide variety of audiences.\n• Experience operating independently while maintaining a high degree of organization and control Must be returning to school.\n• Must not graduate before September 2026 Skilled in Autodesk AutoCAD, Revit, and Inventor.",
-    "job_apply_link": "https://careers.micron.com/careers/job/39163226",
-    "id": "micron-technology-intern-us-expansion-industrial-engineer-boise"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Assessments Analyst",
-    "job_city": "USA FL MacDill AFB",
+    "employer_name": "IBM",
+    "job_title": "Product / Project Management",
+    "job_city": "ship",
     "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Assessments-Analyst_RQ210801-1?q=software+engineering",
-    "id": "general-dynamics-assessments-analyst-usa-fl-macdill-afb"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Full Stack Developer with Cloud and DevOps Experience",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
     "job_posted_at": "1d",
-    "job_description": "• DoD Business Analytics EngineerlocationsUS - TX, San Antonioposted onPosted 2 Days Ago34438Enclave Program ManagerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33433Technical Celonis Developerlocations2 Locationsposted onPosted 2 Days Ago34326Program Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33494Linkage Project ManagerlocationsUS - MD, Bethesdaposted onPosted 28 Days Ago33461Lead System Security EngineerlocationsUS - MD, Bethesdaposted onPosted 17 Days Ago34014Director – Cloud and Application Development Capabilitylocations2 Locationsposted onPosted 16 Days Ago34043Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31179Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 30+ Days Ago31777AI/ML Ops EngineerlocationsUS - VA, Arlingtonposted onPosted 10 Days Ago34186Senior Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 30+ Days Ago31753Cyber Security Engineer – Managing Consultantlocations2 Locationsposted onPosted 8 Days Ago34202AI/ML DeveloperlocationsUS - AL, Huntsvilleposted onPosted Today34437Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 30+ Days Ago31229Full Stack Developer with Cloud and DevOps ExperiencelocationsUS - MD, Bethesdaposted onPosted Today34436Senior Servicenow DeveloperlocationsIN - Chennaiposted onPosted 8 Days Ago33257ServiceNow ArchitectlocationsGH Office: Chennai, India (Keppel)posted onPosted 30+ Days Ago33251AI Architectlocations4 Locationsposted onPosted 30+ Days Ago31443Cyber Security Engineer SME – Associate DirectorlocationsUS - Remote (Any location)posted onPosted 8 Days Ago34211Border Security Technical Data AnalystlocationsUS - DC, Washingtonposted onPosted 21 Days Ago33926.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Full-Stack-Developer-with-Cloud-and-DevOps-Experience_34436-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-full-stack-developer-with-cloud-and-devops-experience-us-md"
+    "job_description": "software engineering job for the role Product / Project Management",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73363&source=WEB_Search_NA",
+    "id": "ibm-product-project-management-ship"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML GenAI, Google Cloud Data Management",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "IT Lab Tech - Power Card Apprentice",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role IT Lab Tech - Power Card Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79661&source=WEB_Search_NA",
+    "id": "ibm-it-lab-tech-power-card-apprentice-rochester"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "SMTS, Software Engineering",
+    "job_city": "Texas - Dallas",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, AI/ML GenAI, Google Cloud Data Management",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/107249936734528198-software-engineer-iii-aiml-genai-google-cloud-data-management?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-software-engineer-iii-ai-ml-genai-google-cloud-data-management-mountain-view"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Collaborative Communicator: Skilled at working across teams, simplifying complexity, and building trusted partnerships.\n• Customer Mindset: Invested in understanding customer needs and ensuring product decisions align to business value.\n• 8+ years of progressive software development experience with a strong track record building large-scale, distributed, web-based systems.\n• 8+ years Salesforce expertise required, with deep understanding of the Salesforce Platform and product suite (Sales, Service, Experience/Community, Marketing, etc.\n• Experience Cloud & Slack Integration experience is required.\n• Expert-level proficiency in multiple modern programming languages and frameworks, including:Apex, Java, JavaScript, Lightning Web Components (LWC)Experience with CI/CD (Jenkins pipelines, Agentic CI/CD, branching/versioning best practices).\n• Hands-on experience with enterprise integrations, including MuleSoft and other leading integration frameworks and tools.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr321015/smts-software-engineering/",
+    "id": "salesforce-smts-software-engineering-texas-dallas"
+  },
+  {
+    "employer_name": "Illumina",
+    "job_title": "Software Engineer",
+    "job_city": "US - California - San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Software EngineerlocationsUS - California - San Diegoposted onPosted Today41712-JOBStaff Software Engineer - Instrument SoftwarelocationsUS - California - San Diegoposted onPosted 30+ Days Ago41346-JOBSr Software Test EngineerlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41253-JOBSoftware Quality Engineer 2locationsUS - California - San Diegoposted onPosted 17 Days Ago41585-JOBFirmware Test Engineer 1locationsUS - California - San Diegoposted onPosted 30+ Days Ago41610-JOBSAP Test Lead - S/4HANA TransformationlocationsUS - California - San Diegoposted onPosted 21 Days Ago41470-JOBSr Deep Learning/AI Engineer - Machine Learninglocations7 Locationsposted onPosted 13 Days Ago41352-JOBOptical Engineer IIlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41361-JOBLead IT Engineer, End User Computing & Lab ITlocationsUS - California - San Diegoposted onPosted 21 Days Ago41402-JOBSystems Support Engineer 1locationsUS - California - San Diegoposted onPosted Today41764-JOBInformatics Success Specialistlocations10 Locationsposted onPosted 16 Days Ago41701-JOBSenior Staff ScientistlocationsUS - California - San Diegoposted onPosted 30+ Days Ago40900-JOBFacilities Compliance Specialist 1locationsUS - California - San Diegoposted onPosted 10 Days Ago41711-JOBBMS Technician 3- 1st ShiftlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41132-JOB.",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Software-Engineer_41712-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-software-engineer-us-california-san-diego"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Silicon Photonics Validation and Characterization Test Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Proven experience in the field of optical interconnects and silicon photonicsFamiliar with general test & manufacturing of silicon photonicsGood communication skills and ability to work with geographically distributed engineering teams.\n• Hands-on experience with high-speed test equipment such as bit error rate testers, digital communication analyzers, real-time oscilloscopes, vector network analyzers, and arbitrary waveform generators.\n• Hands-on experience with optical test equipment, including swept laser sources, power meters, optical spectrum analyzers, optical time domain reflectometers, optical amplifiers, and best practices in optical test systemsHands-on experience with electrooptic wafer and die-level test systems Collaborate with silicon design, product & test, and packaging teams to architect & define test solutions for silicon photonics at wafer-sort, die-level, and CPO-levelCollaborate with design, packaging, and key suppliers to understand structural and parametric mechanisms for performance, yield, reliability and quality issuesInterface with suppliers to provide technical inputs & test requirements to enable production-worthy end-to-end solutionsDeep knowledge to train other teams & engineers in the field of silicon photonics from design, packaging, to volume testResponsible for identifying & mitigating test challenges and executing large technical projects and processes in a timely mannerSpecify and develop test fixtures in collaboration with Hardware, PCB, and Firmware engineers.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Software development for test automation such as with PyVISA, MATLAB, or other development tools.\n• Familiarity with wireline analog and digital signal processing techniques such as FFE, DFE, and CTLE or with optical communication systems with concepts such as optical-signal-to-noise ratio, receiver sensitivity, optical modulation amplitude, and optical filtering.\n• Develop test automation software in collaboration with design engineers.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70842/login",
+    "id": "amd-silicon-photonics-validation-and-characterization-test-engineer-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Core Audio Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsStrong programing skills (preferably in Swift and C/C++).\n• Experience with digital audio.\n• Solid understanding of software architecture and API design.\n• Solid understanding of audio programming, object-oriented methodologies, and multi-threaded programming.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200634924-0836/core-audio-software-engineer?team=SFTWR",
+    "id": "apple-core-audio-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Quality Compliance Engineer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/quality-compliance-engineer/33099/61697469856",
+    "id": "arm-quality-compliance-engineer-"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer II - ML, Python or Java",
+    "job_city": "Columbus",
+    "job_state": "OH",
+    "job_posted_at": "1d",
+    "job_description": "• Create a profile so we can help Join the Network Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Looking for Lead Software Engineer in Java, AWS, Cloud to design and deliver secure, stable, and scalable technology products.\n• Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Manager of Software Engineering with distributed technology at scale experience.\n• Software Engineer III - AWS Cloud Engineer Plano, TX, United States TechnologySoftware Engineering Looking for a software engineer to help with improving our public cloud Software Engineer III - UI Web OH, United States and 1 more TechnologySoftware Engineering Chase digital team looking to hire talented software engineers to support our UI application development with experience in JS.\n• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Software Engineer II Mumbai, Maharashtra, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer II Mumbai, Maharashtra, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Director of Software Engineering New York, NY, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II - AWS, Python, PySpark Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer - Cloud with Big data Developer (AWS, PySpark, Python) Lead Software Engineer - Java Fullstack Bengaluru, Karnataka, India TechnologySoftware Engineering Lead Software Engineer with Java Full Stack background Director of Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Senior developer for Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Lead Software Engineer- Golang Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Strong Java, DB, cloud, and automation skills.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Full Stack Developer Palo Alto, CA, United States and 1 more TechnologySoftware Engineering Lead Software Engineer Software Engineer II : Azure Cloud Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Seeking a Software Engineer II with expertise on Cloud Platform such as Azure/AWS.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Lead Software Engineer - Python / Distributed Computing Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Software Engineer for Trade Management Systems that are developed in Python Lead Software Engineer- Identity Federation Jersey City, NJ, United States TechnologySoftware Engineering Seeking a strong software engineer who has good understanding of infrastructure, automation and deployment Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690314/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-ml-python-or-java-columbus"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer II - AWS and Python Developer",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• Create a profile so we can help Join the Network Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Looking for Lead Software Engineer in Java, AWS, Cloud to design and deliver secure, stable, and scalable technology products.\n• Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Manager of Software Engineering with distributed technology at scale experience.\n• Software Engineer III - AWS Cloud Engineer Plano, TX, United States TechnologySoftware Engineering Looking for a software engineer to help with improving our public cloud Software Engineer III - UI Web OH, United States and 1 more TechnologySoftware Engineering Chase digital team looking to hire talented software engineers to support our UI application development with experience in JS.\n• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Software Engineer II Mumbai, Maharashtra, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer II Mumbai, Maharashtra, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Director of Software Engineering New York, NY, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II - AWS, Python, PySpark Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer - Cloud with Big data Developer (AWS, PySpark, Python) Lead Software Engineer - Java Fullstack Bengaluru, Karnataka, India TechnologySoftware Engineering Lead Software Engineer with Java Full Stack background Director of Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Senior developer for Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Lead Software Engineer- Golang Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Strong Java, DB, cloud, and automation skills.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Full Stack Developer Palo Alto, CA, United States and 1 more TechnologySoftware Engineering Lead Software Engineer Software Engineer II : Azure Cloud Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Seeking a Software Engineer II with expertise on Cloud Platform such as Azure/AWS.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Lead Software Engineer - Python / Distributed Computing Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Software Engineer for Trade Management Systems that are developed in Python Lead Software Engineer- Identity Federation Jersey City, NJ, United States TechnologySoftware Engineering Seeking a strong software engineer who has good understanding of infrastructure, automation and deployment Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691715/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-aws-and-python-developer-jersey-city"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - Google Cloud Platform",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• Create a profile so we can help Join the Network Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Looking for Lead Software Engineer in Java, AWS, Cloud to design and deliver secure, stable, and scalable technology products.\n• Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Manager of Software Engineering with distributed technology at scale experience.\n• Software Engineer III - AWS Cloud Engineer Plano, TX, United States TechnologySoftware Engineering Looking for a software engineer to help with improving our public cloud Software Engineer III - UI Web OH, United States and 1 more TechnologySoftware Engineering Chase digital team looking to hire talented software engineers to support our UI application development with experience in JS.\n• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Software Engineer II Mumbai, Maharashtra, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer II Mumbai, Maharashtra, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Director of Software Engineering New York, NY, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II - AWS, Python, PySpark Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer - Cloud with Big data Developer (AWS, PySpark, Python) Lead Software Engineer - Java Fullstack Bengaluru, Karnataka, India TechnologySoftware Engineering Lead Software Engineer with Java Full Stack background Director of Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Senior developer for Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Lead Software Engineer- Golang Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Strong Java, DB, cloud, and automation skills.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Full Stack Developer Palo Alto, CA, United States and 1 more TechnologySoftware Engineering Lead Software Engineer Software Engineer II : Azure Cloud Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Seeking a Software Engineer II with expertise on Cloud Platform such as Azure/AWS.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Lead Software Engineer - Python / Distributed Computing Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Software Engineer for Trade Management Systems that are developed in Python Lead Software Engineer- Identity Federation Jersey City, NJ, United States TechnologySoftware Engineering Seeking a strong software engineer who has good understanding of infrastructure, automation and deployment Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210687356/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-google-cloud-platform-jersey-city"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Antenna Software",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "23h",
-    "job_description": "software engineering job for the role Software Development Engineer, Antenna Software",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3137694/software-development-engineer-antenna-software",
-    "id": "amazon-software-development-engineer-antenna-software-redmond"
+    "job_title": "Software Builder, Ring",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_posted_at": "6h",
+    "job_description": "software engineering job for the role Software Builder, Ring",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3137869/software-builder-ring",
+    "id": "amazon-software-builder-ring-north-reading"
   }
 ]
