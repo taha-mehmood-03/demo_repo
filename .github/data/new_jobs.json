@@ -1,62 +1,82 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "AI/ML Engineering internship: SVL",
-    "job_city": "shipSan Jose",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role AI/ML Engineering internship: SVL",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79669&source=WEB_Search_NA",
-    "id": "ibm-ai-ml-engineering-internship-svl-shipsan-jose"
+    "employer_name": "Micron Technology",
+    "job_title": "New College Grad - Yield Analysis Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "2d",
+    "job_description": "• New College Grad - Change Management EngineerManassas, Virginia, United States of AmericaPosted a month ago Bachelor’s degree in Materials Science, Electrical, Electronics, Chemical, or related engineering fields.\n• New College Grad - Process Integration EngineerBoise, Idaho, United States of AmericaPosted 3 days ago New College Grad - ATE Process Engineer ID1Boise, Idaho, United States of AmericaPosted 4 days ago New College Grad - ENGINEER - PYEBoise, Idaho, United States of AmericaPosted 2 days ago Internship experience in a 300mm semiconductor environment.\n• Master's degree in above majors Exposure (academic or internship) to: Semiconductor and memory technologies.\n• Apply semiconductor process knowledge, defect inspection, metrology, and process control fundamentals.\n• Knowledge of CMOS and characterization methods.\n• Transistors and metallization processes.\n• Yield ramp and fabrication processes.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-new-college-grad-yield-analysis-engineer-boise"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Splunk Engineer",
-    "job_city": "USA FL MacDill AFB",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Splunk-Engineer_RQ211176-1?q=software+engineering",
-    "id": "general-dynamics-splunk-engineer-usa-fl-macdill-afb"
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Probe Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "2d",
+    "job_description": "• Design, fabrication, and CAD experience a plus Perform statistical analysis of manufacturing data to ensure that processes meet required quality standards New College Grad - Engineer, Shift EquipmentBoise, Idaho, United States of AmericaPosted a month ago Ensure Tool Installation & Qualification (TIQ) processes are followed and expectations are met Successfully demonstrated collaboration skills with a strong focus on effective team dynamics Provide ownership and oversight of equipment availability, utilization, and quality metrics Excellent knowledge of engineering fundamentals and basic electronics technologies Ability to tackle problems and address root causes.\n• Systematic problem-solving Basic knowledge of Probe or semiconductor equipment and processes are desired Maintain records on supplier notices, upgrades, and safety requirements.\n• Strong mechanical proficiency with the ability to understand and resolve mechanical system problems.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30739844",
+    "id": "micron-technology-intern-probe-equipment-engineer-boise"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Microsoft Dynamics Developer",
-    "job_city": "28 Locations",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Web Application Support Software Engineer",
+    "job_city": "Washington",
+    "job_state": "DC",
     "job_posted_at": "1d",
-    "job_description": "• Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago30536Microsoft Dynamics Developerlocations28 Locationsposted onPosted Today34507Power Platform DeveloperlocationsUS - IN, Indianapolisposted onPosted 15 Days Ago34205Power Platform DeveloperlocationsUS - VA, McLeanposted onPosted 11 Days Ago34262Power Platform DeveloperlocationsUS - IN, Indianapolisposted onPosted 3 Days Ago34398IT Service Design Lead – USACE Mission Support (remote)locationsUS - Remote (Any location)posted onPosted 4 Days Ago33819Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 21 Days Ago32512Technology Account Lead, HealthcarelocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32848Salesforce DeveloperlocationsUS - Remote (Any location)posted onPosted 14 Days Ago32653Palantir Developer - Senior Consultantlocations4 Locationsposted onPosted 11 Days Ago33859Quality Assurance (QA) TesterlocationsUS - VA, McLeanposted onPosted 16 Days Ago32485Senior Data Scientist (Senior Consultant)locations6 Locationsposted onPosted 15 Days Ago34036Senior Data ScientistlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32934Blockchain Senior Developerlocations2 Locationsposted onPosted 30+ Days Ago33366Data and AI Project Manager (AI & Data - Public Sector)locations4 Locationsposted onPosted 15 Days Ago34037Senior ServiceNow DeveloperlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32664Senior ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago33146Data Warehouse Architect – AI & Data Modernizationlocations4 Locationsposted onPosted 30+ Days Ago31739Senior Salesforce Developerlocations2 Locationsposted onPosted 15 Days Ago30979BAS TechnicianlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago32779.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Microsoft-Dynamics-Developer_34507?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-microsoft-dynamics-developer-28-locations"
+    "job_description": "• UI Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0209716 Full Stack Big Data Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220917 Full Stack Cloud Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220915 User Interface Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0227236 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 16 Days AgoR0226886 Full Stack Software Engineer, Seniorlocations2 Locationsposted onPosted 10 Days AgoR0229940 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 3 Days AgoR0225767 Back End Engineer, SeniorlocationsFort Meade, MDposted onPosted 2 Days AgoR0220919 Full Stack Developer, LeadlocationsMcLean, VAposted onPosted 30+ Days AgoR0225397.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Web-Application-Support-Software-Engineer_R0230334?q=software+engineering",
+    "id": "bae-systems-web-application-support-software-engineer-washington"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "GIS Full Stack Software Developer, Mid",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• UI Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0209716 Full Stack Big Data Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220917 Full Stack Cloud Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220915 User Interface Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0227236 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 16 Days AgoR0226886 Full Stack Software Engineer, Seniorlocations2 Locationsposted onPosted 10 Days AgoR0229940 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 3 Days AgoR0225767 Back End Engineer, SeniorlocationsFort Meade, MDposted onPosted 2 Days AgoR0220919 Full Stack Developer, LeadlocationsMcLean, VAposted onPosted 30+ Days AgoR0225397.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/GIS-Full-Stack-Software-Developer--Mid_R0230327?q=software+engineering",
+    "id": "bae-systems-gis-full-stack-software-developer-mid-dahlgren"
   },
   {
     "employer_name": "Marvel Technology",
-    "job_title": "Test Solutions Engineer",
+    "job_title": "Hardware Validation (Test Solutions) Engineer",
     "job_city": "Burlington",
     "job_state": "VT",
     "job_posted_at": "1d",
-    "job_description": "• Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2502955Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Test Solutions EngineerlocationsBurlington, VTposted onPosted Today2503580Design Verification Intern - Master's DegreelocationsAustin, TXposted onPosted Yesterday2502728Principal Mixed Signal Design EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503741Sr.\n• Principal Product EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503337Senior Staff Engineer, Physical DesignlocationsSanta Clara, CAposted onPosted 2 Days Ago2503621Senior Staff Engineer, Physical Designlocations2 Locationsposted onPosted Yesterday2503628Senior Engineer, Physical Designlocations2 Locationsposted onPosted Yesterday2503625Senior Engineer, Physical Designlocations2 Locationsposted onPosted 2 Days Ago2503618Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2503631Vice President, Corporate Developmentlocations2 Locationsposted onPosted 2 Days Ago2503737Senior Staff Hardware Design Engineer - PCB Board Level Circuit Design Simulation TestlocationsSanta Clara, CAposted onPosted 3 Days Ago2503706Senior Staff Physical Verification CAD engineer - EDA ToolslocationsSanta Clara, CAposted onPosted 3 Days Ago2503634Associate Vice President, Chief of Staff - Custom Cloud SolutionslocationsUS - CA - Santa Clara - Marvell Parkposted onPosted 3 Days Ago2502841Senior Procurement Manager - OSATlocationsSanta Clara, CAposted onPosted 3 Days Ago2503638Staff Applications EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2501671Technical Director, Foundry TechnologylocationsSanta Clara, CAposted onPosted 4 Days Ago2503505Advanced Packaging SI/PI Senior Engineerlocations2 Locationsposted onPosted 4 Days Ago2503632Digital IC Principal Design EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2503466.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineer_2503580?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-test-solutions-engineer-burlington"
+    "job_description": "• Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2502955Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Hardware Validation (Test Solutions) EngineerlocationsBurlington, VTposted onPosted Today2503553Test Solutions EngineerlocationsBurlington, VTposted onPosted Today2503580Design Verification Intern - Master's DegreelocationsAustin, TXposted onPosted Yesterday2502728Principal Mixed Signal Design EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503741Sr.\n• Principal Product EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503337Senior Staff Engineer, Physical DesignlocationsSanta Clara, CAposted onPosted 2 Days Ago2503621Senior Staff Engineer, Physical Designlocations2 Locationsposted onPosted Yesterday2503628Senior Engineer, Physical Designlocations2 Locationsposted onPosted Yesterday2503625Senior Engineer, Physical Designlocations2 Locationsposted onPosted 2 Days Ago2503618Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2503631Vice President, Corporate Developmentlocations2 Locationsposted onPosted 2 Days Ago2503737Senior Staff Hardware Design Engineer - PCB Board Level Circuit Design Simulation TestlocationsSanta Clara, CAposted onPosted 3 Days Ago2503706Senior Staff Physical Verification CAD engineer - EDA ToolslocationsSanta Clara, CAposted onPosted 3 Days Ago2503634Associate Vice President, Chief of Staff - Custom Cloud SolutionslocationsUS - CA - Santa Clara - Marvell Parkposted onPosted 3 Days Ago2502841Senior Procurement Manager - OSATlocationsSanta Clara, CAposted onPosted 3 Days Ago2503638Staff Applications EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2501671Technical Director, Foundry TechnologylocationsSanta Clara, CAposted onPosted 4 Days Ago2503505Advanced Packaging SI/PI Senior Engineerlocations2 Locationsposted onPosted 4 Days Ago2503632.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Hardware-Validation--Test-Solutions--Engineer_2503553-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-hardware-validation-test-solutions-engineer-burlington"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, IDE, Extensions, Gemini Code Assist",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, IDE, Extensions, Gemini Code Assist",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/141773847543063238-software-engineer-ide-extensions-gemini-code-assist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-ide-extensions-gemini-code-assist-new-york"
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Media",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "19h",
+    "job_description": "• Minimum QualificationsBS/MS, preferably Computer Science or related experienceComputer science fundamentals, specifically with operating systems, understanding how parts of a computer fit together to create a platform and experienceProgramming fundamentals, like pointers and memory management, with languages like C, Objective-C, or C++Excellent interpersonal skills due to the high level of interaction with internal and external engineering teams & management.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200635340-0836/software-engineer-media?team=SFTWR",
+    "id": "apple-software-engineer-media-cupertino"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Engineer II, Twitch",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "17h",
-    "job_description": "software engineering job for the role Software Engineer II, Twitch",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3138052/software-engineer-ii-twitch",
-    "id": "amazon-software-engineer-ii-twitch-san-francisco"
+    "employer_name": "Apple",
+    "job_title": "Cloud Infrastructure Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "19h",
+    "job_description": "• Minimum QualificationsAt least 2+ years with Bachelor’s Degree in an engineering-related field, or equivalent related experienceStrong systems programming skills and knowledge of large-scale distributed systems.\n• Highly proficient in Golang and JavaExcellent problem solving and analytical thinking skills.\n• Strong understanding of concurrency, parallelism and distributed system concepts.\n• Ability to articulate complex technical concepts to both technical and non-technical stakeholders.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200635173-0836/cloud-infrastructure-software-engineer?team=SFTWR",
+    "id": "apple-cloud-infrastructure-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Texas Instruments",
+    "job_title": "Career Accelerator Program - Packaging Engineer - MS/PhD",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "19h",
+    "job_description": "• (3) Dallas, North Campus - Kilby Center (2) Knoxville, Knoxville, TN (2) Richardson, Richardson Fab, Renner Rd (2) Phoenix, Phoenix, AZ (1) Phoenix, North Phoenix, AZ (1) Sugar Land, Sugar Land, TX (1) Categories 0 Engineering - Product Dev (20) Information Technology (12) Manufacturing (1) Experience Level 0 Interns (14) Experienced Professional (11) Recent College Grads (8) Work Locations 0 Dallas, North Campus - Kilby East (12) Dallas, South Campus (11) Dallas, North Campus - DMOS V South (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• (3) Dallas, North Campus - Kilby Center (2) Knoxville, Knoxville, TN (2) Richardson, Richardson Fab, Renner Rd (2) Phoenix, Phoenix, AZ (1) Phoenix, North Phoenix, AZ (1) Sugar Land, Sugar Land, TX (1) Categories 0 Engineering - Product Dev (20) Information Technology (12) Manufacturing (1) Experience Level 0 Interns (14) Experienced Professional (11) Recent College Grads (8) Career Accelerator Program - Process Development Engineer - MS/PhD - Lehi Lehi, UT, United States Posted on 09/11/2025 Packaging Engineering Intern MS/PhD United States and 1 more Posted on 09/16/2025 Career Accelerator Program - Failure Analysis Engineer - PhD Dallas, TX, United States Posted on 09/25/2025 Packaging Engineering Intern - MS/PhD - Santa Clara United States Posted on 09/18/2025 Cumulative 3.\n• 0 GPA or higherDemonstrated expertise in mechanical stress analysis and management Hands-on experience in mechanical stress modeling using industry software such as ANSYS Hands-on experience or working knowledge on mechanical characterization of materials (metals/alloys, polymers, ceramics, etc.\n• ) Semiconductor back-end-of-line processing knowledge is preferred (fab manufacturing processes for Al and Cu based back-end-of-line)Semiconductor packaging knowledge is preferred (manufacturing processes, assembly, reliability, materials, characterization, FA)Demonstrated analytical and problem solving skillsStrong written and verbal communication skillsAbility to work in teams and collaborate effectively with people in different functionsStrong time management skills that enable on-time project deliveryAbility to build strong, influential relationshipsAbility to work effectively in a fast-paced and rapidly changing environmentAbility to take the initiative and drive for results Partner with the businesses to design and develop internal and external solutions for semiconductor packaging technologies, including Wirebond, Flip Chip, Modules, SIPs and other advanced packages at different stages of readiness Participate in cross-functional teams, supporting product qualification and production, helping to meet reliability and yield requirements, design testability, and test coverage Direct design-of-experiments and work with material suppliers to downselect innovative packaging materials to enhance the reliability and performance of advanced packages.\n• Job Identification 25005131 Job Category Engineering - Product Dev Posting Date 12/05/2025, 05:22 PM Degree Level Master's Degree Locations FORE 12500 TI Boulevard, Dallas, TX, 75243, US ECL/GTC Required Yes Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Interns (14) Experienced Professional (11) Recent College Grads (8).\n• Software Engineering Intern Locations Dallas, TX, United States Posting Date12/04/2025 Career Accelerator Program - Software Engineer Locations Dallas, TX, United States Posting Date11/25/2025 Software Solutions Architect Locations Dallas, TX, United States Posting Date12/02/2025 Career Accelerator Program - Packaging Engineer - MS/PhD Locations United States Posting Date12/05/2025 AI-Assisted Development Engineer | Smart Manufacturing & Automation Locations Dallas, TX, United States Posting Date11/17/2025 Resolution Enhancement Techniques Process Development Engineer Locations Dallas, TX, United States Posting Date11/03/2025 Supply Chain Solutions Architect Locations Dallas, TX, United States Posting Date10/30/2025 Test Engineer Locations Dallas, TX, United States Posting Date11/25/2025 Systems Engineering Intern (Machine Learning) Locations United States Posting Date11/10/2025 Process Development Test Engineer Locations Dallas, TX, United States Posting Date10/30/2025 Machine Learning Research Engineer Locations United States Posting Date08/11/2025 Process Development Test Engineer - Dallas Locations Dallas, TX, United States Posting Date09/23/2025 System Engineer (DCC) Locations Tucson, AZ, United States and 1 more Posting Date10/15/2025 Systems Engineering Intern (Device Learning) Locations United States Posting Date11/10/2025 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date08/07/2025 Career Accelerator Program - Product, Test & Validation Engineer Locations Dallas, TX, United States and 3 more Posting Date09/04/2025 Control Systems Engineering Intern Locations United States Posting Date11/19/2025 Career Accelerator Program - Control Systems Engineer Locations Dallas, TX, United States Posting Date11/06/2025 Control Systems Engineer Locations United States and 1 more Posting Date11/19/2025 Product, Test or Validation Engineering Intern Locations Dallas, TX, United States and 3 more Posting Date09/04/2025 Product, Test or Validation Engineering Intern - Santa Clara Locations Santa Clara, CA, United States Posting Date09/04/2025 Layout Designer-Phoenix,AZ Locations United States Posting Date11/06/2025 AI Solutions Engineering Intern Locations United States Posting Date11/19/2025 Systems Marketing Engineering Intern (SEM) - Aerospace and Defense Locations Dallas, TX, United States Posting Date09/15/2025 Data Engineering Intern Locations United States Posting Date11/19/2025 Systems Engineering Intern - MS/PhD Locations Dallas, TX, United States and 2 more Posting Date09/18/2025 Information Technology Intern – Security Locations Dallas, TX, United States Posting Date11/06/2025 Career Accelerator Program - AI Solutions Engineer Locations Dallas, TX, United States Posting Date11/05/2025 Systems Engineering Intern (CIM) Locations United States Posting Date11/10/2025 Data Engineer Locations United States and 1 more Posting Date11/19/2025 Systems Engineering Intern (Nanotech and Sensing) Locations United States Posting Date11/10/2025 Systems Engineering Intern (Nanotech and Sensing) Locations United States Posting Date11/13/2025 Global IT Infrastructure and Operations Leader Locations Dallas, TX, United States Posting Date11/04/2025 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Our culture Locations North America Europe Asia Pacific Jobs 33 Job search results 33 Events 0 Work Locations 0 Dallas, North Campus - Kilby East (12) Dallas, South Campus (11) Dallas, North Campus - DMOS V South (4) Tucson, Tucson Williams Ctr-South Bldg,.",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25005131/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-career-accelerator-program-packaging-engineer-ms-phd-"
   }
 ]
