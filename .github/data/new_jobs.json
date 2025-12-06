@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Software Development Engineer - C++",
-    "job_city": "US",
-    "job_state": "TX",
+    "employer_name": "Salesforce",
+    "job_title": "Sales Development Representative",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Com in Latin AmericaCreate a great first impression to our prospects and customers by providing them with a world class experiencePartner with our experienced Account Executives to help fill their pipeline and develop your skillsMaintain active engagement with new and existing leads through creative follow-up communications designed to increase customer interest in salesforce.\n• Com productsAchieve monthly quotas of sourced qualified opportunities and closed business Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Strong desire to be in technology salesPrior inside sales experience a plusExperience being held to metrics a plusExcellent written/verbal communication skillsAbility to multi-task, prioritize, and manage time effectiveStrong problem-solving skillsHigh energy and positive attitudeAbility to take initiativeComfortable working in a fast-paced and dynamic environment Fluency in written and verbal EnglishMust have completed a Bachelor’s degree within the past three years with inbound sales experience, or be on track to complete it within six months of the role’s start date.\n• This position is located in Mexico City and no relocation assistance is provided University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Org Sustainability Investors Give us your Feedback Respond to and qualify incoming web and phone inquiries regarding salesforce.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296138/sales-development-representative/",
+    "id": "salesforce-sales-development-representative-mexico-mexico-city"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Process Contamination Control Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
     "job_posted_at": "1d",
-    "job_description": "• Hands on professional experience writing and optimizing GPU code Strong background developing applications and libraries in modern C++ Experience with best practices in software development, including testing, profiling, debugging, documentation, version control, and issue tracking Experience with low-level optimization techniques.\n• Assembly programming and/or vectorization Bachelor’s or Master's degree in Applied Mathematics, Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Contribute to the design and implementation of AMD’S GPU kernel generator used in a variety of high-performance machine learning libraries and frameworks Develop modern build and testing systems Communicate and collaborate with key technical experts across AMD and with our partners and customers to improve ROCm applications, libraries, and tools, as well as hardware Deliver high-quality code and documentation following best practices for open-source software development Apply software engineering methodologies to ensure robust, maintainable code Develop technical relationships with peers and partners Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68100/login",
-    "id": "amd-software-development-engineer-c-us"
+    "job_description": "• Follow predefined steps to maintain systems needed for Airborne Molecular Contamination (AMC) data collection.\n• New College Grad - Engineer, Shift EquipmentBoise, Idaho, United States of AmericaPosted a month ago Basic software experience with data analysis and visualization tools like excel, or Tableau or JMP.\n• New College Grad - ATE Process Engineer ID1Boise, Idaho, United States of AmericaPosted 5 days ago Proven experience in semiconductor manufacturing or a related field.\n• Knowledge of one programming language is a plus but not required.\n• Experience creating basic dashboards from provided data sources.\n• Excellent communication and organizational skills.\n• Strong analytical and problem-solving skills.\n• Ability to work independently and as part of a team.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38763238",
+    "id": "micron-technology-process-contamination-control-technician-manassas"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Unison PRISM Techno-Oracle Federal Financials: Oracle SOA/OSB Analyst",
+    "job_city": "USA MD Germantown",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Germantown/Unison-PRISM-Techno-Oracle-SOA-OSB-Analyst_RQ210602?q=software+engineering",
+    "id": "general-dynamics-unison-prism-techno-oracle-federal-financials-oracle-soa-osb-analyst-usa-md-germantown"
   }
 ]
