@@ -1,72 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Signal and Power Integrity/System Hardware Developer Engineer",
-    "job_city": "ROCHESTER",
+    "employer_name": "General Dynamics",
+    "job_title": "Power Platform Developer",
+    "job_city": "USA LA Bossier City",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Signal and Power Integrity/System Hardware Developer Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79670&source=WEB_Search_NA",
-    "id": "ibm-entry-level-signal-and-power-integrity-system-hardware-developer-engineer-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Technical Support Engineer – Target Process",
-    "job_city": "Bellevue",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Technical Support Engineer – Target Process",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79945&source=WEB_Search_NA",
-    "id": "ibm-entry-level-technical-support-engineer-target-process-bellevue"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Analog Design Engineer",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "4w",
-    "job_description": "• Principal Device Technologistlocations2 Locationsposted onPosted 30+ Days AgoR254004Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254049Digital Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR255049Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR257681RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoR255047Digital IC Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254362Senior Analog Design Verification Engineer locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257462Senior Engineer, Analog Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 24 Days AgoR254266Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254468Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 18 Days AgoR258209Staff Digital Design Engineer FPGAlocations2 Locationsposted onPosted 15 Days AgoR256320Ultrasound Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR257663Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252697Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR257756Senior Product Development Engineer - MicrowavelocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255318Staff Engineer, Design Verification Engineeringlocations3 Locationsposted onPosted 10 Days AgoR253644Engineer, Product Engineering (Prod Dev)locationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR253861RF Product EngineerlocationsUS, MA, Wilmingtonposted onPosted 16 Days AgoR255417Analog Design Engineerlocations4 Locationsposted onPosted 29 Days AgoR255044.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Analog-Design-Engineer_R255044?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-analog-design-engineer-4-locations"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Palantir Developer -Energy Providers",
-    "job_city": "5 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Power Platform DeveloperlocationsUS - IN, Indianapolisposted onPosted 15 Days Ago34205Power Platform DeveloperlocationsUS - VA, McLeanposted onPosted 11 Days Ago34262Power Platform DeveloperlocationsUS - IN, Indianapolisposted onPosted 3 Days Ago34398IT Service Design Lead – USACE Mission Support (remote)locationsUS - Remote (Any location)posted onPosted 4 Days Ago33819Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 21 Days Ago32512Technology Account Lead, HealthcarelocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32848Salesforce DeveloperlocationsUS - Remote (Any location)posted onPosted 14 Days Ago32653Palantir Developer - Senior Consultantlocations4 Locationsposted onPosted 11 Days Ago33859Quality Assurance (QA) TesterlocationsUS - VA, McLeanposted onPosted 16 Days Ago32485Senior Data Scientist (Senior Consultant)locations6 Locationsposted onPosted 15 Days Ago34036Palantir Developer -Energy Providerslocations5 Locationsposted onPosted Today34569Senior Data ScientistlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32934Blockchain Senior Developerlocations2 Locationsposted onPosted 30+ Days Ago33366Data and AI Project Manager (AI & Data - Public Sector)locations4 Locationsposted onPosted 15 Days Ago34037Senior ServiceNow DeveloperlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32664Senior ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago33146Data Warehouse Architect – AI & Data Modernizationlocations4 Locationsposted onPosted 30+ Days Ago31739Senior Salesforce Developerlocations2 Locationsposted onPosted 15 Days Ago30979BAS TechnicianlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago32779Salesforce DeveloperlocationsUS - TX, San Antonioposted onPosted 30+ Days Ago32706.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---CA-Los-Angeles/Palantir-Developer--Energy-Providers_34569?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-palantir-developer-energy-providers-5-locations"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer (Data)",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBachelors or Masters degree in a quantitative / technical field (math, statistics, engineering, information management, computer science, or similar)Experience with large language models: understanding of patterns/approaches/constraints for large language model prompting, understanding of approaches and techniques for output evaluation and benchmarkingExperience with big data systems and tools like SQL, Hive, Spark.\n• Programming skills in Python, Swift, Objective C, C++, or similar languageExperience with data visualization techniques and software such at matplotlib and TableauUnderstanding of data privacy, security, and ethical data handling practices.\n• Ability to work with large datasets.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-data?team=SFTWR",
-    "id": "apple-software-engineer-data-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Compute SRE Software Engineer",
-    "job_city": "Seattle",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBachelor's Degree in Computer Science, an engineering-related field, or equivalent related experience.\n• Advanced Degree preferred.\n• Operate, monitor, and triage all aspects of our production and non-production environments.\n• Design, build and implement innovative solutions around Kubernetes in a highly distributed environment.\n• Prepare alert handling procedures, runbooks, and collaborate with other SRE teams.\n• Participate in on-call rotations to troubleshoot and resolve production issues, minimizing downtime.\n• Automate deployment and orchestration of services into the cloud environment as well as other routine processes.\n• Interact with and support partner teams, including engineering, QA, and program management.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200633176-3337/compute-sre-software-engineer?team=SFTWR",
-    "id": "apple-compute-sre-software-engineer-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Engineer II, Annapurna Labs",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "4h",
-    "job_description": "software engineering job for the role Software Engineer II, Annapurna Labs",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3138436/software-engineer-ii-annapurna-labs",
-    "id": "amazon-software-engineer-ii-annapurna-labs-cupertino"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-Bossier-City/Power-Platform-Developer_RQ211016-1?q=software+engineering",
+    "id": "general-dynamics-power-platform-developer-usa-la-bossier-city"
   }
 ]
