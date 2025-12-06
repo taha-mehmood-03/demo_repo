@@ -1,82 +1,62 @@
 [
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Cloud Engineer",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
+    "employer_name": "BAE Systems",
+    "job_title": "Software & Systems Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 9 Days Ago33026Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted 3 Days Ago34117Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted Today34504AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32672SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31299Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 28 Days Ago33846Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053SME Automation Engineer – DoD DevSecOps & CI/CDlocationsUS - Remote (Any location)posted onPosted 4 Days Ago33844Senior Systems Engineer – DoD/USACE Infrastructure (remote)locations7 Locationsposted onPosted 4 Days Ago33811SME Cloud Engineer – DoD/USACE Cloud Infrastructure (remote)locationsUS - Remote (Any location)posted onPosted 4 Days Ago33842Senior Cloud Engineer – DoD Enterprise Cloud Operations (remote)locationsUS - Remote (Any location)posted onPosted 4 Days Ago33817Associate Director – Technology Traininglocations2 Locationsposted onPosted 2 Days Ago34417Full Stack DeveloperlocationsUS - Remote (Any location)posted onPosted 15 Days Ago33299Cloud EngineerlocationsUS - MD, Bethesdaposted onPosted Today33583DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 30 Days Ago33763CyberArk Engineerlocations2 Locationsposted onPosted 24 Days Ago33797Associate Engineer - CampuslocationsIN - Chennaiposted onPosted Yesterday34485System Security EngineerlocationsUS - MD, Bethesdaposted onPosted 18 Days Ago34015Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33432.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Cloud-Engineer_33583?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-cloud-engineer-us-md"
+    "job_description": "• API Platform Software Engineer, Seniorlocations2 Locationsposted onPosted 3 Days AgoR0225126 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0226853 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0226855 Software Developer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226754 Software Developer, SeniorlocationsReston, VAposted onPosted YesterdayR0230269.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warren-MI/Software---Systems-Engineer_R0230330?q=software+engineering",
+    "id": "bae-systems-software-systems-engineer-2-locations"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Software Development Engineer – GPU Kernel Development",
+    "job_title": "Post Silicon HSIO Validation Engineer",
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• GPU Kernel Development & Optimization: Experienced in designing and optimizing GPU kernels for deep learning on AMD GPUs using HIP, CUDA, and assembly (ASM).\n• Deep Learning Integration: Experienced in integrating optimized GPU performance into machine learning frameworks (e.\n• Software Engineering: Skilled in Python and C++, with experience in debugging, performance tuning, and test design to ensure high-quality, maintainable software solutions.\n• High-Performance Computing: Solid experienced in running large-scale workloads on heterogeneous compute clusters, optimizing for efficiency and scalability.\n• Collaborate with Open-Source Maintainers: Engage with framework maintainers to ensure code changes are aligned with requirements and integrated upstream.\n• Bachelor’s and/or Master’s Degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/65552/login",
-    "id": "amd-software-development-engineer-gpu-kernel-development-us"
+    "job_description": "• Familiar with transaction layer and link layer protocols Working experience with IO Virtualization either for large storage installation with NVMe or other PCIe endpoint resources such as GPU, accelerators.\n• Hands on experience with server CPU platform as well as comfortable with executing test based on both Linux and Windows OS.\n• Familiar with SoC architecture, data flow between CPU, memory subsystem and IO subsystemHands on experience in debugging test failure and comfortable using protocol analyzer, debugger and other debug equipment.\n• Hands on experience developing script using languages such as Python, shell, TCL or PERL.\n• Strong verbal and written communication skillMust be a good team player and able to collaborate with other team members.\n• Extensive experience with common lab equipment, including protocol/logic analyzers, oscilloscopes, etc.\n• Knowledge in RAS, security and system manageability a plusExtensive experience with board/platform-level debugging, including delivery, sequencing, analysis, and optimization Extensive knowledge of system architecture, technical debug, and validation strategy Strong analytical/problem-solving skills and pronounced attention to details Must be a self-starter, and able to independently drive tasks to completion Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/75067/login",
+    "id": "amd-post-silicon-hsio-validation-engineer-us"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "FMS - Software Engineer",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_posted_at": "1d",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II - Controls Locations Mason, OH, United States Posting Date11/19/2025 Trending Software Engr II Locations Mason, OH, United States (Hybrid) Posting Date10/20/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Lead Systems Engineer - Flight Management System Locations Phoenix, AZ, United States (Hybrid) Posting Date11/10/2025 Be the First to Apply As a Lead Systems Engineer at Honeywell, you will be responsible for providing technical leadership and guidance in the design, development, and implementation of complex systems, ensuring their functionality, reliability, and integration to meet customer requirements.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/125807/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-fms-software-engineer-phoenix"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Selenium/Java",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
+    "job_title": "Software Engineer III - Kubernetes",
+    "job_city": "",
+    "job_state": "OH",
     "job_posted_at": "1d",
-    "job_description": "• Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Talent Network Didn't find the perfect job.\n• Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Manager of Software Engineering with distributed technology at scale experience.\n• Software Engineer III - UI Web OH, United States TechnologySoftware Engineering Chase digital team looking to hire talented software engineers to support our UI application development with experience in JS.\n• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Director of Software Engineering New York, NY, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II - AWS, Python, PySpark Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer - Cloud with Big data Developer (AWS, PySpark, Python) Lead Software Engineer - Java Fullstack Bengaluru, Karnataka, India TechnologySoftware Engineering Lead Software Engineer with Java Full Stack background Director of Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Python Engineer to develop Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Software Engineer III - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Senior developer for Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Lead Software Engineer- Golang Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Strong Java, DB, cloud, and automation skills.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Full Stack Developer Palo Alto, CA, United States and 1 more TechnologySoftware Engineering Lead Software Engineer Software Engineer II : Azure Cloud Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Seeking a Software Engineer II with expertise on Cloud Platform such as Azure/AWS.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689142/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-selenium-java-jersey-city"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "IOS Software Engineer III - Mobile",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Talent Network Didn't find the perfect job.\n• Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Manager of Software Engineering with distributed technology at scale experience.\n• Software Engineer III - UI Web OH, United States TechnologySoftware Engineering Chase digital team looking to hire talented software engineers to support our UI application development with experience in JS.\n• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Director of Software Engineering New York, NY, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II - AWS, Python, PySpark Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer - Cloud with Big data Developer (AWS, PySpark, Python) Lead Software Engineer - Java Fullstack Bengaluru, Karnataka, India TechnologySoftware Engineering Lead Software Engineer with Java Full Stack background Director of Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Python Engineer to develop Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Software Engineer III - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Senior developer for Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Lead Software Engineer- Golang Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Strong Java, DB, cloud, and automation skills.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Full Stack Developer Palo Alto, CA, United States and 1 more TechnologySoftware Engineering Lead Software Engineer Software Engineer II : Azure Cloud Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Seeking a Software Engineer II with expertise on Cloud Platform such as Azure/AWS.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689566/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-ios-software-engineer-iii-mobile-new-york"
+    "job_description": "• Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Manager of Software Engineering- Java/AWS Jersey City, NJ, United States TechnologySoftware Engineering Seeking a hands on Java Software Engineer who will manage a software engineering team.\n• Software Engineer III - SDET BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Senior Associate - Software Engineer in Test Automation Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Manager of Software Engineering with distributed technology at scale experience.\n• Software Engineer III - UI Web OH, United States TechnologySoftware Engineering Chase digital team looking to hire talented software engineers to support our UI application development with experience in JS.\n• Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Director of Software Engineering New York, NY, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Lead Software Engineer - Java Fullstack Bengaluru, Karnataka, India TechnologySoftware Engineering Lead Software Engineer with Java Full Stack background Director of Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Python Engineer to develop Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Software Engineer III - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Senior developer for Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Lead Software Engineer- Golang Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Strong Java, DB, cloud, and automation skills.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Full Stack Developer Palo Alto, CA, United States and 1 more TechnologySoftware Engineering Lead Software Engineer Software Engineer II : Azure Cloud Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Seeking a Software Engineer II with expertise on Cloud Platform such as Azure/AWS.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210688898/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-kubernetes-"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Mobile (Android), YouTube",
-    "job_city": "San Jose",
-    "job_state": "CA",
+    "job_title": "Software Engineer III, Full Stack, Geo",
+    "job_city": "Boulder",
+    "job_state": "CO",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Mobile (Android), YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131192422515253958-software-engineer-iii-mobile-android-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-mobile-android-youtube-san-jose"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Security/Privacy, Google Cloud Security and Privacy",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Security/Privacy, Google Cloud Security and Privacy",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91697964845540038-software-engineer-iii-securityprivacy-google-cloud-security-and-privacy?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-security-privacy-google-cloud-security-and-privacy-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Geo",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/87689008011715270-software-engineer-iii-full-stack-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-full-stack-geo-boulder"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Engineer II, Android",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Software Engineer II, Android",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3138330/software-engineer-ii-android",
-    "id": "amazon-software-engineer-ii-android-irvine"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Dev Engineer II - AMZ9653850",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Dev Engineer II - AMZ9653850",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3133383/software-dev-engineer-ii-amz9653850",
-    "id": "amazon-software-dev-engineer-ii-amz9653850-san-diego"
+    "job_title": "Software Development Engineer II, AFSS",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Development Engineer II, AFSS",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3138384/software-development-engineer-ii-afss",
+    "id": "amazon-software-development-engineer-ii-afss-seattle"
   }
 ]
