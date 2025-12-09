@@ -1,72 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Technical Support Professional",
-    "job_city": "Bellevue",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Technical Support Professional",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80031&source=WEB_Search_NA",
-    "id": "ibm-entry-level-technical-support-professional-bellevue"
-  },
-  {
     "employer_name": "Salesforce",
-    "job_title": "MuleSoft Integration Developer",
-    "job_city": "California - San Francisco",
+    "job_title": "Operations Analyst-(FY26-Q4)-2",
+    "job_city": "Mexico - Mexico City",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• 8+ years of hands-on implementation experience with MuleSoft AnyPoint Platform (AnyPoint Studio, Mule ESB, API Management, CloudHub 2.\n• Proven experience in designing and developing APIs aligned with best practices, including complex DataWeave transformations, routing, error handling, and expressions.\n• Experience building and maintaining integrations with finance applications and domains such as Receivables, Customer taxes, Assets, Banking, and Settlement.\n• Skilled in data mapping across heterogeneous systems and formats.\n• Hands-on experience with external integrations (e.\n• Having Workday Integration Studio / EIB experience in addition is a plus.\n• Strong collaboration and communication skills to work effectively with technical and business teams, and ability to clearly report status and risks.\n• Experience working in Agile/Scrum methodology.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317685/mulesoft-integration-developer/",
-    "id": "salesforce-mulesoft-integration-developer-california-san-francisco"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Customer Engineering-VCF Networking-Engineer Level",
-    "job_city": "USA-CA - Promontory D",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Vice President, Global Customer Experience.\n• Services & Support - Mainframe Software Divisionlocations5 Locationstime typeFull timeposted onPosted 4 Days AgoR024484 Software Engineer - R&D Software Development PositionlocationsISR-Tel Aviv Universitytime typeFull timeposted onPosted TodayR024437 Customer Experience Engineer 4locationsUSA-CA - Promontory Etime typeFull timeposted onPosted 13 Days AgoR024276 PCIe Design Engineer - PrincipallocationsIND-Bangalore Electronic City - S1time typeFull timeposted onPosted 6 Days AgoR024452 Senior Software Engineer, Tanzu Intelligent Assistlocations3 Locationstime typeFull timeposted onPosted 6 Days AgoR024249 Senior Software Quality EngineerlocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted TodayR024515 Senior Software Engineerlocations2 Locationstime typeFull timeposted onPosted 6 Days AgoR024199 Senior Software Engineerlocations2 Locationstime typeFull timeposted onPosted 6 Days AgoR024215.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/Customer-Engineering-VCF-Networking-Engineer-Level-4_R024464?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-customer-engineering-vcf-networking-engineer-level-usa-ca-promontory-d"
-  },
-  {
-    "employer_name": "10x Genomics",
-    "job_title": "Software Validation Engineer (TEMP)",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_posted_at": "2h",
-    "job_description": "• Bachelor's degree in Computer Science, Engineering, Quality Assurance, or a related technical/scientific field.\n• Experience: 0–2 years of experience in a technical or quality assurance role.\n• Direct experience in a regulated manufacturing or production environment (e.\n• , medical device, pharmaceutical, or life sciences) is highly preferred and will be strongly emphasized.\n• Technical Aptitude: Excellent programming skills to execute test automation scripting (e.\n• Detail Orientation: Exceptional attention to detail with strong organizational skills, necessary for maintaining precise validation records.\n• Communication: Excellent written and verbal communication skills, with the ability to articulate technical details clearly.\n• Hands-on experience with Agentic AI Familiarity with any ERP or LIMS system concepts.",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171837888430",
-    "id": "10x-genomics-software-validation-engineer-temp-pleasanton"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Cloud Engineer, Health Software",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsHands-on experience in engineering, Cloud, or as a software engineering staff memberStrong programming and scripting fundamentals (Python/Bash)Modern web services architectures, cloud platforms such as AWS, GCPSource control management such as Git, SVNLinux fundamentals, experience with hardening operating system imagesHands-on experience with Log mining frameworks like Splunk, Elastic, Prometheus, Loki etcContainer services(Docker/Kubernetes), UNIX system administrationGrafana or similar for investigating or monitoring problems on systemsRelease and management of NoSQL, Zookeeper, Spark, MesosIn-depth knowledge of build/release systems and processBS Computer Science or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200633622-3956/cloud-engineer-health-software?team=SFTWR",
-    "id": "apple-cloud-engineer-health-software-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Reliability Engineering, AiDP",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBS/MS in computer science or equivalent experience.\n• 2+ years experience programming skills in one of the following areas: Python, Java, or Go.\n• 2+ years experience in Kubernetes, Docker or other container orchestration framework.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200635218-0240/software-engineer-reliability-engineering-aidp?team=SFTWR",
-    "id": "apple-software-engineer-reliability-engineering-aidp-"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Hardware Monitoring Team",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "2h",
-    "job_description": "software engineering job for the role Software Development Engineer, Hardware Monitoring Team",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3139261/software-development-engineer-hardware-monitoring-team",
-    "id": "amazon-software-development-engineer-hardware-monitoring-team-cupertino"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr320590/operations-analyst-fy26-q4-2/",
+    "id": "salesforce-operations-analyst-fy26-q4-2-mexico-mexico-city"
   }
 ]
