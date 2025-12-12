@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Fires Simulation Operator",
-    "job_city": "Nashville",
-    "job_state": "TN",
+    "employer_name": "Salesforce",
+    "job_title": "Core Solution Engineer - All Levels",
+    "job_city": "Saudi Arabia -",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• As an Account Solution Engineer, also known as a \"Presales Consultant,\" \"Sales Consultant\", ”Pre -Sales Engineer” , “Sales Engineer” or \"SE\", you'll be a key player in the sales cycle, delivering thought leadership and owning solutions to enhance our customers' experience.\n• With your technical and sales skills, you'll present our product offerings, address objections, and inspire confidence in our technology infrastructure.\n• Understand the customer’s needs, and establish Salesforce’s product as the best solution that solves unique challenges.\n• Develop and deliver innovative custom solutions, build and present customized demos of Salesforce products including solution concepts to key decision-makers to address their business issues and needs showing business value.\n• Required Qualifications:Must have hands-on solid Salesforce experienceMust have fluency in both Arabic & English Experience implementing Digital Transformation strategies and delivering increased success to their customers.\n• We are open to a variety of backgrounds for the role.\n• Proven oral, written, presentation, and interpersonal communication and relationship skills.\n• Proven time management skills in a dynamic team environment.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311215/core-solution-engineer-all-levels/",
+    "id": "salesforce-core-solution-engineer-all-levels-saudi-arabia"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "CPU Core Logic Designer",
+    "job_city": "US",
+    "job_state": "California",
     "job_posted_at": "1d",
-    "job_description": "• Vulnerability Research Engineer and DeveloperlocationsQuantico, VAposted onPosted 30+ Days AgoR0226452 Cloud Operations Engineer, SeniorlocationsFayetteville, NCposted onPosted 7 Days AgoR0230292 Cybersecurity Software Sales SpecialistlocationsWashington, DCposted onPosted TodayR0228946 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 30+ Days AgoR0227510 Project Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0228925 Project Engineer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0228927.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Nashville-TN/Fires-Simulation-Operator_R0230689?q=software+engineering",
-    "id": "bae-systems-fires-simulation-operator-nashville"
+    "job_description": "• Senior Silicon Design Engineerlocations3 Locationsposted onPosted 10 Days AgoJR0277772Lithography Supply Chain Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0278704SoC GFX PnP Validation EngineerlocationsUS, California, Folsomposted onPosted 10 Days AgoJR0278189GPU Logic Design Engineerlocations4 Locationsposted onPosted 10 Days AgoJR0275905High-Speed Interconnect Senior Validation Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0278920Senior System Architectlocations4 Locationsposted onPosted 10 Days AgoJR0277991AI Systems and Solutions Senior DirectorlocationsUS, California, Santa Claraposted onPosted 10 Days AgoJR0277696Senior Industrial Security OfficerlocationsUS, Virginia, Fairfaxposted onPosted 2 Days AgoJR0279019Senior SOC Performance Architectlocations3 Locationsposted onPosted 10 Days AgoJR0277396SOC Performance Architectlocations3 Locationsposted onPosted 3 Days AgoJR0277334Vice President - DCG - Get to Market Grouplocations2 Locationsposted onPosted 10 Days AgoJR0278570Business Attorneylocations4 Locationsposted onPosted 7 Days AgoJR0278688Network Security Analystlocations2 Locationsposted onPosted 10 Days AgoJR0277300Group Counsel, Datacenter and AI Legallocations4 Locationsposted onPosted 10 Days AgoJR0278637AI Deployment Leadlocations3 Locationsposted onPosted 3 Days AgoJR0278932CPU Core Logic DesignerlocationsUS, California, Folsomposted onPosted YesterdayJR0278883Global Consumer Sales Development Manager – HPIlocations3 Locationsposted onPosted 4 Days AgoJR0278855Senior Demand Planner – Packaginglocations4 Locationsposted onPosted 3 Days AgoJR0278772Executive AdminlocationsUS, Texas, Austinposted onPosted YesterdayJR0278913.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/CPU-Core-Logic-Designer_JR0278883-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-cpu-core-logic-designer-us"
   }
 ]
