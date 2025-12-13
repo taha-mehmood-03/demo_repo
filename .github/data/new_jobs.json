@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "AI-enabled Software Refactoring Engineer",
-    "job_city": "Manassas",
-    "job_state": "VA",
+    "employer_name": "Salesforce",
+    "job_title": "Enablement Business Partner, Agentforce & Data360",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Experience: 5-7+ years in Sales Enablement, Solution Engineering, or Sales Leadership, with a proven track record of managing end-to-end programs from design to impact analysis.\n• Consumption Model Expertise: Strong grasp of consumption/usage-based business models and the specific sales behaviors required to drive them.\n• Executive Influence: Exceptional storytelling and presentation skills (PowerPoint/Slides), with experience influencing VP/EVP stakeholders and driving alignment across a complex matrix.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Define the Strategy: Build and execute the end-to-end enablement strategy for Agentforce and Data 360, setting the vision for upskilling the field on our latest innovations.\n• Executive Communication & Influence: Demonstrate executive presence and exceptional influencing skills.\n• Experience with Salesforce Agentforce, Data Cloud, Tableau, Mulesoft, or Platforms like Snowflake, Databricks, Microsoft CopilotBackground in Instructional Design or Curriculum Development for sellers and technical audiences Experience leading large-scale global events or bootcamps University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies Sales Specialists: Deal strategy, commercial negotiation, and value selling.\n• Strategic Agility: A builder at heart who thrives in ambiguity, capable of \"building the plane while flying it\" to successfully launch new products in a fast-paced environment.\n• Subject Matter Fluency: Deep understanding of the Data & AI landscape (CDPs, LLMs, Agents) with the ability to credibly articulate how Data Cloud powers Agentforce.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr320456/enablement-business-partner-agentforce-data360/",
+    "id": "salesforce-enablement-business-partner-agentforce-data360-california-san-francisco"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Wi-Fi Software Quality Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• University - Software DeveloperlocationsAlexandria, VAposted onPosted TodayR0230510 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 23 Days AgoR0228044 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Full-Stack Developer, JuniorlocationsHuntsville, ALposted onPosted YesterdayR0230619 Front End Developer, SeniorlocationsHerndon, VAposted onPosted 2 Days AgoR0230582.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Manassas-VA/AI-enabled-Software-Refactoring-Engineer_R0230748-1?q=software+engineering",
-    "id": "bae-systems-ai-enabled-software-refactoring-engineer-manassas"
+    "job_description": "• Minimum QualificationsYou have a Bachelors Degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience.\n• You thrive in a collaborative environment and can clearly communicate while driving multiple projects across teams.\n• You build partnerships and work collaboratively with others to meet shared objectives.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200636453-0836/wi-fi-software-quality-engineer?team=SFTWR",
+    "id": "apple-wi-fi-software-quality-engineer-cupertino"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Android",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Android",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97123633821819590-software-engineer-iii-full-stack-android?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-full-stack-android-cambridge"
   }
 ]
