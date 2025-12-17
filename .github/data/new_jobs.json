@@ -1,62 +1,92 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "2026 Intern: IBM Quantum Software Engineer",
-    "job_city": "ship",
+    "job_title": "Software Developer Internship",
+    "job_city": "shipAustin",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role 2026 Intern: IBM Quantum Software Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82134&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-ibm-quantum-software-engineer-ship"
+    "job_description": "software engineering job for the role Software Developer Internship 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80825&source=WEB_Search_NA",
+    "id": "ibm-software-developer-internship-shipaustin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Supply Chain Sustainability Intern:",
-    "job_city": "shipRESEARCH TRIANGLE PARK",
+    "employer_name": "Salesforce",
+    "job_title": "Account Solution Engineer: Non-Profit",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• 2+ years of professional work experience, preferably in the non-profit sector or software industry.\n• Experience working in a fast-paced, agile company.\n• Previous sales experience preferred.\n• Previous Salesforce Admin Experience preferred.\n• Provide customer feedback to the product management and engineering teams to capture new customer requirements and improvements.\n• Strong leadership, presentation and collaboration skills.\n• Solid verbal, written, presentation and interpersonal communication skills.\n• Proven time management & prioritization skills in a dynamic sales environment.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr321985/account-solution-engineer-non-profit/",
+    "id": "salesforce-account-solution-engineer-non-profit-illinois-chicago"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Software Engineer, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Collaborate with business analysts and product managers to clarify requirements.\n• Experience with Python, JavaScript, Node.\n• Knowledge of web fundamentals (HTML5, CSS3), responsive layouts, accessibility, and performance optimization (e.\n• Familiarity with the software development lifecycle, coding standards, source control, and build pipelines.\n• Ability to solve straightforward problems with guidance and work independently on assigned tasks.\n• Familiarity with Docker, cloud platforms (AWS/Azure/GCP), and observability tools.\n• NET) in team projects.\n• For front-end focused candidates: proficiency in TypeScript and React.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38038147",
+    "id": "micron-technology-intern-software-engineer-hbm-richardson"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "ENGINEER, SCRIBE DESIGN",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Less than 2 years Principal / Staff / Senior / Engineer, Design Rule & EnablementHigashi Hiroshima-shi, Hiroshima, Japan + 2 morePosted 21 days ago Senior/ Staff/ Principal - Silicon Design Validation EngineerHyderabad, Telangana, IndiaPosted a month ago Principal Engineer, Design Rule & Design Enablement LeadTlaquepaque, Jalisco, MexicoPosted a month ago Senior Engineer - Standard Cell DesignHyderabad, Telangana, IndiaPosted 2 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39327894",
+    "id": "micron-technology-engineer-scribe-design-boise"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "R&D SW Quality Assurance Engineer",
+    "job_city": "Canada-Richmond-ational Place",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Supply Chain Sustainability Intern: 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81964&source=WEB_Search_NA",
-    "id": "ibm-supply-chain-sustainability-intern-shipresearch-triangle-park"
+    "job_description": "• Vice President, Global Customer Experience.\n• Services & Support - Mainframe Software Divisionlocations5 Locationstime typeFull timeposted onPosted 13 Days AgoR024484 R&D SW Quality Assurance EngineerlocationsCanada-Richmond-International Placetime typeFull timeposted onPosted TodayR024641 Senior DSP and ASIC EngineerlocationsUSA-CA Irvine Alton Parkway Bldg 2time typeFull timeposted onPosted 6 Days AgoR024235 R&D Senior Software EngineerlocationsIND-Hyderabad 115 IT Park Areatime typeFull timeposted onPosted 6 Days AgoR024545 R&D Senior Software EngineerlocationsIND-Hyderabad 115 IT Park Areatime typeFull timeposted onPosted 6 Days AgoR024546 Workload Automation Product Marketing Managerlocations3 Locationstime typeFull timeposted onPosted 2 Days AgoR024000 Senior Software Engineer for Tanzu Greenplumlocations4 Locationstime typeFull timeposted onPosted 6 Days AgoR024354 Senior Software Engineer for Tanzu Greenplumlocations4 Locationstime typeFull timeposted onPosted 6 Days AgoR024352 Senior Software Quality EngineerlocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 9 Days AgoR024515 Head of M&A LegallocationsUSA-CA - Hilltop Bld.\n• Gtime typeFull timeposted onPosted 5 Days AgoR024587.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Canada-Richmond-International-Place/R-D-SW-Quality-Assurance-Engineer_R024641?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-r-d-sw-quality-assurance-engineer-canada-richmond-ational-place"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "Cloud Software Engineer - US Citizenship Required",
-    "job_city": "USA VA Reston",
+    "job_title": "Full Stack Developer",
+    "job_city": "USA NC Fort Bragg",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Reston/Cloud-Software-Engineer_RQ211031?q=software+engineering",
-    "id": "general-dynamics-cloud-software-engineer-us-citizenship-required-usa-va-reston"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Bragg/Full-Stack-Developer_RQ211802-1?q=software+engineering",
+    "id": "general-dynamics-full-stack-developer-usa-nc-fort-bragg"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "AI/ML Software Engineer",
-    "job_city": "US - (Any location)",
+    "employer_name": "General Dynamics",
+    "job_title": "Mainframe Programmers",
+    "job_city": "USA CA Sacramento",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software EngineerlocationsUS - VA, Springfieldposted onPosted Today34763Senior Software Engineerlocations2 Locationsposted onPosted 21 Days Ago33026Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted 12 Days Ago34504AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32672AI/ML Software EngineerlocationsUS - Remote (Any location)posted onPosted Today34883Data Engineer, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 2 Days Ago34754Full Stack Developer, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 2 Days Ago34751Data Software Solution ArchitectlocationsUS - Remote (Any location)posted onPosted 2 Days Ago34755Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 30+ Days Ago33846Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053Associate Director – Technology Traininglocations2 Locationsposted onPosted 14 Days Ago34417Full Stack DeveloperlocationsUS - Remote (Any location)posted onPosted 27 Days Ago33299Associate EngineerlocationsIN - Chennaiposted onPosted 5 Days Ago34708Associate EngineerlocationsIN - Chennaiposted onPosted 2 Days Ago34773Cloud EngineerlocationsUS - MD, Bethesdaposted onPosted 12 Days Ago33583Cloud Engineerlocations2 Locationsposted onPosted 8 Days Ago34140DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago33763DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 2 Days Ago34745CyberArk Engineerlocations2 Locationsposted onPosted 30+ Days Ago33797Senior Full Stack Developerlocations2 Locationsposted onPosted 5 Days Ago34675.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/AI-ML-Software-Engineer_34883?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-ai-ml-software-engineer-us-any-location"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-Sacramento/Mainframe-Programmers_RQ211829-1?q=software+engineering",
+    "id": "general-dynamics-mainframe-programmers-usa-ca-sacramento"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, SWE Program Tools",
-    "job_city": "Cupertino",
-    "job_state": "US",
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - DevOps",
+    "job_city": "Columbus",
+    "job_state": "OH",
     "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsCurrently pursuing or recently completed a Bachelor's degree in Computer Science, Software Engineering, or related fieldExperience with one or more programming languages such as JavaScript/TypeScript, Ruby, Python, or Swift (academic projects, internships, or personal projects welcome)Demonstrated ability to learn quickly and work collaboratively.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200636721-0836/software-engineer-swe-program-tools?team=SFTWR",
-    "id": "apple-software-engineer-swe-program-tools-cupertino"
+    "job_description": "• Software Engineer III - Mainframe Application Developer, DB2, Cobol Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Electronic Trading and Risk Management Application Developer -Software Engineer III LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer Program Early Careers Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Software Engineer III - Python, Spark, ETL Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer III (ETL/Java/Python/Pyspark) Senior Manager of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering As a Senior Manager of Software Engineering at JPMorgan Chase within the Financial Risk Technologies division, you serve in a leadership role by providing technical coaching and advisory for multiple technical teams, as well as anticipate the needs and potential dependencies of other functions within the firm.\n• Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Manager of Software Engineering with distributed technology at scale experience.\n• NET) Westerville, OH, United States TechnologySoftware Engineering Argo Data Resource software engineer for Traditional Teller application with MSSql experience Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Pune, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Principal Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Director of Software Engineering Columbus, OH, United States and 1 more TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer Pune, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Java, Spark AWS Bengaluru, Karnataka, India TechnologySoftware Engineering Develop and maintain scalable applications as a Software Engineer skilled in Java, AWS, Spring, Kafka, and REST.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Software Engineer III - AWS Cloud Engineer Plano, TX, United States TechnologySoftware Engineering Looking for a software engineer to help with improving our public cloud Lead Software Engineer - Full Stack Developer Palo Alto, CA, United States and 1 more TechnologySoftware Engineering Lead Software Engineer Associate, Low Code Change & Issue Manager – Automation and Transformation Mumbai, Maharashtra, India Data & AnalyticsAnalytics Solutions & Delivery Oversee change management and resolve issues to promote automation and transformation initiatives.\n• Manager of Software Engineering - Java/AWS Columbus, OH, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Software Engineer III Mumbai, Maharashtra, India and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• 1672 Open Jobs Categories 0 Software Engineering (866) Analysts (107) Associates (106) Seasonal Employee (81) Technical Program Delivery (78) Architecture (57) Predictive Science (51) Program & Project Management (50) Product Management (35) Program Management (32) Infrastructure Engineering (32) Security Engineering (22) Data Engineering (21) Technology Support (12) User Experience Design (9) AI Research (8) Cybersecurity Operations (8) Product Portfolio & Delivery (8) Data Management (7) Administration (5) Algo Trading (5) Risk Support (4) Credit Risk (4) Analytics Solutions & Delivery (4) CCOR LOB/CF/Country Coverage (4) Client Solutions (4) Compliance & Ops Risk Testing (4) Financial Analysis (3) Strategy (3) Project Management (3) Product (2) Private Bankers (2) Quant Analytics (2) Portfolio Management (2) Sales/Mktg Global Population (2) Marketing Delivery (2) Process Improvement (2) Firmwide Risk and Compliance (2) Process Management (1) Risk Reporting (1) Posting Dates 0 Less than 30 days (895) Greater than 30 days (777) Less than 7 days (310) Software Engineering (866) Analysts (107) Associates (106) Seasonal Employee (81) Technical Program Delivery (78) Architecture (57) Predictive Science (51) Program & Project Management (50) Product Management (35) Program Management (32) Infrastructure Engineering (32) Security Engineering (22) Data Engineering (21) Technology Support (12) User Experience Design (9) AI Research (8) Cybersecurity Operations (8) Product Portfolio & Delivery (8) Data Management (7) Administration (5) Algo Trading (5) Risk Support (4) Credit Risk (4) Analytics Solutions & Delivery (4) CCOR LOB/CF/Country Coverage (4) Client Solutions (4) Compliance & Ops Risk Testing (4) Financial Analysis (3) Strategy (3) Project Management (3) Product (2) Private Bankers (2) Quant Analytics (2) Portfolio Management (2) Sales/Mktg Global Population (2) Marketing Delivery (2) Process Improvement (2) Firmwide Risk and Compliance (2) Process Management (1) Risk Reporting (1) Categories 0 Software Engineering (866) Analysts (107) Associates (106) Seasonal Employee (81) Technical Program Delivery (78) Architecture (57) Predictive Science (51) Program & Project Management (50) Product Management (35) Program Management (32) Infrastructure Engineering (32) Security Engineering (22) Data Engineering (21) Technology Support (12) User Experience Design (9) AI Research (8) Cybersecurity Operations (8) Product Portfolio & Delivery (8) Data Management (7) Administration (5) Algo Trading (5) Risk Support (4) Credit Risk (4) Analytics Solutions & Delivery (4) CCOR LOB/CF/Country Coverage (4) Client Solutions (4) Compliance & Ops Risk Testing (4) Financial Analysis (3) Strategy (3) Project Management (3) Product (2) Private Bankers (2) Quant Analytics (2) Portfolio Management (2) Sales/Mktg Global Population (2) Marketing Delivery (2) Process Improvement (2) Firmwide Risk and Compliance (2) Process Management (1) Risk Reporting (1) Posting Dates 0 Less than 30 days (895) Greater than 30 days (777) Less than 7 days (310) Software Engineering (866) Analysts (107) Associates (106) Seasonal Employee (81) Technical Program Delivery (78) Architecture (57) Predictive Science (51) Program & Project Management (50) Product Management (35) Program Management (32) Infrastructure Engineering (32) Security Engineering (22) Data Engineering (21) Technology Support (12) User Experience Design (9) AI Research (8) Cybersecurity Operations (8) Product Portfolio & Delivery (8) Data Management (7) Administration (5) Algo Trading (5) Risk Support (4) Credit Risk (4) Analytics Solutions & Delivery (4) CCOR LOB/CF/Country Coverage (4) Client Solutions (4) Compliance & Ops Risk Testing (4) Financial Analysis (3) Strategy (3) Project Management (3) Product (2) Private Bankers (2) Quant Analytics (2) Portfolio Management (2) Sales/Mktg Global Population (2) Marketing Delivery (2) Process Improvement (2) Firmwide Risk and Compliance (2) Process Management (1) Risk Reporting (1) Design, develop, and troubleshoot creative software solutions, applying innovative approaches to technical challenges.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210668177/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-devops-columbus"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Device OS",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "20h",
-    "job_description": "software engineering job for the role Software Development Engineer, Device OS",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3145031/software-development-engineer-device-os",
-    "id": "amazon-software-development-engineer-device-os-austin"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Cloud Global Networking",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Global Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111663734501319366-software-engineer-iii-google-cloud-global-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-iii-google-cloud-global-networking-san-francisco"
   }
 ]
