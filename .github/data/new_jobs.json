@@ -1,52 +1,42 @@
 [
   {
+    "employer_name": "Dell",
+    "job_title": "Advisor, Data Engineering",
+    "job_city": "Hopkinton",
+    "job_state": "Massachusetts",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Data Security Software Engineerremote typeOnsitelocations5 Locationsposted onPosted TodayR281745Senior Principal Firmware Engineer (BIOS Embedded Controller)remote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 30+ Days AgoR276261Senior Principal Software Engineer - Windows Driver DeveloperlocationsAustin, Texas, United Statesposted onPosted 30+ Days AgoR279596Advisor, Data Engineeringremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted TodayR283369Energy Compliance Test Engineerremote typeOnsitelocationsFranklin, Massachusetts, United Statesposted onPosted 7 Days AgoR281284Hardware Senior Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR275374Electrical and Computer Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR268810Federal Technical Staff, Systems Development Engineering - DOEremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 30+ Days AgoR273436Electrical Engineer for Data Center Hardwareremote typeOnsitelocations2 Locationsposted onPosted 7 Days AgoR268809Solutions Architect - Direct Liquid Coolingremote typeFieldlocationsAustin, Texas, United Statesposted onPosted 22 Days AgoR279357Senior Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274793Principal Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274411.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Hopkinton-Massachusetts-United-States/Advisor--Data-Engineering_R283369-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-advisor-data-engineering-hopkinton"
+  },
+  {
     "employer_name": "Micron Technology",
-    "job_title": "Process Engineer, Photomask Inspection",
+    "job_title": "Engineer, IT, AI Enablement",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "21h",
-    "job_description": "• Ensure Micron and MTC are prepared for industry inflection points such as EUV Pellicle adoption or High-NA lithography by understanding requirements, evaluating performance gaps and ensuring return on investment and capital timing are aligned to Micron’s technical roadmap.\n• Provide authority insight into tool and process capabilities, advise other teams on most appropriate techniques for data collection depending on the test requirements Drive automation and efficiency efforts to improve KPI’s such as First Time Success Rate, Nuisance/False Alarm reduction, equipment availability and RPT.\n• Collaborate with other engineering teams in R&D and high-volume manufacturing (HVM) to support their inspection needs through data analysis New College Grad - Process Integration EngineerBoise, Idaho, United States of AmericaPosted 5 days ago Sr Process Engineer, Photomask PrintabilityBoise, Idaho, United States of AmericaPosted 2 months ago Experience in semiconductor or reticle fab inspection (RDA) area preferred B.\n• Or higher degree in Engineering field, Physics, Optics or Mathematics Highly motivated with the ability to work with limited guidance Excellent written and verbal communication skills.",
-    "job_apply_link": "https://careers.micron.com/careers/job/39281420",
-    "id": "micron-technology-process-engineer-photomask-inspection-boise"
+    "job_posted_at": "1d",
+    "job_description": "• Embed Security from Inception: Employ security scanning tools for real-time code analysis and enforce data flow protocols in line with classification requirements.\n• Multiply Team Impact: Conduct comprehensive code reviews, lead architecture design sessions, and facilitate skill advancement for both U.\n• Promote a “Governance as Guardrails” methodology to integrate compliance and security throughout the development process.\n• And GDC teams in agent-oriented programming and advanced prompt engineering.\n• Engineer, Product & System Engineering (Media Health Reliability), Heteregenous Integration - High Bandwidth MemorySingapore, SingaporePosted a month ago Lead Full-Stack Development: Complete development across the technology stack, including data pipelines, API integrations, and front-end interfaces (using languages such as Python and C#).\n• Construct reusable libraries to enhance development efficiency.\n• Senior Embedded Software EngineerBoise, Idaho, United States of AmericaPosted 11 days ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39315398",
+    "id": "micron-technology-engineer-it-ai-enablement-boise"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Vulnerability Researcher",
-    "job_city": "Quantico",
-    "job_state": "VA",
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - AI and Robotics",
+    "job_city": "US",
+    "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Android Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 30+ Days AgoR0221762 iOS Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 30+ Days AgoR0221763 Vulnerability Researcher, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0222871 Software Vulnerability ResearcherlocationsQuantico, VAposted onPosted TodayR0230863 Cloud Operations Engineer, SeniorlocationsFayetteville, NCposted onPosted 12 Days AgoR0230292 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 30+ Days AgoR0227510 SATCOM Engineer, SeniorlocationsFayetteville, NCposted onPosted 26 Days AgoR0229675 Project Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0228925 Project Engineer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0228927.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Software-Vulnerability-Researcher_R0230863-1?q=software+engineering",
-    "id": "bae-systems-software-vulnerability-researcher-quantico"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Network Engineer, SeniorlocationsFayetteville, NCposted onPosted 26 Days AgoR0229671 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0226888 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 30+ Days AgoR0226901 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 30+ Days AgoR0226898 Network Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0229302 Network Engineer, SeniorlocationsTampa, FLposted onPosted 26 Days AgoR0229605.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0230813?q=software+engineering",
-    "id": "bae-systems-data-engineer-2-locations"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Zero Trust Network Engineer",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Zero-Trust-Network-Engineer_RQ211243-2?q=software+engineering",
-    "id": "general-dynamics-zero-trust-network-engineer-any-location"
+    "job_description": "• Full Stack Software Engineer, GPU ArchitecturelocationsUS, CA, Santa Claraposted onPosted TodayJR2009172Principal Software Engineer - Enterprise AI PlatformlocationsUS, CA, Santa Claraposted onPosted 6 Days AgoJR2009756System Software Engineer - AI and RoboticslocationsUS, CA, Santa Claraposted onPosted TodayJR2010166Senior Software Engineer – NVIDIA Financial Systems Engineeringlocations4 Locationsposted onPosted 7 Days AgoJR2009509Senior C++ Software Engineer - Chip Design Toolslocations4 Locationsposted onPosted 8 Days AgoJR2009389Principal Platform Software Engineer - OpenBMC Platform Architectlocations2 Locationsposted onPosted 10 Days AgoJR1968239Senior System Software Engineer, NCCL - Partner Enablementlocations3 Locationsposted onPosted 3 Days AgoJR1985696Senior Software Engineer - Data Center System BringuplocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR1993516Senior Software Engineer, GPU Communications and NetworkinglocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR1997186Senior Deep Learning Software Engineer, LLM Performancelocations2 Locationsposted onPosted 22 Days AgoJR1997464Senior Software Engineer - CUDA and Unified Memorylocations2 Locationsposted onPosted TodayJR1999732Senior Datacenter System Software Engineer - DGX Cloudlocations2 Locationsposted onPosted 5 Days AgoJR2002330Senior System Software Engineer - Autonomous Vehicles PlatformlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002566NVIDIA 2026 Internships: Systems Software Engineering - USlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2003204Senior Infrastructure Software Engineer, Deep Learning LibrarieslocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2003165Senior Software Engineer – Holoscan Sensor AI PlatformlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2003364Senior Software Engineer, MathDx – cuBLASDx and cuSolverDxlocations2 Locationsposted onPosted 30+ Days AgoJR2003815Senior Software Engineer, Fleet Management - DGX Cloudlocations3 Locationsposted onPosted 30+ Days AgoJR2004831Senior Software Engineer for Robotics Research - Toolinglocations2 Locationsposted onPosted 6 Days AgoJR2005281Lead Software Engineer, Fleet Management - DGX Cloudlocations3 Locationsposted onPosted 30+ Days AgoJR2005248.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer----AI-and-Robotics_JR2010166?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-ai-and-robotics-us"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Leo Trust Services",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "5d",
-    "job_description": "software engineering job for the role Software Development Engineer, Leo Trust Services",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3140992/software-development-engineer-leo-trust-services",
-    "id": "amazon-software-development-engineer-leo-trust-services-redmond"
+    "job_title": "Software Development Engineer, AWS Security - FSDC",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "2h",
+    "job_description": "software engineering job for the role Software Development Engineer, AWS Security - FSDC",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3144402/software-development-engineer-aws-security-fsdc",
+    "id": "amazon-software-development-engineer-aws-security-fsdc-austin"
   }
 ]
