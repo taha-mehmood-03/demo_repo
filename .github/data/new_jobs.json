@@ -1,42 +1,72 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/135757075102737094-software-engineer-iii?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-kirkland"
+    "employer_name": "General Dynamics",
+    "job_title": "UI Angular Software Developer, TS/SCI with Polygraph required",
+    "job_city": "USA VA Herndon",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/UI-Angular-Software-Developer--TS-SCI-with-Polygraph-required_RQ211780-1?q=software+engineering",
+    "id": "general-dynamics-ui-angular-software-developer-ts-sci-with-polygraph-required-usa-va-herndon"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Software Developer (Backend – API)",
+    "job_city": "US - AL",
+    "job_state": "Huntsville",
+    "job_posted_at": "1d",
+    "job_description": "• Software EngineerlocationsUS - VA, Springfieldposted onPosted 2 Days Ago34763Senior Software Engineerlocations2 Locationsposted onPosted 23 Days Ago33026Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted 14 Days Ago34504AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32672AI/ML Software EngineerlocationsUS - Remote (Any location)posted onPosted 2 Days Ago34883Data Engineer, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 4 Days Ago34754Full Stack Developer, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 4 Days Ago34751SailPoint Engineerlocations2 Locationsposted onPosted Yesterday34950Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 30+ Days Ago33846Software Developer (Backend – API)locationsUS - AL, Huntsvilleposted onPosted Today34648Software Developer (Backend – Integration)locationsUS - AL, Huntsvilleposted onPosted Today34649Data Software Solution ArchitectlocationsUS - Remote (Any location)posted onPosted 4 Days Ago34755Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053Associate Director – Technology Traininglocations2 Locationsposted onPosted 16 Days Ago34417Full Stack DeveloperlocationsUS - Remote (Any location)posted onPosted 29 Days Ago33299Associate EngineerlocationsIN - Chennaiposted onPosted 7 Days Ago34708Associate EngineerlocationsIN - Chennaiposted onPosted Today34773Cloud EngineerlocationsUS - MD, Bethesdaposted onPosted 14 Days Ago33583Cloud Engineerlocations2 Locationsposted onPosted 10 Days Ago34140DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago33763.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/Software-Developer--Backend---API-_34648-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-software-developer-backend-api-us-al"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Software Developer (Backend – Integration)",
+    "job_city": "US - AL",
+    "job_state": "Huntsville",
+    "job_posted_at": "1d",
+    "job_description": "• Software EngineerlocationsUS - VA, Springfieldposted onPosted 2 Days Ago34763Senior Software Engineerlocations2 Locationsposted onPosted 23 Days Ago33026Data/Software EngineerlocationsUS - MD, Fort Meadeposted onPosted 14 Days Ago34504AI/ML Software EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32672AI/ML Software EngineerlocationsUS - Remote (Any location)posted onPosted 2 Days Ago34883Data Engineer, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 4 Days Ago34754Full Stack Developer, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 4 Days Ago34751SailPoint Engineerlocations2 Locationsposted onPosted Yesterday34950Cloud DevSecOps Engineerlocations2 Locationsposted onPosted 30+ Days Ago33846Software Developer (Backend – API)locationsUS - AL, Huntsvilleposted onPosted Today34648Software Developer (Backend – Integration)locationsUS - AL, Huntsvilleposted onPosted Today34649Data Software Solution ArchitectlocationsUS - Remote (Any location)posted onPosted 4 Days Ago34755Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 30+ Days Ago32053Associate Director – Technology Traininglocations2 Locationsposted onPosted 16 Days Ago34417Full Stack DeveloperlocationsUS - Remote (Any location)posted onPosted 29 Days Ago33299Associate EngineerlocationsIN - Chennaiposted onPosted 7 Days Ago34708Associate EngineerlocationsIN - Chennaiposted onPosted Today34773Cloud EngineerlocationsUS - MD, Bethesdaposted onPosted 14 Days Ago33583Cloud Engineerlocations2 Locationsposted onPosted 10 Days Ago34140DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago33763.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/Software-Developer--Backend---Integration-_34649-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-software-developer-backend-integration-us-al"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "GPU Exerciser Software Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• The preferred candidate has worked on at least two projects utilizing many of the skills below: GPU programming (CUDA / HIP / OpenCL / SP3 assembly) GPU architecture expertise Microprocessor validation/ verification Experience with parallel programming, concurrency, and memory consistency models Modern C++ programming Low-level/firmware programming Linux device drivers and/or kernel development Linux userspace systems programming Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Develop new stress applications utilizing knowledge of the underlying microarchitecture to discover issues in hardware and software Participate in debugging found issues to root cause Contribute to in-house stress application frameworks Bachelor’s or Master’s Degree in Computer Engineering, Electrical Engineering, Computer Science, or a related field.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72133/login",
+    "id": "amd-gpu-exerciser-software-engineer-us"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Core",
-    "job_city": "Sunnyvale",
+    "job_title": "Software Engineer, AI/ML, Ads Quality",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/128973774614602438-software-engineer-iii-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-core-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, AI/ML, Ads Quality",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/89711177398919878-software-engineer-aiml-ads-quality?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-ai-ml-ads-quality-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Ads Reporting",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Software Engineer, Hybrid, AI Infrastructure",
+    "job_city": "Addison",
+    "job_state": "TX",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Ads Reporting",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/121250870305137350-software-engineer-iii-infrastructure-google-ads-reporting?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-infrastructure-google-ads-reporting-kirkland"
+    "job_description": "software engineering job for the role Software Engineer, Hybrid, AI Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/116451300186432198-software-engineer-hybrid-ai-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-hybrid-ai-infrastructure-addison"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Google Cloud AI",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Hybrid and On-prem AI Infrastructure",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Google Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/128392357778203334-software-engineer-iii-full-stack-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-full-stack-google-cloud-ai-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Hybrid and On-prem AI Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/114678200247689926-software-engineer-hybrid-and-onprem-ai-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-hybrid-and-on-prem-ai-infrastructure-new-york"
   }
 ]
