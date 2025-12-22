@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Business Platforms",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Software Engineer, Search AI, Search Quality",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Business Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/84053869562077894-software-engineer-iii-infrastructure-google-cloud-business-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-iii-infrastructure-google-cloud-business-platforms-kirkland"
+    "job_description": "software engineering job for the role Software Engineer, Search AI, Search Quality",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/89695051944207046-software-engineer-search-ai-search-quality?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-search-ai-search-quality-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Machine Learning Infrastructure, Core",
+    "job_title": "Software Engineer III, Mobile, Android, Flow",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile, Android, Flow",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/136196284900876998-software-engineer-iii-mobile-android-flow?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-mobile-android-flow-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Cloud Networking Infrastructure, Andromeda",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Machine Learning Infrastructure, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/120995704687469254-software-engineer-iii-machine-learning-infrastructure-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-machine-learning-infrastructure-core-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Cloud Networking Infrastructure, Andromeda",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/142777961504744134-software-engineer-cloud-networking-infrastructure-andromeda?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-cloud-networking-infrastructure-andromeda-sunnyvale"
   }
 ]
