@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "BMS Algorithm Development Engineer",
-    "job_city": "2 Locations",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering MTS, ML & IAM",
+    "job_city": "Washington - Bellevue",
     "job_state": "US",
-    "job_posted_at": "3w",
-    "job_description": "• Principal Engineer, AI/ML Softwarelocations2 Locationsposted onPosted 30+ Days AgoR257950Principal Engineer, AI/ML Softwarelocations2 Locationsposted onPosted 30+ Days AgoR257953Principal Engineer, AI/ML Softwarelocations2 Locationsposted onPosted 30+ Days AgoR257949Principal Engineer, AI/ML Softwarelocations2 Locationsposted onPosted 30+ Days AgoR257948Staff Edge AI SOC System ArchitectlocationsUS, MA, Bostonposted onPosted 15 Days AgoR253948Staff Engineer, AI/ML SoftwarelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR257956Machine Learning EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255201Embedded Softwarelocations2 Locationsposted onPosted 30+ Days AgoR255245BMS Algorithm Development Engineerlocations2 Locationsposted onPosted 22 Days AgoR251646Senior Algorithm Development (Embedded)locations2 Locationsposted onPosted TodayR253054Computational Sensing Research EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255536Staff Research Scientist, Edge AIlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255392Staff Research Scientist, Artificial IntelligencelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255394Senior Engineer, Machine LearninglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255562Deep Tech Optical Sensing ArchitectlocationsUS, MA, Bostonposted onPosted YesterdayR258735Machine Learning InternlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255268Staff Engineer, Systems Application - Aerospace and DefenselocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR257908Principal QMS Applications and Software Program ManagerlocationsUS, MA, Wilmingtonposted onPosted 8 Days AgoR258281Embedded Software InternlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255237EDA R&D Engineer with Emphasis on Simulation, Modeling, and Software DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254720.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/BMS-Algorithm-Development-Engineer_R251646-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-bms-algorithm-development-engineer-2-locations"
+    "job_posted_at": "1h",
+    "job_description": "• High-Performance Engineering: Design and develop scalable microservices in Golang (preferably), Python or Java.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback 2–4 years of professional software development experience.\n• Experience with distributed systems, SaaS platforms, microservices, and REST/gRPC APIs.\n• Strong problem-solving, debugging, and collaboration skills.\n• Knowledge and/or experience with MLOps or AI/ML concepts, with willingness to grow further in this area.\n• Experience working in a large-scale, enterprise environment.\n• Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Familiarity with the Salesforce Einstein Trust Layer or similar AI-governance frameworks.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr323104/software-engineering-mts-ml-iam/",
+    "id": "salesforce-software-engineering-mts-ml-iam-washington-bellevue"
   },
   {
-    "employer_name": "10x Genomics",
-    "job_title": "Sales Development Representative, West",
-    "job_city": "California",
-    "job_state": "USA ()",
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer, Graviton Software, Annapurna Labs",
+    "job_city": "Cupertino",
+    "job_state": "CA",
     "job_posted_at": "2h",
-    "job_description": "• Bachelor's degree in Biology, Molecular Biology, Biochemistry or related field.\n• Equivalent industry experience 0-1+ years experience in inside sales or business development roles.\n• Preferably in the academic, life sciences or biotechnology industries Adept at identifying ideal customer profiles and utilizing various research techniques to generate qualified leads Skilled at uncovering customer needs and pain points, effectively demonstrating how the company's products and services provide compelling solutions Proficiency in following established sales methodologies and navigating the sales cycle from initial contact to qualification and opportunity creation Proficiency in using CRM software and other sales tools for efficient lead management, activity tracking, and reporting Skilled at coordinating with internal teams to address customers queries in an outbound or inbound sales generation Outstanding relationship building, interpersonal and communication skills Proficient with Microsoft Word, Excel and Outlook and CRM database Fluency in English.\n• Maintaining strong collaboration with the Marketing team to leverage targeted campaigns and optimize lead flow Responsible for lead generation and qualification for all platforms – Chromium, Visium, and Xenium.\n• NGS Sales experience Experience of using SFDC Proven successful sales experience with a technical product line Account Executive, West Los AngelesCalifornia, USA (Remote)SalesPosted 2 months agoInside Sales - Sales Development RepresentativeJapan (Remote) + 1 moreSalesHybridPosted 15 days agoServices Sales Specialist, EastMassachusetts, USA (Remote)SalesPosted 8 days agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted 4 months agoServices Sales Specialist, WestCalifornia, USA (Remote)SalesPosted 14 days agoSenior Director, Global Quality Pleasanton, California, USA HQOperationsPosted 2 months agoSr.\n• Ability to speak additional languages highly desirable.\n• Develop and execute independent lead generation strategies, utilizing research techniques to identify high-value prospects.\n• Track, report on, and participate in cross-functional initiatives aimed at driving revenue growth Foster strong working relationships and execute clear process flows for handoffs with cross-functional departments (e.",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171838096626",
-    "id": "10x-genomics-sales-development-representative-west-california"
+    "job_description": "software engineering job for the role Software Engineer, Graviton Software, Annapurna Labs",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3148814/software-engineer-graviton-software-annapurna-labs",
+    "id": "amazon-software-engineer-graviton-software-annapurna-labs-cupertino"
   }
 ]
