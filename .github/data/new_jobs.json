@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "AMD",
-    "job_title": "Post Silicon Validation Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Familiar with transaction layer and link layer protocols Working experience with IO Virtualization either for large storage installation with NVMe or other PCIe endpoint resources such as GPU, accelerators.\n• Hands on experience with server CPU platform as well as comfortable with executing test based on both Linux and Windows OS.\n• Familiar with SoC architecture, data flow between CPU, memory subsystem and IO subsystemHands on experience in debugging test failure and comfortable using protocol analyzer, debugger and other debug equipment.\n• Hands on experience developing script using languages such as Python, shell, TCL or PERL.\n• Strong verbal and written communication skillMust be a good team player and able to collaborate with other team members.\n• Extensive experience with common lab equipment, including protocol/logic analyzers, oscilloscopes, etc.\n• Knowledge in RAS, security and system manageablity a plusExtensive experience with board/platform-level debugging, including delivery, sequencing, analysis, and optimization Extensive knowledge of system architecture, technical debug, and validation strategy Strong analytical/problem-solving skills and pronounced attention to details Must be a self-starter, and able to independently drive tasks to completion Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/75090/login",
-    "id": "amd-post-silicon-validation-engineer-us"
-  }
-]
+[]
