@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "Infinity Fabric Verification Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "Next-page description extraction failed after retries",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72629/login",
+    "id": "amd-infinity-fabric-verification-engineer-us"
+  }
+]
