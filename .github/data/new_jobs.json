@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Cybersecurity Threat and Exploitation Analyst",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Android Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 30+ Days AgoR0221762 Vulnerability Research Engineer and DeveloperlocationsQuantico, VAposted onPosted 10 Days AgoR0231147 Software Vulnerability ResearcherlocationsQuantico, VAposted onPosted 13 Days AgoR0230863 Vulnerability Researcher, SeniorlocationsFort Meade, MDposted onPosted TodayR0222871 Software Model Based Systems Engineer, LeadlocationsAurora, COposted onPosted 12 Days AgoR0230883 Cloud Operations Engineer, SeniorlocationsFayetteville, NCposted onPosted 25 Days AgoR0230292 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted 30+ Days AgoR0227510 SATCOM Engineer, SeniorlocationsFayetteville, NCposted onPosted 30+ Days AgoR0229675.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cybersecurity-Threat-and-Exploitation-Analyst_R0231414?q=software+engineering",
+    "id": "bae-systems-cybersecurity-threat-and-exploitation-analyst-san-diego"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Application Engineer – SoC Platform",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineer - Computer Vision and VLM Deep LearninglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2005570Senior System Software Engineer, Networking Linux Kernel - DGX Cloudlocations2 Locationsposted onPosted YesterdayJR2007993Senior System Software Engineer - QNX BSP and IO Virtualizationlocations2 Locationsposted onPosted 20 Days AgoJR2008841Senior Software Engineer, DGX Cloud NKE - Kubernetes and Golanglocations2 Locationsposted onPosted 26 Days AgoJR2008183Senior Manager, Software Engineering - AI Gaming and Neural GraphicslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2003821Senior System Software Bringup Engineerlocations2 Locationsposted onPosted 4 Days AgoJR2006503Software Application Engineer – SoC PlatformlocationsUS, CA, Santa Claraposted onPosted TodayJR2009284Senior DGX Cloud Software Engineer - Infrastructure Automation and Distributed Systemslocations6 Locationsposted onPosted 4 Days AgoJR2001014Lead System Software Engineer, CPU and GPU Performance Visualization Toolslocations3 Locationsposted onPosted 30+ Days AgoJR2000994Senior Software Engineer, Real-Time AI and Rendering - Holoscan SDKlocationsUS, CA, Santa Claraposted onPosted 27 Days AgoJR2008677Principal Software Engineer – Large-Scale LLM Memory and Storage Systemslocations3 Locationsposted onPosted 7 Days AgoJR2010271Senior Software Development Engineer, TensorRT-LLMlocations2 Locationsposted onPosted 24 Days AgoJR2007055Senior Software Triage Engineer - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR2009356Senior Software Development Engineer in Test - SDETlocationsUS, CA, Santa Claraposted onPosted 18 Days AgoJR2009905Senior Systems Software Security Engineer – Data Center SystemslocationsUS, CO, Remoteposted onPosted 4 Days AgoJR2004966Senior Software Development Engineer in Test, Confidential Computing - SDETlocationsUS, CA, Santa Claraposted onPosted 27 Days AgoJR2007691Senior Embedded Software DeveloperlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998573Senior Software Developer, AI Networkinglocations6 Locationsposted onPosted 30+ Days AgoJR2008320Senior Software R&D Engineer, VLSI Physical DesignlocationsUS, TX, Austinposted onPosted 30+ Days AgoJR2000714Principal Firmware Engineer - Data Center Server Managementlocations2 Locationsposted onPosted 19 Days AgoJR1978573.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Application-Engineer---SoC-Platform_JR2009284?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-application-engineer-soc-platform-us"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Discover, Ads Quality",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Discover, Ads Quality",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/107904128436314822-software-engineer-iii-aiml-discover-ads-quality?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-iii-ai-ml-discover-ads-quality-mountain-view"
+  }
+]
