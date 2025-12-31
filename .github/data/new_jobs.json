@@ -1,32 +1,42 @@
 [
   {
     "employer_name": "Salesforce",
-    "job_title": "Software Engineering AMTS (College Grad)",
-    "job_city": "Texas - Dallas",
+    "job_title": "Financial Analyst",
+    "job_city": "Georgia - Atlanta",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Architect, design, implement, test and deliver highly scalable productsMaster our development process, culture and code base, then improve itWork closely with a team of engineers, product managers, user experience experts and performance engineers to build new features our customers will love, adopt and use while keeping our trusted platform stable and scalableDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metricsAnalyze, design and develop test cases and implement automated test suites Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Strong background in Computer Science or a related engineering discipline.\n• Must be located in North AmericaAcademic, professional or internship experience working in a professional coding setting environmentFluency in object-oriented programming/designAcademic, professional or internship experience in one of Java, Python, Javascript, HTML, SQL or C++ Strong analytical and problem-solving skillsTeam-player with the ability to work effectively and efficiently with othersBe a self-starter and possess strong sense of self-motivationExperience using telemetry and metrics to drive operational excellence University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr322433/software-engineering-amts-college-grad/",
-    "id": "salesforce-software-engineering-amts-college-grad-texas-dallas"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering AMTS",
-    "job_city": "Argentina - Buenos Aires",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr321607/software-engineering-amts/",
-    "id": "salesforce-software-engineering-amts-argentina-buenos-aires"
+    "job_description": "• Degree or equivalent relevant experience required.\n• Experience will be evaluated based on the Values & Behaviors for the role (e.\n• Extracurricular leadership roles, military experience, volunteer roles, work experience, etc.\n• )A minimum of 2 years of relevant experience in finance, consulting, or analytic rolesExperience building financial and decision support models, along with strong analytical and problem-solving skillsAbility to multi-task and prioritize effectively in a fast-paced, quickly changing environmentExcellent communication skills (written and verbal)Intellectual curiosity, fueled by a proactive approach to continuously expand one’s skillsetHighly motivated, self-aware, collaborative, and responsiveExperience with the following systems: Hyperion, Oracle, Tableau, Business Objects, or other BI tools is a plus Build trusted relationships with business partners to support strategic decision-making through insightful, thoughtful analysis that is deeply grounded in data and metricsSupport consolidated close and forecasts (monthly and quarterly forecasts.\n• Annual plan) and prepare monthly and quarterly management reporting, analyzing financial results and distilling key trendsWork cross functionally with Finance & Strategy, Accounting, Real Estate Operations, and other business partners as necessary, to ensure alignment and expense accuracy Assist in analysis and presentation of strategic materials for key management meetingsContinue to drive process improvement and scalability by developing repeatable business, operational and financial processes widely understood by all key stakeholdersAd-hoc reporting and analysis as needed Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr323108/financial-analyst/",
+    "id": "salesforce-financial-analyst-georgia-atlanta"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Network Engineer",
-    "job_city": "Fairfax",
-    "job_state": "VA",
+    "job_title": "Aviation Test Engineer",
+    "job_city": "Washington",
+    "job_state": "DC",
     "job_posted_at": "1d",
-    "job_description": "• Network Engineer, SeniorlocationsFayetteville, NCposted onPosted 30+ Days AgoR0229671 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0227750 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0228031 Network Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0229302 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 2 Days AgoR0231394 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0226898 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0229605 Data Engineer, SeniorlocationsMcLean, VAposted onPosted 20 Days AgoR0230639.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fairfax-VA/Network-Engineer_R0230618?q=software+engineering",
-    "id": "bae-systems-network-engineer-fairfax"
+    "job_description": "• AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 28 Days AgoR0224541.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Aviation-Test-Engineer_R0231498?q=software+engineering",
+    "id": "bae-systems-aviation-test-engineer-washington"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Full Stack Software Developer - TS/SCI w/Polygraph required",
+    "job_city": "USA VA Herndon",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Full-Stack-Software-Developer---TS-SCI-w-Polygraph-required_RQ212126-1?q=software+engineering",
+    "id": "general-dynamics-full-stack-software-developer-ts-sci-w-polygraph-required-usa-va-herndon"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "EDA System Software Engineer",
+    "job_city": "4 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineer, Networking Softwarelocations4 Locationsposted onPosted 30+ Days AgoJR1998106System Software Engineer - DFX SoftwarelocationsUS, CA, Santa Claraposted onPosted 29 Days AgoJR1998913Senior Software Engineer, Networking Softwarelocations5 Locationsposted onPosted 30+ Days AgoJR2001671EDA System Software Engineerlocations4 Locationsposted onPosted TodayJR1997314Backend Python Software EngineerlocationsUS, NC, Durhamposted onPosted 20 Days AgoJR1999975Software Engineer, CUDA-Qlocations2 Locationsposted onPosted 21 Days AgoJR1999871Senior System Software EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002320Senior Backend Software Engineerlocations4 Locationsposted onPosted 28 Days AgoJR2003378Senior Debugger Software Engineerlocations3 Locationsposted onPosted 14 Days AgoJR2005055Senior Software Engineer – Streaminglocations2 Locationsposted onPosted 30+ Days AgoJR2006117Senior Software Engineer, SONiClocationsUS, WA, Redmondposted onPosted 30+ Days AgoJR2006098Senior Software Engineer - Storagelocations4 Locationsposted onPosted 29 Days AgoJR2006428Senior Software Engineer, SONiClocationsUS, WA, Redmondposted onPosted 30+ Days AgoJR2006521Senior Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR2006779Principal Systems Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR2006873Senior Software Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted 27 Days AgoJR2009201Senior System Software EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2009237Senior Software Engineer, ObservabilitylocationsUS, CA, Santa Claraposted onPosted 23 Days AgoJR2008750Senior Systems Software EngineerlocationsUS, CA, Santa Claraposted onPosted 23 Days AgoJR2009477Senior Software Engineer, MLlocations2 Locationsposted onPosted 21 Days AgoJR2009414.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/EDA-System-Software-Engineer_JR1997314?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-eda-system-software-engineer-4-locations"
   }
 ]
