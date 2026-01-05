@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Synopsys",
-    "job_title": "Verification & Validation Engineer",
-    "job_city": "Canonsburg",
-    "job_state": "Pennsylvania",
-    "job_posted_at": "2w",
-    "job_description": "• Analyzing requirements and designing innovative tests for new features across various engineering domains.\n• Bachelor’s degree in Mechanical Engineering, Civil Engineering, Materials Science, Structural Engineering, or related field with 2+ years of relevant experience, or a Master’s degree.\n• Experience or academic exposure to FEA and CAE tools, with a solid understanding of finite element methods.\n• Experience in both Linux and Windows environments, with the ability to adapt to various computing platforms and clusters.\n• Analytical thinker with strong problem-solving and troubleshooting skills.\n• Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Validation / Verification, Staff Engineer - 13893 Hillsboro, Oregon Layout Design, Sr Engineer in HCMC Ho Chi Minh City, Vietnam Layout Design, Staff Engineer in Hanoi Hanoi, Vietnam Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Operations Validation / Verification, Staff Engineer - 13893 Hillsboro, Oregon Engineering Layout Design, Sr Engineer in HCMC Ho Chi Minh City, Vietnam Engineering About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions.\n• Company About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions Resources Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Learn What is an AI Accelerator.\n• What is AI Chip Design What are Chiplets.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/verification-and-validation-engineer-ii/44408/89599697392",
-    "id": "synopsys-verification-validation-engineer-canonsburg"
+    "employer_name": "General Dynamics",
+    "job_title": "ATAK/Kotlin Developer",
+    "job_city": "USA NC Fort Bragg",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Bragg/ATAK-Kotlin-Developer_RQ212073-1?q=software+engineering",
+    "id": "general-dynamics-atak-kotlin-developer-usa-nc-fort-bragg"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Cluster Networking",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Cluster Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132943103798452934-software-engineer-cluster-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-cluster-networking-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Google Workspace",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/128254742194201286-software-engineer-iii-aiml-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ai-ml-google-workspace-boulder"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Cloud Spanner Graph",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Cloud Spanner Graph",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91204157423133382-software-engineer-cloud-spanner-graph?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-cloud-spanner-graph-sunnyvale"
   }
 ]
