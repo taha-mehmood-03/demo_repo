@@ -1,42 +1,22 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Software Engineer",
+    "job_title": "Zero Trust Engineer",
     "job_city": "McLean",
     "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0221713 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 21 Days AgoR0224794 Software Engineer, LeadlocationsSpringfield, VAposted onPosted 30+ Days AgoR0228182 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0209591 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 25 Days AgoR0226443 Software Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0228472.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0231660?q=software+engineering",
-    "id": "bae-systems-software-engineer-mclean"
+    "job_posted_at": "6d",
+    "job_description": "• Information System Security Engineer, SeniorlocationsLexington, MAposted onPosted 30+ Days AgoR0222757 Collaboration Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 29 Days AgoR0230336 Network Engineer, SeniorlocationsFayetteville, NCposted onPosted 30+ Days AgoR0229671 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0227750 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0228031 Network Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0229302 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 8 Days AgoR0231394 Network Engineer, SeniorlocationsFairfax, VAposted onPosted 18 Days AgoR0224895 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0229605 Data Engineer, SeniorlocationsMcLean, VAposted onPosted 26 Days AgoR0230639.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Zero-Trust-Engineer_R0231535?q=software+engineering",
+    "id": "bae-systems-zero-trust-engineer-mclean"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Embedded Software Developer",
-    "job_city": "King George",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Software Vulnerability ResearcherlocationsQuantico, VAposted onPosted 20 Days AgoR0230863 Software Model Based Systems Engineer, LeadlocationsAurora, COposted onPosted 19 Days AgoR0230883 Applications Leadlocations2 Locationsposted onPosted 3 Days AgoR0231578.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0225223?q=software+engineering",
-    "id": "bae-systems-embedded-software-developer-king-george"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "LVC Integration Engineer",
-    "job_city": "Stafford",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Software Vulnerability ResearcherlocationsQuantico, VAposted onPosted 20 Days AgoR0230863 Software Model Based Systems Engineer, LeadlocationsAurora, COposted onPosted 19 Days AgoR0230883 Applications Leadlocations2 Locationsposted onPosted 3 Days AgoR0231578.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stafford-VA/LVC-Integration-Engineer_R0231621?q=software+engineering",
-    "id": "bae-systems-lvc-integration-engineer-stafford"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Aerospace Systems Engineer II - Chantilly, VA",
-    "job_city": "United States Off-site",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Work closely with customers to understand their system-level engineering requirements, analyze solutions using Ansys DME products (STK, ODTK, etc.\n• Support product development by translating customer feedback into new features, assist in designing feature implementation requirements, and testing product releases on real-world problems.\n• Minimum of 2 years of professional experience in an engineering software environment.\n• Hands-on experience with Ansys software or other engineering tools (mission simulation (STK, ODTK), MSBE, optimization, CAD).\n• Strong organizational and time management skills, with the ability to manage multiple priorities.\n• Shape future product features and innovations by translating customer needs into actionable feedback for development teams.\n• Exceptional interpersonal and communication skills, fluent in written and spoken English.\n• Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright R&D Engineering, Principal Engineer - StarRC Taipei, Taiwan People Partner, Principal Sunnyvale, California Director of Product Management – AI Products Sunnyvale, California Physical Design Application Engineer Sunnyvale, California Accelerate adoption of advanced Digital Mission Engineering tools within key aerospace and defense organizations.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/united-states/aerospace-systems-engineer-ii-chantilly-va/44408/89670252144",
-    "id": "synopsys-aerospace-systems-engineer-ii-chantilly-va-united-states-off-site"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Security Command Center",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Security Command Center",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127057306385818310-software-engineer-iii-infrastructure-security-command-center?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-infrastructure-security-command-center-kirkland"
   }
 ]
