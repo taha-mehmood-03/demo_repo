@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Zero Trust Engineer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "6d",
-    "job_description": "• Information System Security Engineer, SeniorlocationsLexington, MAposted onPosted 30+ Days AgoR0222757 Collaboration Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 29 Days AgoR0230336 Network Engineer, SeniorlocationsFayetteville, NCposted onPosted 30+ Days AgoR0229671 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0227750 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0228031 Network Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0229302 DevOps Engineer, SeniorlocationsChantilly, VAposted onPosted 8 Days AgoR0231394 Network Engineer, SeniorlocationsFairfax, VAposted onPosted 18 Days AgoR0224895 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0229605 Data Engineer, SeniorlocationsMcLean, VAposted onPosted 26 Days AgoR0230639.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Zero-Trust-Engineer_R0231535?q=software+engineering",
-    "id": "bae-systems-zero-trust-engineer-mclean"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Security Command Center",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Software Engineer, ML",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Security Command Center",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127057306385818310-software-engineer-iii-infrastructure-security-command-center?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-iii-infrastructure-security-command-center-kirkland"
+    "job_description": "software engineering job for the role Software Engineer, ML",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/144091868236260038-software-engineer-ml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-ml-sunnyvale"
   }
 ]
