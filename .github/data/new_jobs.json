@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Platforms and Devices, Chrome",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_title": "Software Engineer, Global Network Core Development",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Platforms and Devices, Chrome",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/136532261938832070-software-engineer-platforms-and-devices-chrome?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-platforms-and-devices-chrome-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Aurora Storage",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "10h",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Aurora Storage",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3154981/software-development-engineer-amazon-aurora-storage",
-    "id": "amazon-software-development-engineer-amazon-aurora-storage-redmond"
+    "job_description": "software engineering job for the role Software Engineer, Global Network Core Development",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80948513180918470-software-engineer-global-network-core-development?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-global-network-core-development-sunnyvale"
   }
 ]
