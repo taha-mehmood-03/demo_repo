@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Intel",
-    "job_title": "Inline Defect Metrology Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoSpotlight JobJR0277457Principal Engineer - GPU AI Kernel Librarylocations4 Locationsposted onPosted YesterdayJR0279230Multi-Project Wafer (MPW) Shuttle Program Managerlocations3 Locationsposted onPosted 2 Days AgoJR0279011DevOps and Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 2 Days AgoJR0277658AI Compiler Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0277310AI Frameworks Architectlocations5 Locationsposted onPosted 2 Days AgoJR0278545AI Compiler Engineerlocations2 Locationsposted onPosted YesterdayJR0279522Senior Data Engineering and Enterprise Integration Leadlocations2 Locationsposted onPosted 2 Days AgoJR0279464Senior Technical Sales LeaderlocationsUS, California, Santa Claraposted onPosted 2 Days AgoJR0279497System Validation ArchitectlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0279241Strategic Account Executivelocations8 Locationsposted onPosted 2 Days AgoJR0279331Account Executivelocations8 Locationsposted onPosted 2 Days AgoJR0279332Senior AI Agent Systems Developer and Architectlocations2 Locationsposted onPosted 2 Days AgoJR0279465Inline Defect Metrology Engineerlocations2 Locationsposted onPosted YesterdayJR0279486ICE (In-Circuit Emulation) Technology and Model Development Principal Engineerlocations4 Locationsposted onPosted 2 Days AgoJR0279350SAP MM/PP Business Systems Analystlocations4 Locationsposted onPosted 2 Days AgoJR0279140Product Group HW Governance Business Systems Analystlocations4 Locationsposted onPosted 2 Days AgoJR0279269Data Center Product FXT Leadlocations2 Locationsposted onPosted 2 Days AgoJR0279311Senior Middleware Development Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0279083Senior Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 2 Days AgoJR0279202.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Inline-Defect-Metrology-Engineer_JR0279486?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-inline-defect-metrology-engineer-2-locations"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Robotics Engineer",
-    "job_city": "Liberty",
-    "job_state": "Missouri",
-    "job_posted_at": "1d",
-    "job_description": "• Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00218593Process EngineerlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00170906Welding EngineerlocationsBirmingham, Alabama, USposted onPosted 30 Days AgoR00222511Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 22 Days AgoR00223607Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 22 Days AgoR00213782Robotics EngineerlocationsLiberty, Missouri, USposted onPosted YesterdayR00225164Hardware Test EngineerlocationsLowell, Massachusetts, USposted onPosted 22 Days AgoR00213786Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted YesterdayR00224942Solutions Engineer (Junior)locationsLowell, Massachusetts, USposted onPosted 30 Days AgoR00222663Foam Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00214219Solutions Engineering ManagerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221303Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00218232Manufacturing Process EngineerlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00200517Deployment Engineer-AMRlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00217971Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 3 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Manufacturing Engineer, EquipmentlocationsMesa, Arizona, USposted onPosted 30+ Days AgoR00218006Advanced Quality EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00204172Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 29 Days AgoR00221215Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00219364.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Liberty-Missouri-US/Robotics-Engineer_R00225164?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-robotics-engineer-liberty"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Mobile (Android), Google Workspace",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile (Android), Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/124939367817847494-software-engineer-iii-mobile-android-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-mobile-android-google-workspace-sunnyvale"
   }
 ]
