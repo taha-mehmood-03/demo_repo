@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Embedded Developer",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "1d",
-    "job_description": "• University, Software DeveloperlocationsMcLean, VAposted onPosted 19 Days AgoR0231335 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0228044 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 21 Days AgoR0221864 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 6 Days AgoR0231726 Software Engineer and Web ExpertlocationsWashington, DCposted onPosted 4 Days AgoR0231830 Software Engineer and Web ExpertlocationsWashington, DCposted onPosted 4 Days AgoR0231825 Product Security Senior Managerlocations8 Locationsposted onPosted 6 Days AgoR0230956 Front End Developer, SeniorlocationsChantilly, VAposted onPosted 10 Days AgoR0231515.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Embedded-Developer_R0231944?q=software+engineering",
-    "id": "bae-systems-embedded-developer-annapolis-junction"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Optical DSP AE",
-    "job_city": "2 Locations",
+    "employer_name": "IBM",
+    "job_title": "System Services Representatives",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Vice President, Global Customer Experience.\n• Services & Support - Mainframe Software Divisionlocations5 Locationstime typeFull timeposted onPosted TodayR024484 Senior Technical Support EngineerlocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 7 Days AgoR023724 R&D Senior Engineer SoftwarelocationsARM-Yerevan-Mamikonyantstime typeFull timeposted onPosted 5 Days AgoR023940 Senior Software EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted 4 Days AgoR024653 Senior Software Engineerlocations2 Locationstime typeFull timeposted onPosted 19 Days AgoR024215.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Optical-DSP-AE_R024698-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-optical-dsp-ae-2-locations"
+    "job_description": "software engineering job for the role System Services Representatives",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84819&source=WEB_Search_NA",
+    "id": "ibm-system-services-representatives-austin"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Systems Design Eng.",
-    "job_city": "US",
-    "job_state": "TX",
+    "employer_name": "Micron Technology",
+    "job_title": "New College Grad - FE Automotive Product Quality Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
     "job_posted_at": "1d",
-    "job_description": "• Extensive experience with common lab equipment, including protocol/logic analyzers, oscilloscopes, etc.\n• Extensive experience with board/platform-level debug, including delivery, sequencing, analysis, and optimization Extensive knowledge of system architecture, technical debug, and validation strategy Strong analytical/problem-solving skills and pronounced attention to details Must be a self-starter, and able to independently drive tasks to completion Programming/scripting skills (e.\n• Debug techniques and methodologies AMD Partner Hub Authorized Distributors AMD University Program Bachelors or Masters degree in electrical or computer engineering Driving technical innovation to improve AMD’s capabilities across validation, including tool and script development, technical and procedural methodology enhancement, and various internal and cross-functional technical initiatives Debugging issues found during the process, bring-up, validation, and production phases of SOC programs Working with multiple teams, and tracking test execution to make sure all features are validated and optimized on time Working closely with supporting technical teams Engaging in other software/hardware modeling frameworks Investor Relations Financial Information Board of Directors Governance Documents SEC Filings Leading collaborative approach with multiple teams.\n• C/C++, Perl, Ruby, Python).",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/77050/login",
-    "id": "amd-systems-design-eng-us"
+    "job_description": "• Perform Data Mining of Reliability Fails and collaborate with Yield Enhancement to generate defect pareto and drive fab process improvement action in collaboration with process integration.\n• Act as SME in reliability fail modes and its associated detection, drives, and engage in quality projects for overall DPM reduction.\n• New College Grad - DRAM Device and Process Integration EngineerBoise, Idaho, United States of AmericaPosted 7 days ago New College Grad - Engineer, Electrical Design - High-SpeedBoise, Idaho, United States of AmericaPosted 2 months ago New College Grad - Design Verification Engineer, DRAMBoise, Idaho, United States of AmericaPosted 18 days ago New College Grad - Wet Etch Equipment EngineerManassas, Virginia, United States of AmericaPosted a month ago New College Grad - Change Management EngineerManassas, Virginia, United States of AmericaPosted 4 days ago Demonstrated ability to maintain strong and open relationships with peer and other functional managers New College Grad - IT Software Support EngineerBoise, Idaho, United States of AmericaPosted 4 days ago Proven understanding of Semiconductor Device Operation, CMOS Device, DRAM/FLASH Memory Circuit a plus.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39568836",
+    "id": "micron-technology-new-college-grad-fe-automotive-product-quality-engineer-manassas"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Assembly & Test Tech - Level 2 (Weekend Shift)",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_posted_at": "23h",
+    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II - Controls Locations Mason, OH, United States Posting Date11/19/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134205/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-assembly-test-tech-level-2-weekend-shift-tempe"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Assembly & Test Tech - Level 2 (Swing shift)",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_posted_at": "23h",
+    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II - Controls Locations Mason, OH, United States Posting Date11/19/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134206/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-assembly-test-tech-level-2-swing-shift-tempe"
   }
 ]
