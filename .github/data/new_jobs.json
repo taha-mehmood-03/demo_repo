@@ -1,92 +1,62 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer Apprentice",
-    "job_city": "shipLOWELL",
+    "employer_name": "Salesforce",
+    "job_title": "Account Solution Engineer",
+    "job_city": "Germany - Dusseldorf",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Engineer Apprentice",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43140&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-apprentice-shiplowell"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Mainframe System Verification Tester Apprentice",
-    "job_city": "shipPOUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Mainframe System Verification Tester Apprentice",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64174&source=WEB_Search_NA",
-    "id": "ibm-mainframe-system-verification-tester-apprentice-shippoughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IT Lab Tech - Power Card Apprentice",
-    "job_city": "shipROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role IT Lab Tech - Power Card Apprentice",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79661&source=WEB_Search_NA",
-    "id": "ibm-it-lab-tech-power-card-apprentice-shiprochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Thermal Lab Tech Apprentice",
-    "job_city": "shipHOPEWELL JUNCTION",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Thermal Lab Tech Apprentice",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73026&source=WEB_Search_NA",
-    "id": "ibm-thermal-lab-tech-apprentice-shiphopewell-junction"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IT Lab Tech Apprentice",
-    "job_city": "shipTUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role IT Lab Tech Apprentice",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69163&source=WEB_Search_NA",
-    "id": "ibm-it-lab-tech-apprentice-shiptucson"
+    "job_posted_at": "1h",
+    "job_description": "• Understanding of the unique business requirements of the retail industry trends and “language”.\n• Experience implementing Digital Transformation strategies and delivering increased success to their customers.\n• We are open to a variety of backgrounds for the role.\n• Proven oral, written, presentation, and interpersonal communication and relationship skills.\n• Proven time management skills in a dynamic team environment.\n• Willing and able to travel occasionallyExperience will be evaluated based on alignment to the core competencies for the role (e.\n• Extracurricular leadership roles, military experience, volunteer work, etc.\n• Create memorable positive experiences for your customers, using emotional intelligence, storytelling, immersive demo techniques, etc.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr314660/account-solution-engineer-6/",
+    "id": "salesforce-account-solution-engineer-germany-dusseldorf"
   },
   {
     "employer_name": "Guidehouse",
-    "job_title": "GIS Database Engineer",
-    "job_city": "US - VA",
-    "job_state": "Springfield",
+    "job_title": "DoS DT Business Liaison",
+    "job_city": "US - DC",
+    "job_state": "Washington",
     "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 30+ Days Ago33026LogiCole Software DeveloperlocationsUS - MD, Fort Detrickposted onPosted 10 Days Ago34992Full Stack DeveloperlocationsUS - MD, Bethesdaposted onPosted 13 Days Ago35123Data Engineer, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 28 Days Ago34754AI ML Engineerlocations5 Locationsposted onPosted 5 Days Ago34439SailPoint Engineerlocations2 Locationsposted onPosted 25 Days Ago34950SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 24 Days Ago34721Software Developer (Backend – API)locationsUS - AL, Huntsvilleposted onPosted 24 Days Ago34648Software Developer (Backend – Integration)locationsUS - AL, Huntsvilleposted onPosted 24 Days Ago34649Data Software Solution ArchitectlocationsUS - Remote (Any location)posted onPosted 28 Days Ago34755Software Developer (Frontend / Full Stack)locationsUS - AL, Huntsvilleposted onPosted 3 Days Ago34652Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 21 Days Ago32053Associate EngineerlocationsIN - Chennaiposted onPosted 20 Days Ago34708Associate Director – Technology Traininglocations2 Locationsposted onPosted 30+ Days Ago34417Cloud Engineerlocations2 Locationsposted onPosted 30+ Days Ago34140Senior Full Stack Developerlocations2 Locationsposted onPosted 3 Days Ago34958Senior Full Stack Developerlocations2 Locationsposted onPosted 3 Days Ago34959Senior Full Stack Developerlocations2 Locationsposted onPosted 3 Days Ago34960GIS Database EngineerlocationsUS - VA, Springfieldposted onPosted Today35264System Security EngineerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34015.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/GIS-Database-Engineer_35264?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-gis-database-engineer-us-va"
+    "job_description": "• Appian Solution ArchitectlocationsUS - VA, McLeanposted onPosted 30+ Days Ago33680BAS TechnicianlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago32779Program & Technical Advisor (Sr.\n• Consultant/Managing Consultant/Associate Director)locations2 Locationsposted onPosted 30+ Days Ago33428Salesforce Business AnalystlocationsUS - Remote (Any location)posted onPosted 21 Days Ago31525Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 30+ Days Ago32457Senior Data Scientistlocations3 Locationsposted onPosted 30+ Days Ago33760DoS DT Business LiaisonlocationsUS - DC, Washingtonposted onPosted Today35222Power Platform Consultantlocations2 Locationsposted onPosted 27 Days Ago34789Professional Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago33647Platform Operations and Security SpecialistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34376UiPath DeveloperlocationsUS - TN, Millingtonposted onPosted 6 Days Ago34933UiPath DeveloperlocationsUS - TX, San Antonioposted onPosted 4 Days Ago3519133189Senior Data ScientistlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago33327RPA DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago33167Senior Data ScientistlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago33321AI Development Leadlocations7 Locationsposted onPosted 30+ Days Ago34009Business Analyst SeniorlocationsUS - VA, McLeanposted onPosted 3 Days Ago34201Technology Account Lead, TransportationlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32479Journeyman Appian Developerlocations2 Locationsposted onPosted 30+ Days Ago32455.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/DoS-DT-Business-Liaison_35222-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-dos-dt-business-liaison-us-dc"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Quantum Computing Software Intern - Summer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Engineering Manager, Networking Software - Routing and Control PlanelocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2006788Senior Software Architect, Observability Platformlocations7 Locationsposted onPosted 3 Days AgoJR2006855Signal Processing Software AI ArchitectlocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2007713Senior Solution Engineer, System Diagnostics Softwarelocations4 Locationsposted onPosted 3 Days AgoJR2004020Senior Software Manager, Agentic AIlocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2001693Senior Manager, Software Security Architecturelocations4 Locationsposted onPosted 2 Days AgoJR2009733System Software Manager - Core Graphicslocations2 Locationsposted onPosted 3 Days AgoJR2005829Senior Software Manager, Networking PlatformslocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2006726Senior Engineer, DevOps Platform - Cloud Softwarelocations2 Locationsposted onPosted 3 Days AgoJR2003212Technical Marketing Engineer - AI Platform SoftwarelocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2006680Senior Software SDET Test Development EngineerlocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2007696Technical Program Manager - Enterprise SoftwarelocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2008900Senior Software Architect - Data Center Systemslocations6 Locationsposted onPosted 3 Days AgoJR1973150Distinguished Engineer – Data Center System Software ArchitectlocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR1973423Senior Software Product Manager – DOCAlocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2009123Senior Software Architectlocations3 Locationsposted onPosted 3 Days AgoJR1997335Quantum Computing Software Intern - Summer 2026locationsUS, CA, Santa Claraposted onPosted TodayJR2010186Software Advanced DeveloperlocationsUS, WA, Redmondposted onPosted 3 Days AgoJR1989159Distinguished Software Architect - Deep Learning and HPC CommunicationslocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR1980127Software Architect, NetworkinglocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2007041.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Computing-Software-Intern---Summer-2026_JR2010186-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-quantum-computing-software-intern-summer-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Systems Software Engineer, Information Security",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "19h",
+    "job_description": "• Minimum QualificationsStrong skills in common systems programming languages.\n• Experience with framework and daemon development.\n• Experience with hardware and/or software development lifecycle processes.\n• Experience in continuous development practices (CI/CD, rollback, canaries, feature flags, etc.\n• Understanding of operating system fundamentals.\n• Understanding of the latest configuration management technologies, security issues, and protocols.\n• Understanding of authentication and authorization frameworks and protocols, e.\n• Working knowledge of network security and applied cryptography.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200641083-0157/systems-software-engineer-information-security?team=CORSV",
+    "id": "apple-systems-software-engineer-information-security-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Arm Boston Office",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/usa-boston-office",
+    "id": "arm-arm-boston-office-"
   },
   {
     "employer_name": "Honeywell",
-    "job_title": "Non-Destructive Test Tech-Level",
-    "job_city": "Greer",
-    "job_state": "SC",
-    "job_posted_at": "17h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II - Controls Locations Mason, OH, United States Posting Date11/19/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134016/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-non-destructive-test-tech-level-greer"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II - Python",
-    "job_city": "Buenos Aires",
-    "job_state": "Argentina",
-    "job_posted_at": "1d",
-    "job_description": "• Electronic Trading and Risk Management Application Developer -Software Engineer III LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer Program Early Careers Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Net Software Engineer on a Part Time basis after taking a career break of 2 years or more.\n• Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer hands on with AWS Services, AWS Connect, Spring, Java, Python and microservices background Software Engineer - Analyst Mumbai, Maharashtra, India TechnologySoftware Engineering Looking for a Software engineer with hands on experience in Java.\n• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Elevate your software engineering career as a Lead Software Engineer, driving innovation and excellence in corporate technology platform.\n• Senior Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Senior Software Engineer with expertise in AWS, microservices, Kubernetes, and full stack Java/JavaScript, user-facing Software Engineer II - Python Buenos Aires, Argentina and 1 more TechnologySoftware Engineering Experienced Software Engineer to develop Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Lead DevOps Software Engineer Bgr Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking a Lead Software Engineer with strong AWS software development experience, microservices architecture, Kubernetes, and cloud Dev Software Engineer II Bengaluru, Karnataka, India TechnologySoftware Engineering Software Engineer II – SWE - AWS / Python UI Frontend Engineer - Software Engineer III New York, NY, United States TechnologySoftware Engineering Looking for a React / Typescript Software Engineer Lead Software Engineer - Python and React LONDON, United Kingdom TechnologySoftware Engineering Software Engineer fullstack - Vice President Lead Software Engineer - Python DuckDb Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver scalable technology solutions as a Lead Software Engineer in Cross Risk Calculations Technology.\n• Lead Software Engineer - Java (API Marketplace) Seattle, WA, United States TechnologySoftware Engineering Lead Software Engineer - Java (API Marketplace) Software Engineer III Pune, Maharashtra, India TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Lead Software Engineer - Java, AWS Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Java Software Engineer who has strong experience with AWS Services Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - GCP ML Engineer Wilmington, DE, United States and 1 more TechnologySoftware Engineering Lead Software Engineer - GCP Vertex ML Engineer Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer III – GenAI, Python, AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700207/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-python-buenos-aires"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - AWS Glue",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_posted_at": "1d",
-    "job_description": "• Electronic Trading and Risk Management Application Developer -Software Engineer III LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer Program Early Careers Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Net Software Engineer on a Part Time basis after taking a career break of 2 years or more.\n• Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer hands on with AWS Services, AWS Connect, Spring, Java, Python and microservices background Software Engineer - Analyst Mumbai, Maharashtra, India TechnologySoftware Engineering Looking for a Software engineer with hands on experience in Java.\n• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Elevate your software engineering career as a Lead Software Engineer, driving innovation and excellence in corporate technology platform.\n• Senior Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Senior Software Engineer with expertise in AWS, microservices, Kubernetes, and full stack Java/JavaScript, user-facing Software Engineer II - Python Buenos Aires, Argentina and 1 more TechnologySoftware Engineering Experienced Software Engineer to develop Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Lead DevOps Software Engineer Bgr Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking a Lead Software Engineer with strong AWS software development experience, microservices architecture, Kubernetes, and cloud Dev Software Engineer II Bengaluru, Karnataka, India TechnologySoftware Engineering Software Engineer II – SWE - AWS / Python UI Frontend Engineer - Software Engineer III New York, NY, United States TechnologySoftware Engineering Looking for a React / Typescript Software Engineer Lead Software Engineer - Python and React LONDON, United Kingdom TechnologySoftware Engineering Software Engineer fullstack - Vice President Lead Software Engineer - Python DuckDb Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver scalable technology solutions as a Lead Software Engineer in Cross Risk Calculations Technology.\n• Lead Software Engineer - Java (API Marketplace) Seattle, WA, United States TechnologySoftware Engineering Lead Software Engineer - Java (API Marketplace) Software Engineer III Pune, Maharashtra, India TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Lead Software Engineer - Java, AWS Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Java Software Engineer who has strong experience with AWS Services Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - GCP ML Engineer Wilmington, DE, United States and 1 more TechnologySoftware Engineering Lead Software Engineer - GCP Vertex ML Engineer Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer III – GenAI, Python, AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210693054/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-aws-glue-columbus"
+    "job_title": "Electrical Engr",
+    "job_city": "Clearwater",
+    "job_state": "FL",
+    "job_posted_at": "19h",
+    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II - Controls Locations Mason, OH, United States Posting Date11/19/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/133615/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-electrical-engr-clearwater"
   }
 ]
