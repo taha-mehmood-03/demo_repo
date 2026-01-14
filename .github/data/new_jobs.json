@@ -1,72 +1,72 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Product Owner",
-    "job_city": "Arizona -",
+    "employer_name": "Dell",
+    "job_title": "Hardware Engineer",
+    "job_city": "2 Locations",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Translate Strategy: Convert the Product Manager’s high-level strategy into actionable tasks and work with cross-functional agile teams to execute those requirements.\n• User Advocacy: Represent the user within delivery teams by thoroughly understanding their needs, pain points, and problem statements.\n• Instead, consult with engineering to propose optimized solutions that fit a wide range of business needs (reusable, scalable, user-centric).\n• Solution Architect: Aligns with you to design solutions defined by epics and ensures implementation meets non-functional requirements across the value stream.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences LeanIX (LIX): Maintain accuracy of required fields in application factsheets and roadmaps (when delegated).\n• Sprint Prioritization: Manage the backlog to allow bandwidth for security, privacy, disaster recovery, and data requirement definitions.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager Backlog Management: Define the sprint plan, prioritize the sprint backlog, and adapt to changing circumstances.\n• Business Intimacy: Continually build knowledge through user research, interviews, shadowing, market research, and data analysis.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr325148/product-owner/",
-    "id": "salesforce-product-owner-arizona"
+    "job_posted_at": "1d",
+    "job_description": "• Software Senior Principal Engineer- Distributed Systemsremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted YesterdayR282875Engineering Strategy Product Ownerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 8 Days AgoR281772Energy Compliance Test Engineerremote typeOnsitelocationsFranklin, Massachusetts, United Statesposted onPosted 30+ Days AgoR281284Hardware Engineerlocations2 Locationsposted onPosted TodayR284675Principal Systems Development Engineerremote typeOnsitelocations2 Locationsposted onPosted 8 Days AgoR280172Principal Systems Development Engineerremote typeOnsitelocations2 Locationsposted onPosted 8 Days AgoR280241Serviceability Development Principal Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 4 Days AgoR280176Serviceability Development Principal Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR280179Senior Serviceability Development Principal Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR280184Senior Serviceability Development Principal Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR280190Quality Senior Principal Engineer (Supportability)remote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 5 Days AgoR280185Senior Data Scientistremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR274793Consultant, Agile scrum Masterremote typeOnsitelocations2 Locationsposted onPosted TodayR284129.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Hopkinton-Massachusetts-United-States/Hardware-Engineer_R284675?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-hardware-engineer-2-locations"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "RDA Engineer, DRAM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Bachelor’s Degree in Electrical Engineering, Chemical Engineering, Materials Science & Engineering, or related field accepted.\n• New College Grad - DRAM Device and Process Integration EngineerBoise, Idaho, United States of AmericaPosted 8 days ago Recognize, identify, and raise awareness of process anomalies with the motivation of \"who needs to know this now.\n• \" We need someone who will investigate process anomalies, root cause analysis, data manipulation, and correlations Experience applying basic Data Science and Data Manipulation (scripting, coding, or programming using Python) Master’s Degree in Electrical Engineering, Chemical Engineering, Materials Science & Engineering preferred.\n• The shown ability to innovate and drive effective change in an energizing environment Experience with metrology or inspection (SEM, X-ray, Laser or Optical Systems) We need an engineer drawn to creative problem solving and innovative solutions Demonstrated combination of flexibility and tenacity in the pursuit of goals.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39569879",
+    "id": "micron-technology-rda-engineer-dram-boise"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "PCIe QA Engineer",
+    "job_city": "USA-CA Irvine Alton Parkway Bldg 2",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Technical Support EngineerlocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 8 Days AgoR023724 R&D Senior Engineer SoftwarelocationsARM-Yerevan-Mamikonyantstime typeFull timeposted onPosted 6 Days AgoR023940 Senior Software EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted 5 Days AgoR024653.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/PCIe-QA-Engineer_R024812?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-pcie-qa-engineer-usa-ca-irvine-alton-parkway-bldg-2"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "Systems Automation Engineer",
-    "job_city": "USA NC Fort Liberty",
+    "job_title": "Junior Software Developer (Active TS/SCI with Poly Required)",
+    "job_city": "USA MD Annapolis Junction",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Liberty/Systems-Automation-Engineer_RQ212865-1?q=software+engineering",
-    "id": "general-dynamics-systems-automation-engineer-usa-nc-fort-liberty"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931?q=software+engineering",
+    "id": "general-dynamics-junior-software-developer-active-ts-sci-with-poly-required-usa-md-annapolis-junction"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Platform Development Software Engineer",
-    "job_city": "US",
-    "job_state": "TX",
+    "employer_name": "General Dynamics",
+    "job_title": "SharePoint Web Developer - Active Top Secret/SCI eligible required",
+    "job_city": "USA VA Dam Neck",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Build core platform capabilities that improve Developer Experience: self-service workflows, golden paths, templates, CLIs/SDKs, internal tooling, documentation, and paved roads.\n• Platform Engineering: Experience building and operating large-scale platforms used by multiple teams, with strong ownership of reliability and operability.\n• Full-Stack Strength: Hands-on experience delivering backend services and modern web applications, with strong API design fundamentals.\n• LLM Systems: Experience working with LLMs in production, including prompt/tool design, latency and cost optimization, and safety/guardrails.\n• Developer Experience: Track record improving developer workflows and productivity through internal tooling, automation, and clear documentation.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Architect, build, and scale large-scale platforms with a focus on reliability, performance, security, and operational excellence across distributed and hybrid environments.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/71678/login",
-    "id": "amd-platform-development-software-engineer-us"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Dam-Neck/SharePoint-Web-Developer---Active-Top-Secret-SCI-eligible-required_RQ212909-1?q=software+engineering",
+    "id": "general-dynamics-sharepoint-web-developer-active-top-secret-sci-eligible-required-usa-va-dam-neck"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Integration Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsBachelor’s degree in a software engineering-related discipline, or equivalent experience.\n• Familiar with software development lifecycle including CI/CD and agile developmentExperience with git source control management.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200640865-0836/software-integration-engineer?team=SFTWR",
+    "id": "apple-software-integration-engineer-cupertino"
   },
   {
     "employer_name": "Honeywell",
-    "job_title": "Control Systems Software Engineer",
-    "job_city": "Torrance",
-    "job_state": "CA",
-    "job_posted_at": "21h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II Locations Atlanta, GA, United States Posting Date12/01/2025 Trending Software Engineer II - Controls Locations Mason, OH, United States Posting Date11/19/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/133805/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-control-systems-software-engineer-torrance"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Machinist - Level 2 Disk Turning",
-    "job_city": "Greer",
-    "job_state": "SC",
-    "job_posted_at": "21h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II Locations Atlanta, GA, United States Posting Date12/01/2025 Trending Software Engineer II - Controls Locations Mason, OH, United States Posting Date11/19/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134229/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-machinist-level-2-disk-turning-greer"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II - Android",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Test Engineer I - Mechanical",
+    "job_city": "Rocky Mount",
+    "job_state": "NC",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer III - Java & COBOL Application Developer Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Electronic Trading and Risk Management Application Developer -Software Engineer III LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer Program Early Careers Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Net Software Engineer on a Part Time basis after taking a career break of 2 years or more.\n• Create a profile so we can help Join the Network Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer hands on with AWS Services, AWS Connect, Spring, Java, Python and microservices background Software Engineer - Analyst Mumbai, Maharashtra, India TechnologySoftware Engineering Looking for a Software engineer with hands on experience in Java.\n• Senior Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Senior Software Engineer with expertise in AWS, microservices, Kubernetes, and full stack Java/JavaScript, user-facing Software Engineer II - Python Buenos Aires, Argentina and 1 more TechnologySoftware Engineering Experienced Software Engineer to develop Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Software Engineer II-AI/ML Bengaluru, Karnataka, India TechnologySoftware Engineering Software Engineer II - AI/ML Lead DevOps Software Engineer Bgr Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking a Lead Software Engineer with strong AWS software development experience, microservices architecture, Kubernetes, and cloud Dev Software Engineer II Bengaluru, Karnataka, India TechnologySoftware Engineering Software Engineer II – SWE - AWS / Python Lead Software Engineer - Python and React LONDON, United Kingdom TechnologySoftware Engineering Software Engineer fullstack - Vice President Software Engineer II - Python, AIML, Cloud LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer with a passion for Machine Learning Engineering, to help engineer and deploy innovative ML solutions Software Engineer III Pune, Maharashtra, India TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Lead Software Engineer - AI/ML & Data Platforms Dublin, Ireland TechnologySoftware Engineering Lead Full stack Software Engineer - AI/ML & Data Platforms – Analytics Suite Fullstack AWS Software Engineer III Westerville, OH, United States TechnologySoftware Engineering Fullstack AWS Software Engineer III Lead Software Engineer- DevOps Houston, TX, United States TechnologySoftware Engineering Lead Software Engineer with strong AWS software development experience, microservices architecture, Kubernetes, and cloud DevOps skills to build and optimize scalable, resilient trading technology solutions.\n• Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java, AWS Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Java Software Engineer who has strong experience with AWS Services Software Engineer III - Python Ciudad Autónoma de Buenos Aires, Argentina and 1 more TechnologySoftware Engineering Experienced Senior developer to develop Innovative solutions to aid strategy and decision making across a complex, global landscape.\n• Software Engineer III - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Experienced Senior Developer to develop Innovative solutions to aid strategy and decision making across a complex, global landscape.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694528/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-android-new-york"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Software Defined Network Control Plane, Amazon LEO",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Software Development Engineer II, Software Defined Network Control Plane, Amazon LEO",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3158277/software-development-engineer-ii-software-defined-network-control-plane-amazon-leo",
-    "id": "amazon-software-development-engineer-ii-software-defined-network-control-plane-amazon-leo-redmond"
+    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Senior Advanced Embedded Software Engineer Locations Phoenix, AZ, United States Posting Date01/05/2026 Software Engineer II Locations Atlanta, GA, United States Posting Date12/01/2025 Trending Software Engineer II - Controls Locations Mason, OH, United States Posting Date11/19/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134413/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-test-engineer-i-mechanical-rocky-mount"
   }
 ]
