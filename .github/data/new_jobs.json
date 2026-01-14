@@ -1,102 +1,52 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Development - Apptio Costing Intern",
-    "job_city": "shipBellevue",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Development - Apptio Costing Intern",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86505&source=WEB_Search_NA",
-    "id": "ibm-development-apptio-costing-intern-shipbellevue"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer – Hybrid Cloud and Data",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer –  Hybrid Cloud and Data",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86506&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-hybrid-cloud-and-data-"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Product Owner, Customer Success Technology (DET)",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Strategic Optimization: Consult with engineering teams to propose scalable solutions that address a wide range of business needs across the Salesforce platform.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 3+ years of professional experience in a highly analytical, strategy, or tech-centric roleProven track record in requirements gathering, creating product specs (metrics, goals, use cases), and managing agile development lifecyclesFoundational understanding of the Salesforce Platform, specifically Service Cloud and enterprise Customer Success business functionsExceptional storytelling and presentation skills, with the ability to influence everyone from technical analysts to C-suite executivesIntermediate to advanced understanding of product prioritization frameworks and data-driven decision-makingAbility to function independently under aggressive deadlines in a fast-paced, global team environmentA related technical degree requiredAbility to travel occasionally (less than 10%) Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Deep understanding of SaaS business models, operations, and Customer Success workflowsAgile/Scrum certifications (CSPO/PSPO) or Salesforce-specific certifications (Force.\n• Com, Service Cloud Consultant)Experience with the Force.\n• Com and Visualforce development platforms University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Agile Execution: Translate high-level product strategy into actionable tasks.\n• Define sprint plans, prioritize the backlog, and adapt to changing circumstances to ensure work aligns with business objectives.\n• User Advocacy: Represent the \"Voice of the User\" by conducting deep-dive research, interviews, and shadowing to understand pain points.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr322406/product-owner-customer-success-technology-det/",
-    "id": "salesforce-product-owner-customer-success-technology-det-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "New College Grad - Signal Integrity Qualification Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "17h",
-    "job_description": "• Experience with laboratory equipment for electrical measurements: Vector Network Analyzer (VNA) and oscilloscope at a minimum New College Grad - DRAM Device and Process Integration EngineerBoise, Idaho, United States of AmericaPosted 9 days ago New College Grad - Engineer, Electrical Design - High-SpeedBoise, Idaho, United States of AmericaPosted 2 months ago Familiarity with basic electronic circuits, semiconductor technology, and quality and reliability fundamentals New College Grad - Design Verification Engineer, DRAMBoise, Idaho, United States of AmericaPosted 20 days ago New College Grad - Memory Design Engineer, DRAMBoise, Idaho, United States of AmericaPosted 20 days ago New College Grad - IT Software Support EngineerBoise, Idaho, United States of AmericaPosted 6 days ago New College Grad - DRAM Design Layout EngineerBoise, Idaho, United States of AmericaPosted 8 days ago Strong initiative and ability to think and act independently, along with good problem-solving skills New College Grad - RAM RDA Process EngineerBoise, Idaho, United States of AmericaPosted a month ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/39608127",
-    "id": "micron-technology-new-college-grad-signal-integrity-qualification-engineer-boise"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Hardware Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• R&D Senior Engineer SoftwarelocationsARM-Yerevan-Mamikonyantstime typeFull timeposted onPosted 7 Days AgoR023940 Senior Software EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted 6 Days AgoR024653.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Hardware-Engineer_R024708?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-hardware-engineer-2-locations"
-  },
-  {
     "employer_name": "General Dynamics",
-    "job_title": "Systems Application Analyst Sr",
-    "job_city": "Any Location /",
+    "job_title": "Application Developer - TS/SCI with Polygraph",
+    "job_city": "USA VA McLean",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Systems-Application-Analyst-Sr_RQ212947-1?q=software+engineering",
-    "id": "general-dynamics-systems-application-analyst-sr-any-location"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Software-Developer--Systems-Software---TS-SCI-with-Polygraph_RQ212614-1?q=software+engineering",
+    "id": "general-dynamics-application-developer-ts-sci-with-polygraph-usa-va-mclean"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Business Analyst",
-    "job_city": "2 Locations",
+    "employer_name": "General Dynamics",
+    "job_title": "UI/UX Developer - TS/SCI with Polygraph",
+    "job_city": "USA VA McLean",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Business Analyst SeniorlocationsUS - VA, McLeanposted onPosted 5 Days Ago34201Business Analystlocations2 Locationsposted onPosted Today34204Technology Account Lead, TransportationlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32479Journeyman Appian Developerlocations2 Locationsposted onPosted 30+ Days Ago32455Technology Account Lead, USDAlocations2 Locationsposted onPosted 30+ Days Ago32481Program Manager - SAP OperationslocationsUS - MD, Patuxent Riverposted onPosted 5 Days Ago34093Key Client Consulting Partner Energy and Utilities in the WestlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago32507.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-Fort-Worth/Business-Analyst_34204-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-business-analyst-2-locations"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/UI-UX-Developer---TS-SCI-with-Polygraph_RQ212681?q=software+engineering",
+    "id": "general-dynamics-ui-ux-developer-ts-sci-with-polygraph-usa-va-mclean"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Assembly Mechanic - Level 2 FAA - 1st Shift",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_posted_at": "17h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II Locations Atlanta, GA, United States Posting Date12/01/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134270/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-assembly-mechanic-level-2-faa-1st-shift-phoenix"
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer, Leo, Nexus",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Engineer, Leo, Nexus",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3159464/software-engineer-leo-nexus",
+    "id": "amazon-software-engineer-leo-nexus-redmond"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Technician - Test - Level 2 (Weekend shift) FAA",
-    "job_city": "Clearwater",
-    "job_state": "FL",
-    "job_posted_at": "17h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer II Locations Atlanta, GA, United States Posting Date12/01/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134207/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-technician-test-level-2-weekend-shift-faa-clearwater"
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Simulation Foundations",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Development Engineer, Simulation Foundations",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3159465/software-development-engineer-simulation-foundations",
+    "id": "amazon-software-development-engineer-simulation-foundations-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Stack Management, Vertex GenAI, Cloud AI",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Stack Management, Vertex GenAI, Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/134376020852515526-software-engineer-stack-management-vertex-genai-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-stack-management-vertex-genai-cloud-ai-sunnyvale"
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer - Boston, EFS",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Development Engineer - Boston, EFS",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3159441/software-development-engineer-boston-efs",
+    "id": "amazon-software-development-engineer-boston-efs-boston"
   }
 ]
