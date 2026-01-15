@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Solutions Engineer HashiCorp – Entry Level Sales Program",
-    "job_city": "Austin",
+    "employer_name": "BAE Systems",
+    "job_title": "Software Developer",
+    "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Solutions Engineer HashiCorp – Entry Level Sales Program",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86210&source=WEB_Search_NA",
-    "id": "ibm-solutions-engineer-hashicorp-entry-level-sales-program-austin"
+    "job_description": "• DevOps Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220920 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224543 Software Engineer, SeniorlocationsDayton, OHposted onPosted 24 Days AgoR0231191 Software Engineer, LeadlocationsDayton, OHposted onPosted 24 Days AgoR0231190 Software Engineer, SeniorlocationsMcLean, VAposted onPosted TodayR0231670.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Software-Developer_R0232182?q=software+engineering",
+    "id": "bae-systems-software-developer-3-locations"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Developer: Automation Development & Testing",
-    "job_city": "TUCSON",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Cyber Capability Developer",
+    "job_city": "Redstone Arsenal",
+    "job_state": "AL",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Developer: Automation Development & Testing",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85174&source=WEB_Search_NA",
-    "id": "ibm-developer-automation-development-testing-tucson"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "NSIPS ETL Software Developer - Secret Clearance",
-    "job_city": "USA LA New Orleans",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-New-Orleans/NSIPS-ETL-Software-Developer---Secret-Clearance_RQ212899-1?q=software+engineering",
-    "id": "general-dynamics-nsips-etl-software-developer-secret-clearance-usa-la-new-orleans"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "Systems Engineering Intern (Acoustic Optics)",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "19h",
-    "job_description": "• (1) Categories 0 Engineering - Product Dev (16) Information Technology (7) Manufacturing (3) Experience Level 0 Experienced Professional (11) Interns (8) Recent College Grads (7) Work Locations 0 Dallas, North Campus - Kilby East (10) Dallas, North Campus - DMOS V South (5) Dallas, South Campus (4) Lehi, Lehi, UT (3) Phoenix, Phoenix, AZ (1) Richardson, Richardson Fab, Renner Rd (1) Santa Clara, Santa Clara, Great America.\n• (1) Categories 0 Engineering - Product Dev (16) Information Technology (7) Manufacturing (3) Experience Level 0 Experienced Professional (11) Interns (8) Recent College Grads (7) Extensive experience with MEMS and EM modeling FEM tools (COMSOL, ANSYS) and Cadence IC design toolsDeep understanding of high frequency SAW/BAW devices.\n• Understanding of and experience with schematic design, PCB layout, circuit debugging and system testing.\n• Ability to establish strong relationships with key stakeholders critical to success, both internally and externallyStrong verbal and written communication skills to audiences of varied backgroundAbility to simplify complex problems and navigate uncertaintyAbility to quickly ramp on new systems and processesDemonstrated strong interpersonal, analytical and problem-solving skillsAbility to work in teams and collaborate effectively with people in different functionsAbility to take the initiative and drive for resultsStrong time management skills that enable on-time project delivery Develop, model, simulate, and optimize state-of-the-art integrated acousto-optic devices for ground-breaking specifications.\n• Assess, define, and negotiate MEMS device specifications based on system requirements.\n• Evaluate silicon and systems solutions (hardware and software) and related documentation Gather user requirements, translate them to functional specifications, and implement solutions and enhancement projects Provide complete documentation for each development lifecycle step Perform troubleshooting and debugging on issues related to the system Job Identification 25005708 Job Category Engineering - Product Dev Posting Date 01/15/2026, 07:05 PM Apply Before 01/22/2026, 06:00 AM Degree Level Master's Degree Locations EXKI 13560 N.\n• Central Expwy, Dallas, TX, 75243, US ECL/GTC Required Yes Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25005708/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-systems-engineering-intern-acoustic-optics-"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Leo",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Leo",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3159465/software-development-engineer-amazon-leo",
-    "id": "amazon-software-development-engineer-amazon-leo-redmond"
+    "job_description": "• University – Site Reliability EngineerlocationsMcLean, VAposted onPosted 8 Days AgoR0231536 Cyber Capability DeveloperlocationsRedstone Arsenal, ALposted onPosted TodayR0232134 DevOps Engineer and System Administrator, SeniorlocationsMcLean, VAposted onPosted 9 Days AgoR0231681 AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224541 SOAR Engineer, SeniorlocationsBethesda, MDposted onPosted YesterdayR0231908.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Redstone-Arsenal-AL/Cyber-Capability-Developer_R0232134?q=software+engineering",
+    "id": "bae-systems-cyber-capability-developer-redstone-arsenal"
   }
 ]
