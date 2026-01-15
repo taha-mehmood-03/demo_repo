@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "visionOS, Systems Framework Software Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum Qualifications6+ years of developing software frameworks and APIsSolid understanding of distributed systems and code that spans beyond one deviceTrack record of mobile device and embedded developmentExperience writing daemons and/or multi-threaded softwareKnowledgable about network protocols and frameworks (e.\n• TCP/IP, UDP, QUIC)Knowledgable about system level programming conceptsStrong command of object-oriented programming (Swift / C++ preferred)Strong analytical and problem-solving skills with a track record of data-driven architectural decisionsExcellent communication and presentation skillsBS or equivalent experience in Computer Science, Computer Engineering, or a related field.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200641709-3956/visionos-systems-framework-software-engineer?team=SFTWR",
+    "id": "apple-visionos-systems-framework-software-engineer-sunnyvale"
+  }
+]
