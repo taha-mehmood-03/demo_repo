@@ -1,52 +1,42 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Associate Application Developer 2026 - Business Applications",
+    "job_title": "Associate Data Engineer – Client Innovation Center (Entry Level)",
     "job_city": "",
     "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer 2026  - Business Applications",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87003&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-2026-business-applications-"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Performance Engineer LMTS",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Work closely with management, product owners, and engineers to understand product requirements and design appropriate performance test plans to verify features performance and scalability requirementsMeasure, analyze, and optimize the performance and scalability of new and existing features within an Agile development environment.\n• Collaborating and planning with development scrum teams to identify, prioritize, and mitigate performance risks of features being shipped every releaseReview automation implementations and encourage sound design principlesReview test plans, results analysis, capacity planning guides for in–flight releasesCoordinate technical presentations and training for capacity planning guidesReport weekly trends highlighting product performance and team status against committed milestones and projects 8+ years of software development experience with specific experience in benchmark testing, performance analysis, troubleshooting, and optimizing enterprise softwareProven development experience in Java and SQLOutstanding attention to detail and communication skills, both written and verbalAbility to interpret technical data, and analyze performance results using applicable statistics conceptsAbility to identify / resolve system bottlenecksAbility to identify potential limitations in software architecturesAbility to write clear and concise technical documentsExcellent troubleshooting and reasoning skillsUnderstanding of throughput, latency, memory and CPU utilizationUnderstanding concepts of multi-threading, cache, memory management, Java Virtual Machine, JITExperience with scripting tools such as JMeter, and profiling tools such as JProfiler and YourKitWorking knowledge of AJAX, HTTP, REST, JSONWorking knowledge of database tuning and administration (e.\n• Linux, Solaris, OProfile, VTune)A related technical degree required.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Find performance bottlenecks in features across all areas of the cloud, diagnose the issues, fix them, and verify and test your solutions with the owning team.\n• Design and implement scalability, stability, stress, reliability, availability, and longevity tests using industry standard tools and custom developed software and scripts.\n• Provide accurate scoping, clear strategies, and milestones for performance testsCommunicate status, risks to test complete dates, and offer mitigation strategies to ensure on-time delivery of all committed projects to cross functional teamsReproduce, diagnose, and resolve critical customer situations requiring special performance tests or simulations.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr324365/performance-engineer-lmts/",
-    "id": "salesforce-performance-engineer-lmts-california-san-francisco"
+    "job_description": "software engineering job for the role Associate Data Engineer – Client Innovation Center (Entry Level)",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87015&source=WEB_Search_NA",
+    "id": "ibm-associate-data-engineer-client-innovation-center-entry-level-"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Cluster Network Engineer",
+    "job_title": "Software Engineer, GPU Capture & Replay Tools",
     "job_city": "US",
-    "job_state": "TX",
+    "job_state": "FL",
     "job_posted_at": "1d",
-    "job_description": "• Enabling clusters for end users, finding and resolving problemsExperience working with RoCE(RDMA over Converge Ethernet), Libfabric and InfiniBand among othersExperience working with Linux Kerner, Device drivers and network drivers.\n• Experience designing and building GPU Networks for Large Scale Clusters Experience in collective communication libraries: MPI, RCCL, SHMEM and optimization to scale collective communication to scale distributed systems.\n• In-depth knowledge of best practices in software development, including testing, profiling, debugging, documentation, version control, issue tracking, and planning Contributions to open-source libraries and applications Experience with installation and management of operating systems.\n• Fundamental knowledge of virtual machines and hyper-visors GPU software development using HIP, CUDA, or OpenCL Understanding of CPU, GPU and NIC architecture and low-level optimization techniques including assembly programming and/or vectorization Bachelor's degree in Computer Science, Software Engineering, Electrical Engineering, or equivalent Master's degree in Engineering or Ph.\n• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/76047/login",
-    "id": "amd-cluster-network-engineer-us"
+    "job_description": "• Good low level C/C++ programming skills, such as in coding for fast execution using light weight data structures and efficient algorithms, bit manipulation, pointer, array, class, virtual function, etc.\n• Experienced with Linux DRI and/or Windows WDDM.\n• Experienced with scripting/automation using Python.\n• Experienced with gdb/kdb.\n• Experience in some of these areas are preferred: 3D graphics rendering and shader algorithms, techniques such as forward and deferred rendering, anti-aliasing, culling, and performance trade-offs.\n• Experience with GPU compute (ROCm, OpenCL, CUDA, etc.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Undergrad degree required.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/75603/login",
+    "id": "amd-software-engineer-gpu-capture-replay-tools-us"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Infrastructure, Google Cloud",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Infrastructure, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/85991083959296710-software-engineer-infrastructure-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-infrastructure-google-cloud-sunnyvale"
+    "employer_name": "RIVIAN",
+    "job_title": "Exterior Trim Mechanical Design & Release Engineer",
+    "job_city": "Irvine",
+    "job_state": "California US",
+    "job_posted_at": "1d",
+    "job_description": "• Serve as a vital link between design and engineering, working hand-in-hand with our studio team to shape high-quality A-surfaces that meet stringent Design for Manufacturability (DFM) requirements while maintaining Vehicle theme & Brand value.\n• Experience taking components from initial concept and CAD design through validation testing and production launch.\n• Adept in quantitative, qualitative, organizational, and communication skills.\n• Hands-on experience in design through the manufacturing/fabrication process, either through curriculum or extracurricular projects.\n• Collaborate with diverse teams to overcome challenges and craft integrated design solutions that meet all system requirements.\n• Bachelor’s Degree in Mechanical Engineering (Masters Preferred) 2-4+ years of relevant automotive design experience.\n• The ability to work closely with Design Studio, translating artistic vision into feasible engineering solutions.\n• Strong logical reasoning.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/28727/login",
+    "id": "rivian-exterior-trim-mechanical-design-release-engineer-irvine"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Android Auto",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Android Auto",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96985100725428934-software-engineer-iii-android-auto?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-iii-android-auto-san-jose"
+    "employer_name": "JPMorgan Chase",
+    "job_title": "AWS Software Engineer III - Kafka/Java",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer III - Java & COBOL Application Developer Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Mainframe Application Developer, DB2, Cobol Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Electronic Trading and Risk Management Application Developer -Software Engineer III LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer Program Early Careers Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Net Software Engineer on a Part Time basis after taking a career break of 2 years or more.\n• Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer hands on with AWS Services, AWS Connect, Spring, Java, Python and microservices background Lead Software Engineer - Python LONDON, United Kingdom TechnologySoftware Engineering Software engineer to join the firm-wide AI serving platform Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering The Wealth Management Controls Technology group is looking for a Full Stack Lead Software Engineer.\n• Software Engineer - Analyst Mumbai, Maharashtra, India TechnologySoftware Engineering Looking for a Software engineer with hands on experience in Java.\n• Software Engineer II-AI/ML Bengaluru, Karnataka, India TechnologySoftware Engineering Software Engineer II - AI/ML Senior Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Senior Lead Software Engineer in Wholesale Credit Risk Technology Software Engineer II - Credit Technology Atlanta, GA, United States TechnologySoftware Engineering Tech - Software Engineer II (Java/Springboot/AWS) Software Engineer Houston, TX, United States TechnologySoftware Engineering Design software solutions that meet business needs and adhere to security and compliance standards.\n• Software Engineer II - Python, AIML, Cloud LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer with a passion for Machine Learning Engineering, to help engineer and deploy innovative ML solutions Software Engineer III Pune, Maharashtra, India TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering SWES04|Cassandra|NoSQL|Production Support | ITIL Process | Python | AWS NoSQL Cassandra DB |Production support |ITIL Process UI Frontend Engineer - Software Engineer III New York, NY, United States TechnologySoftware Engineering Looking for a React / Typescript Software Engineer Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Lead Software Engineer- DevOps Houston, TX, United States TechnologySoftware Engineering Lead Software Engineer with strong AWS software development experience, microservices architecture, Kubernetes, and cloud DevOps skills to build and optimize scalable, resilient trading technology solutions.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694131/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-aws-software-engineer-iii-kafka-java-jersey-city"
   }
 ]
