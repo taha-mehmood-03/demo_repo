@@ -1,12 +1,52 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Spanner Hybrid Search",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Software Engineer, CNS2",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Spanner Hybrid Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/118548224553165510-software-engineer-spanner-hybrid-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-spanner-hybrid-search-kirkland"
+    "job_description": "software engineering job for the role Software Engineer, CNS2",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81199350008423110-software-engineer-cns2?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-cns2-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Spanner Tablet Efficiency",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Spanner Tablet Efficiency",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/130873361205994182-software-engineer-iii-spanner-tablet-efficiency?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-iii-spanner-tablet-efficiency-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Storage Everywhere, Google Cloud",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Storage Everywhere, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/122525868927918790-software-engineer-storage-everywhere-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-storage-everywhere-google-cloud-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Android",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Android",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/139008999390356166-software-engineer-iii-android?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-android-san-jose"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer, Release and Automation Annapurna Labs ML Acceleration Server Software",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "14h",
+    "job_description": "software engineering job for the role Software Engineer, Release and Automation Annapurna Labs ML Acceleration Server Software",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3160829/software-engineer-release-and-automation-annapurna-labs-ml-acceleration-server-software",
+    "id": "amazon-software-engineer-release-and-automation-annapurna-labs-ml-acceleration-server-software-austin"
   }
 ]
