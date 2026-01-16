@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Associate Data Engineer – Client Innovation Center (Entry Level)",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Data Engineer – Client Innovation Center (Entry Level)",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87015&source=WEB_Search_NA",
-    "id": "ibm-associate-data-engineer-client-innovation-center-entry-level-"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Software Engineer, GPU Capture & Replay Tools",
-    "job_city": "US",
-    "job_state": "FL",
-    "job_posted_at": "1d",
-    "job_description": "• Good low level C/C++ programming skills, such as in coding for fast execution using light weight data structures and efficient algorithms, bit manipulation, pointer, array, class, virtual function, etc.\n• Experienced with Linux DRI and/or Windows WDDM.\n• Experienced with scripting/automation using Python.\n• Experienced with gdb/kdb.\n• Experience in some of these areas are preferred: 3D graphics rendering and shader algorithms, techniques such as forward and deferred rendering, anti-aliasing, culling, and performance trade-offs.\n• Experience with GPU compute (ROCm, OpenCL, CUDA, etc.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Undergrad degree required.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/75603/login",
-    "id": "amd-software-engineer-gpu-capture-replay-tools-us"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Exterior Trim Mechanical Design & Release Engineer",
-    "job_city": "Irvine",
-    "job_state": "California US",
-    "job_posted_at": "1d",
-    "job_description": "• Serve as a vital link between design and engineering, working hand-in-hand with our studio team to shape high-quality A-surfaces that meet stringent Design for Manufacturability (DFM) requirements while maintaining Vehicle theme & Brand value.\n• Experience taking components from initial concept and CAD design through validation testing and production launch.\n• Adept in quantitative, qualitative, organizational, and communication skills.\n• Hands-on experience in design through the manufacturing/fabrication process, either through curriculum or extracurricular projects.\n• Collaborate with diverse teams to overcome challenges and craft integrated design solutions that meet all system requirements.\n• Bachelor’s Degree in Mechanical Engineering (Masters Preferred) 2-4+ years of relevant automotive design experience.\n• The ability to work closely with Design Studio, translating artistic vision into feasible engineering solutions.\n• Strong logical reasoning.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/28727/login",
-    "id": "rivian-exterior-trim-mechanical-design-release-engineer-irvine"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "AWS Software Engineer III - Kafka/Java",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer III - Java & COBOL Application Developer Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Mainframe Application Developer, DB2, Cobol Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Electronic Trading and Risk Management Application Developer -Software Engineer III LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer Program Early Careers Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Net Software Engineer on a Part Time basis after taking a career break of 2 years or more.\n• Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer hands on with AWS Services, AWS Connect, Spring, Java, Python and microservices background Lead Software Engineer - Python LONDON, United Kingdom TechnologySoftware Engineering Software engineer to join the firm-wide AI serving platform Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering The Wealth Management Controls Technology group is looking for a Full Stack Lead Software Engineer.\n• Software Engineer - Analyst Mumbai, Maharashtra, India TechnologySoftware Engineering Looking for a Software engineer with hands on experience in Java.\n• Software Engineer II-AI/ML Bengaluru, Karnataka, India TechnologySoftware Engineering Software Engineer II - AI/ML Senior Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Senior Lead Software Engineer in Wholesale Credit Risk Technology Software Engineer II - Credit Technology Atlanta, GA, United States TechnologySoftware Engineering Tech - Software Engineer II (Java/Springboot/AWS) Software Engineer Houston, TX, United States TechnologySoftware Engineering Design software solutions that meet business needs and adhere to security and compliance standards.\n• Software Engineer II - Python, AIML, Cloud LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer with a passion for Machine Learning Engineering, to help engineer and deploy innovative ML solutions Software Engineer III Pune, Maharashtra, India TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering SWES04|Cassandra|NoSQL|Production Support | ITIL Process | Python | AWS NoSQL Cassandra DB |Production support |ITIL Process UI Frontend Engineer - Software Engineer III New York, NY, United States TechnologySoftware Engineering Looking for a React / Typescript Software Engineer Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Lead Software Engineer- DevOps Houston, TX, United States TechnologySoftware Engineering Lead Software Engineer with strong AWS software development experience, microservices architecture, Kubernetes, and cloud DevOps skills to build and optimize scalable, resilient trading technology solutions.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694131/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-aws-software-engineer-iii-kafka-java-jersey-city"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Spanner Hybrid Search",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Spanner Hybrid Search",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/118548224553165510-software-engineer-spanner-hybrid-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-spanner-hybrid-search-kirkland"
   }
 ]
