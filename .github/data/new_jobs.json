@@ -1,92 +1,52 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Digital Circuit Design Engineer - Entry Level",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
+    "job_title": "Associate Application Developer 2026 - Business Applications",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Digital Circuit Design Engineer - Entry Level",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86780&source=WEB_Search_NA",
-    "id": "ibm-digital-circuit-design-engineer-entry-level-rochester"
+    "job_description": "software engineering job for the role Associate Application Developer 2026  - Business Applications",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87003&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-2026-business-applications-"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Platform Support Engineer LMTS",
+    "job_title": "Performance Engineer LMTS",
     "job_city": "California - San Francisco",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback A related technical degree required.\n• Customer Success acumenStrong problem-solving, troubleshooting and analytical skillsAbility to understand customer issues, learn fast and collaborate with other engineering teams to reach a resolutionMust have excellent spoken and written communications skillsExperience with any CI/CD Platforms (like Spinnaker / Spinnaker APIs / Jenkins / K8s / Helm / Terraform)Experience with public clouds including Amazon Web Services (AWS) or Google Compute Platform (GCP) or Azure.\n• Experience with Kubernetes, Docker, Terraform, JSON, Git, AWS CLI, TableauLight coding skills in Python, Apex Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Familiarity with Salesforce Service Cloud for Case managementFamiliarity with Salesforce Data Cloud + Tableau for reportingScripting and OS package management (command line tools)Secrets Management with VaultKnowledge of SDLC processes and practicesExperience SCM solutions like git.\n• Knowledge of security patterns, 3pp vulnerabilities, and practicesExposure to analytical monitoring dashboards and experience with Helm Charts is a plusPublic Cloud certifications like AWS, Terraform, CKA.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr324613/platform-support-engineer-lmts/",
-    "id": "salesforce-platform-support-engineer-lmts-california-san-francisco"
+    "job_description": "• Work closely with management, product owners, and engineers to understand product requirements and design appropriate performance test plans to verify features performance and scalability requirementsMeasure, analyze, and optimize the performance and scalability of new and existing features within an Agile development environment.\n• Collaborating and planning with development scrum teams to identify, prioritize, and mitigate performance risks of features being shipped every releaseReview automation implementations and encourage sound design principlesReview test plans, results analysis, capacity planning guides for in–flight releasesCoordinate technical presentations and training for capacity planning guidesReport weekly trends highlighting product performance and team status against committed milestones and projects 8+ years of software development experience with specific experience in benchmark testing, performance analysis, troubleshooting, and optimizing enterprise softwareProven development experience in Java and SQLOutstanding attention to detail and communication skills, both written and verbalAbility to interpret technical data, and analyze performance results using applicable statistics conceptsAbility to identify / resolve system bottlenecksAbility to identify potential limitations in software architecturesAbility to write clear and concise technical documentsExcellent troubleshooting and reasoning skillsUnderstanding of throughput, latency, memory and CPU utilizationUnderstanding concepts of multi-threading, cache, memory management, Java Virtual Machine, JITExperience with scripting tools such as JMeter, and profiling tools such as JProfiler and YourKitWorking knowledge of AJAX, HTTP, REST, JSONWorking knowledge of database tuning and administration (e.\n• Linux, Solaris, OProfile, VTune)A related technical degree required.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Find performance bottlenecks in features across all areas of the cloud, diagnose the issues, fix them, and verify and test your solutions with the owning team.\n• Design and implement scalability, stability, stress, reliability, availability, and longevity tests using industry standard tools and custom developed software and scripts.\n• Provide accurate scoping, clear strategies, and milestones for performance testsCommunicate status, risks to test complete dates, and offer mitigation strategies to ensure on-time delivery of all committed projects to cross functional teamsReproduce, diagnose, and resolve critical customer situations requiring special performance tests or simulations.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr324365/performance-engineer-lmts/",
+    "id": "salesforce-performance-engineer-lmts-california-san-francisco"
   },
   {
-    "employer_name": "Salesforce",
-    "job_title": "Security Systemic Risk Remediation Engineer",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Bachelor’s degree in Computer Science, Engineering or related field, or equivalent training, fellowship, or work experience is requiredProven communication, collaboration, and interpersonal skills with the ability to effectively communicate complex technical concepts to diverse audiences, including technical and non-technical teams.\n• Experience participating in an information security program and improving or proposing improvements to a secure development lifecycleThreat modeling of security topics across infrastructure security & application security domains.\n• Understanding of, or experience managing infrastructure and platform access control models, best practices for configuring secure Salesforce orgs, session authentication and API security best practices, and use of Agentic AI to streamline risk detection and evaluation.\n• Excellent writing and presentation skills.\n• Preferred QualificationsProven ability to drive enterprise-ready features to release prioritizing Trust without sacrificing usabilityStrong technical aptitude.\n• Comfortable engaging with engineering on architecture, APIs, and platform implicationsExperience working with InfoSec, Legal, and IT stakeholders at Fortune 500 companiesDemonstrated expertise in navigating security incident response efforts, including direct engagement with executive leadership, legal counsel, and external parties to resolve complex security issues.\n• Additional Exceptional QualificationsExperience with software development in one or more languages such as: JavaScript, Java, Python, Ruby, PHP, Go, Rust, TypeScript.\n• Some experience performing penetration testing or familiarity with the process5+ years proven experience in the following areas in a security engineering or research role:Securing products and infrastructure from the OWASP Top 10 and/or CWE Top 25Exploiting web and web services security vulnerabilities such as cross-site scripting, cross site request forgery, SQL injection, DoS attacks, XML/SOAP, API attacks, etc.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr325164/security-systemic-risk-remediation-engineer/",
-    "id": "salesforce-security-systemic-risk-remediation-engineer-california-san-francisco"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Mixed Signal IC Design Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "AMD",
+    "job_title": "Cluster Network Engineer",
+    "job_city": "US",
+    "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254468Staff Analog & Mixed-Signal Design Engineerlocations3 Locationsposted onPosted 24 Days AgoR258820Senior Analog IC Design Engineerlocations2 Locationsposted onPosted 23 Days AgoR258792RF Product EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255417Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257756RF/Microwave Product Engineer - SpacelocationsUS, MA, Chelmsford, Elizabethposted onPosted 30 Days AgoR255292Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 29 Days AgoR258498Principal Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 29 Days AgoR258497Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 29 Days AgoR258532Principal Analog & Mixed-Signal Design Engineerlocations3 Locationsposted onPosted 24 Days AgoR258818AMS Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 23 Days AgoR258367Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR255656Senior RF Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR255654Sr.\n• Analog Mixed-Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258683Principal Mixed-Signal/Analog Design Engineerlocations2 Locationsposted onPosted 24 Days AgoR258796Senior RF Test EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted YesterdayR255560Manufacturing EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR255202Senior Engineer, Product Engineering (Mfg.\n• )locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR252068Senior Engineer, Product Engineering (Mfg.\n• )locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254103Mixed Signal IC Design Engineerlocations2 Locationsposted onPosted TodayR253425.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mixed-Signal-IC-Design-Engineer_R253425-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-mixed-signal-ic-design-engineer-2-locations"
+    "job_description": "• Enabling clusters for end users, finding and resolving problemsExperience working with RoCE(RDMA over Converge Ethernet), Libfabric and InfiniBand among othersExperience working with Linux Kerner, Device drivers and network drivers.\n• Experience designing and building GPU Networks for Large Scale Clusters Experience in collective communication libraries: MPI, RCCL, SHMEM and optimization to scale collective communication to scale distributed systems.\n• In-depth knowledge of best practices in software development, including testing, profiling, debugging, documentation, version control, issue tracking, and planning Contributions to open-source libraries and applications Experience with installation and management of operating systems.\n• Fundamental knowledge of virtual machines and hyper-visors GPU software development using HIP, CUDA, or OpenCL Understanding of CPU, GPU and NIC architecture and low-level optimization techniques including assembly programming and/or vectorization Bachelor's degree in Computer Science, Software Engineering, Electrical Engineering, or equivalent Master's degree in Engineering or Ph.\n• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/76047/login",
+    "id": "amd-cluster-network-engineer-us"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Material Conveyance Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Welding EngineerlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222511Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 28 Days AgoR00213782Manufacturing EngineerlocationsMesa, Arizona, USposted onPosted TodayR00225888Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 7 Days AgoR00225164Hardware Test EngineerlocationsLowell, Massachusetts, USposted onPosted 28 Days AgoR00213786Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 7 Days AgoR00224942Solutions Engineer (Junior)locationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00222663Foam Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00214219Solutions Engineering ManagerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221303Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00218232Manufacturing Process EngineerlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00200517Deployment Engineer-AMRlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00217971Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 9 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Manufacturing Engineer, EquipmentlocationsMesa, Arizona, USposted onPosted 30+ Days AgoR00218006Material Conveyance Engineerlocations2 Locationsposted onPosted TodayR00226421Advanced Quality EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00204172Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221215Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00219364Senior Business Intelligence EngineerlocationsLowell, Massachusetts, USposted onPosted 8 Days AgoR00223935.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Victor-Iowa-US/Material-Conveyance-Engineer_R00226421?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-material-conveyance-engineer-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Mechanical Design Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Explore ABB Life at ABB Diversity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020831/Associate-Mechanical-Design-Engineer",
-    "id": "abb-associate-mechanical-design-engineer-location-mebane"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "AR/VR Software Development Engineer, Vision Products Software",
-    "job_city": "Boulder",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBachelor degree and knowledge of 3D realtime rendering applicationsAt least 1 year of relevant experienceProficiency in writing safe, performant C++ codeKnowledge of the graphics pipeline, modern rendering techniques, and image processingExperience with at least one of the modern graphics APIs (Metal, Vulkan, Direct3D 12, WebGPU) and shading languages (MSL, HLSL, GLSL, WGSL)Ability to solve problems in 3D geometry using linear algebraFamiliarity with all stages of software development, from prototyping to performance optimizationSolid debugging and problem-solving skillsOutstanding teamwork and communication skillsPassionate about owning and refining features.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200641948-0365/ar-vr-software-development-engineer-vision-products-software?team=SFTWR",
-    "id": "apple-ar-vr-software-development-engineer-vision-products-software-boulder"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Leo Commerce",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer, Leo Commerce",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3160512/software-development-engineer-leo-commerce",
-    "id": "amazon-software-development-engineer-leo-commerce-redmond"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "SDE - Firmware, AWS Hardware Engineering, Firmware Development",
-    "job_city": "Cupertino",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Infrastructure, Google Cloud",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role SDE - Firmware, AWS Hardware Engineering, Firmware Development",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3160283/sde-firmware-aws-hardware-engineering-firmware-development",
-    "id": "amazon-sde-firmware-aws-hardware-engineering-firmware-development-cupertino"
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Infrastructure, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/85991083959296710-software-engineer-infrastructure-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-infrastructure-google-cloud-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Android Auto",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Android Auto",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96985100725428934-software-engineer-iii-android-auto?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-android-auto-san-jose"
   }
 ]
