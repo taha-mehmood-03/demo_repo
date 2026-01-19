@@ -1,92 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: AI-based forecasting of molecular interactions",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern 2026: AI-based forecasting of molecular interactions",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81221&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-ai-based-forecasting-of-molecular-interactions-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "RS: Toward Autonomous Data Management with FMs and AI Agents Intern",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role RS: Toward Autonomous Data Management with FMs and AI Agents Intern 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58728&source=WEB_Search_NA",
-    "id": "ibm-rs-toward-autonomous-data-management-with-fms-and-ai-agents-intern-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Mathematics of Computing Research Summer Intern:",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Mathematics of Computing Research Summer Intern: 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69568&source=WEB_Search_NA",
-    "id": "ibm-mathematics-of-computing-research-summer-intern-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: AI Systems Research Scientist",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern 2026: AI Systems Research Scientist",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76131&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-ai-systems-research-scientist-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Research Scientist - Semiconductor",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern 2026: Research Scientist - Semiconductor",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-research-scientist-semiconductor-"
-  },
-  {
     "employer_name": "General Dynamics",
-    "job_title": "JR Front End Engineer",
-    "job_city": "Any Location /",
+    "job_title": "Software Engineer- TS/SCI with Polygraph",
+    "job_city": "USA VA Chantilly",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/JR-Front-End-Engineer_RQ213133-1?q=software+engineering",
-    "id": "general-dynamics-jr-front-end-engineer-any-location"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Software-Engineer--TS-SCI-with-Polygraph_RQ212497-1?q=software+engineering",
+    "id": "general-dynamics-software-engineer-ts-sci-with-polygraph-usa-va-chantilly"
   },
   {
     "employer_name": "Honeywell",
-    "job_title": "Assembler - Level 2 - C shift Fir- Sun (6am- 6:30pm)",
+    "job_title": "Producibility Engr",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "18h",
+    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Senior Advanced Embedded Software Engineer - C++ and Linux Locations Phoenix, AZ, United States Posting Date01/05/2026 Software Engineer II Locations Atlanta, GA, United States Posting Date12/01/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134603/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-producibility-engr-san-jose"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Assembler - Level 2 - B shift Mon- Thurs (3pm- 2:30am)",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "16h",
+    "job_posted_at": "18h",
     "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Senior Advanced Embedded Software Engineer - C++ and Linux Locations Phoenix, AZ, United States Posting Date01/05/2026 Software Engineer II Locations Atlanta, GA, United States Posting Date12/01/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134930/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-assembler-level-2-c-shift-fir-sun-6am-6-30pm-redmond"
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134829/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-assembler-level-2-b-shift-mon-thurs-3pm-2-30am-redmond"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Java Full Stack",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Create a profile so we can help Join the Network Software Engineer Program Early Careers Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Net Software Engineer on a Part Time basis after taking a career break of 2 years or more.\n• Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer hands on with AWS Services, AWS Connect, Spring, Java, Python and microservices background Lead Software Engineer Wilmington, DE, United States TechnologySoftware Engineering Lead Software Engineer specializing in Python or other language, Spark/PySpark, React, and Databricks or Snowflake Software Engineer - Analyst Mumbai, Maharashtra, India TechnologySoftware Engineering Looking for a Software engineer with hands on experience in Java.\n• Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Manager of Software Engineering with distributed technology at scale experience.\n• Software Engineer Houston, TX, United States TechnologySoftware Engineering Design software solutions that meet business needs and adhere to security and compliance standards.\n• Software Engineer III Pune, Maharashtra, India TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Lead Software Engineer LONDON, LONDON, United Kingdom TechnologySoftware Engineering Collaborate with development teams to enhance the developer experience via CI/CD Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Join a passionate team, use the latest tech, and grow in a creative, diverse, and supportive environment solving real challenges.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696328/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-java-full-stack-"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML GenAI, Google Cloud AI",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, AI/ML GenAI, Google Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140552552251826886-software-engineer-iii-aiml-genai-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-ai-ml-genai-google-cloud-ai-sunnyvale"
+    "employer_name": "Honeywell",
+    "job_title": "FAA Masking Processor - Level 2 - 1st shift",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_posted_at": "18h",
+    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• You will use your experience and judgment to plan and accomplish goals.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Senior Advanced Embedded Software Engineer - C++ and Linux Locations Phoenix, AZ, United States Posting Date01/05/2026 Software Engineer II Locations Atlanta, GA, United States Posting Date12/01/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134159/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-faa-masking-processor-level-2-1st-shift-phoenix"
   }
 ]
