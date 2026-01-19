@@ -1,12 +1,52 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Intern - AI Accelerators Research",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Engineer Intern - AI Accelerators Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-intern-ai-accelerators-research-"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI for Math and Science",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: AI for Math and Science",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60278&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-for-math-and-science-"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, ContribService, Multimodal",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Software Engineer III, Google Cloud Business Platforms",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, ContribService, Multimodal",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105867116715877062-software-engineer-contribservice-multimodal?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-contribservice-multimodal-new-york"
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Business Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/92650208487187142-software-engineer-iii-google-cloud-business-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-google-cloud-business-platforms-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Performance",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Performance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/82324160738403014-software-engineer-iii-infrastructure-google-cloud-performance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-performance-kirkland"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Cloud Security",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Security",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/142270847199912646-software-engineer-iii-google-cloud-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-google-cloud-security-kirkland"
   }
 ]
