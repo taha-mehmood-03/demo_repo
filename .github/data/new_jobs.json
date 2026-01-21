@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Software Integrity Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsOne year of experience diagnosing and triaging software issues.\n• Bachelor's degree in computer science or related field.\n• 2 years of relevant professional experience may substitute for the educational requirement.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200642694-3543/software-integrity-engineer?team=SFTWR",
-    "id": "apple-software-integrity-engineer-san-diego"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Engineering Productivity",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer, Vertex AI, Cloud AI",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/88367384137474758-software-engineer-iii-engineering-productivity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
-    "id": "google-software-engineer-iii-engineering-productivity-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Vertex AI, Cloud AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/116475368109417158-software-engineer-vertex-ai-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-vertex-ai-cloud-ai-sunnyvale"
   }
 ]
