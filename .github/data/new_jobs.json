@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "CNO Software Engineer",
-    "job_city": "2 Locations",
+    "employer_name": "Salesforce",
+    "job_title": "Summer 2026 Intern - Change Management Communications",
+    "job_city": "Illinois - Chicago",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• University, Software EngineerlocationsWashington, DCposted onPosted 2 Days AgoR0231316 Software Engineer, SeniorlocationsChantilly, VAposted onPosted 6 Days AgoR0232270 Software Engineering ManagerlocationsDayton, OHposted onPosted YesterdayR0232408 Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0231190 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 7 Days AgoR0231670 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 6 Days AgoR0232237 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 6 Days AgoR0232369 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 6 Days AgoR0232365 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 2 Days AgoR0232366 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 2 Days AgoR0232368.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Software-Engineer_R0232303?q=software+engineering",
-    "id": "bae-systems-cno-software-engineer-2-locations"
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Current Junior/Rising Senior pursuing a Bachelor’s Degree, graduating Dec 2026, or Spring 2027, pursuing a Bachelor’s degree in Communications, Marketing, Business, Journalism, Information Systems, or a related field.\n• Strong written communication skills with attention to clarity and detail.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Assist in creating internal communications for Lead-to-Cash initiatives, including emails, newsletters, Slack posts, presentations, and enablement content.\n• Contribute to executive and leadership presentation materials as needed.\n• Experience creating visual or multimedia content (slides, videos, infographics, social posts).\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Interest in marketing, internal communications, sales enablement, or change management.\n• Comfortable working with digital tools (Slack, Google Workspace, etc.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr326714/summer-2026-intern-change-management-communications/",
+    "id": "salesforce-summer-2026-intern-change-management-communications-illinois-chicago"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Unified Communication SME Engineer",
-    "job_city": "USA MD Fort Meade",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Fort-Meade/Unified-Communication-SME-Engineer_RQ213280-1?q=software+engineering",
-    "id": "general-dynamics-unified-communication-sme-engineer-usa-md-fort-meade"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Data Center Infrastructure Management",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Data Center Infrastructure Management",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78377182832796358-software-engineer-data-center-infrastructure-management?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-data-center-infrastructure-management-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Linux Kernel Networking",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Linux Kernel Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/114405979851760326-software-engineer-iii-linux-kernel-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-linux-kernel-networking-sunnyvale"
   }
 ]
