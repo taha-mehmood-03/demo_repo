@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Summer 2026 Intern - Change Management Communications",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Current Junior/Rising Senior pursuing a Bachelor’s Degree, graduating Dec 2026, or Spring 2027, pursuing a Bachelor’s degree in Communications, Marketing, Business, Journalism, Information Systems, or a related field.\n• Strong written communication skills with attention to clarity and detail.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Assist in creating internal communications for Lead-to-Cash initiatives, including emails, newsletters, Slack posts, presentations, and enablement content.\n• Contribute to executive and leadership presentation materials as needed.\n• Experience creating visual or multimedia content (slides, videos, infographics, social posts).\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Interest in marketing, internal communications, sales enablement, or change management.\n• Comfortable working with digital tools (Slack, Google Workspace, etc.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr326714/summer-2026-intern-change-management-communications/",
-    "id": "salesforce-summer-2026-intern-change-management-communications-illinois-chicago"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Data Center Infrastructure Management",
-    "job_city": "Seattle",
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon Leo GBO Engineering",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Data Center Infrastructure Management",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78377182832796358-software-engineer-data-center-infrastructure-management?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-data-center-infrastructure-management-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Linux Kernel Networking",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Linux Kernel Networking",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/114405979851760326-software-engineer-iii-linux-kernel-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-linux-kernel-networking-sunnyvale"
+    "job_posted_at": "15h",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon Leo GBO Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3164549/software-development-engineer-amazon-leo-gbo-engineering",
+    "id": "amazon-software-development-engineer-amazon-leo-gbo-engineering-bellevue"
   }
 ]
