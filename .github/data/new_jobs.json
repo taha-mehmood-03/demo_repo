@@ -1,22 +1,112 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "AI/Software Developer - TS/SCI with Polygraph",
-    "job_city": "USA VA Chantilly",
-    "job_state": "US",
+    "employer_name": "Micron Technology",
+    "job_title": "Shift Equipment Engineer ID1",
+    "job_city": "Boise",
+    "job_state": "Idaho",
     "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/AI-Software-Developer---TS-SCI-with-Polygraph_RQ213417?q=software+engineering",
-    "id": "general-dynamics-ai-software-developer-ts-sci-with-polygraph-usa-va-chantilly"
+    "job_description": "• Skilled in electrical, vacuum, gas flow and mechanical fundamentals including experience at using schematic diagrams to fix systems to components level Must be flexible to work any shift and rotate shifts as needed (allowing for flexibility around school schedule where applicable) Knowledge of AC/DC circuits, including fundamentals of electricity, and basic electronic components and circuits Bachelor’s degree in electrical engineering or mechanical Engineer.\n• New College Grad - ATE Process Engineer ID1Boise, Idaho, United States of AmericaPosted a month ago Intermediate to advanced software skills, i.\n• Python, Java, Tableau, Matlab, MS Office Suite A strong mechanical aptitude with the ability to understand and solve mechanical issues Strong time management, organization, prioritization and communication skills Ability to learn area equipment including knowledge of the process Excellent verbal and written communication skills.\n• Other related fields may be considered.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39687950",
+    "id": "micron-technology-shift-equipment-engineer-id1-boise"
   },
   {
-    "employer_name": "RIVIAN",
-    "job_title": "Engineering Intern - Electrical Machine Design",
-    "job_city": "Irvine",
-    "job_state": "California US",
+    "employer_name": "Micron Technology",
+    "job_title": "Manufacturing Engineer ID1",
+    "job_city": "Boise",
+    "job_state": "Idaho",
     "job_posted_at": "1d",
-    "job_description": "• This involves parametric modeling and running simulations to optimize motor efficiency, performance, torque, and reliability based on system requirements.\n• Coursework related specifically to electric machines, finite element analysis, power systems design, and power electronics is preferred.\n• Hands-on and Lab Skills: The ability to apply theoretical knowledge in a practical setting is crucial.\n• This includes hands-on experience using basic lab equipment like oscilloscopes, digital multimeters, and signal generators, as well as strong troubleshooting skills to identify and resolve issues.\n• Software Skills: Proficiency with industry-standard software and tools is a key requirement.\n• This often includes experience with software like MATLAB/Simulink, ANSYS Maxwell, Jmag, CAD tools.\n• Other Skills: Strong interpersonal and communication skills are essential for collaborating within cross-functional teams (e.\n• Actively pursuing a degree or one closely related in Electrical Engineering.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/28767/login",
-    "id": "rivian-engineering-intern-electrical-machine-design-irvine"
+    "job_description": "• BS Engineering degree or equivalent semiconductor industry experience.\n• Experience or knowledge in one or more scripting, programming and visualization tools (i.\n• Python, Java, Tableau, Matlab, Microsoft Suite) Completes all required safety training and conducts all work in accordance with safety policies and regulations New College Grad - ATE Process Engineer ID1Boise, Idaho, United States of AmericaPosted a month ago Hands-on experience in the field of data analytics, preferably with experience querying databases Strong problem-solving skills and the ability to efficiently organize tasks and projects Intermediate PC skills including a familiarity with MS Office Word, Excel, PowerPoint Proven ability to troubleshoot complex problems and address root causes Intermediate data extraction, analysis, and reporting skills Proven ability to communicate and present effectively.\n• However, other engineering or related disciplines may be considered.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39688083",
+    "id": "micron-technology-manufacturing-engineer-id1-boise"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Smart Manufacturing and AI Data Science",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• BS degree in statistics, physics, computer science, engineering, applied mathematics, data science or related field, with the intentions of completing a MS or Ph.\n• Must be a current student and must not graduate before Dec.\n• Highly motivated, proactive, with a strong work ethic, able to work independently and collaborate effectively with people from different culture backgrounds.\n• Strong problem-solving skills with logical approach.\n• Strong verbal and written communication skills Less than 2 years Manager, Smart Manufacturing & Artificial Intelligence Global Operations ImprovementHigashi Hiroshima-shi, Hiroshima, JapanPosted 6 days ago Lead Product Owner for Smart Manufacturing & AI - FinanceBoise, Idaho, United States of America + 2 morePosted 6 days ago.\n• In one of these fields or Data Science.\n• Working knowledge of SQL or other query languages for data extraction, transformation, and integration.\n• Ability to handle datasets of varying size and complexity, from small-scale experimental data to large-scale manufacturing or sensor data.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-intern-smart-manufacturing-and-ai-data-science-boise"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Systems Software Engineer, Information Security",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsStrong skills in common systems programming languages.\n• Experience with framework and daemon development.\n• Experience with hardware and/or software development lifecycle processes.\n• Experience in continuous development practices (CI/CD, rollback, canaries, feature flags, etc.\n• Understanding of operating system fundamentals.\n• Understanding of the latest configuration management technologies, security issues, and protocols.\n• Understanding of authentication and authorization frameworks and protocols, e.\n• Working knowledge of network security and applied cryptography.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200641083-3337/systems-software-engineer-information-security?team=CORSV",
+    "id": "apple-systems-software-engineer-information-security-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Swift Software Engineer, Productivity Apps",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsProficiency with Swift or Objective-C, or a related language (2+ years)Proficiency in object-oriented design and development (2+ years)Experience with multi-threaded and concurrent programming (2+ years)Experience working in large code basesDemonstrated experience planning and delivering software projects with and for cross-functional teamsAbility to communicate clearly—both verbally and in writing—and build trust across business linesBachelor’s degree in Computer Science, or a related subject area, or we may consider an equivalent industry experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200640392-0836/swift-software-engineer-productivity-apps?team=SFTWR",
+    "id": "apple-swift-software-engineer-productivity-apps-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer, CI/CD",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "2h",
+    "job_description": "• Minimum QualificationsProficient in Python programming.\n• Experience with software development processes such as compilation, unit testing, code analysis, release process, and code coverage.\n• Experience working on Linux and macOS based platforms and shell scripting.\n• Experience with DevOps tools such as Ansible, Docker, Kubernetes, Terraform.\n• Experience with CI/CD process and platforms.\n• Strong analytical and problem solving skills.\n• Excellent written and oral communication skills and ability to work with large development teams.\n• In Computer Science or equivalent, or 5+ years of relevant experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200642973-3543/software-development-engineer-ci-cd?team=SFTWR",
+    "id": "apple-software-development-engineer-ci-cd-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer, CI/CD",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2h",
+    "job_description": "• Minimum QualificationsProficient in Python programming.\n• Experience with software development processes such as compilation, unit testing, code analysis, release process, and code coverage.\n• Experience working on Linux and macOS based platforms and shell scripting.\n• Experience with DevOps tools such as Ansible, Docker, Kubernetes, Terraform.\n• Experience with CI/CD process and platforms.\n• Strong analytical and problem solving skills.\n• Excellent written and oral communication skills and ability to work with large development teams.\n• In Computer Science or equivalent, or 5+ years of relevant experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200642973-0836/software-development-engineer-ci-cd?team=SFTWR",
+    "id": "apple-software-development-engineer-ci-cd-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Quality Engineer - Heath Software",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum Qualifications4+ years of experience with test automaton development including creation and management of test frameworks from scratch.\n• Experience writing code in Scala/Java to test an API, SDK, or Framework.\n• Experience developing various forms of software tests in any of the following: unit, functional, performance, or stressExperience in writing and automating test cases that interact with SQL and NoSQL databases.\n• Understanding of microservices design principles, service orchestration, and inter-service communication (e.\n• , REST, gRPC, messaging systems like Kafka or RabbitMQ)BS in Computer Science or relevant field.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200640109-3956/quality-engineer-heath-software?team=SFTWR",
+    "id": "apple-quality-engineer-heath-software-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Core Wi-Fi Embedded Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsYou have proven knowledge of data structures and their applicationsYou’re experienced developing software using C/C+, Objective-C, or JavaYou have strong competency and experience in Layer 2, Layer 3 networking, and QoSYou have excellent analytical, problem-solving skills, programming and debugging skillsYou thrive in a collaborative environment and can clearly communicate while driving multiple projects across teamsBachelor’s Degree in Computer ScienceEnglish language proficiency is required for this position.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200640285-3543/core-wi-fi-embedded-software-engineer?team=SFTWR",
+    "id": "apple-core-wi-fi-embedded-software-engineer-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "EDA System Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/eda-system-performance-engineer/33099/86006621520",
+    "id": "arm-eda-system-performance-engineer-austin"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Device Embedded Software SDE, Ring",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_posted_at": "2d",
+    "job_description": "software engineering job for the role Device Embedded Software SDE, Ring",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3162779/device-embedded-software-sde-ring",
+    "id": "amazon-device-embedded-software-sde-ring-north-reading"
   }
 ]
