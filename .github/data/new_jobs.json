@@ -1,62 +1,22 @@
 [
   {
-    "employer_name": "Broadcom",
-    "job_title": "Mainframe Software Development Engineer",
-    "job_city": "USA-IL Lisle Warrenville Road",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Staff Application EngineerlocationsISR-Tel Aviv Universitytime typeFull timeposted onPosted 2 Days AgoR024882 SW InternlocationsISR-Tel Aviv Universitytime typeFull timeposted onPosted YesterdayR024548 Senior Software Engineer, Tanzu Intelligent AssistlocationsBGR-Sofia-Garitage Park - Bldg 2time typeFull timeposted onPosted 7 Days AgoR024599 Senior Software Engineer for Tanzu GreenplumlocationsBGR-Sofia-Garitage Park - Bldg 2time typeFull timeposted onPosted YesterdayR024885 Engineering Manager - VCF Division VMware at BroadcomlocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 9 Days AgoR024182 Senior Technical Support EngineerlocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 3 Days AgoR023724 Sr Support Manager - Automationlocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR024843 Senior DSP and ASIC Engineerlocations2 Locationstime typeFull timeposted onPosted 8 Days AgoR024808 Product Managerlocations2 Locationstime typeFull timeposted onPosted 9 Days AgoR024637.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Mainframe-Software-Development-Engineer_R024874?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-mainframe-software-development-engineer-usa-il-lisle-warrenville-road"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Software Development Engineer in Test (SDET)",
-    "job_city": "USA-IL Lisle Warrenville Road",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Staff Application EngineerlocationsISR-Tel Aviv Universitytime typeFull timeposted onPosted 2 Days AgoR024882 SW InternlocationsISR-Tel Aviv Universitytime typeFull timeposted onPosted YesterdayR024548 Senior Software Engineer, Tanzu Intelligent AssistlocationsBGR-Sofia-Garitage Park - Bldg 2time typeFull timeposted onPosted 7 Days AgoR024599 Senior Software Engineer for Tanzu GreenplumlocationsBGR-Sofia-Garitage Park - Bldg 2time typeFull timeposted onPosted YesterdayR024885 Engineering Manager - VCF Division VMware at BroadcomlocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 9 Days AgoR024182 Senior Technical Support EngineerlocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 3 Days AgoR023724 Sr Support Manager - Automationlocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR024843 Senior DSP and ASIC Engineerlocations2 Locationstime typeFull timeposted onPosted 8 Days AgoR024808 Product Managerlocations2 Locationstime typeFull timeposted onPosted 9 Days AgoR024637.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Software-Development-Engineer-in-Test--SDET-_R024872?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-software-development-engineer-in-test-sdet-usa-il-lisle-warrenville-road"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Virtualization Engineer",
-    "job_city": "DEU Wiesbaden - Wiesbaden Army Airfield (APC180)",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Virtualization-Engineer_RQ213440-1?q=software+engineering",
-    "id": "general-dynamics-virtualization-engineer-deu-wiesbaden-wiesbaden-army-airfield-apc180"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Search",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/88023009364714182-software-engineer-iii-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-search-chicago"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Engineering Productivity",
-    "job_city": "Sunnyvale",
+    "employer_name": "AMD",
+    "job_title": "MTS Firmware Engineer",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/109903703074316998-software-engineer-iii-engineering-productivity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-iii-engineering-productivity-sunnyvale"
+    "job_posted_at": "1d",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/76854/login",
+    "id": "amd-mts-firmware-engineer-us"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Search, Ranking and Applied Machine Learning",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "ABB",
+    "job_title": "Design Engineer (RECI)",
+    "job_city": "Location Nashik",
+    "job_state": "Mahārāshtra",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Search, Ranking and Applied Machine Learning",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/82718707574284998-software-engineer-search-ranking-and-applied-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-search-ranking-and-applied-machine-learning-mountain-view"
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Explore ABB Life at ABB Diversity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019796/Design-Engineer-RECI",
+    "id": "abb-design-engineer-reci-location-nashik"
   }
 ]
