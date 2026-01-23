@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Backend Engineer",
-    "job_city": "McLean",
-    "job_state": "VA",
+    "employer_name": "General Dynamics",
+    "job_title": "Systems Engineer",
+    "job_city": "USA NC Fort Liberty",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0230668 Full Stack Cloud Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220915 User Interface Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 25 Days AgoR0227236 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 14 Days AgoR0226886 Full Stack Software Developer, SeniorlocationsDahlgren, VAposted onPosted 8 Days AgoR0231971 Software Reverse Engineer, SeniorlocationsFort Meade, MDposted onPosted 17 Days AgoR0231423 Software Engineer and Web ExpertlocationsWashington, DCposted onPosted 14 Days AgoR0231830 Software Engineer and Web ExpertlocationsWashington, DCposted onPosted 14 Days AgoR0231825 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 14 Days AgoR0231841 Back End Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220919.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Backend-Engineer_R0232596?q=software+engineering",
-    "id": "bae-systems-backend-engineer-mclean"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Liberty/Systems-Engineer_RQ213333-1?q=software+engineering",
+    "id": "general-dynamics-systems-engineer-usa-nc-fort-liberty"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Electrical Engineer",
+    "job_city": "USA ID Bayview",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-ID-Bayview/Electrical-Engineer_RQ213343-1?q=software+engineering",
+    "id": "general-dynamics-electrical-engineer-usa-id-bayview"
   }
 ]
