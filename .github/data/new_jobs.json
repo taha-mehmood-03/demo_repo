@@ -1,52 +1,92 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineer in Test - MTS or SMTS",
-    "job_city": "Texas - Dallas",
+    "employer_name": "BAE Systems",
+    "job_title": "API Software Engineer",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• DevOps Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0220920 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224543.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/API-Software-Engineer_R0232594?q=software+engineering",
+    "id": "bae-systems-api-software-engineer-mclean"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Salesforce Developer",
+    "job_city": "2 Locations",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Analysis and Design: Participate in a Test Design Review Board for integration test plans within and across clouds with focus on functional, business, complex scenarios, high impact projects, usability, and accessibilityMaster clouds requirements (e.\n• Underlying techstack, business usage, implementation)Create end-to-end, cross cloud-impacting, integration automation (API and UI) with complex Salesforce orgsInterface with customers to understand real life usage, build test casesExecute Testing with complex org setup, varied data modelsOrganize and drive cross product testingMonitor product and/or feature-level quality health metrics (testability, test health, test coverage, etc)Works closely with senior developers, PM, and UX to ensure their features are delivered to meet business and quality requirementsYou are providing leadership and coaching to others on your scrum teams, as well as providing mentoring to others who may be on other scrum teams.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 4+ years of proven experience programming/development with Java and Apex.\n• Experience in design and implementation of Web Services and Prompt Engineering.\n• Testing experience in Selenium/Gherkins.\n• Proven experience with the development and maintenance of regression and performance tests in a complex architecture.\n• 3+ years of automated testing experience in a web-based environment.\n• Excellent problem solving and communication skills.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306036/software-engineer-in-test-mts-or-smts/",
-    "id": "salesforce-software-engineer-in-test-mts-or-smts-texas-dallas"
+    "job_posted_at": "1d",
+    "job_description": "• Microsoft Dynamics Developerlocations28 Locationsposted onPosted 30+ Days Ago34507Microsoft Dynamics 365 Developerlocations28 Locationsposted onPosted 8 Days Ago35441AI Architectlocations2 Locationsposted onPosted 30+ Days Ago34807Full Stack Developer with Cloud and DevOps ExperiencelocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34436Senior Power Platform Developerlocations2 Locationsposted onPosted 30+ Days Ago34493Senior Power Apps DeveloperlocationsUS - GA, Atlantaposted onPosted 10 Days Ago35277Senior Power Apps Developerlocations2 Locationsposted onPosted 8 Days Ago35430Senior Servicenow DeveloperlocationsIN - Chennaiposted onPosted 30+ Days Ago33257ServiceNow ArchitectlocationsGH Office: Chennai, India (Keppel)posted onPosted 30+ Days Ago33251PeopleSoft HR Developerlocations2 Locationsposted onPosted 13 Days Ago34954Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted Today32512Senior Data Scientist (Senior Consultant)locations6 Locationsposted onPosted 30+ Days Ago34036Salesforce Developerlocations2 Locationsposted onPosted Today35612Palantir Developer - Senior Consultantlocations4 Locationsposted onPosted 30+ Days Ago33859Salesforce Business AnalystlocationsUS - MA, Bostonposted onPosted Today35600Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 9 Days Ago35408Data and AI Project Manager (AI & Data - Public Sector)locations4 Locationsposted onPosted 30+ Days Ago34037Data Warehouse Architect – AI & Data Modernizationlocations4 Locationsposted onPosted 30+ Days Ago31739Senior Appian Developerlocations2 Locationsposted onPosted 9 Days Ago35409Senior Data ScientistlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32934.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Salesforce-Developer_35612?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-salesforce-developer-2-locations"
   },
   {
-    "employer_name": "Salesforce",
-    "job_title": "Agentforce Net Zero Solution Engineer",
-    "job_city": "New York - New York City Metro -",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Build deep expertise across Salesforce solutions and roadmap through close collaboration with product teams, and advocate for customer needs via Voice of the Customer feedback.\n• 5+ years of relevant experience in the IT industry, with background in pre-sales, implementation, or post-sales roles on the Salesforce platform.\n• Experience with one or more Salesforce product clouds, including Sales Cloud, Service Cloud, Platform, and/or Experience Cloud.\n• Hands-on Salesforce platform experience.\n• Strong problem-solving skills with the ability to collaborate across teams and industries.\n• Excellent verbal, written, presentation, and interpersonal communication skills in both remote and in-person settings.\n• Experience coordinating and leading the full solution lifecycle in partnership with cross-functional teams.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr326426/agentforce-net-zero-solution-engineer/",
-    "id": "salesforce-agentforce-net-zero-solution-engineer-new-york-new-york-city-metro"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "System Software Engineer, Tegra SoC Products",
-    "job_city": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Auction Infrastructure",
+    "job_city": "Mountain View",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Systems Software Engineer - DGX Cloudlocations2 Locationsposted onPosted 13 Days AgoJR2004459Senior System Software Engineer – Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2007508Senior System Software Engineer – Genomics HPClocations2 Locationsposted onPosted 13 Days AgoJR2007387Senior Software Engineer, AI Inference SystemslocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2007798Senior System Software Engineer, GPU VirtualizationlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2008384Senior Software Engineer, PyTorch - Deep Learninglocations4 Locationsposted onPosted 13 Days AgoJR2008549Full Stack Software Engineer, GPU ArchitecturelocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2009172Principal Software Engineer - Enterprise AI PlatformlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2009756System Software Engineer - AI and RoboticslocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2010166Senior Software Engineer - NIM Factory Infrastructurelocations4 Locationsposted onPosted 13 Days AgoJR2010744Senior System Software Engineer - Robotics SimulationlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2010821Senior System Software Engineer – Dynamo Toolslocations3 Locationsposted onPosted 10 Days AgoJR2010713Principal System Software Engineer - Cloud Networkinglocations2 Locationsposted onPosted 8 Days AgoJR2010904Senior Software Engineer, DGX Cloud Orchestrationlocations2 Locationsposted onPosted 6 Days AgoJR2007486Senior System Software Engineer - AV PlatformlocationsUS, CA, Santa Claraposted onPosted 7 Days AgoJR2010891Senior Software Engineer, DL Libraries Infrastructurelocations5 Locationsposted onPosted 2 Days AgoJR2011478System Software Engineer, Tegra SoC ProductslocationsUS, CA, Santa Claraposted onPosted TodayJR2011502Manager, Linux GPU System Software EngineeringlocationsUS, CA, Santa Claraposted onPosted TodayJR2011785Senior Cloud Software Engineer, Developer ToolslocationsUS, CA, Santa Claraposted onPosted TodayJR2011653Senior C++ Software Engineer - Chip Design Toolslocations4 Locationsposted onPosted 13 Days AgoJR2009389.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Tegra-SoC-Products_JR2011502-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-software-engineer-tegra-soc-products-us"
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Auction Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127537513794282182-software-engineer-iii-auction-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-auction-infrastructure-mountain-view"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "System Software Engineering Intern, Video - Summer",
-    "job_city": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, DCIM Cooling",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineer - Python Numerical Computing Librarieslocations2 Locationsposted onPosted 13 Days AgoJR2008231Senior Software Engineer - Compilers and Applied AIlocations5 Locationsposted onPosted 13 Days AgoJR2008588Director, Software Engineering - Industrial Automation and ManufacturinglocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2009713Senior Software Engineer, Deep Learning - Torch-TRTlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2009341Senior Software Engineer, Deep Learning - MLIR TRTlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2009329Senior Systems Software Engineer - Advanced Technology GrouplocationsUS, OR, Hillsboroposted onPosted YesterdayJR2009797Senior Manager, Software Engineering - Media and EntertainmentlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2010219Financial Analyst Intern, Software Engineering - Summer 2026locationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2010409Senior System Software Engineer, Performance - CUDA DriverlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2009423Senior Systems Software Engineer, Base OS - NPIlocationsUS, CA, Remoteposted onPosted 4 Days AgoJR2010491Senior System Software Engineer, 3D Computer Visionlocations4 Locationsposted onPosted 9 Days AgoJR2011181Senior System Software Engineer, NCCL - Partner Enablementlocations3 Locationsposted onPosted 8 Days AgoJR2011390Principal Software Engineer - Workflow DSL and OrchestrationlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2011183System Software Engineer – Security Tools and Infrastructurelocations2 Locationsposted onPosted 2 Days AgoJR2011587Senior Software Engineer, Developer Tools for Cloudlocations3 Locationsposted onPosted TodayJR2011154System Software Engineering Intern, Video - Summer 2026locationsUS, CA, Santa Claraposted onPosted TodayJR2006997Director, System Software Engineering - Metropolis Accelerated and Inferencing SoftwarelocationsUS, CA, Santa Claraposted onPosted 9 Days AgoJR2011299Senior Software Engineer, Distributed Systems Engineer - DGX Cloudlocations2 Locationsposted onPosted 6 Days AgoJR1999506Software Engineer, CAD Automation - New College Grad 2026locations2 Locationsposted onPosted 13 Days AgoJR2005867Principal Software Engineer, Data Infrastructure for Robotics Researchlocations2 Locationsposted onPosted 9 Days AgoJR2004938.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--Video---Summer-2026_JR2006997?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-software-engineering-intern-video-summer-us"
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, DCIM Cooling",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/121144974665228998-software-engineer-dcim-cooling?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-dcim-cooling-sunnyvale"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engineer II- Heavy Travel",
-    "job_city": "Mobile",
-    "job_state": "AL",
-    "job_posted_at": "1d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• Your skills will drive project success and business growth.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/127444/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engineer-ii-heavy-travel-mobile"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, GenAI, Workspace",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, GenAI, Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/118073791728231110-software-engineer-iii-aiml-genai-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-ai-ml-genai-workspace-kirkland"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML GenAI, Google Workspace",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML GenAI, Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75191508952588998-software-engineer-iii-aiml-genai-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-ai-ml-genai-google-workspace-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML GenAI, AI and Infrastructure",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML GenAI, AI and Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/135166106393289414-software-engineer-iii-aiml-genai-ai-and-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-ai-ml-genai-ai-and-infrastructure-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML Recommendations, Rankings, Predictions, Google Cloud AI",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML Recommendations, Rankings, Predictions, Google Cloud AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/110744299041104582-software-engineer-iii-aiml-recommendations-rankings-predictions-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-ai-ml-recommendations-rankings-predictions-google-cloud-ai-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML GenAI, Google Cloud",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML GenAI, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/116315596399747782-software-engineer-iii-aiml-genai-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-ai-ml-genai-google-cloud-sunnyvale"
   }
 ]
