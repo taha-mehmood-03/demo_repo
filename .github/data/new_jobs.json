@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Engineer, ASIC Digital Design",
-    "job_city": "Minneapolis",
-    "job_state": "Minnesota",
-    "job_posted_at": "1d",
-    "job_description": "• Strong written and verbal communication skills, including ability to write and review architectural specifications and RTL.\n• Experience with DRAM interfaces and memory-system RAS concepts (reliability, availability, serviceability).\n• Experience participating in chip bring-up and lab validation, including debug and root-cause isolation.\n• Experience with software programming and automation, including Linux shell scripting and Python.\n• Bachelor’s or Master’s degree in Electrical Engineering or a closely related field.\n• Less than 2 years Collaborate with full-custom analog design teams and integrate third-party IP and internal SystemVerilog blocks into cohesive digital solutions.\n• Demonstrated interest in applying AI tools to improve productivity, debug, or design quality within ASIC development flows.\n• Familiarity with industry-standard tools for synthesis, linting, equivalency checking, and formal verification.",
-    "job_apply_link": "https://careers.micron.com/careers/job/39738576",
-    "id": "micron-technology-engineer-asic-digital-design-minneapolis"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Full-Stack Software Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "6h",
-    "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science, Software Engineering, or related field and 3+ years of relevant industry experience (or equivalent practical experience)Experience building web applications using Python and a modern backend framework (FastAPI, Flask, or Django)Experience with React and modern JavaScript/TypeScript conceptsFamiliarity with REST APIs, databases (SQL or NoSQL), and data-driven applications.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200643395-3543/full-stack-software-engineer?team=MLAI",
-    "id": "apple-full-stack-software-engineer-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Full-Stack Software Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "6h",
-    "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science, Software Engineering, or related field and 3+ years of relevant industry experience (or equivalent practical experience)Experience building web applications using Python and a modern backend framework (FastAPI, Flask, or Django)Experience with React and modern JavaScript/TypeScript conceptsFamiliarity with REST APIs, databases (SQL or NoSQL), and data-driven applications.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200643395-3956/full-stack-software-engineer?team=MLAI",
-    "id": "apple-full-stack-software-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Infrastructure Applications",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsFrontend Development: Proficiency in React and related frontend technologies, including experience with Redux and React Router.\n• Database Management: Experience in Unix, Oracle, and NoSQL databases like MongoDB.\n• User Interface Design: Hands-on experience in crafting and developing user interfaces, prioritizing responsiveness, accessibility, and a user-friendly experience.\n• Containerization and CI/CD: Knowledge of containerization (Docker, Kubernetes) and CI/CD tools.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200642899-3956/software-engineer-infrastructure-applications?team=SFTWR",
-    "id": "apple-software-engineer-infrastructure-applications-sunnyvale"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Data AI/ML, YouTube Ads Relevance",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Data AI/ML, YouTube Ads Relevance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/76935439620940486-software-engineer-data-aiml-youtube-ads-relevance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
+    "id": "google-software-engineer-data-ai-ml-youtube-ads-relevance-mountain-view"
   }
 ]
