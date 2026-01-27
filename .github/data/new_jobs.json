@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Magna International",
+    "job_title": "Controls Engineer",
+    "job_city": "Lansing",
+    "job_state": "Michigan",
+    "job_posted_at": "1d",
+    "job_description": "• Software EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00221929Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592Software Engineer I - Thermal CameralocationsGoleta, California, USposted onPosted 30+ Days AgoR00193769Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted YesterdayR00205992Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00209295Senior UX ResearcherlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221039Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135Solution Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 11 Days AgoR00225605Senior Engineer, Embedded Software/CommunicationslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00220357Product EngineerlocationsNovi, Michigan, USposted onPosted 7 Days AgoR00209324Weld EngineerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00211009Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Controls EngineerlocationsLansing, Michigan, USposted onPosted TodayR00227908Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00218593Process EngineerlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00170906Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 11 Days AgoR00226639Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213782Manufacturing EngineerlocationsMesa, Arizona, USposted onPosted 12 Days AgoR00225888.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lansing-Michigan-US/Controls-Engineer_R00227908?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-controls-engineer-lansing"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Google Cloud SDK",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Software Engineer, Infrastructure, Platforms and Devices",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Google Cloud SDK",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96977750694208198-software-engineer-google-cloud-sdk?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-google-cloud-sdk-new-york"
+    "job_description": "software engineering job for the role Software Engineer, Infrastructure, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/110900866436735686-software-engineer-infrastructure-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-infrastructure-platforms-and-devices-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google TV Experience and Monetization",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google TV Experience and Monetization",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77120570696573638-software-engineer-iii-google-tv-experience-and-monetization?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-iii-google-tv-experience-and-monetization-san-jose"
   }
 ]
