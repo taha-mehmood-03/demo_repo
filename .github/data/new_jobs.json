@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "DevOps/Backend Software Engineer",
-    "job_city": "San Diego",
+    "employer_name": "Analog Devices",
+    "job_title": "Instrumentation Systems Design Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoR255047Digital IC Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254362Senior Analog Design Verification Engineer locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257462Engineer, Analog Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258368Senior Digital Design Engineerlocations6 Locationsposted onPosted 30+ Days AgoR258729Digital Design Engineer - AutomotivelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR258787Senior Mixed-Signal/Analog Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR258797Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254468Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258209Staff Analog & Mixed-Signal Design Engineerlocations3 Locationsposted onPosted 30+ Days AgoR258820Senior Analog IC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR258792Ultrasound Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257663Robotics Applications Engineer – Humanoids FocuslocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR256192Instrumentation Systems Design EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR260536Engineer, Design Verification EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR253644Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257756RF/Microwave Product Engineer - SpacelocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR255292Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258498Principal Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258497Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258532.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Instrumentation-Systems-Design-Engineer_R260536?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-instrumentation-systems-design-engineer-us"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Systems Engineer - ISSE",
+    "job_city": "USA VA Herndon",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Systems-Engineer---ISSE_RQ212744-2?q=software+engineering",
+    "id": "general-dynamics-systems-engineer-isse-usa-va-herndon"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Endpoint Security Engineer",
+    "job_city": "DEU Wiesbaden - Wiesbaden Army Airfield (APC180)",
+    "job_state": "US",
+    "job_posted_at": "5d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Endpoint-Security-Engineer_RQ213441-1?q=software+engineering",
+    "id": "general-dynamics-endpoint-security-engineer-deu-wiesbaden-wiesbaden-army-airfield-apc180"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "ServiceNow Junior Developer",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Minimum Qualifications3+ years experience in SRE/DevOps, systems engineering, build/release/deployment, and/or automationProficient in implementing applications in private/public cloud infrastructure and container technologies, including but not limited to: Kubernetes, Docker, database platforms, and event/data pipelinesExperience designing, building and managing CI/CD pipelinesExperience with networking load balancers such as HAProxy, NGINX, etc.\n• Excellent written and verbal communication skills to both technical and non-technical audiencesBachelor’s Degree in Computer Science, Computer Engineering, related field, or equivalent work experience.\n• Demonstrated ability to write applications in a high-level programming language like Python, Ruby, Java, etc.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200643717-3543/devops-backend-software-engineer?team=HRDWR",
-    "id": "apple-devops-backend-software-engineer-san-diego"
+    "job_description": "• Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33432Project Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33495Systems AdministratorlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33584AI/ML Ops EngineerlocationsUS - VA, Arlingtonposted onPosted 30+ Days Ago34186Enclave Program ManagerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33433Program Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33494Linkage Project ManagerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33461Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 30+ Days Ago31229Lead Data Engineer, Health Data PlatformslocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34367Senior ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 2 Days Ago35743Power Platform DeveloperlocationsUS - IN, Indianapolisposted onPosted 5 Days Ago34398Microsoft Dynamics Developerlocations28 Locationsposted onPosted 30+ Days Ago34507Microsoft Dynamics 365 Developerlocations28 Locationsposted onPosted 14 Days Ago35441ServiceNow Junior Developerlocations2 Locationsposted onPosted Today34944Technical Celonis Developerlocations2 Locationsposted onPosted 12 Days Ago35539Salesforce Business AnalystlocationsUS - TX, San Antonioposted onPosted 6 Days Ago35613ServiceNow Help Desk SupportlocationsUS - Remote (Any location)posted onPosted Today35821Senior Power Platform Developerlocations2 Locationsposted onPosted 5 Days Ago34493Senior Power Apps DeveloperlocationsUS - GA, Atlantaposted onPosted 16 Days Ago35277Senior Power Apps Developerlocations2 Locationsposted onPosted 14 Days Ago35430.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/ServiceNow-Junior-Developer_34944?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-servicenow-junior-developer-2-locations"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "ServiceNow Help Desk Support",
+    "job_city": "US - (Any location)",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33432Project Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33495Systems AdministratorlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33584AI/ML Ops EngineerlocationsUS - VA, Arlingtonposted onPosted 30+ Days Ago34186Enclave Program ManagerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33433Program Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33494Linkage Project ManagerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33461Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 30+ Days Ago31229Lead Data Engineer, Health Data PlatformslocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34367Senior ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 2 Days Ago35743Power Platform DeveloperlocationsUS - IN, Indianapolisposted onPosted 5 Days Ago34398Microsoft Dynamics Developerlocations28 Locationsposted onPosted 30+ Days Ago34507Microsoft Dynamics 365 Developerlocations28 Locationsposted onPosted 14 Days Ago35441ServiceNow Junior Developerlocations2 Locationsposted onPosted Today34944Technical Celonis Developerlocations2 Locationsposted onPosted 12 Days Ago35539Salesforce Business AnalystlocationsUS - TX, San Antonioposted onPosted 6 Days Ago35613ServiceNow Help Desk SupportlocationsUS - Remote (Any location)posted onPosted Today35821Senior Power Platform Developerlocations2 Locationsposted onPosted 5 Days Ago34493Senior Power Apps DeveloperlocationsUS - GA, Atlantaposted onPosted 16 Days Ago35277Senior Power Apps Developerlocations2 Locationsposted onPosted 14 Days Ago35430.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/ServiceNow-Help-Desk-Support_35821-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-servicenow-help-desk-support-us-any-location"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Application Sales Engineer",
+    "job_city": "Duluth",
+    "job_state": "GA",
+    "job_posted_at": "2d",
+    "job_description": "• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Sr Project Engineer - Avionics Locations Phoenix, AZ, United States (On-site) Posting Date01/27/2026 Be the First to Apply Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Your skills will drive project success and business growth.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134583/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-application-sales-engineer-duluth"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Display, Pixel Software",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Display, Pixel Software",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97464645366751942-software-engineer-display-pixel-software?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-display-pixel-software-mountain-view"
   }
 ]
