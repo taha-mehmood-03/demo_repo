@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "AR/VR Software Development Engineer, Vision Products Software",
-    "job_city": "Los Angeles",
-    "job_state": "US",
-    "job_posted_at": "6h",
-    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science, Computer Engineering, or equivalent practical experience.\n• 5+ years of professional experience working on 2D and/or 3D real-time rendering applications.\n• Experience with modern graphics APIs (Metal, Vulkan, Direct3D 12, WebGPU) and shading languages (MSL, HLSL, GLSL, WGSL).\n• Experience with all stages of software development, from prototyping to performance optimization.\n• Strong problem-solving skills and ability to debug complex rendering issues.\n• Outstanding teamwork and communication skills.\n• High proficiency in writing safe, performant C++ code.\n• Knowledge of the graphics pipeline, modern rendering techniques, and image processing.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200644217-2605/ar-vr-software-development-engineer-vision-products-software?team=SFTWR",
-    "id": "apple-ar-vr-software-development-engineer-vision-products-software-los-angeles"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "AR/VR Software Development Engineer, Vision Products Software",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Cloud Business Platforms",
     "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "6h",
-    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science, Computer Engineering, or equivalent practical experience.\n• 5+ years of professional experience working on 2D and/or 3D real-time rendering applications.\n• Experience with modern graphics APIs (Metal, Vulkan, Direct3D 12, WebGPU) and shading languages (MSL, HLSL, GLSL, WGSL).\n• Experience with all stages of software development, from prototyping to performance optimization.\n• Strong problem-solving skills and ability to debug complex rendering issues.\n• Outstanding teamwork and communication skills.\n• High proficiency in writing safe, performant C++ code.\n• Knowledge of the graphics pipeline, modern rendering techniques, and image processing.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200644217-3956/ar-vr-software-development-engineer-vision-products-software?team=SFTWR",
-    "id": "apple-ar-vr-software-development-engineer-vision-products-software-sunnyvale"
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Business Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/92650208487187142-software-engineer-iii-google-cloud-business-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-google-cloud-business-platforms-sunnyvale"
   }
 ]
