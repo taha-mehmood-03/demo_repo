@@ -1,62 +1,32 @@
 [
   {
-    "employer_name": "Dell",
-    "job_title": "Data Security Software Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "NVIDIA",
+    "job_title": "Deep Learning Software Engineer, FlashInfer - New College Grad",
+    "job_city": "US",
+    "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• R285271Senior Software Engineerremote typeOnsitelocations2 Locationsposted onPosted 8 Days AgoR282874Senior Software Engineerremote typeOnsitelocations2 Locationsposted onPosted 8 Days AgoR282870Data Security Software Engineerremote typeOnsitelocations2 Locationsposted onPosted TodayR284984Software Engineer Graduate Co-Opremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted YesterdayR273035Principal Data Security Software Engineerremote typeOnsitelocations2 Locationsposted onPosted TodayR284983Software Senior Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 22 Days AgoR283743Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted YesterdayR282954Senior Principal Software Engineer - Linux OS Engineeringremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 13 Days AgoR284693Software Senior Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted YesterdayR282950Senior Software Engineer - SDET – Data Mobilityremote typeOnsitelocations2 Locationsposted onPosted 6 Days AgoR282940Dell AI Software Engineering Co-Opremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted YesterdayR273040Software Principal Engineer - Control PathlocationsHopkinton, Massachusetts, United Statesposted onPosted 30 Days AgoR283939Software Principal Engineer - Data PathlocationsHopkinton, Massachusetts, United Statesposted onPosted 5 Days AgoR284177Software Senior Principal Engineer- Distributed Systemsremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted TodayR282875Energy Compliance Test Engineerremote typeOnsitelocationsFranklin, Massachusetts, United Statesposted onPosted 30+ Days AgoR281284Hardware Engineerlocations2 Locationsposted onPosted 15 Days AgoR284675Senior Systems Development Engineer, Drive Engineering, ISGremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 7 Days AgoR279571Principal Systems Development Engineerremote typeOnsitelocations2 Locationsposted onPosted 23 Days AgoR280241Serviceability Development Principal Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 19 Days AgoR280176.",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Data-Security-Software-Engineer_R284984?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-data-security-software-engineer-2-locations"
+    "job_description": "• Senior System Software Engineer - Autonomous Vehicles AI ApplicationslocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR2009335Senior Deep Learning Software Engineer, PyTorch - TensorRT Performancelocations2 Locationsposted onPosted 19 Days AgoJR2009866Senior Embedded System Software Engineer - Hypervisor and RTOSlocations5 Locationsposted onPosted 6 Days AgoJR2011612Software Engineering Manager - Image and Data Compression LibrarieslocationsUS, CA, Remoteposted onPosted 19 Days AgoJR1990877Senior Manager, Software Engineering - Libraries Devops and Infrastructurelocations2 Locationsposted onPosted 8 Days AgoJR2011495Senior System Software Engineer - AI Performance and Efficiency ToolslocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR1996041Senior Deep Learning Software Engineer, Inference and Model Optimizationlocations2 Locationsposted onPosted 7 Days AgoJR1997596Deep Learning Software Engineer, FlashInfer - New College Grad 2025locationsUS, CA, Santa Claraposted onPosted TodayJR2002086Senior Software Engineer, Deep Learning Inference - New HW Enablementlocations2 Locationsposted onPosted 19 Days AgoJR2002173Senior Deep Learning Software Engineer, Inference and Model Optimizationlocations2 Locationsposted onPosted YesterdayJR2006284Senior Software Engineer - Computer Vision and VLM Deep LearninglocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR2005570Senior System Software Engineer, Networking Linux Kernel - DGX Cloudlocations2 Locationsposted onPosted 4 Days AgoJR2007993Software Engineer, DL Libraries Infrastructure - New College Grad 2026locations4 Locationsposted onPosted 5 Days AgoJR2011998Senior Manager, Software Engineering - AI Gaming and Neural GraphicslocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR2003821Software Application Engineer – SoC PlatformlocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR2009284Senior System Software Bringup Engineerlocations2 Locationsposted onPosted YesterdayJR2006503Senior DGX Cloud Software Engineer - Infrastructure Automation and Distributed Systemslocations6 Locationsposted onPosted 4 Days AgoJR2001014Senior Systems Software Engineer, AV Infrastructure - Validation, Tooling, and Coveragelocations2 Locationsposted onPosted YesterdayJR2003769Senior Software Engineer, Real-Time AI and Rendering - Holoscan SDKlocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR2008677Principal Software Engineer – Large-Scale LLM Memory and Storage Systemslocations3 Locationsposted onPosted 19 Days AgoJR2010271.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-deep-learning-software-engineer-flashinfer-new-college-grad-us"
   },
   {
-    "employer_name": "Broadcom",
-    "job_title": "R&D Systems Applications Engineer (SAE)",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "AMD",
+    "job_title": "Systems Design Engineer, FPGA",
+    "job_city": "US",
+    "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Brocade SAN Migration ConsultantlocationsUSA-Colorado-Colorado Springs-4420 Arrowswest Drivetime typeFull timeposted onPosted YesterdayR024970 Senior Software Engineer for Tanzu GreenplumlocationsBGR-Sofia-Garitage Park - Bldg 2time typeFull timeposted onPosted 6 Days AgoR024885 Sr Support Manager - Automationlocations2 Locationstime typeFull timeposted onPosted 7 Days AgoR024843.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/R-D-Systems-Applications-Engineer--SAE-_R024997-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-r-d-systems-applications-engineer-sae-2-locations"
+    "job_description": "• Experience using FPGA synthesis and implementation tools with a good understanding of output products at each stage.\n• Knowledge of high-speed interfaces including QSFP, PCIe, USB, SATA, GB Ethernet, DDR4/5, LPDDR4/5, HBM Experience developing systems or IPs for FPGAs, including simulating, and validating the designs.\n• AMD Partner Hub Authorized Distributors AMD University Program Experience with scripting languages including Perl, Python, Unix shells and Makefiles Experience using Xilinx Ultrascale or Versal FPGAs, Vivado, and Vivado Debug Bachelor's or master's degree in electrical or computer engineering Knowledge of devices including SPI, I2C, SD, eMMC, QSPI, OSPI Broad software development/debug experience with C/C++ Working knowledge of Linux environments.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/77061/login",
+    "id": "amd-systems-design-engineer-fpga-us"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Weld Technician",
-    "job_city": "New Hudson",
-    "job_state": "Michigan",
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Ring Connectivity Team",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Clerk, AccountinglocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00208801Quality Technician/Weld DestructlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00213936Quality Inspect/Weld DestructlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00214126Maintenance PlannerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00214943Assistant Materials ManagerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00219072Materials ManagerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00206366Senior Financial AnalystlocationsBirmingham, Alabama, USposted onPosted 8 Days AgoR00225675Quality TechnicianlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00203409Paint and Waste Treatment Technician - A1 or A2 Shift PatternlocationsLiberty, Missouri, USposted onPosted 2 Days AgoR00227641Controls TechnicianlocationsSterling Heights, Michigan, USposted onPosted 16 Days AgoR00200519Production Area LeadlocationsNew Hudson, Michigan, USposted onPosted 5 Days AgoR00219521Indirect Strategic Category Lead - Capital/ EquipmentlocationsTroy, Michigan, USposted onPosted 9 Days AgoR00201722Production Associate / 2nd or 3rd Shiftlocations54725 GRAND RIVER AVENUE,48165,NEW HUDSON,USposted onPosted 21 Days AgoR00224746Production Supervisor- Monte 2nd ShiftlocationsMontezuma, Iowa, USposted onPosted 16 Days AgoR00225702Receiving ClerklocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00218964Weld TechnicianlocationsNew Hudson, Michigan, USposted onPosted TodayR00219523Weld Tech - 3rd ShiftlocationsNew Hudson, Michigan, USposted onPosted 26 Days AgoR00199326IoT DeveloperlocationsLiberty, Missouri, USposted onPosted 6 Days AgoR00227459.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/New-Hudson-Michigan-US/Weld-Technician_R00219523?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-weld-technician-new-hudson"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Edge Services",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "23h",
-    "job_description": "• Minimum QualificationsSystems Expertise: Strong understanding of Linux internals and deep networking expertise, including HTTP/2, HTTP/3 (QUIC), and HTTPS/TLS.\n• Automation Mindset: Proven ability to automate repetitive tasks and complex workflows using Python or GoObservability Logic: Experience configuring and managing modern monitoring suites (e.\n• You should be comfortable debugging protocol-level issues and optimizing traffic flow.\n• , Prometheus, Grafana, ClickHouse) with a focus on creating actionable, high-signal quality alerting.\n• CS Fundamentals: Solid grasp of Data Structures and Algorithms (DSA) to write efficient, performant code and troubleshoot complex system bottlenecks.\n• SRE Principles: Practical knowledge of SLIs, SLOs, Error Budgets, Release Management and Incident Management to drive engineering priorities.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200642545-0157/software-engineer-edge-services?team=SFTWR",
-    "id": "apple-software-engineer-edge-services-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "ISP Embedded Software Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "23h",
-    "job_description": "• Minimum QualificationsBS/MS in Computer Science, Electrical Engineering or related fieldsProficiency in C/C+Proficiency in development of multi-threaded software in embedded environments5+ years relevant working experience in the industry.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200643181-0836/isp-embedded-software-engineer?team=HRDWR",
-    "id": "apple-isp-embedded-software-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Bluetooth Embedded Software Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "23h",
-    "job_description": "• Minimum QualificationsYou have 3+ years of embedded software development experienceYou have strong coding skills in CYou're experienced in the design & development of embedded software for real-time operation, especially on ARM processorsYou have a thorough understanding of BluetoothYou have a Bachelor's degree in computer science, computer engineering, electrical engineering, or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200643918-0836/bluetooth-embedded-software-engineer?team=SFTWR",
-    "id": "apple-bluetooth-embedded-software-engineer-cupertino"
+    "job_description": "software engineering job for the role Software Development Engineer, Ring  Connectivity Team",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3168884/software-development-engineer-ring-connectivity-team",
+    "id": "amazon-software-development-engineer-ring-connectivity-team-sunnyvale"
   }
 ]
