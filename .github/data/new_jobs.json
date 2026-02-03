@@ -1,42 +1,82 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "System/Software Integration Engineer",
-    "job_city": "USA AL Huntsville",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer II - Product Backend",
+    "job_city": "North Carolina - Raleigh",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Salesforce Platform Experience: Hands-on experience with Salesforce development (Apex, Lightning Web Components, Salesforce APIs) or deep familiarity with the Salesforce ecosystem.\n• Slack Platform Knowledge: Experience building Slack apps, working with Slack APIs, or understanding Slack's real-time messaging architecture.\n• GenAI Integration: Hands-on experience working with generative AI APIs (OpenAI, Anthropic, etc.\n• Real-Time Systems: Experience building real-time messaging, notification, or event-driven systems.\n• Integration Experience: A background working with complex product integrations or connecting disparate systems.\n• Microservices Architecture: Experience designing and operating microservices architectures using containerization (Docker, Kubernetes).\n• Observability: Strong background in monitoring, logging, and alerting (e.\n• JavaScript & Frontend: Solid experience with TypeScript, JavaScript and modern frontend frameworks, particularly Lightning Web Components (LWC) or similar component-based architectures (React, Vue, etc.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr327593/software-engineer-ii-product-backend/",
+    "id": "salesforce-software-engineer-ii-product-backend-north-carolina-raleigh"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "ETL Software Engineer",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224543.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/ETL-Software-Engineer_R0233280?q=software+engineering",
+    "id": "bae-systems-etl-software-engineer-mclean"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "Software Engineer",
+    "job_city": "USA-CA San Jose Innovation Drive",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AL-Huntsville/System-Software-Integration-Engineer_RQ214038-1?q=software+engineering",
-    "id": "general-dynamics-system-software-integration-engineer-usa-al-huntsville"
+    "job_description": "• Brocade SAN Migration ConsultantlocationsUSA-Colorado-Colorado Springs-4420 Arrowswest Drivetime typeFull timeposted onPosted 7 Days AgoR024970 Systems Validation Managerlocations4 Locationstime typeFull timeposted onPosted 5 Days AgoR024995 Senior EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted 5 Days AgoR024979.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Software-Engineer_R025018?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-software-engineer-usa-ca-san-jose-innovation-drive"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Data Engineer, Smart Factory Solutions",
-    "job_city": "Troy",
-    "job_state": "Michigan",
+    "employer_name": "Intel",
+    "job_title": "Silicon Photonics Test Engineer",
+    "job_city": "US",
+    "job_state": "California",
     "job_posted_at": "1d",
-    "job_description": "• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 30+ Days AgoR00218574Solutions Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00222662Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted TodayR00229142Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 18 Days AgoR00225603Magna Engineered Glass: Material HandlerlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00188244Magna Engineered Glass: 2nd Shift Maintenance / Controls TechlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00221810Robotics Implementation Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 18 Days AgoR00225578Validation Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 18 Days AgoR00225610CNC Programmer SupervisorlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00209942AI Robotics Intern- Summer 2026locationsNovi, Michigan, USposted onPosted 18 Days AgoR00225597Robotic Control Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 18 Days AgoR00225580Metallurgical Lab Technician - 2nd ShiftlocationsSterling Heights, Michigan, USposted onPosted 25 Days AgoR00221812IT Industry 4.\n• 0 Lead DeveloperlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222196Group Product Manager - Unified FactorylocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213371Manager - Program Qualitylocations2 Locationsposted onPosted 30+ Days AgoR00217039Customer Success Managerlocations2 Locationsposted onPosted 19 Days AgoR00226286Account Manager, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00106519Quality Auditor 1st ShiftlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00194112IT Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 18 Days AgoR00225626Drivetrain & Diagnostic TechnicianlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00223736.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Data-Engineer--Smart-Factory-Solutions_R00229142?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-data-engineer-smart-factory-solutions-troy"
+    "job_description": "• Network Monitoring Security Engineerlocations3 Locationsposted onPosted 27 Days AgoJR0278569Network Security Engineer- Automation Developerlocations3 Locationsposted onPosted 27 Days AgoJR0278568SOC Design Engineerlocations7 Locationsposted onPosted 14 Days AgoJR0279208Senior DFT Engineerlocations4 Locationsposted onPosted 8 Days AgoJR0280294Silicon Photonics Test EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0279796Senior Silicon Design Engineerlocations3 Locationsposted onPosted YesterdayJR0277772GPU Logic Design Engineerlocations4 Locationsposted onPosted 27 Days AgoJR0275905Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 6 Days AgoJR0280051Power and Perf Design Engineerlocations4 Locationsposted onPosted TodayJR0280499Power and Performance Design Engineerlocations4 Locationsposted onPosted TodayJR0280504High-Speed Interconnect Senior Validation Engineerlocations2 Locationsposted onPosted 27 Days AgoJR0278920CPU Core Timing and Automation EngineerlocationsUS, California, Folsomposted onPosted YesterdayJR0280490Factory Planning Business Leadlocations4 Locationsposted onPosted 5 Days AgoJR0279315Senior System Architectlocations4 Locationsposted onPosted 27 Days AgoJR0277991Supply Chain Project Manager Intern (Undergraduate)locations2 Locationsposted onPosted 12 Days AgoJR0279977Sales Marketing Commodity ManagerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0279979Senior Performance Architectlocations3 Locationsposted onPosted 20 Days AgoJR0277713Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 25 Days AgoJR0279474Human Resources Management Systems Analystlocations3 Locationsposted onPosted 12 Days AgoJR0280088Senior SOC Performance Architectlocations3 Locationsposted onPosted 25 Days AgoJR0277396.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Silicon-Photonics-Test-Engineer_JR0279796?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-silicon-photonics-test-engineer-us"
   },
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Product Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "Intel",
+    "job_title": "Power and Perf Design Engineer",
+    "job_city": "4 Locations",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2502955Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Engineering Program Management Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502748Senior Staff Hardware Design Engineer – Board DesignlocationsIrvine, CAposted onPosted Today2600178Product EngineerlocationsSanta Clara, CAposted onPosted Today2501976Principal Design Verification EngineerlocationsUS-CA - Santa Claraposted onPosted Today2600144Distinguished Engineer – Enterprise Switching & High-Speed ConnectivitylocationsSanta Clara, CAposted onPosted Today2503538Analog Modeling/Verification Senior Staff Engineerlocations2 Locationsposted onPosted Today2503802Principal Analog Mixed-Signal IC Design EngineerlocationsSanta Clara, CAposted onPosted Today2503768Principal AI Systems Engineer – Analog DesignlocationsIrvine, CAposted onPosted Today2600158Sr Staff Engineer, Analog IC DesignlocationsIrvine, CAposted onPosted Today2600155Staff Analog Mixed-Signal IC Design EngineerlocationsIrvine, CAposted onPosted Today2600122Test Hardware EngineerlocationsSanta Clara, CAposted onPosted Today2600315Principal Applications EngineerlocationsSanta Clara, CAposted onPosted Yesterday2600262Director of Hardware Engineering – High-Speed Board Design & Signal IntegritylocationsSanta Clara, CAposted onPosted Yesterday2600126Product Manager/Product Line Manager - Custom Silicon Solutions / ASIC / System Management and SecuritylocationsSanta Clara, CAposted onPosted Yesterday2503353Principal Package EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503912Firmware Engineer Intern - BACHELOR'S Degreelocations2 Locationsposted onPosted 4 Days Ago2503452Test Engineerlocations3 Locationsposted onPosted 4 Days Ago2600312Staff Analog Mixed-Signal Design - Opticallocations2 Locationsposted onPosted 4 Days Ago2600099.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Product-Engineer_2501976-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-product-engineer-santa-clara"
+    "job_description": "• Network Monitoring Security Engineerlocations3 Locationsposted onPosted 27 Days AgoJR0278569Network Security Engineer- Automation Developerlocations3 Locationsposted onPosted 27 Days AgoJR0278568SOC Design Engineerlocations7 Locationsposted onPosted 14 Days AgoJR0279208Senior DFT Engineerlocations4 Locationsposted onPosted 8 Days AgoJR0280294Silicon Photonics Test EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0279796Senior Silicon Design Engineerlocations3 Locationsposted onPosted YesterdayJR0277772GPU Logic Design Engineerlocations4 Locationsposted onPosted 27 Days AgoJR0275905Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 6 Days AgoJR0280051Power and Perf Design Engineerlocations4 Locationsposted onPosted TodayJR0280499Power and Performance Design Engineerlocations4 Locationsposted onPosted TodayJR0280504High-Speed Interconnect Senior Validation Engineerlocations2 Locationsposted onPosted 27 Days AgoJR0278920CPU Core Timing and Automation EngineerlocationsUS, California, Folsomposted onPosted YesterdayJR0280490Factory Planning Business Leadlocations4 Locationsposted onPosted 5 Days AgoJR0279315Senior System Architectlocations4 Locationsposted onPosted 27 Days AgoJR0277991Supply Chain Project Manager Intern (Undergraduate)locations2 Locationsposted onPosted 12 Days AgoJR0279977Sales Marketing Commodity ManagerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0279979Senior Performance Architectlocations3 Locationsposted onPosted 20 Days AgoJR0277713Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 25 Days AgoJR0279474Human Resources Management Systems Analystlocations3 Locationsposted onPosted 12 Days AgoJR0280088Senior SOC Performance Architectlocations3 Locationsposted onPosted 25 Days AgoJR0277396.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Power-and-Perf-Design-Engineer_JR0280499?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-power-and-perf-design-engineer-4-locations"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Power and Performance Design Engineer",
+    "job_city": "4 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Network Monitoring Security Engineerlocations3 Locationsposted onPosted 27 Days AgoJR0278569Network Security Engineer- Automation Developerlocations3 Locationsposted onPosted 27 Days AgoJR0278568SOC Design Engineerlocations7 Locationsposted onPosted 14 Days AgoJR0279208Senior DFT Engineerlocations4 Locationsposted onPosted 8 Days AgoJR0280294Silicon Photonics Test EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0279796Senior Silicon Design Engineerlocations3 Locationsposted onPosted YesterdayJR0277772GPU Logic Design Engineerlocations4 Locationsposted onPosted 27 Days AgoJR0275905Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 6 Days AgoJR0280051Power and Perf Design Engineerlocations4 Locationsposted onPosted TodayJR0280499Power and Performance Design Engineerlocations4 Locationsposted onPosted TodayJR0280504High-Speed Interconnect Senior Validation Engineerlocations2 Locationsposted onPosted 27 Days AgoJR0278920CPU Core Timing and Automation EngineerlocationsUS, California, Folsomposted onPosted YesterdayJR0280490Factory Planning Business Leadlocations4 Locationsposted onPosted 5 Days AgoJR0279315Senior System Architectlocations4 Locationsposted onPosted 27 Days AgoJR0277991Supply Chain Project Manager Intern (Undergraduate)locations2 Locationsposted onPosted 12 Days AgoJR0279977Sales Marketing Commodity ManagerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0279979Senior Performance Architectlocations3 Locationsposted onPosted 20 Days AgoJR0277713Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 25 Days AgoJR0279474Human Resources Management Systems Analystlocations3 Locationsposted onPosted 12 Days AgoJR0280088Senior SOC Performance Architectlocations3 Locationsposted onPosted 25 Days AgoJR0277396.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Power-and-Performance-Design-Engineer_JR0280504?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-power-and-performance-design-engineer-4-locations"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Gen AI Software Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "22h",
+    "job_description": "• Minimum QualificationsPython programming experienceExperience building generative AI applications using LLMs and vector databasesKnowledge of current Gen AI research and techniques in one or more of the following areas: RAG systems, Agentic AI (multi-agent orchestration, tool calling), or Prompt EngineeringMinimum requirement of BS and 3 years of relevant industry experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200644848-3956/gen-ai-software-engineer?team=HRDWR",
+    "id": "apple-gen-ai-software-engineer-sunnyvale"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, STRADA",
-    "job_city": "Minneapolis",
-    "job_state": "MN",
-    "job_posted_at": "20h",
-    "job_description": "software engineering job for the role Software Development Engineer, STRADA",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3173095/software-development-engineer-strada",
-    "id": "amazon-software-development-engineer-strada-minneapolis"
+    "job_title": "Embedded Software Engineer, Annapurna ML Software",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Embedded Software Engineer, Annapurna ML Software",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3171738/embedded-software-engineer-annapurna-ml-software",
+    "id": "amazon-embedded-software-engineer-annapurna-ml-software-cupertino"
   }
 ]
