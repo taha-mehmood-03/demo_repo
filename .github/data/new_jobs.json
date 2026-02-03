@@ -1,72 +1,42 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Infrastructure Lab Technician Apprentice",
-    "job_city": "shipPOUGHKEEPSIE",
-    "job_state": "US",
+    "job_title": "Storage ISV Partner Engineer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Infrastructure Lab Technician Apprentice",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=88938&source=WEB_Search_NA",
-    "id": "ibm-infrastructure-lab-technician-apprentice-shippoughkeepsie"
+    "job_description": "software engineering job for the role Storage ISV Partner Engineer",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90207&source=WEB_Search_NA",
+    "id": "ibm-storage-isv-partner-engineer-"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Associate Engineer, Physical Design Engineering",
+    "employer_name": "Salesforce",
+    "job_title": "Agentforce & Data 360 Solutions Engineer - Thailand",
+    "job_city": "Thailand - Bangkok",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Understand, assess, and define technical customer requirements, focusing on AI, data management, and operational data utilisation.\n• Relevant background and deep technical expertise in AI, Machine Learning, and/or Advanced Data Solutions (e.\n• Fluent in English and local language (Thai)Experience in pre-sales, e.\n• Multi-year experience in software, system, or enterprise architecture disciplines.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Direct experience with Salesforce Data Cloud, Agentforce, Marketing Cloud, or Service Cloud (Agentforce) solutions.\n• Experience with Large Language Models (LLMs) and Generative AI architectures.\n• Knowledge of relevant data privacy and compliance requirements is a plus.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr327814/agentforce-data-360-solutions-engineer-thailand/",
+    "id": "salesforce-agentforce-data-360-solutions-engineer-thailand-thailand-bangkok"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - Secure Cryptographic Services",
+    "job_city": "5 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• System Software Engineer, Tegra SoC ProductslocationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2011502Manager, Linux GPU System Software EngineeringlocationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2011785Senior Cloud Software Engineer, Developer ToolslocationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2011653Senior System Software Engineer - GPU PowerlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2012313Senior Software Engineer, Metropolis Vision AIlocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2011877Senior System Software Engineer - Embedded ControllerlocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2012302System Software Engineer - Data Center DiagnosticslocationsUS, NC, Durhamposted onPosted 4 Days AgoJR2012279System Software Engineer, Neural Graphics SDKslocations2 Locationsposted onPosted 4 Days AgoJR2012087Senior Systems Software Engineer - GPU DiagnosticslocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2012287System Software Engineer - GPU and SOClocations3 Locationsposted onPosted 4 Days AgoJR2012357System Software Engineer - Secure Cryptographic Serviceslocations5 Locationsposted onPosted TodayJR2012582Senior Applications Software Engineer - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted TodayJR2012601Senior Software Engineer – NVIDIA Financial Systems Engineeringlocations4 Locationsposted onPosted 4 Days AgoJR2009509Senior C++ Software Engineer - Chip Design Toolslocations4 Locationsposted onPosted 24 Days AgoJR2009389Senior Systems Software Engineer - Rust, Go, C++locations2 Locationsposted onPosted 6 Days AgoJR2011410Principal Platform Software Engineer - OpenBMC Platform Architectlocations2 Locationsposted onPosted 5 Days AgoJR1968239Senior Software Engineer, GPU Communications and NetworkinglocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR1997186Senior Deep Learning Software Engineer, LLM Performancelocations2 Locationsposted onPosted 24 Days AgoJR1997464Senior Software Engineer - CUDA and Unified Memorylocations2 Locationsposted onPosted 24 Days AgoJR1999732Senior Datacenter System Software Engineer - DGX Cloudlocations2 Locationsposted onPosted 8 Days AgoJR2002330.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Secure-Cryptographic-Services_JR2012582-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-secure-cryptographic-services-5-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Diagnostics Software Infrastructure Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Product Engineering (Prod Dev)locations5 Locationsposted onPosted 30+ Days AgoR255207Principal Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257277LTspice Modeling Engineerlocations2 Locationsposted onPosted 20 Days AgoR258375Senior Analog/Mixed Signal Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR258476Mixed Signal EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR255204Director, Test Development OperationslocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR258885Principal Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258531Principal Engineer, Ethernet Systems Design/Architecturelocations3 Locationsposted onPosted 4 Days AgoR260160Principal Mixed Signal Design EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251701Test Engineerlocations4 Locationsposted onPosted 30+ Days AgoR255212Manufacturing EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR255202Staff Mixed Signal Design Engineer - Automotivelocations2 Locationsposted onPosted 30+ Days AgoR257144Associate Engineer, Physical Design EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR260395Product Application Engineeringlocations4 Locationsposted onPosted 30+ Days AgoR255206Test Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR255000Principal Systems Application EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR256172Facilities EngineeringlocationsUS, WA, Camasposted onPosted 30+ Days AgoR257722Staff Engineer, Field ApplicationslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258196Field Sales Engineerlocations7 Locationsposted onPosted 30+ Days AgoR257218Principal Sensor Engineer (Tactile Sensing)locationsUS, MA, Bostonposted onPosted 3 Days AgoR257968.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer---Physical-Design-Engineering_R260395?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-associate-engineer-physical-design-engineering-us"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Mid-Level C++ Developer",
-    "job_city": "USA MD Hanover",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/Mid-Level-C---Developer_RQ214026?q=software+engineering",
-    "id": "general-dynamics-mid-level-c-developer-usa-md-hanover"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "RPA Back End Developer",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• MHS GENESIS Application Support Analystlocations3 Locationsposted onPosted 3 Days Ago35826AI Development Leadlocations7 Locationsposted onPosted 7 Days Ago34009RPA Back End Developerlocations3 Locationsposted onPosted Today35824Journeyman Appian Developerlocations2 Locationsposted onPosted 7 Days Ago35780Consultant - Financial Management (FM) Transformation - Defense & Security - Campus 2026locations5 Locationsposted onPosted Today35992.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/RPA-Back-End-Developer_35824?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-rpa-back-end-developer-3-locations"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Magna Engineered Glass: Controls Engineering Intern",
-    "job_city": "Holland",
-    "job_state": "Michigan",
-    "job_posted_at": "1d",
-    "job_description": "• Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213782Manufacturing EngineerlocationsMesa, Arizona, USposted onPosted 18 Days AgoR00225888Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 25 Days AgoR00225164Magna Engineered Glass: Controls Engineering InternlocationsHolland, Michigan, USposted onPosted TodayR00229178Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 25 Days AgoR00224942Solutions Engineer (Junior)locationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00222663Foam Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00214219Solutions Engineering ManagerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221303Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00218232Deployment Engineer-AMRlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00217971Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 27 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Manufacturing Engineer, EquipmentlocationsMesa, Arizona, USposted onPosted 30+ Days AgoR00218006Material Conveyance Engineerlocations2 Locationsposted onPosted 18 Days AgoR00226421Jr.\n• Quality EngineerlocationsMoore, South Carolina, USposted onPosted TodayR00229110Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221215Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00219364Senior Business Intelligence EngineerlocationsLowell, Massachusetts, USposted onPosted 26 Days AgoR00223935Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 30+ Days AgoR00218574.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Holland-Michigan-US/Magna-Engineered-Glass--Controls-Engineering-Intern_R00229178?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-magna-engineered-glass-controls-engineering-intern-holland"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Jr. Quality Engineer",
-    "job_city": "Moore",
-    "job_state": "South Carolina",
-    "job_posted_at": "1d",
-    "job_description": "• Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213782Manufacturing EngineerlocationsMesa, Arizona, USposted onPosted 18 Days AgoR00225888Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 25 Days AgoR00225164Magna Engineered Glass: Controls Engineering InternlocationsHolland, Michigan, USposted onPosted TodayR00229178Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 25 Days AgoR00224942Solutions Engineer (Junior)locationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00222663Foam Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00214219Solutions Engineering ManagerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221303Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00218232Deployment Engineer-AMRlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00217971Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 27 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Manufacturing Engineer, EquipmentlocationsMesa, Arizona, USposted onPosted 30+ Days AgoR00218006Material Conveyance Engineerlocations2 Locationsposted onPosted 18 Days AgoR00226421Jr.\n• Quality EngineerlocationsMoore, South Carolina, USposted onPosted TodayR00229110Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221215Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00219364Senior Business Intelligence EngineerlocationsLowell, Massachusetts, USposted onPosted 26 Days AgoR00223935Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 30+ Days AgoR00218574.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Moore-South-Carolina-US/Jr-Quality-Engineer_R00229110?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-jr-quality-engineer-moore"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "SoC Low Power & Power Analysis Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/soc-low-power-and-power-analysis-engineer/33099/87112637216",
-    "id": "arm-soc-low-power-power-analysis-engineer-austin"
+    "job_description": "• Senior Systems Software Engineer - Holoscan Sensor BridgelocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR2011816Senior System Software Engineer - GPU Power Managementlocations2 Locationsposted onPosted 5 Days AgoJR2012311Senior System Software Engineer - Power and Performancelocations3 Locationsposted onPosted 5 Days AgoJR2012312Senior System Software Engineer - SoC Power Managementlocations2 Locationsposted onPosted 5 Days AgoJR2012319Senior System Software Engineer - Neural Graphics Performancelocations2 Locationsposted onPosted 4 Days AgoJR2012084Senior Full-Stack Software Engineer - VLSI Toolslocations4 Locationsposted onPosted 3 Days AgoJR2012368Senior System Software Engineer - Neural Graphics SDKslocations2 Locationsposted onPosted YesterdayJR2012086Senior System Software Engineer - Neural Graphics Performancelocations3 Locationsposted onPosted YesterdayJR2012085Senior Software Engineer, Infrastructure and Tooling - DriveOSlocationsUS, CA, Santa Claraposted onPosted TodayJR2012163Senior Applications Software Engineer, Planning and ControllocationsUS, CA, Santa Claraposted onPosted TodayJR2012603Senior DGX Cloud AI Infrastructure Software Engineerlocations5 Locationsposted onPosted TodayJR2012361NVIDIA 2026 Internships: Systems Software Engineering - USlocationsUS, CA, Santa Claraposted onPosted 24 Days AgoJR2003204Manager, Systems Software Engineering - NVLink and AIlocationsUS, CA, Santa Claraposted onPosted 24 Days AgoJR2007814Director, Software Engineering - Industrial Automation and ManufacturinglocationsUS, CA, Santa Claraposted onPosted 24 Days AgoJR2009713Senior Manager, Software Engineering - Media and EntertainmentlocationsUS, CA, Santa Claraposted onPosted 24 Days AgoJR2010219Financial Analyst Intern, Software Engineering - Summer 2026locationsUS, CA, Santa Claraposted onPosted 24 Days AgoJR2010409Director, System Software Engineering - Metropolis Accelerated and Inferencing SoftwarelocationsUS, CA, Santa Claraposted onPosted 20 Days AgoJR2011299Diagnostics Software Infrastructure EngineerlocationsUS, CA, Santa Claraposted onPosted TodayJR2012383Senior Software Engineer, Hardware Tools and Methodology DevelopmentlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2000050Software Engineer, CAD Automation - New College Grad 2026locations2 Locationsposted onPosted 24 Days AgoJR2005867.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Diagnostics-Software-Infrastructure-Engineer_JR2012383?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-diagnostics-software-infrastructure-engineer-us"
   }
 ]
