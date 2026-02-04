@@ -1,72 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Developer 2026 ELH",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Developer 2026 ELH",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91237&source=WEB_Search_NA",
-    "id": "ibm-software-developer-2026-elh-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Coop Fall",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Developer Coop Fall 2026",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91210&source=WEB_Search_NA",
-    "id": "ibm-software-developer-coop-fall-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Management 2026 ELH",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Product Management 2026 ELH",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91272&source=WEB_Search_NA",
-    "id": "ibm-product-management-2026-elh-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Designer 2026 ELH",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Designer 2026 ELH",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91259&source=WEB_Search_NA",
-    "id": "ibm-designer-2026-elh-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Designer Co-Op Fall",
-    "job_city": "shipAustin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Designer Co-Op Fall 2026",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91228&source=WEB_Search_NA",
-    "id": "ibm-designer-co-op-fall-shipaustin"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineer, SMTS Android Engineer, Field Services",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Collaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiencesDevelop reusable software components for interfacing with back-end platformsLead complex technical or product efforts and provide technical guidance to peersAnalyze and optimize code for quality, efficiency, and performanceArchitect efficient and scalable systems that drive complex applicationsWork on a variety of coding languages and technologiesIdentify and resolve performance and scalability issuesDeliver robust, high-quality softwareMentor peers through code reviews, tech talks, architecture reviews, and pair-programming.\n• Org Sustainability Investors Give us your Feedback 6+ years of professional programming experience building production mobile applications.\n• Experience building maintainable and testable code bases, including API design and testing techniquesTrack record of setting technical direction for a team, driving consensus and successful cross-functional partnershipsProven ability to navigate large enterprise environments and partner across global time zonesA related technical degree required Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Prior experience building applications for unreliable networks, and intermittent connectivity.\n• Experience with full stack or iOS technologies.\n• Familiarity with accessibility requirements (WCAG), inclusive design, and ergonomics for frontline workers.\n• We provide Salesforce generous benefitsWe seek out opportunities to send people to training for both technical and leadership skillsWe actively work on ways to be more inclusive in our culture and in our hiringRegular team charity outings, plus 7 days of volunteer time off (VTO) per year University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Contribute to documentation, technical design proposals, coding standards, and platform lifecycle improvements Our Story Newsroom Blog Careers Trust Salesforce.\n• Strong knowledge of Android Languages, frameworks and libraries (Kotlin, Java, Jetpack Compose, ViewModel, Room, WorkManager, Navigation, Lifecycle).",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr327080/software-engineer-smts-android-engineer-field-services/",
-    "id": "salesforce-software-engineer-smts-android-engineer-field-services-california-san-francisco"
-  },
-  {
-    "employer_name": "Dell",
-    "job_title": "Advisor, Data Engineering",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineer - SDET – Data Mobilityremote typeOnsitelocations2 Locationsposted onPosted 12 Days AgoR282940Advisor, Data Engineeringremote typeOnsitelocations2 Locationsposted onPosted TodayR283369Energy Compliance Test Engineerremote typeOnsitelocationsFranklin, Massachusetts, United Statesposted onPosted 4 Days AgoR281284Hardware Engineerlocations2 Locationsposted onPosted 21 Days AgoR284675Serviceability Development Principal Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 25 Days AgoR280176Quality Senior Principal Engineer (Supportability)remote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted TodayR280187Senior Principal AI System Development Engineerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR283880Senior Mechanical Engineer-IT Rack Infrastructureremote typeOnsitelocations2 Locationsposted onPosted 4 Days AgoR283893Senior Principal Mechanical Engineer-IT Rack Infrastructureremote typeOnsitelocations2 Locationsposted onPosted 4 Days AgoR283892Product Management Strategic Planner - Fleet Management & Rack Scaleremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 13 Days AgoR278635.",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Hopkinton-Massachusetts-United-States/Advisor--Data-Engineering_R283369-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-advisor-data-engineering-2-locations"
+    "employer_name": "Amazon",
+    "job_title": "Software Dev Engineer, Kiro",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "5h",
+    "job_description": "software engineering job for the role Software Dev Engineer, Kiro",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3173483/software-dev-engineer-kiro",
+    "id": "amazon-software-dev-engineer-kiro-san-francisco"
   }
 ]
