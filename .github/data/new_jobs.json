@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Rust Software Developer, Mid",
-    "job_city": "Lexington",
-    "job_state": "MA",
+    "employer_name": "General Dynamics",
+    "job_title": "Cloud Engineer Associate",
+    "job_city": "USA LA Bossier City",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• University, Software DeveloperlocationsMcLean, VAposted onPosted 8 Days AgoR0232886 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0228044 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 26 Days AgoR0231941 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 5 Days AgoR0232705 Product Security Senior Managerlocations8 Locationsposted onPosted 29 Days AgoR0230956.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Rust-Software-Developer--Mid_R0233356?q=software+engineering",
-    "id": "bae-systems-rust-software-developer-mid-lexington"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Facilities Instrumentation and Controls Engineer",
-    "job_city": "US",
-    "job_state": "Arizona",
-    "job_posted_at": "1d",
-    "job_description": "• Identity Security Engineerlocations3 Locationsposted onPosted 28 Days AgoJR0278584Network Monitoring Security Engineerlocations3 Locationsposted onPosted 28 Days AgoJR0278569Mechanical Design EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0280301Network Security Engineer- Automation Developerlocations3 Locationsposted onPosted 28 Days AgoJR0278568Facilities Instrumentation and Controls EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0280485Senior DFT Engineerlocations4 Locationsposted onPosted 9 Days AgoJR0280294Silicon Photonics Test EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0279796Senior Silicon Design Engineerlocations3 Locationsposted onPosted 2 Days AgoJR0277772GPU Logic Design Engineerlocations4 Locationsposted onPosted 28 Days AgoJR0275905Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 7 Days AgoJR0280051Power and Perf Design Engineerlocations4 Locationsposted onPosted YesterdayJR0280499Power and Performance Design Engineerlocations4 Locationsposted onPosted YesterdayJR0280504SoC Design Verification Engineer - EmulationlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0280503High-Speed Interconnect Senior Validation Engineerlocations2 Locationsposted onPosted 28 Days AgoJR0278920CPU Core Timing and Automation EngineerlocationsUS, California, Folsomposted onPosted 2 Days AgoJR0280490Factory Planning Business Leadlocations4 Locationsposted onPosted 6 Days AgoJR0279315Supply Chain Project Manager Intern (Undergraduate)locations2 Locationsposted onPosted 13 Days AgoJR0279977Senior System Architectlocations4 Locationsposted onPosted 28 Days AgoJR0277991Sales Marketing Commodity ManagerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0279979Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 26 Days AgoJR0279474.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Facilities-Instrumentation-and-Controls-Engineer_JR0280485?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-facilities-instrumentation-and-controls-engineer-us"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Summer 2026 Software Development Intern - Mechanical",
-    "job_city": "Canonsburg",
-    "job_state": "Pennsylvania",
-    "job_posted_at": "1d",
-    "job_description": "• Authors Blogs Currently pursuing a Bachelor's degree in Mechanical Engineering, Computer Science, or a related technical major, with a GPA of 3.\n• Must be enrolled in a full-time degree program and returning to university after completion of the internship.\n• Sharp and tenacious problem-solving skills.\n• Excellent written and verbal communication skills.\n• Experience debugging code using IDEs such as Visual Studio Code, Eclipse, PyCharm, or similar.\n• Preferred: Knowledge of FEA or similar computational techniques.\n• Experience with Microsoft Visual Studio, software configuration management tools (e.\n• Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright Staff Memory Layout Engineer in Da Nang Da Nang, Vietnam Sr.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/summer-2026-software-development-intern-mechanical/44408/91391709872",
-    "id": "synopsys-summer-2026-software-development-intern-mechanical-canonsburg"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Summer 2026 Intern - Software Development (BS)",
-    "job_city": "Canonsburg",
-    "job_state": "Pennsylvania",
-    "job_posted_at": "1d",
-    "job_description": "• Authors Blogs Currently pursuing a Bachelor’s degree in Computer Science, Mechanical Engineering, or a related technical major with a GPA of 3.\n• Must be enrolled full-time and returning to university after the completion of the internship/co-op program.\n• Strong skills in C++ or related object-oriented programming languages.\n• Excellent written and verbal communication skills.\n• Preferred: Knowledge of FEA or similar computational techniques, experience with Microsoft Visual Studio and software configuration management tools (e.\n• Collaborate closely with experienced software developers throughout the design, implementation, and verification processes.\n• Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright Staff Memory Layout Engineer in Da Nang Da Nang, Vietnam Sr.\n• Company About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions Resources Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Learn What is an AI Accelerator.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/summer-2026-intern-software-development-bs/44408/91391709888",
-    "id": "synopsys-summer-2026-intern-software-development-bs-canonsburg"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-Bossier-City/Cloud-Engineer-Associate_RQ214014-1?q=software+engineering",
+    "id": "general-dynamics-cloud-engineer-associate-usa-la-bossier-city"
   }
 ]
