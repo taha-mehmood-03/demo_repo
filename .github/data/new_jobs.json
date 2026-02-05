@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Semiconductor Functional Safety Design Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "IBM",
+    "job_title": "Resident Solution Engineer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Field Sales Engineerlocations7 Locationsposted onPosted 30+ Days AgoR257218Semiconductor Functional Safety Design Engineerlocations2 Locationsposted onPosted TodayR260664Staff Engineer, Field ApplicationslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258196Principal Sensor Engineer (Tactile Sensing)locationsUS, MA, Bostonposted onPosted 6 Days AgoR257968Field Applications Engineer – Medical Systems Solutionslocations4 Locationsposted onPosted 6 Days AgoR260548Engineering Sales Rotational Programlocations9 Locationsposted onPosted 30 Days AgoR255617Field Applications Engineer - Rotational Programlocations7 Locationsposted onPosted 30+ Days AgoR257217Staff Engineer, Space PlanninglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258268Semiconductor Device EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257843Research Science EngineeringlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR257958Lead PM, Program/Project ManagerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258804CAD Engineering InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257192Senior Engineer, Product ApplicationslocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR256099Process Engineering Internlocations3 Locationsposted onPosted 30+ Days AgoR257265Failure Analysis TechnicianlocationsUS, CA, San Jose, Rio Roblesposted onPosted 10 Days AgoR253145Facilities Senior ManagerlocationsUS, WA, Camasposted onPosted 29 Days AgoR258696Associate Applications Engineer (Power Electronics)locationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR256049Senior Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258790Quality Systems Engineering InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257847Lead PM, Project / Program Management (Eng)locationsUS, MA, Wilmingtonposted onPosted 16 Days AgoR260363.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-VT-Colchester/Functional-Safety-Design-Engineer_R260664?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-semiconductor-functional-safety-design-engineer-2-locations"
+    "job_description": "software engineering job for the role Resident Solution Engineer",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89156&source=WEB_Search_NA",
+    "id": "ibm-resident-solution-engineer-"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Technical Demonstration Team Engineer",
+    "job_city": "Southfield",
+    "job_state": "Michigan",
+    "job_posted_at": "1d",
+    "job_description": "• Industrial EngineerlocationsNashville, Illinois, USposted onPosted 9 Days AgoR00228008Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213782Manufacturing EngineerlocationsMesa, Arizona, USposted onPosted 21 Days AgoR00225888Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 28 Days AgoR00225164Magna Engineered Glass: Controls Engineering InternlocationsHolland, Michigan, USposted onPosted 3 Days AgoR00229178Solutions Engineer (Junior)locationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00222663Foam Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00214219Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00218232Deployment Engineer-AMRlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00217971Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 30 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Manufacturing Engineer, EquipmentlocationsMesa, Arizona, USposted onPosted 30+ Days AgoR00218006Material Conveyance Engineerlocations2 Locationsposted onPosted 21 Days AgoR00226421Jr.\n• Quality EngineerlocationsMoore, South Carolina, USposted onPosted 3 Days AgoR00229110Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221215Technical Demonstration Team EngineerlocationsSouthfield, Michigan, USposted onPosted TodayR00228363Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00219364Senior Business Intelligence EngineerlocationsLowell, Massachusetts, USposted onPosted 29 Days AgoR00223935Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 30+ Days AgoR00218574.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Southfield-Michigan-US/Technical-Demonstration-Team-Engineer_R00228363?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-technical-demonstration-team-engineer-southfield"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, XLA-TPU Debugging Tools",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, XLA-TPU Debugging Tools",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/74279119117787846-software-engineer-xlatpu-debugging-tools?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-xla-tpu-debugging-tools-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, On-Device Machine Learning",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, On-Device Machine Learning",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/88352867953320646-software-engineer-ondevice-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
+    "id": "google-software-engineer-on-device-machine-learning-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Android App Safety",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Android App Safety",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133577980227003078-software-engineer-iii-aiml-android-app-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-ai-ml-android-app-safety-atlanta"
   }
 ]
