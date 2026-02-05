@@ -1,102 +1,32 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Full Stack Engineer, Platform Cloud (Flexipage Framework Services)",
-    "job_city": "North Carolina - Raleigh",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Architect, design, implement, test and deliver highly scalable productsMaster our development process, culture and code base, then improve itOperate efficiently in the hybrid engineering model where engineers are encouraged to be able to craft and implement the vital work to ensure quality in their own code as well as other specialistsMentor others in development technologies, tools, and processesPresent your own designs to internal/external groups and review designs of othersDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metricsParticipate in the team’s on-call rotation to address sophisticated problems in real-time and keep services operational and highly available 3+ years of professional software development experience (MTS) 5+ years of professional software development experience (SMTS)8+ years of professional software development experience (LMTS)Proficient in JavaSolid understanding & experience of web technologies, such as JavaScript, CSS, HTML5, XML, JavaScript, JSON, and/or AjaxSolid understanding of Database technologies such as SQL, PL/SQL and relational database schema designExperience in working and developing with AI and Large Language Models (LLMs)Experience in automated testing including unit and functional testing using Java, JUnit, JSUnit, SeleniumExcellent communication skillsA related technical degree required Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Experience with Lightning Web Components (LWC)Working experience with multiple front-end frameworks, such as Angular, Vue, Ember, React, etc.\n• To have an opinion of the qualities of each versus the othersExperience building highly scalable web applicationsExperience with Agile software development and test-driven development University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr327294/full-stack-engineer-platform-cloud-flexipage-framework-services/",
-    "id": "salesforce-full-stack-engineer-platform-cloud-flexipage-framework-services-north-carolina-raleigh"
+    "employer_name": "Micron Technology",
+    "job_title": "Semiconductor Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Less than 2 years Wet Process Staff/Senior Engineer, Process Development SG, Advanced NANDSingapore, SingaporePosted 17 days ago Principal Process Engineer, APTD BondingBoise, Idaho, United States of AmericaPosted 2 months ago Senior Diffusion Process EngineerBoise, Idaho, United States of AmericaPosted 2 days ago Senior Dry Etch Process EngineerBoise, Idaho, United States of AmericaPosted a day ago Senior Engineer, Process Development, Wet, NTISingapore, SingaporePosted 2 months ago Senior Engineer, TD Wet Process DevelopmentSingapore, SingaporePosted 2 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/40029971",
+    "id": "micron-technology-semiconductor-process-engineer-boise"
   },
   {
-    "employer_name": "Salesforce",
-    "job_title": "Security Data Science Engineer",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Professional Experience: 6+ years of industry experience with a demonstrated passion for crafting, analyzing, and deploying scalable machine learning solutions.\n• ML Operations (MLOps) & Cloud:Experience deploying, monitoring, and maintaining ML systems in cloud environments (specifically AWS or GCP).\n• Technical Proficiency:Coding: Expert-level proficiency in writing high-quality, well-documented, and tested code, with a strong preference for Python.\n• Tooling: Hands-on experience with standard ML and orchestration tools like mlFlow, Airflow, and Docker.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Collaborative Leadership: Experience working within teams managing mature data science or ML-driven security products.\n• Communication: Excellent communication skills with the ability to translate complex technical concepts for internal stakeholders and product teams.\n• Coding: Expert-level proficiency in writing high-quality, well-documented, and tested code, with a strong preference for Python.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr326778/security-data-science-engineer/",
-    "id": "salesforce-security-data-science-engineer-california-san-francisco"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Infrastructure Automation and Python Engineer",
-    "job_city": "USA-California-San Jose-1320 Ridder Park Drive",
+    "employer_name": "Guidehouse",
+    "job_title": "Service Desk Front Line Support Agent",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer - R&D Software Development PositionlocationsISR-Tel Aviv Universitytime typeFull timeposted onPosted TodayR025034 Brocade SAN Migration ConsultantlocationsUSA-Colorado-Colorado Springs-4420 Arrowswest Drivetime typeFull timeposted onPosted TodayR024970 Account Based Marketing Managerlocations7 Locationstime typeFull timeposted onPosted YesterdayR025013 Systems Validation Managerlocations4 Locationstime typeFull timeposted onPosted 6 Days AgoR024995 Senior EngineerlocationsIND-Pune-Panchshiltime typeFull timeposted onPosted 6 Days AgoR024979.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Infrastructure-Automation-and-Python-Engineer_R025071?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-infrastructure-automation-and-python-engineer-usa-california-san-jose-1320-ridder-park-drive"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Creativity Apps",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum Qualifications2+ years of proven experience developing and shipping reliable, scalable, maintainable,and testable code.\n• Experience with Apple platforms including iOS and macOS.\n• Strong communication, collaboration, and project management skills with the ability toarticulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent experience.\n• Proficient in SwiftSolid grasp of computer science fundamentals and object-oriented design.\n• Ability to write performant, scalable, maintainable, and correct multi-threaded code.\n• Ability to work effectively in a fast-paced environment and manage multiple priorities.\n• Willingness to ask for help, learn from others, and mentor others in turn.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200645155-0157/software-engineer-creativity-apps?team=SFTWR",
-    "id": "apple-software-engineer-creativity-apps-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Creativity Apps",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum Qualifications2+ years of proven experience developing and shipping reliable, scalable, maintainable,and testable code.\n• Experience with Apple platforms including iOS and macOS.\n• Strong communication, collaboration, and project management skills with the ability toarticulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent experience.\n• Proficient in SwiftSolid grasp of computer science fundamentals and object-oriented design.\n• Ability to write performant, scalable, maintainable, and correct multi-threaded code.\n• Ability to work effectively in a fast-paced environment and manage multiple priorities.\n• Willingness to ask for help, learn from others, and mentor others in turn.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200645155-3543/software-engineer-creativity-apps?team=SFTWR",
-    "id": "apple-software-engineer-creativity-apps-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Intern, Design Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-design-engineer/33099/91222160640",
-    "id": "arm-intern-design-engineer-san-jose"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Systems Engineer II - Avionics",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_posted_at": "1d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• You will work in a dynamic environment, collaborating with experienced engineers and gaining hands-on experience in software development.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/136019/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-systems-engineer-ii-avionics-phoenix"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Fulfillment Planning",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Fulfillment Planning",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132574486888096454-software-engineer-iii-fulfillment-planning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-fulfillment-planning-sunnyvale"
+    "job_description": "• ServiceNow Senior DeveloperlocationsUS - CA, Sacramentoposted onPosted 8 Days Ago34947Senior Data ScientistlocationsUS - VA, McLeanposted onPosted 30+ Days Ago32934Revenue Integrity Analyst (Medical Coding)locations3 Locationsposted onPosted 5 Days Ago35765BAS TechnicianlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago32779Senior Salesforce Developerlocations2 Locationsposted onPosted 14 Days Ago30979Program & Technical Advisor (Sr.\n• Consultant/Managing Consultant/Associate Director)locations2 Locationsposted onPosted 30+ Days Ago33428Data ScientistlocationsUS - VA, Arlingtonposted onPosted Yesterday35863Revenue Integrity Analyst (Medical Biller)locations3 Locationsposted onPosted 5 Days Ago35766Appian Solution ArchitectlocationsUS - VA, McLeanposted onPosted 19 Days Ago35529Power Platform Consultantlocations2 Locationsposted onPosted 12 Days Ago34789Proposal Coordination, Senior Associatelocations3 Locationsposted onPosted 20 Days Ago35217Data ConsultantlocationsUS - TX, San Antonioposted onPosted 7 Days Ago35853Professional Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago33647Senior Data Scientistlocations3 Locationsposted onPosted 9 Days Ago33760UiPath DeveloperlocationsUS - TN, Millingtonposted onPosted 29 Days Ago34933UiPath DeveloperlocationsUS - TX, San Antonioposted onPosted 27 Days Ago35191ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 9 Days Ago35738ServiceNow Business AnalystlocationsUS - Remote (Any location)posted onPosted 9 Days Ago35742Revenue Cycle Solutions ArchitectlocationsUS - Remote (Any location)posted onPosted 21 Days Ago35353Service Desk Front Line Support Agentlocations2 Locationsposted onPosted Today35389.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Service-Desk-Front-Line-Support-Agent_35389?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-service-desk-front-line-support-agent-2-locations"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Prime Air",
-    "job_city": "Seattle",
+    "job_title": "Software Development Engineer, Leo MAC",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer, Prime Air",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3174372/software-development-engineer-prime-air",
-    "id": "amazon-software-development-engineer-prime-air-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Device Embedded Software SDE, Ring",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Device Embedded Software SDE, Ring",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3174373/device-embedded-software-sde-ring",
-    "id": "amazon-device-embedded-software-sde-ring-hawthorne"
+    "job_posted_at": "3h",
+    "job_description": "software engineering job for the role Software Development Engineer, Leo MAC",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3174459/software-development-engineer-leo-mac",
+    "id": "amazon-software-development-engineer-leo-mac-redmond"
   }
 ]
