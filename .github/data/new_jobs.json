@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "IT Software Engineer – Manufacturing IT",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "6d",
+    "job_description": "• Currently pursuing a Bachelor's, or Master's, degree in Computer Science or related field.\n• Experience or coursework involving AI‑assisted development tools for code generation, review, or efficiency.\n• Knowledge of large language models (LLMs) and how they are used in modern software systems, including prompting, embedding‑based workflows, or agent‑style patterns.\n• Cannot graduate prior to September 2026.\n• Familiarity with Model Context Protocol (MCP) concepts and/or MCP servers for integrating tools, data sources, or services with LLMs.\n• Strong programming concepts with knowledge of object-oriented programming and languages like C#, Python etc.\n• Strong conceptual knowledge in data structure & algorithms.\n• Knowledge of software architecture concepts.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39768742",
+    "id": "micron-technology-it-software-engineer-manufacturing-it-manassas"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, YouTube Ads, Privacy Preserving, Data Exchange, RelayLog",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, YouTube Ads, Privacy Preserving, Data Exchange, RelayLog",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/72721999394153158-software-engineer-youtube-ads-privacy-preserving-data-exchange-relaylog?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-youtube-ads-privacy-preserving-data-exchange-relaylog-los-angeles"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Student Researcher, BS/MS, Winter/Summer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Student Researcher, BS/MS, Winter/Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140245524367188678-student-researcher-bsms-wintersummer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-student-researcher-bs-ms-winter-summer-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Student Researcher, PhD, Winter/Summer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Student Researcher, PhD, Winter/Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138166347879064262-student-researcher-phd-wintersummer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-student-researcher-phd-winter-summer-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Security Engineer, Data Center Platforms, Technical Infrastructure",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Security Engineer, Data Center Platforms, Technical Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/126263809835705030-security-engineer-data-center-platforms-technical-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-security-engineer-data-center-platforms-technical-infrastructure-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Open Engineering Career Opportunities, CapitalG Portfolio Companies",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Open Engineering Career Opportunities, CapitalG Portfolio Companies",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/124491726204084934-open-engineering-career-opportunities-capitalg-portfolio-companies?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-open-engineering-career-opportunities-capitalg-portfolio-companies-mountain-view"
+  }
+]
