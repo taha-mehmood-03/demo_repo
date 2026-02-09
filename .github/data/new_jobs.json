@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Health AI Software Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsBS in Computer Science or related field2+ years in software developmentExcellent programming skills in any programming language (preferably at least one of in Swift and/or Objective-C, C++) and strong understanding of data structures, memory management, and concurrencySkilled at debugging and triaging complex software systems, including learning to work with new technologiesSystems thinking, including ability to break down ambiguous problems and drive clarity on critical detailsStrong intuition for user experience + ability to translate customer needs into technical requirementsSolid cross-functional collaboration and technical communication skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200645701-3956/health-ai-software-engineer?team=SFTWR",
+    "id": "apple-health-ai-software-engineer-sunnyvale"
+  }
+]
