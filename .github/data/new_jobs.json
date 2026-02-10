@@ -1,32 +1,82 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Android Telemetry, Platforms and Devices",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Android Telemetry, Platforms and Devices",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108404126785643206-software-engineer-android-telemetry-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-android-telemetry-platforms-and-devices-mountain-view"
+    "employer_name": "Micron Technology",
+    "job_title": "New College Grad - Semiconductor Verification Design Engineer, DRAM Products Group",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• New College Grad - Semiconductor Design Engineer, DRAM Products GroupBoise, Idaho, United States of AmericaPosted 6 days ago New College Grad - Semiconductor Design Engineer, DRAM Products GroupBoise, Idaho, United States of AmericaPosted 7 days ago New College Grad - Verification Enablement, Test Structure Design and LayoutTlaquepaque, Jalisco, MexicoPosted a month ago New College Grad - CAD/Computer Engineer, Central EngineeringBoise, Idaho, United States of AmericaPosted 2 months ago Strong written and verbal communication skills with the ability to convey complex technical concepts.\n• Bachelor’s degree in Electrical Engineering or Computer Engineering.\n• Experience in memory circuit design and performance optimization.\n• New College Grad - DRAM Design Verification EngineerTlaquepaque, Jalisco, MexicoPosted 2 months ago Demonstrated motivation to expand technical breadth and depth within collaborative global teams.\n• Familiarity with RTL, Static Timing Analysis (STA), Python, and HSPICE.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-new-college-grad-semiconductor-verification-design-engineer-dram-products-group-boise"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Semiconductor Change Management Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Core Skills: Strong analytical, organizational, and problem‑solving skills with the ability to handle multiple priorities.\n• Excellent written and verbal communication skills, including the ability to lead meetings and present data to large groups.\n• Industry Experience: 3+ years of experience working in change management for semiconductor manufacturing environments or with fab‑related systems.\n• MES Expertise: Experience with MES applications, Traveler Control, Process Control, or manufacturing system configuration.\n• Process & Quality Systems: Experience supporting QMS, business process governance, or controlled change management.\n• Experience: 2+ years of related experience in change management Education: Bachelor’s degree in Engineering or a related field Less than 2 years Global Quality Process Control System (PCS) Senior EngineerTaichung City, Taichung City, Taiwan + 2 morePosted 5 months ago Senior Photolithography Process EngineerBoise, Idaho, United States of AmericaPosted 11 days ago.\n• Lead or contribute to local and global initiatives that improve MES system performance, consistency, and usability.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-semiconductor-change-management-engineer-boise"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Memory Electrical Validation Engineer",
+    "job_city": "US",
+    "job_state": "Oregon",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Silicon Design Engineerlocations3 Locationsposted onPosted 8 Days AgoJR0277772Memory Electrical Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0280654GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 13 Days AgoJR0280051Power and Perf Design Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0280499Power and Performance Design Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0280504SoC Design Verification Engineer - EmulationlocationsUS, Oregon, Hillsboroposted onPosted 6 Days AgoJR0280503High-Speed Interconnect Senior Validation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0278920CPU Core Timing and Automation EngineerlocationsUS, California, Folsomposted onPosted 8 Days AgoJR0280490Factory Planning Business Leadlocations4 Locationsposted onPosted 12 Days AgoJR0279315Supply Chain Project Manager Intern (Undergraduate)locations2 Locationsposted onPosted 19 Days AgoJR0279977Sales Marketing Commodity ManagerlocationsUS, Arizona, Phoenixposted onPosted 14 Days AgoJR0279979Senior Performance Architectlocations3 Locationsposted onPosted 27 Days AgoJR0277713Human Resources Management Systems Analystlocations3 Locationsposted onPosted 19 Days AgoJR0280088Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 30+ Days AgoJR0279474Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 5 Days AgoSpotlight JobJR0280283Senior SOC Performance Architectlocations3 Locationsposted onPosted 30+ Days AgoJR0277396Vice President - DCG - Get to Market Grouplocations2 Locationsposted onPosted 30+ Days AgoJR0278570Group Counsel, Datacenter and AI Legallocations4 Locationsposted onPosted 30+ Days AgoJR0278637Network Security Analystlocations2 Locationsposted onPosted 30+ Days AgoJR0277300.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Memory-Electrical-Validation-Engineer_JR0280654?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-memory-electrical-validation-engineer-us"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Pixel Camera, Platforms and Devices",
+    "job_title": "Software Engineer, Infrastructure, Platforms and Devices",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Infrastructure, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106949799319610054-software-engineer-infrastructure-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-infrastructure-platforms-and-devices-los-angeles"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Google.org, Data Analytics",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Google.org, Data Analytics",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/120390229457543878-software-engineer-googleorg-data-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-google-org-data-analytics-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Image Processing, Platforms and Devices",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Pixel Camera, Platforms and Devices",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/89000220456559302-software-engineer-pixel-camera-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-pixel-camera-platforms-and-devices-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Image Processing, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/94907947972207302-software-engineer-image-processing-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-image-processing-platforms-and-devices-mountain-view"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, SBS Proactive Security",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_posted_at": "7h",
-    "job_description": "software engineering job for the role Software Development Engineer, SBS Proactive Security",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3177472/software-development-engineer-sbs-proactive-security",
-    "id": "amazon-software-development-engineer-sbs-proactive-security-herndon"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Distributed Cloud, Network Automation",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google Distributed Cloud, Network Automation",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/76198658113970886-software-engineer-iii-google-distributed-cloud-network-automation?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-iii-google-distributed-cloud-network-automation-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Pixel Graphics, Platforms and Devices",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Pixel Graphics, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108700221831029446-software-engineer-pixel-graphics-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-pixel-graphics-platforms-and-devices-mountain-view"
   }
 ]
