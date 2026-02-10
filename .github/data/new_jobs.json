@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Amazon Optics",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "15h",
-    "job_description": "software engineering job for the role Software Development Engineer II, Amazon Optics",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3177804/software-development-engineer-ii-amazon-optics",
-    "id": "amazon-software-development-engineer-ii-amazon-optics-annapolis-junction"
+    "employer_name": "Dell",
+    "job_title": "Job Posting Title Software Engineer Platform Systems Engineer (Hopkinton, MA)",
+    "job_city": "Hopkinton",
+    "job_state": "Massachusetts",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer-Senior Software Engineer – Platform Software Engineer Hopkinton, MAlocationsHopkinton, Massachusetts, United Statesposted onPosted YesterdayR285860Senior Software Engineerlocations4 Locationsposted onPosted YesterdayR285271Senior Software Engineerremote typeOnsitelocations2 Locationsposted onPosted 21 Days AgoR282874Senior Software Engineerremote typeOnsitelocations2 Locationsposted onPosted 21 Days AgoR282870Data Security Software Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 4 Days AgoR284984Senior Principal Software Engineer - Linux OS Engineeringremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 26 Days AgoR284693Principal Data Security Software Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 4 Days AgoR284983Software Principal Engineerremote typeOnsitelocations2 Locationsposted onPosted TodayR282862Software Principal Engineerremote typeOnsitelocations2 Locationsposted onPosted YesterdayR282863Software Senior Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 30+ Days AgoR283743Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 8 Days AgoR282957Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 6 Days AgoR282954Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 12 Days AgoR282956Software Senior Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 12 Days AgoR282959Software Senior Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 12 Days AgoR282953Job Posting Title Software Engineer Platform Systems Engineer (Hopkinton, MA)locationsHopkinton, Massachusetts, United Statesposted onPosted TodayR285888Software Principal Engineer - Control PathlocationsHopkinton, Massachusetts, United Statesposted onPosted 7 Days AgoR283939Software Principal Engineer - Data PathlocationsHopkinton, Massachusetts, United Statesposted onPosted 7 Days AgoR284177Software Senior Engineer - Control Pathremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 7 Days AgoR282886Software Senior Engineer - Data Pathremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 7 Days AgoR282864.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Hopkinton-Massachusetts-United-States/Job-Posting-Title-Software-Engineer-Platform-Systems-Engineer--Hopkinton--MA-_R285888-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-job-posting-title-software-engineer-platform-systems-engineer-hopkinton-ma-hopkinton"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Enterprise Technology Software Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 19 Days AgoR0226853 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 25 Days AgoR0232289 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 20 Days AgoR0232489 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 20 Days AgoR0232501 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 19 Days AgoR0232503 Software Developer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226754 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 8 Days AgoR0226855 Web Expert Software EngineerlocationsAtlanta, GAposted onPosted 7 Days AgoR0233283.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Tech-Software-Engineer_R0233534?q=software+engineering",
+    "id": "bae-systems-enterprise-technology-software-engineer-2-locations"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Recommendations, Rankings, Predictions",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Recommendations, Rankings, Predictions",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86553927343841990-software-engineer-recommendations-rankings-predictions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-recommendations-rankings-predictions-mountain-view"
   }
 ]
