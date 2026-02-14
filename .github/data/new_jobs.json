@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Software Engineer",
+    "job_city": "Fort Collins",
+    "job_state": "Colorado",
+    "job_posted_at": "5d",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Fort-Collins-Colorado/Software-Engineer_1202032-1?q=software+engineering",
+    "id": "hewlett-packard-enterprise-software-engineer-fort-collins"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Software Engineering (Systems)",
+    "job_city": "Aguadilla",
+    "job_state": "Puerto Rico",
+    "job_posted_at": "2w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Engineering--Systems-_1197903-1?q=software+engineering",
+    "id": "hewlett-packard-enterprise-software-engineering-systems-aguadilla"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Systems/Software Engineer",
+    "job_city": "Heredia",
+    "job_state": "Heredia",
+    "job_posted_at": "3d",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Heredia-Heredia-Costa-Rica/Systems-Software-Engineer_1201812-1?q=software+engineering",
+    "id": "hewlett-packard-enterprise-systems-software-engineer-heredia"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Embedded Software Engineer",
+    "job_city": "Heredia",
+    "job_state": "Heredia",
+    "job_posted_at": "1w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Heredia-Heredia-Costa-Rica/Embedded-Software-Engineer-I_1201616-1?q=software+engineering",
+    "id": "hewlett-packard-enterprise-embedded-software-engineer-heredia"
+  }
+]
