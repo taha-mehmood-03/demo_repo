@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Google Cloud Web3",
-    "job_city": "Sunnyvale",
+    "job_title": "Software Engineer, Engineering Productivity, Android",
+    "job_city": "San Jose",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Google Cloud Web3",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/89339613067256518-software-engineer-google-cloud-web3?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-google-cloud-web3-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Engineering Productivity, Android",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81263356563858118-software-engineer-engineering-productivity-android?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-engineering-productivity-android-san-jose"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer II, Site Reliability",
-    "job_city": "Sunnyvale",
+    "job_title": "Embedded Software Engineer, Device Platform Software, Silicon",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer II, Site Reliability",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79836147521331910-software-engineer-ii-site-reliability?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-ii-site-reliability-sunnyvale"
+    "job_description": "software engineering job for the role Embedded Software Engineer, Device Platform Software, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97145802027082438-embedded-software-engineer-device-platform-software-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-embedded-software-engineer-device-platform-software-silicon-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Search Ecosystem",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Search Ecosystem",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111360288350970566-software-engineer-iii-search-ecosystem?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-search-ecosystem-mountain-view"
   }
 ]
