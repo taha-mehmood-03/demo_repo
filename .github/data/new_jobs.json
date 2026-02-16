@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Engineering Productivity, Android",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Engineering Productivity, Android",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81263356563858118-software-engineer-engineering-productivity-android?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-engineering-productivity-android-san-jose"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Embedded Software Engineer, Device Platform Software, Silicon",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Embedded Software Engineer, Device Platform Software, Silicon",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97145802027082438-embedded-software-engineer-device-platform-software-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-embedded-software-engineer-device-platform-software-silicon-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Search Ecosystem",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Search Ecosystem",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111360288350970566-software-engineer-iii-search-ecosystem?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-software-engineer-iii-search-ecosystem-mountain-view"
+    "employer_name": "RIVIAN",
+    "job_title": "Fullstack Software Engineer",
+    "job_city": "Multiple",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Strong problem-solving skills and ability to work in a fast-paced, collaborative environment.\n• Excellent communication skills and the ability to work effectively in a team.\n• Experience with AWS cloud technologies, particularly Lambda functions.\n• Bachelor's or Master's degree in Computer Science or a related field.\n• 3+ years of professional software development experience.\n• Hands-on experience with DynamoDB and ElasticSearch Familiarity with messaging systems like AWS SQS.\n• Knowledge of containerization and orchestration with Docker and Kubernetes.\n• Familiarity with DevOps practices and tools for CI/CD.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/29233/login",
+    "id": "rivian-fullstack-software-engineer-multiple"
   }
 ]
