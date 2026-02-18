@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "Memory Systems Design Engineer Client and Graphics Platform Engineering",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Deep knowledge of DRAM, Memory controller and PHY architecture and design conceptsUnderstanding platform level signal integrity and power integrity technologies a definite assetFamiliarity with industry-standard high-speed protocols, and test methodologiesHigh-speed I/O design experience, including understanding of Tx (transceiver), Rx (Receiver), PLL (phase lock loop)/DLL, Clocking, Equalization techniques and circuits, Training algorithms and FirmwareKnowledge of computer hardware architecture (GPU, CPU/APU, memory and bus logic technologies) and software architecture (driver, bios, firmware usage)Hands-on debug experience with GPU/APU, motherboards, memory interface, bus logic a definite assetLaboratory experience, including hands-on use of equipment: Oscilloscopes, Signal generators, BERT, Logic analyzers, etc.\n• Experience with Windows and Linux operating systemsProgramming/software development knowledge with experience with scripting languages such as Ruby/Python/Perl.\n• Critical thinking skills, Excellent organizational and communication skills.\n• AMD Partner Hub Authorized Distributors AMD University Program Bachelor's or master's degree in electrical or computer engineering Provide systems engineering and post-silicon support for DDR/LPDDR/GDDR Memory interface IP.\n• Lead Pre-Silicon engagement preparing test plans, reviewing simulation results, preparing tools, automation scripts and BIOS readiness for post Si validation working closely with PHY/controller design, SI/PI, Simulation, Firmware and BIOS teams.\n• Lead new products bring-up support from first silicon in the lab through initial production.\n• Drive cross functional teams supporting feature enablement, feature optimization and characterization effortsLead the system-level debug and root cause analysis to narrow down the issues to various HW/SW blocks and drive multi-functional engineering efforts to root cause of sightings and verification of fixes with teams in ATE, Platform, design, diagnostics, firmware, BIOS and driveSupporting issues on customer platforms as requested by customer support team Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/78497/login",
+    "id": "amd-memory-systems-design-engineer-client-and-graphics-platform-engineering-us"
+  }
+]
