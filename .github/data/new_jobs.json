@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Jr. Applications Support Engineer",
-    "job_city": "Any Location /",
+    "employer_name": "BAE Systems",
+    "job_title": "Software Engineer, Mid",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_posted_at": "1d",
+    "job_description": "• AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0224543 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 7 Days AgoR0233951 Software Engineer, LeadlocationsMcLean, VAposted onPosted YesterdayR0234255.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Software-Engineer--Mid_R0234178?q=software+engineering",
+    "id": "bae-systems-software-engineer-mid-bethesda"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Software Developer, Junior",
+    "job_city": "5 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Jr-Applications-Support-Engineer_RQ214380-2?q=software+engineering",
-    "id": "general-dynamics-jr-applications-support-engineer-any-location"
+    "job_description": "• Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0231941 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 20 Days AgoR0232705 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 20 Days AgoR0232707 Software Developer, Juniorlocations5 Locationsposted onPosted YesterdayR0234241 MUMPS Developer, Leadlocations2 Locationsposted onPosted 28 Days AgoR0232453.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Developer--Junior_R0234241?q=software+engineering",
+    "id": "bae-systems-software-developer-junior-5-locations"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "SharePoint Developer, Mid",
+    "job_city": "Falls Church",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0231941 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 20 Days AgoR0232705 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 20 Days AgoR0232707 Software Developer, Juniorlocations5 Locationsposted onPosted YesterdayR0234241 MUMPS Developer, Leadlocations2 Locationsposted onPosted 28 Days AgoR0232453.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Falls-Church-VA/SharePoint-Developer--Mid_R0234217?q=software+engineering",
+    "id": "bae-systems-sharepoint-developer-mid-falls-church"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Silicon Hardware Engineering - Intern, Bachelor’s",
+    "job_city": "5 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Systems SW Engineer - Neuromorphic Computinglocations5 Locationsposted onPosted 26 Days AgoJR0279981SOC Design EngineerlocationsUS, Arizona, Phoenixposted onPosted 23 Days AgoJR0277667Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted YesterdayJR0281133Silicon Hardware Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted YesterdayJR0281132Yield Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0280683LTD Yield Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 2 Days AgoJR0281057Yield Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0281040Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0277312Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0279083Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted YesterdayJR0281142HPC Storage Dev Ops Engineerlocations3 Locationsposted onPosted 21 Days AgoJR0280323Senior Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0279202Neuromorphic Silicon Design Engineerlocations5 Locationsposted onPosted 26 Days AgoJR0279987Identity Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0278271DTCO Systems Analysis Engineer - MemorylocationsUS, Texas, Austinposted onPosted 22 Days AgoSpotlight JobJR0280241Lead Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0279207Post-silicon Validation and Debug Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0279661Project Controls Engineer (PCE)locationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0280667Network Monitoring Security Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0278569Network Security Engineer- Automation Developerlocations3 Locationsposted onPosted 30+ Days AgoJR0278568.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering----Intern--Bachelor-s_JR0281132?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-silicon-hardware-engineering-intern-bachelor-s-5-locations"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "CPU Core Pre-Silicon Validation/Verification Engineer",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Facilities Instrumentation and Controls EngineerlocationsUS, Arizona, Phoenixposted onPosted 6 Days AgoJR0280485Supply Chain Engineerlocations2 Locationsposted onPosted 13 Days AgoJR0280481Mechanical Design EngineerlocationsUS, California, Santa Claraposted onPosted 16 Days AgoJR0280301SOC Design Engineerlocations7 Locationsposted onPosted YesterdayJR0279208Senior DFT Engineerlocations4 Locationsposted onPosted 24 Days AgoJR0280294CPU Core Pre-Silicon Validation/Verification EngineerlocationsUS, California, Folsomposted onPosted YesterdayJR0280966SoC PnP Validation Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0280500Senior Silicon Design Engineerlocations3 Locationsposted onPosted 17 Days AgoJR0277772Memory Electrical Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 10 Days AgoJR0280654GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 22 Days AgoJR0280051GPU Design Verification Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0280552GPU Design Verification Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0280553SoC Design Verification Engineer - EmulationlocationsUS, Oregon, Hillsboroposted onPosted 15 Days AgoJR0280503CPU Core Timing and Automation EngineerlocationsUS, California, Folsomposted onPosted 17 Days AgoJR0280490Factory Planning Business Leadlocations4 Locationsposted onPosted 21 Days AgoJR0279315Sales Marketing Commodity ManagerlocationsUS, Arizona, Phoenixposted onPosted 23 Days AgoJR0279979CMP Commodity Managerlocations2 Locationsposted onPosted 7 Days AgoJR0280707Senior Performance Architectlocations3 Locationsposted onPosted 30+ Days AgoJR0277713Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 30+ Days AgoJR0279474.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/CPU-Core-Pre-Silicon-Validation-Verification-Engineer_JR0280966-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-cpu-core-pre-silicon-validation-verification-engineer-us"
   }
 ]
