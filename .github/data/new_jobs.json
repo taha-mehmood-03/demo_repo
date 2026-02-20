@@ -1,42 +1,12 @@
 [
   {
     "employer_name": "Micron Technology",
-    "job_title": "Intern - Firmware & Product Testing AI/Machine Learning",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "18h",
-    "job_description": "• Pursuing or recently completed a Bachelor’s or Master’s degree in Computer Science, Data Science, Electrical/Computer Engineering, or a related technical field.\n• Prior project or research experience in machine learning, data science, or AI (e.\n• Strong analytical and problem‑solving skills with a foundation in mathematics and statistics.\n• Experience with machine learning frameworks such as TensorFlow or PyTorch.\n• , academic projects, Kaggle competitions).\n• Ability to work effectively in a collaborative engineering environment and communicate technical concepts clearly.\n• Strong programming proficiency in Python and familiarity with libraries such as NumPy, pandas, and scikit‑learn.\n• Familiarity with embedded systems, firmware, or hardware testing processes.",
-    "job_apply_link": "https://careers.micron.com/careers/job/40368204",
-    "id": "micron-technology-intern-firmware-product-testing-ai-machine-learning-san-jose"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Splunk SOAR Engineer",
-    "job_city": "USA FL MacDill AFB",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Cybersecurity-Splunk-SOAR-Engineer_RQ211186-1?q=software+engineering",
-    "id": "general-dynamics-splunk-soar-engineer-usa-fl-macdill-afb"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Non-Destruc Test Tech-Level",
-    "job_city": "Greer",
-    "job_state": "SC",
-    "job_posted_at": "18h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/140322/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-non-destruc-test-tech-level-greer"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Solution Engineer",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_posted_at": "18h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/139012/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-solution-engineer-tampa"
+    "job_title": "Intern - SSD Engineering",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "19h",
+    "job_description": "• Assist with customer validation activities to confirm solutions meet defined requirements.\n• Currently pursuing a degree in Computer Science, Engineering, or a related field.\n• Strong programming skills in languages such as Python or JavaScript.\n• Previous internship or project experience in a related field.\n• Experience with version control systems such as Git.\n• Strong problem‑solving, communication, and teamwork abilities, with the ability to work independently.\n• Develop and execute tests for server‑side applications to ensure reliability and performance.\n• Familiarity with web development frameworks or tools such as React, Angular, or Node.",
+    "job_apply_link": "https://careers.micron.com/careers/job/40350806",
+    "id": "micron-technology-intern-ssd-engineering-longmont"
   }
 ]
