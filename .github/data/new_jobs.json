@@ -1,52 +1,42 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Test Engineer",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "1d",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Python API and ETL Developer, SeniorlocationsMcLean, VAposted onPosted 23 Days AgoR0232875 Application Developer, SeniorlocationsWashington, DCposted onPosted 11 Days AgoR0233598 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0230956 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 22 Days AgoR0233119 Front End Developer, SeniorlocationsHerndon, VAposted onPosted 8 Days AgoR0233953 Software Developer, LeadlocationsFort Meade, MDposted onPosted 9 Days AgoR0233725.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Test-Engineer_R0233881?q=software+engineering",
-    "id": "bae-systems-software-test-engineer-annapolis-junction"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Embedded Software & Technical Signals Engineer",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
-    "job_posted_at": "1d",
-    "job_description": "• Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0231941 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 21 Days AgoR0232705 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 21 Days AgoR0232707 Software Developer, Juniorlocations5 Locationsposted onPosted 2 Days AgoR0234241 Software Developer, Juniorlocations2 Locationsposted onPosted YesterdayR0234239 MUMPS Developer, Leadlocations2 Locationsposted onPosted 29 Days AgoR0232453.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Embedded-Software---Technical-Signals-Engineer_R0234085?q=software+engineering",
-    "id": "bae-systems-embedded-software-technical-signals-engineer-colorado-springs"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Design Support Engineer",
-    "job_city": "Taiwan-Hsinchu-Puding Road",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Solutions Architect for Financial Service IndustrieslocationsJPN-Tokyo-Tamachi Stationtime typeFull timeposted onPosted 2 Days AgoR025112 Mainframe Principal Support EngineerlocationsCZE-Praha 11 V Parku 2343/24time typeFull timeposted onPosted 2 Days AgoR025174 Senior QA EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 2 Days AgoR023891 Partner GTM LeaderlocationsBRA-Sao Paulo Remote Locationtime typeFull timeposted onPosted 2 Days AgoR024933 Senior Hardware Engineerlocations2 Locationstime typeFull timeposted onPosted YesterdayR025145.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Taiwan-Hsinchu-Puding-Road/Design-Support-Engineer_R025197?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-design-support-engineer-taiwan-hsinchu-puding-road"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "SoC Power and Performance Validation Engineer",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Network Security Engineer- Automation Developerlocations3 Locationsposted onPosted 30+ Days AgoJR0278568CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0281127Supply Chain Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0280481Mechanical Design EngineerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0280301SOC Design Engineerlocations7 Locationsposted onPosted 2 Days AgoJR0279208Senior DFT Engineerlocations4 Locationsposted onPosted 25 Days AgoJR0280294HPC Network EngineerlocationsUS, New Mexico, Albuquerqueposted onPosted YesterdayJR0280863CPU Core Pre-Silicon Validation/Verification EngineerlocationsUS, California, Folsomposted onPosted 2 Days AgoJR0280966SoC PnP Validation Engineerlocations3 Locationsposted onPosted 15 Days AgoJR0280500Senior Silicon Design Engineerlocations3 Locationsposted onPosted 18 Days AgoJR0277772Memory Electrical Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 11 Days AgoJR0280654GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 23 Days AgoJR0280051Power and Perf Design Engineerlocations4 Locationsposted onPosted TodayJR0280499Power and Performance Design Engineerlocations4 Locationsposted onPosted TodayJR0280504GPU Design Verification Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0280552GPU Design Verification Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0280553SoC Design Verification Engineer - EmulationlocationsUS, Oregon, Hillsboroposted onPosted 16 Days AgoJR0280503Factory Planning Business Leadlocations4 Locationsposted onPosted 22 Days AgoJR0279315SoC Power and Performance Validation Engineerlocations3 Locationsposted onPosted YesterdayJR0281050.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/SoC-Power-and-Performance-Validation-Engineer_JR0281050?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-power-and-performance-validation-engineer-3-locations"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Custom Solutions and Glue",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Custom Solutions and Glue",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/123551109565293254-software-engineer-custom-solutions-and-glue?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-custom-solutions-and-glue-sunnyvale"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Chrome AI Test Infrastructure",
-    "job_city": "San Francisco",
+    "job_title": "Simulation Software Engineer, Edge TPU",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Chrome AI Test Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91005565383123654-software-engineer-chrome-ai-test-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-chrome-ai-test-infrastructure-san-francisco"
+    "job_description": "software engineering job for the role Simulation Software Engineer, Edge TPU",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81962357122572998-simulation-software-engineer-edge-tpu?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-simulation-software-engineer-edge-tpu-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infra Storage Security and Compliance",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infra Storage Security and Compliance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/87522312546329286-software-engineer-iii-infra-storage-security-and-compliance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-iii-infra-storage-security-and-compliance-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, YouTube Ads ML",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, YouTube Ads ML",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91161696034267846-software-engineer-iii-aiml-youtube-ads-ml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-ai-ml-youtube-ads-ml-mountain-view"
   }
 ]
