@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "Validation/Characterization Engineer",
-    "job_city": "Knoxville",
-    "job_state": "TN",
-    "job_posted_at": "3w",
-    "job_description": "• (1) Categories 0 Engineering - Product Dev (17) Information Technology (15) Manufacturing (3) Experience Level 0 Experienced Professional (14) Recent College Grads (11) Interns (10) Work Locations 0 Dallas, South Campus (8) Dallas, North Campus - DMOS V South (5) Dallas, North Campus - Kilby East (5) Knoxville, Knoxville, TN (4) Richardson, Richardson Fab, Renner Rd (3) Lehi, Lehi, UT (3) Dallas, North Campus - Kilby Center (2) Dallas, North Campus - SC Bldg (1) Sugar Land, Sugar Land, TX (1) Tucson, Tucson Williams Ctr-South Bldg,.\n• (1) Categories 0 Engineering - Product Dev (17) Information Technology (15) Manufacturing (3) Experience Level 0 Experienced Professional (14) Recent College Grads (11) Interns (10) Configure and harden operating systems, applications and network devices Administer and manage the policy and efficacy of our security tool stack.\n• Embed security controls into solutions without compromising user experience.\n• Experience with scripting languages (Python, PowerShell) and automation tools (Ansible, Terraform) – a plus.\n• Strong verbal and written communication skills.\n• Job Identification 25008861 Job Category Engineering - Product Dev Posting Date 01/28/2026, 05:46 PM Degree Level Bachelor's Degree Locations KNOX Bank East Building - 607 Market Street, Knoxville, TN, 37902, US ECL/GTC Required Yes Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Experienced Professional (14) Recent College Grads (11) Interns (10) Experienced Professional (14) Recent College Grads (11) Interns (10).",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008861/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-validation-characterization-engineer-knoxville"
+    "employer_name": "Salesforce",
+    "job_title": "Data Engineer",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308742/data-engineer/",
+    "id": "salesforce-data-engineer-mexico-mexico-city"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, BigQuery Metadata",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, BigQuery Metadata",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/123414984871813830-software-engineer-bigquery-metadata?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-bigquery-metadata-seattle"
   }
 ]
