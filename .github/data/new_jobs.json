@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Full Stack Software Developer",
-    "job_city": "Stuttgart",
-    "job_state": "Baden-Wurttemberg",
+    "employer_name": "General Dynamics",
+    "job_title": "NSIPS Test Engineer - Secret Clearance",
+    "job_city": "USA LA New Orleans",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 25 Days AgoR0232772 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 20 Days AgoR0233401 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 20 Days AgoR0233399 Software Integrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 19 Days AgoR0233456 Full Stack Software Engineer, SeniorlocationsFayetteville, NCposted onPosted 29 Days AgoR0232552 Software Reverse Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0231423 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0231841 Software Development Engineer, Leadlocations2 Locationsposted onPosted 6 Days AgoR0232799 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0232501 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0232503.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Full-Stack-Software-Developer_R0234596?q=software+engineering",
-    "id": "bae-systems-full-stack-software-developer-stuttgart"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-New-Orleans/NSIPS-Senior-Test-Engineer---Secret-Clearance_RQ215403-1?q=software+engineering",
+    "id": "general-dynamics-nsips-test-engineer-secret-clearance-usa-la-new-orleans"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "High-performance AI inference solutions Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Experience with AMD ROCm ecosystem, RCCL, and Instinct MI-series GPU architectures (MI300X, MI350X, MI355X).\n• Experience building GNN-based models for EDA or compiler optimization problems.\n• Experience with high-performance systolic array and attention kernel design for GPU accelerators.\n• Experience with distributed inference systems, multi-GPU serving at scale, and rack-level AI infrastructure.\n• Background in algorithm-hardware co-design and performance modeling across multiple GPU generations.\n• Experience in high-performance computing, AI inference, GPU kernel development, or hardware-software co-design.\n• Strong proficiency in C++, Python, and CUDA/HIP with hands-on experience writing and optimizing GPU kernels for AI workloads.\n• Deep understanding of compiler infrastructure (LLVM, MLIR) and experience with compiler optimization passes targeting GPU architectures.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/78840/login",
+    "id": "amd-high-performance-ai-inference-solutions-engineer-us"
   }
 ]
