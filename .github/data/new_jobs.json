@@ -1,142 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sales Development Representative – IBM/Red Hat",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Sales Development Representative – IBM/Red Hat",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95526&source=WEB_Search_NA",
-    "id": "ibm-sales-development-representative-ibm-red-hat-austin"
+    "employer_name": "Honeywell",
+    "job_title": "DevOps Platform Engineer",
+    "job_city": "",
+    "job_state": "NC",
+    "job_posted_at": "23h",
+    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/134916/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-devops-platform-engineer-"
   },
   {
-    "employer_name": "Salesforce",
-    "job_title": "AI Engineer, ML Systems",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr329632/ai-engineer-ml-systems/",
-    "id": "salesforce-ai-engineer-ml-systems-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "AI Engineer, Agent Systems",
-    "job_city": "California - Palo Alto",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr329631/ai-engineer-agent-systems/",
-    "id": "salesforce-ai-engineer-agent-systems-california-palo-alto"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Renewals Programs User Experience",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Design end-to-end user experiences for Renewal Managers, focusing on simplifying the experience of complex workflows involving customer data analysis, renewal forecasting, and stakeholder collaborationCreate intuitive interfaces that integrate Agentforce AI recommendations, Tableau dashboards, and Canvas documentation into cohesive visualsDevelop design systems and patterns specific to renewals operations that scale across different user personas and use casesDesign conversational UI patterns for Agentforce interactions for internal and external constituents that enhance (not replace) the decision-making processCreate information architectures that surface the right data at the right time in the renewal lifecycleDesign for edge cases and exception handling in high-stakes renewal scenariosDesign systems to consolidate multiple data runs into intuitive interfaces to make rapid determinations.\n• Assist in notification and alerting strategies to allow users to make the best decisions of large data setsAssist in redesign and enhancement of email notifications and how to represent user data to the customerConsult on “Nudge Overload“ and best practices for throttling messaging or redesigning how messages are delivered timely to users Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 5+ years of UI/UX design experience, preferably in B2B SaaS or enterprise softwareProven track record designing complex, data-driven applications for business usersExperience with design systems and creating scalable design patternsPortfolio demonstrating systems-level thinking and end-to-end workflow designExperience with Salesforce solutions such as: Sales Cloud, Service Cloud, Slack, Canvas, Data Cloud, Tableau, Tableau Next, Salesforce Reports and Dashboards Partner with Renewal Managers, Sales Operations, and Product teams to understand pain points and opportunitiesConduct user research, usability testing, and workflow analysis specific to renewals processesCollaborate with engineering teams to ensure design feasibility and optimal implementationWork closely with the Experience Design leadership team (reporting to Sr.\n• Director level) to align on design strategy Experience designing for sales operations, customer success, or renewals teamsFamiliarity with larger Salesforce platform and ecosystemBackground in designing Tableau dashboards or embedded analyticsExperience with Canvas or similar collaborative documentation toolsUnderstanding of enterprise software workflows and complex B2B processesExperience with data systems such as Snowflake and Databricks Expert proficiency in Figma, Sketch, or similar design toolsStrong understanding of user research methodologies and usability testingExperience designing for AI/ML-powered features or conversational interfacesKnowledge of data visualization best practices and analytics UXUnderstanding of collaborative tools and real-time editing experiences University Overview Interns New Grads Advanced Degrees Associate Program Manager Design Agentforce agent interactions that provide actionable insights for renewal decisionsCreate data visualization patterns that make Tableau analytics accessible and actionable for busy Renewal ManagersCreate projected analysis visualizations that predict the future based on past data trendsDesign Canvas templates and workflows optimized for renewal documentation and stakeholder alignmentBalance AI-generated recommendations with human oversight and control.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr330955/renewals-programs-user-experience/",
-    "id": "salesforce-renewals-programs-user-experience-illinois-chicago"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Package Engineering Intern - Ph. D Degree",
-    "job_city": "Santa Clara",
+    "employer_name": "Honeywell",
+    "job_title": "Sheet Metal Worker - Level",
+    "job_city": "Torrance",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• D DegreelocationsSanta Clara, CAposted onPosted Today2502295Senior Staff Manufacturing Test EngineerlocationsIrvine, CAposted onPosted Today2600432Principal Technical Program Manager-IP conception/design to SoC/platform-level implementation and validation program executionlocationsSanta Clara, CAposted onPosted Today2600358Senior Staff Engineer, Advanced Package Technology Development & DesignlocationsWestlake Village, CAposted onPosted Today2503426Senior Account ManagerlocationsSanta Clara, CAposted onPosted Yesterday2600529Senior Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted Yesterday2503283Senior Principal Technical Program Manager - Supporting Pre and Post Silicon Validation Design ProgramslocationsSanta Clara, CAposted onPosted Yesterday2503120Sr.\n• Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 7 Days Ago2501691Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2502955Package Engineering Intern - Ph.\n• Staff CAD EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2600480Director, Financelocations2 Locationsposted onPosted 2 Days Ago2600534Senior Staff ASIC Product EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2501566Principal Engineer - Design For Test (DFT)locationsMorrisville, NCposted onPosted 2 Days Ago2600530Senior Staff Analog Design EngineerlocationsIrvine, CAposted onPosted 2 Days Ago2503427Distinguished Engineer, VerificationlocationsSanta Clara, CAposted onPosted 3 Days Ago2600485Hardware & Silicon Validation Principal EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2600384Staff DFT EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2600363Senior PIC Design EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2600355Staff Optical EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2600285Principal Procurement Manager - semiconductor manufacturing/OSATlocationsSanta Clara, CAposted onPosted 4 Days Ago2503638.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Package-Engineering-Intern---PhD_2502295-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-package-engineering-intern-ph-d-degree-santa-clara"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "CAD Engineer - SOC Design Methodology",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Platform Software Engineer – Factorylocations2 Locationsposted onPosted 3 Days AgoJR2012307Manager, Software Engineering - Profiling ServiceslocationsUS, CA, Santa Claraposted onPosted 26 Days AgoJR2012190Senior Deep Learning Software Engineerlocations2 Locationsposted onPosted 26 Days AgoJR2012411Senior System Software Engineer - VideolocationsUS, CA, Santa Claraposted onPosted 26 Days AgoJR2000371Senior Software Engineer - DPU PlatformlocationsUS, MA, Westfordposted onPosted 22 Days AgoJR2011761Senior Software Engineer, AI Resiliencylocations2 Locationsposted onPosted 21 Days AgoJR2012767Linux Graphics Senior Software Engineerlocations5 Locationsposted onPosted 15 Days AgoJR2012680Senior System Software Engineer - RoboticslocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR2012761Senior QA Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2012878Senior System Software Engineer, TegralocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2011818Senior Software Engineer, Graphics Performancelocations4 Locationsposted onPosted 12 Days AgoJR2012523System Software Engineer, Distributed SystemslocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR2013472Principal Software Engineer, Full StacklocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2013344CAD Engineer - SOC Design Methodologylocations2 Locationsposted onPosted TodayJR2013403Senior Software Engineer - Scanner Automationlocations6 Locationsposted onPosted YesterdayJR2013026Principal Software Engineer - AI Inferencelocations2 Locationsposted onPosted 2 Days AgoJR2013753Senior Full-Stack Software Engineerlocations2 Locationsposted onPosted YesterdayJR2013971Senior Software Engineer - NVIDIA Warplocations2 Locationsposted onPosted YesterdayJR2012134Senior System Software Engineer - Data Engineeringlocations2 Locationsposted onPosted 12 Days AgoJR2013258Senior Software Engineer, AI Storage Infrastructurelocations2 Locationsposted onPosted 3 Days AgoJR2001360.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--SOC-Design-Methodology_JR2013403?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-cad-engineer-soc-design-methodology-2-locations"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Technical Writer",
-    "job_city": "Ashburn",
-    "job_state": "Virginia",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Software Engineerlocations2 Locationstime typeFull timeposted onPosted TodayR-1091526Principal Network EngineerlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1091524Technical WriterlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1091523Prinicpal Network EngineerlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1091520Engr III-Security Engrglocations3 Locationstime typeFull timeposted onPosted 5 Days AgoR-1090753Distinguished Engineer - Golden Config & Automation Architectlocations7 Locationstime typeFull timeposted onPosted 9 Days AgoR-1090823Principal Engineer – Automation Leadlocations6 Locationstime typeFull timeposted onPosted 9 Days AgoR-1090925Unified Collaboration (UC) Technical Project Managerlocations2 Locationstime typeFull timeposted onPosted 21 Days AgoR-1090673Principal Engineer Network Securitylocations5 Locationstime typeFull timeposted onPosted 21 Days AgoR-1090663Architect III - Solutions Architectlocations3 Locationstime typeFull timeposted onPosted 23 Days AgoR-1090628Principal Wi-Fi / Engineering Architect (Venues & Stadiums) ConsultantlocationsLivingston, New Jerseytime typeFull timeposted onPosted 23 Days AgoR-1090601.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Ashburn-Virginia/Technical-Writer_R-1091523?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-technical-writer-ashburn"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Prinicpal Network Engineer",
-    "job_city": "Ashburn",
-    "job_state": "Virginia",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Software Engineerlocations2 Locationstime typeFull timeposted onPosted TodayR-1091526Principal Network EngineerlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1091524Technical WriterlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1091523Prinicpal Network EngineerlocationsAshburn, Virginiatime typeFull timeposted onPosted TodayR-1091520Engr III-Security Engrglocations3 Locationstime typeFull timeposted onPosted 5 Days AgoR-1090753Distinguished Engineer - Golden Config & Automation Architectlocations7 Locationstime typeFull timeposted onPosted 9 Days AgoR-1090823Principal Engineer – Automation Leadlocations6 Locationstime typeFull timeposted onPosted 9 Days AgoR-1090925Unified Collaboration (UC) Technical Project Managerlocations2 Locationstime typeFull timeposted onPosted 21 Days AgoR-1090673Principal Engineer Network Securitylocations5 Locationstime typeFull timeposted onPosted 21 Days AgoR-1090663Architect III - Solutions Architectlocations3 Locationstime typeFull timeposted onPosted 23 Days AgoR-1090628Principal Wi-Fi / Engineering Architect (Venues & Stadiums) ConsultantlocationsLivingston, New Jerseytime typeFull timeposted onPosted 23 Days AgoR-1090601.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Ashburn-Virginia/Prinicpal-Network-Engineer_R-1091520?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-prinicpal-network-engineer-ashburn"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Systems Engineer II - Flight Management Systems",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "21h",
+    "job_posted_at": "23h",
     "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/139777/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-systems-engineer-ii-flight-management-systems-"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "R&D Engineer/Scientist",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "21h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/138823/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-r-d-engineer-scientist-"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "HSE Engineer",
-    "job_city": "Tonawanda",
-    "job_state": "NY",
-    "job_posted_at": "21h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/138551/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-hse-engineer-tonawanda"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Material Handler - Level 3 - 1st Shift",
-    "job_city": "Clearwater",
-    "job_state": "FL",
-    "job_posted_at": "21h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/139546/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-material-handler-level-3-1st-shift-clearwater"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Electrician, Numerical Control (2nd or 3rd Shift)",
-    "job_city": "South Bend",
-    "job_state": "IN",
-    "job_posted_at": "21h",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/139530/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-electrician-numerical-control-2nd-or-3rd-shift-south-bend"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, AWS Marketplace",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Software Development Engineer, AWS Marketplace",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3189706/software-development-engineer-aws-marketplace",
-    "id": "amazon-software-development-engineer-aws-marketplace-austin"
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/140608/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-sheet-metal-worker-level-torrance"
   }
 ]
