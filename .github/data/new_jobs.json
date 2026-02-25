@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Illumina",
+    "job_title": "Electrical Test Engineer",
+    "job_city": "US - California - San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Software EngineerlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41712-JOBSenior Software Engineer - Instrument SoftwarelocationsUS - California - San Diegoposted onPosted 30+ Days Ago41346-JOBSenior Software Engineer (Primary Analysis)locationsUS - California - San Diegoposted onPosted 7 Days Ago42245-JOBSr Software Engineer - Instrument Control - C#locationsUS - California - San Diego - HQposted onPosted 8 Days Ago42223-JOBSr Manager Software Engineering, Software Integration TestlocationsUS - California - San Diegoposted onPosted 30+ Days Ago42049-JOBSystems Support Engineer 1locationsUS - California - San Diegoposted onPosted 5 Days Ago42287-JOBHuman Factors EngineerlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41919-JOBStaff IT Engineer, End User Computing & Lab ITlocationsUS - California - San Diegoposted onPosted 9 Days Ago41402-JOBOptical Engineer 2 - DevelopmentlocationsUS - California - San Diegoposted onPosted 30+ Days Ago41783-JOBElectrical Test Engineer 1locationsUS - California - San Diegoposted onPosted Today42316-JOBEngineer 1 - Fluidic SystemslocationsUS - California - San Diegoposted onPosted 13 Days Ago42275-JOBSenior Bioinformatics ScientistlocationsUS - California - San Diegoposted onPosted 7 Days Ago42244-JOBStaff System ArchitectlocationsUS - California - San Diegoposted onPosted 6 Days Ago42212-JOBSr.\n• Technical Project Manager - Product Life Cycle ManagementlocationsUS - Bay Area - Haywardposted onPosted 20 Days Ago41841-JOBSenior Staff ScientistlocationsUS - California - San Diegoposted onPosted 30+ Days Ago40900-JOB.",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Electrical-Test-Engineer-1_42316-JOB?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-electrical-test-engineer-us-california-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "FPGA Prototyping/Emulation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/fpga-prototyping-emulation-engineer/33099/91922656064",
+    "id": "arm-fpga-prototyping-emulation-engineer-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Rust",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Rust",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77516125373375174-software-engineer-rust?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-rust-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Infrastructure, Shopping",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Infrastructure, Shopping",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/130348483721732806-software-engineer-infrastructure-shopping?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-infrastructure-shopping-pittsburgh"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Computer Vision, Map Geometry",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Computer Vision, Map Geometry",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/109776896043950790-software-engineer-iii-computer-vision-map-geometry?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-iii-computer-vision-map-geometry-mountain-view"
+  }
+]
