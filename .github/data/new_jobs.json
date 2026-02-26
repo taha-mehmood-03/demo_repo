@@ -1,32 +1,52 @@
 [
   {
-    "employer_name": "Magna International",
-    "job_title": "Maintenance Technician",
-    "job_city": "Liberty",
-    "job_state": "Missouri",
+    "employer_name": "IBM",
+    "job_title": "Hardware Design Technician Apprentice",
+    "job_city": "shipAustin",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Document Control CoordinatorlocationsBowling Green, Ohio, USposted onPosted YesterdayR00232277Maintenance Intern - Summer 2026locationsWarren, Michigan, USposted onPosted 30+ Days AgoR00225593Quality Continuous Improvement (CI) InternlocationsLansing, Michigan, USposted onPosted 30+ Days AgoR00227594Innovation Ventures Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR002256421st shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR002126082nd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR002126103rd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR00212611Thinning Analysis TechlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00175377Thinning Analysis Team LeaderlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00174307Maintenance Technician III-B ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00198151Paint and Waste Treatment Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 12 Days AgoR00228984Maintenance Technician IlocationsLiberty, Missouri, USposted onPosted TodayR00231930Production SupervisorlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR00222843Clerk, AccountinglocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00208801UI/UX Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 22 Days AgoR00229135Quality Technician/Weld DestructlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00213936Quality Inspect/Weld DestructlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00214126Maintenance PlannerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00214943Materials ManagerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00206366Senior Financial AnalystlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00225675.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Liberty-Missouri-US/Maintenance-Technician-I_R00231930?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-maintenance-technician-liberty"
+    "job_description": "software engineering job for the role Hardware Design Technician Apprentice",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95542&source=WEB_Search_NA",
+    "id": "ibm-hardware-design-technician-apprentice-shipaustin"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "C++ Software Engineer - GPU Modeling",
-    "job_city": "US",
-    "job_state": "FL",
+    "employer_name": "General Dynamics",
+    "job_title": "ServiceNow Developer",
+    "job_city": "USA NE Offutt AFB",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Proven, hands-on experience in object-oriented programming using C/C++.\n• Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, or a related discipline.\n• Familiarity with advanced text editors and IDEs.\n• Good understanding of computer organization and architecture.\n• Graphics / GPU knowledge.\n• Hardware design knowledge: working close to hardware concepts.\n• Low-level programming a plus.\n• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/78384/login",
-    "id": "amd-c-software-engineer-gpu-modeling-us"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/ServiceNow-Developer_RQ215656-1?q=software+engineering",
+    "id": "general-dynamics-servicenow-developer-usa-ne-offutt-afb"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Software R&D Engineer – GPU Kernel Development",
-    "job_city": "US",
-    "job_state": "FL",
+    "employer_name": "General Dynamics",
+    "job_title": "Junior ServiceNow Developer (Entry-Level)",
+    "job_city": "USA MD Windsor Mill",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Experienced in low-level programming to maximize performance for AI operations, leveraging tools like Compute Kernel (CK) and/or CUTLASS for multi-GPU and multi-platform performance.\n• Experience in running large-scale HPC workloads on heterogeneous compute clusters, optimizing for efficiency and scalability.\n• Experienced in designing and optimizing GPU kernels on AMD/Nvidia GPUs using HIP, CUDA, and/or assembly (ASM).\n• Experience with model optimization, such as low-precision quantization (MXFP4, FP8, INT4).\n• Benchmarking and Testing: Develop benchmarks and testing procedures to assess the performance and stability of optimized models and frameworks.\n• Ensure that the solutions meet or exceed the defined performance criteria.\n• Parallel Computing: Leverage parallel computing techniques to improve the scalability and performance of machine learning workloads.\n• Implement multi-threading and GPU synchronization techniques.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/77489/login",
-    "id": "amd-software-r-d-engineer-gpu-kernel-development-us"
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Windsor-Mill/Junior-ServiceNow-Developer--Entry-Level-_RQ215496-1?q=software+engineering",
+    "id": "general-dynamics-junior-servicenow-developer-entry-level-usa-md-windsor-mill"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Graphics Developer Tools Software Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior System Software Engineer - RoboticslocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR2012761Senior QA Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2012878Senior System Software Engineer, TegralocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2011818Senior Software Engineer, Graphics Performancelocations4 Locationsposted onPosted 12 Days AgoJR2012523System Software Engineer, Distributed SystemslocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR2013472Principal Software Engineer, Full StacklocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2013344Senior Software Engineer - Scanner Automationlocations6 Locationsposted onPosted YesterdayJR2013026Principal Software Engineer - AI Inferencelocations2 Locationsposted onPosted 2 Days AgoJR2013753Senior Software Engineer, Quantized Inferencelocations2 Locationsposted onPosted TodayJR2013890Graphics Developer Tools Software Engineerlocations2 Locationsposted onPosted TodayJR2013628Senior Full-Stack Software Engineerlocations2 Locationsposted onPosted YesterdayJR2013971Senior Software Engineer - NVIDIA Warplocations2 Locationsposted onPosted YesterdayJR2012134Senior System Software Engineer - Data Engineeringlocations2 Locationsposted onPosted 12 Days AgoJR2013258Senior Software Engineer, AI Storage Infrastructurelocations2 Locationsposted onPosted 3 Days AgoJR2001360Principal Software Engineer, AIOps and ObservabilitylocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2009014Senior Software Engineer, Fabric Networking - GPUlocations2 Locationsposted onPosted 6 Days AgoJR1990846Senior System Software Engineer - GPU Performancelocations2 Locationsposted onPosted 3 Days AgoJR1997214Linux GPU Senior System Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR1998968Senior System Software Engineer Platform - OpenBMClocations2 Locationsposted onPosted 4 Days AgoJR1999525Principal System Software Engineer - CUDA DriverlocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2001780.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Graphics-Developer-Tools-Software-Engineer_JR2013628?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-graphics-developer-tools-software-engineer-2-locations"
+  },
+  {
+    "employer_name": "Workday",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "USA",
+    "job_state": "CO",
+    "job_posted_at": "1d",
+    "job_description": "• Sr Manager Core Software (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 13 Days AgoJR-0103019Sr Cloud Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 20 Days AgoJR-0097206Software Development Engineer: Deployment Adoption Platform (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 16 Days AgoJR-0097795Software Development Engineer, DevOps - Lifecycle Platform (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097425Sr.\n• ServiceNow Application Engineerremote typeFlexlocations3 Locationsposted onPosted 30+ Days AgoJR-0099682Machine Learning Engineerremote typeFlexlocationsUSA, CO, Boulderposted onPosted TodayJR-0104464Senior Cybersecurity Engineerremote typeFlexlocations2 Locationsposted onPosted 16 Days AgoJR-0104087Senior Site Reliability Engineerremote typeFlexlocations2 Locationsposted onPosted 19 Days AgoJR-0104084Platform Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0093733Principal Machine Learning Engineerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 13 Days AgoJR-0104014Senior Principal Open Source Architectremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 12 Days AgoJR-0104000Senior/Principal Machine Learning Engineerremote typeFlexlocations2 Locationsposted onPosted 28 Days AgoJR-0102782Senior Cybersecurity Engineer - Network Security and Network Fundamentalsremote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0094674Principal Machine Learning Engineer - Evisort AIremote typeFlexlocations2 Locationsposted onPosted 30+ Days AgoJR-0098981Sr.\n• Engagement Manager, AI Solutions Deliveryremote typeFlexlocations7 Locationsposted onPosted TodayJR-0101600Senior Functional Consultant for Workday CLM Evisortremote typeFlexlocations133 Locationsposted onPosted YesterdayJR-0102906Senior Technical Consultant - Data Conversionremote typeRemotelocations2 Locationsposted onPosted 2 Days AgoJR-0103289Sr.\n• Healthcare Technical Integration Consultant(Fins)remote typeFlexlocations75 Locationsposted onPosted 2 Days AgoJR-0103792Engagement Managerremote typeFlexlocationsUSA, NY, New York Cityposted onPosted YesterdayJR-0104440Senior Technical Integration Consultant - AI HCM Solutionsremote typeFlexlocations6 Locationsposted onPosted 2 Days AgoJR-0103787.",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Machine-Learning-Engineer_JR-0104464?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-machine-learning-engineer-usa"
   }
 ]
