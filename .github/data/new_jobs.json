@@ -1,122 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Firmware Developer",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Firmware Developer",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97077&source=WEB_Search_NA",
-    "id": "ibm-entry-level-firmware-developer-rochester"
-  },
-  {
     "employer_name": "Salesforce",
-    "job_title": "Slack Deal Desk Associate",
+    "job_title": "Design Solution Engineer",
     "job_city": "New York - New York",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr331174/slack-deal-desk-associate/",
-    "id": "salesforce-slack-deal-desk-associate-new-york-new-york"
+    "job_description": "• Work cross-functionally, with deep alignment to Strategic Solution Engineers, delivering on strategic business priorities focused on scale across our industryEstablish strong technical credibility and design POV, creating beautifully branded and executive-ready demo assets across the teamLead the CBS Microsite strategy, maximizing customer impact through scaleContribute to pipeline creation, working closely with account teams to identify patterns for scale projectsCollaborate across all CBS segments (commercial and enterprise) to ensure consistency in messaging, approach, and executionDrive multiplier impact on strategic accounts, ensuring scalable success across the industryCreate demo videos and self-guided click through demos, supporting create new ways of delivering content to prospects and customersSupport bespoke demo components for accounts on a need basisSupport creation of holodecks and executive presentationsSupport customer workshops with prototyping and visual mockups and outputsSupport RFP responses, packaging up complex bill of materials in an executive-ready formatBuild custom apps and web components to support product demosCreate visual prototypes and mock-ups, allowing customers to get a true sense for what an implemented solution could look like in their environment (using various tools like slides or Figma)Create exceptional visual assets that amplify messaging and capture executive attention, including executive presentations, one-pagers, customer journey maps, and thought leadership contentExperiment and prototype with new technology and mediums to bring ideas to life in innovative ways for customer engagementsDesign and maintain a clean, organized library of reusable assets, templates, and frameworks for the territory and broader teamApply critical thinking skills and creativity to create catered, innovative narratives that help clarify and consolidate complex technical messagingBuild motion graphics, video components, and interactive prototypes to showcase platform capabilities and customer outcomes 3+ years of design experience either in-house, agency, or at a consulting practiceExperience with demo tools like Saleo, Cursor, and demo vibe codingBackground in graphic design, communication design, or UX designProficiency in Adobe Creative Suite, Figma, and Google SlidesStrong craft and design sensibility, including typography, visual hierarchy, photography curation, and creating seamless digital experiencesAbility to quickly bring ideas to life through a variety of means, from hand-drawn storyboards to polished presentations and interactive prototypesProven ability to quickly pivot between different brand identities and visual languagesExemplary verbal and written communication skills, including presentation creation and delivery at the C-suite levelTrack record of solution engineering, consultancy, delivery, or training success for an enterprise software solution organizationStrong understanding of Salesforce solutions and capabilitiesThrives in ambiguity and \"just in time\" work, demonstrating a self-starter attitude that takes initiative and relentlessly moves the ball forwardRuthless prioritization skills and high comfort level working within a Sales organizationDemonstrated ability to collaborate across multi-disciplinary teams and create in an iterative fashionInquisitive, practical, and passionate about technology, design, and sharing knowledge and standard processesUnderstanding of Cross Cloud technologiesCrucial to demonstrate an understanding of key industry processes including appropriate AI use cases Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 3 or more years' experience as a solution/sales engineer for a CRM company or similar technologyExperience in Core Solution Engineering and CBS industry University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr329373/design-solution-engineer/",
+    "id": "salesforce-design-solution-engineer-new-york-new-york"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Systems Engineer",
-    "job_city": "San Diego",
+    "employer_name": "Broadcom",
+    "job_title": "Field Applications Engineer",
+    "job_city": "USA-Pennsylvania - location",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsMaster’s degree or foreign equivalent in Electrical Engineering, Computer and Information Technology, or a related field.\n• Experience and/or education must include:Writing and debugging system daemon (OS) software to deliver stated functionality of processes running on multi-core CPU, in C++, Obj-C, and SwiftWriting framework/library to expose the underlying OS software access to other developers, C++ and SwiftReviewing other developer’s code, reconstituting and inferring the underlying intention and design goal in C++, Objc-C, Swift, python code reviewWriting micro-controller firmware to control wireless chipsWriting C++, Objc-C, Swift libraries to expose the firmware access, or data type to developers outside the teamWriting test scripts to exercise the feature on CPU, and micro-controller, in Python, Swift, Obj-CWriting and understanding signal processing / controls algorithms in Matlab, NumPy, C++Integrating the software and firmware build and test into a continuous integration servers, including Jenkins, XcodeBuildUsing software tools including GDB and Valgrind to instrument and analyze the software performance and diagnose hotspotsDiagnosing and resolving complex low-level operating system issues, such as process scheduling, memory management (e.\n• Leaks, corruption), and concurrency challenges.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200647572-3543/software-systems-engineer?team=SFTWR",
-    "id": "apple-software-systems-engineer-san-diego"
+    "job_description": "• Mainframe Principal Technical Support Engineer (Sydney, Australia)locationsAUS-Sydney- Pitt St.\n• Time typeFull timeposted onPosted 3 Days AgoR025187 Senior ManagerlocationsUSA-CA - Promontory Ctime typeFull timeposted onPosted YesterdayR025199 Agile Program Managerlocations2 Locationstime typeFull timeposted onPosted TodayR025167 Firmware Managerlocations3 Locationstime typeFull timeposted onPosted YesterdayR025249.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Pennsylvania---Remote-location/Field-Applications-Engineer_R025185?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-field-applications-engineer-usa-pennsylvania-location"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineering Applications",
-    "job_city": "Cupertino",
+    "employer_name": "Broadcom",
+    "job_title": "Board Validation Engineer",
+    "job_city": "USA-GA-Duluth-River Green Parkway",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Computer or Information Technology, Information Security, or related field.\n• Experience and/or education must include:Identifying and selecting proper data structures including list, map, queue, etc to solve large scale data processing problem.\n• Utilizing Java and Spring Boot framework to implement micro services.\n• Utilizing PKI and cryptography principles to secure communications between services and protect sensitive information.\n• Applying Object Oriented Design principles to develop scalable and maintainable applications,Developing application with SQL DB (e.\n• Oracle) or NoSQL DB (e.\n• Leveraging messaging systems including RabbitMq or Kafka to handle asynchronous processing and distributed computing.\n• Utilizing frontend framework including ReactJs, Angular, or similar technologies to utility tools for managing backend process.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200647680-0836/software-engineering-applications?team=SFTWR",
-    "id": "apple-software-engineering-applications-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineering Applications",
-    "job_city": "New York City",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBachelor’s Degree or foreign equivalent in any Engineering field.\n• Experience and/or education must include:Monitoring and screening chat rooms in Slack for urgent issues or questions and responding or escalating issues to developers as appropriate for timely resolution to identify the root cause to move forward with how to resolve the issueMaintaining documentation of UI and server based features by editing existing information on Quip and Confluence using screenshots, behaviors, and identifying the appropriate developers for communicationsRunning bug reviews via Webex for development teams to keep issues moving through systems by creating and maintaining bug queries and sending email summaries and reminders.\n• Mentoring junior engineers and screeners on career experience using Slack and Webex to update on current process for screening bugs, answering questions, and referring them to documentation.\n• Using Python to develop, analyze and maintain tools that support and automate processes for bug screening issues in softwareUsing Python to create scripts that extract, manipulate, and display logs to enable data surfacing for faster screening.\n• Leveraging iOS infrastructure to collect and investigate logs and reproduce issuesUsing JavaScript and client to server communications including Charles to investigate issues and determine whether the problem is on the client or server side.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200647832-2459/software-engineering-applications?team=SFTWR",
-    "id": "apple-software-engineering-applications-new-york-city"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Streaming Software Development Engineer, Vision Products Software",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBS/MS in CS/CE and/or equivalent with 3+ years of experienceAbility to understand end to end architectures and functional details of a complex system with multiple inter-dependenciesExperience working with audio visual mediaStrong software development experience in C / C++ for multi-threaded/systems developmentOutstanding analytical, programming and debugging skillsExcellent communication skills, ability to collaborate and deliver under aggressive schedules.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200648947-3401/streaming-software-development-engineer-vision-products-software?team=SFTWR",
-    "id": "apple-streaming-software-development-engineer-vision-products-software-"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Applications",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsMaster's degree or foreign equivalent in Computer Science or a related field and 3 years of work experience in the job offered or related occupation.\n• 3 years of experience with each of the following skills is required:Using Linux shell Scripts to improve deployment infrastructure and processing.\n• Using Load Balancers, DNS, Nginx to ensure reliable traffic routing, fast failover, and prevention of silent outages across distributed systemsUsing SQL (e.\n• Oracle, Postgres), NoSQL datastore (e.\n• Couchbase, Cassandra), messaging (e.\n• Kafka, RabbitMQ) and search technologies (e.\n• Solr, Elastic Search).\n• Managing Configuration management using Ansible, Jenkins, and Git.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200647741-0836/software-engineer-applications?team=SFTWR",
-    "id": "apple-software-engineer-applications-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Applications",
-    "job_city": "New York City",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Computer Science, Cognitive Science or related fieldExperience and/or education must include:Utilizing relational (SQL) and non-relational databases to design and optimize data schemas for distributed systemsUtilizing object-oriented and functional languages (Java, Python) to design and develop multi-language codebasesUtilizing JavaScript and ReactJS to implement real-time collaboration features for webTranslating design requirements into functional specificationsUtilizing test-driven development (TDD) to drive code implementation through continuous testingUtilizing Jenkins for continuous integration and continuous delivery (CI/CD) to automate build, test, and deployment processesUtilizing GitHub for source code management.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200647801-2459/software-engineer-applications?team=SFTWR",
-    "id": "apple-software-engineer-applications-new-york-city"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "AR/VR, Embedded Software Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBS in Computer Science/Computer Engineering or equivalent experience/skillsAt least 4 years of relevant experienceIn-depth knowledge of C/C++Strong knowledge of operating systems fundamentals and embedded systemsExperience in developing kernel drivers, embedded firmware, system frameworks, etc.\n• Strong analytical and debugging skillsStrong communication and collaboration skills.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200648459-3956/ar-vr-embedded-software-engineer?team=SFTWR",
-    "id": "apple-ar-vr-embedded-software-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "AR/VR SW Development Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Computer Science or related field.\n• Experience and/or education must include:Performing Application and User Interface development using Swift, SwiftUI, and Objective-CUtilizing multi-threaded programming and concurrency frameworks for distributed and asychronous workloadsUtilizing cross-process communication, notify/observer design patterns, and process/data sandboxing strategies to facilitate system-level feature developmentUtilizing spatial rendering concepts for AR/VR applicationsUtilizing Continuous Integration and Development pipelines to deliver shipping softwareTranslating design requirements into functional specifications across multiple teams and dependent componentsDebugging and triaging using interactive debuggers, system logs, and crash report analysisProviding concise updates to varying levels of corporate engineering and leadership.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200647605-0836/ar-vr-sw-development-engineer?team=SFTWR",
-    "id": "apple-ar-vr-sw-development-engineer-cupertino"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Production Planner",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Your role will involve collaborating with cross-functional teams to design, develop, and implement software applications that meet the needs of our customers.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• The ideal candidate will bring hands‑on experience with system‑level testing, REST APIs, structured data formats, and embedded or IoT platforms to ensure the reliability, performance, and compliance of technologies deployed across mission‑critical environments worldwide.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• Collaborate with cross-functional teams to meet software engineering requirements You will report directly to our Senior Engineering Manager and you will work out of our Phoenix, AZ location on a Hybrid work schedule.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/132867/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-production-planner-san-diego"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "2h",
-    "job_description": "software engineering job for the role Software Development Engineer",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3191123/software-development-engineer",
-    "id": "amazon-software-development-engineer-redmond"
+    "job_description": "• Mainframe Principal Technical Support Engineer (Sydney, Australia)locationsAUS-Sydney- Pitt St.\n• Time typeFull timeposted onPosted 3 Days AgoR025187 Senior ManagerlocationsUSA-CA - Promontory Ctime typeFull timeposted onPosted YesterdayR025199 Agile Program Managerlocations2 Locationstime typeFull timeposted onPosted TodayR025167 Firmware Managerlocations3 Locationstime typeFull timeposted onPosted YesterdayR025249.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Validation-Engineer_R025092?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-board-validation-engineer-usa-ga-duluth-river-green-parkway"
   }
 ]
