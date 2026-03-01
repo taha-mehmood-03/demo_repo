@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Technology - AMAIS",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1w",
+    "job_description": "• Education should include either a B.\n• Strong skills in: modeling, software development, debugging, and problem-solving, and writing reports and/or user guides/manuals Experience working with process models, time-series data, images, and Manufacturing data Experience in the areas: Engineering/Sciences modeling and AI techniques Familiarity with semiconductor processes or integration is encouraged Ability to work with sparse data sets and ill-defined problems.\n• Familiar with meshing techniques and numerical solvers Experience with Finite elements, level sets, and CAD Experience with Bash, Python, C++ Package Health - Principal/Staff/Senior Engineer, Advanced Packaging Technology DevelopmentSingapore, SingaporePosted 3 months ago.\n• In Engineering, Physics, Chemistry, Computer Science, or Data Science, and M.\n• With specialization in HPC and/or AI.",
+    "job_apply_link": "https://careers.micron.com/careers/job/40366943",
+    "id": "micron-technology-intern-technology-amais-boise"
+  }
+]
