@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer 2026 – Adobe",
-    "job_city": "",
-    "job_state": "United States",
+    "employer_name": "Analog Devices",
+    "job_title": "Equipment Technician 1, Epitaxy (Night Shift)",
+    "job_city": "US",
+    "job_state": "OR",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer 2026 – Adobe",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90518&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-2026-adobe-"
+    "job_description": "• Lead Linux and Data Administrator locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258252Staff Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 18 Days AgoR260738Agile LeadlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR260672Finance Data Product EngineerlocationsUS, MA, Wilmingtonposted onPosted 11 Days AgoR260555Senior Product Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR256260Systems Integration Engineerlocations4 Locationsposted onPosted 30+ Days AgoR255211Staff Medical Product Quality & Reliability EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258256Equipment EngineeringlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR260616Senior Engineer, Analog Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR255248Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR257074Equipment Technician 1, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted TodayR261052Staff Test Development EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258712Linux Administrator, Engineering IT Infrastructure & OpslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258253Principal Motion System Engineer - RoboticslocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR260584Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR255208Semi Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255209Equipment EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR257320Equipment EngineerlocationsUS, WA, Camasposted onPosted 26 Days AgoR260410Equipment Technician 3, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 19 Days AgoR260381Equipment Technician 3, Diffusion & Wet Sink (Day Shift)locationsUS, OR, Beavertonposted onPosted 19 Days AgoR260382.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-1--Epitaxy--Night-Shift-_R261052?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-equipment-technician-1-epitaxy-night-shift-us"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Embedded Software Development Engineer, Ring",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "5d",
-    "job_description": "software engineering job for the role Embedded Software Development Engineer, Ring",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3190756/embedded-software-development-engineer-ring",
-    "id": "amazon-embedded-software-development-engineer-ring-sunnyvale"
+    "employer_name": "BAE Systems",
+    "job_title": "Azure Cloud Developer, Mid",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 5 Days AgoR0234704 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 4 Days AgoR0231941 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0230956 Software Developer, LeadlocationsFort Meade, MDposted onPosted 5 Days AgoR0233725 PHP Developer, SeniorlocationsChantilly, VAposted onPosted 2 Days AgoR0234945.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Azure-Cloud-Developer--Mid_R0234974?q=software+engineering",
+    "id": "bae-systems-azure-cloud-developer-mid-2-locations"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Google Cloud Storage",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Google Cloud Storage",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/104226380958311110-software-engineer-iii-aiml-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-iii-ai-ml-google-cloud-storage-seattle"
   }
 ]
