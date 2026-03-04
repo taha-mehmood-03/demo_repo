@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Salesforce",
-    "job_title": "Business Development Representative",
-    "job_city": "Texas - Austin",
+    "job_title": "Associate Demo Engineer",
+    "job_city": "Brazil - Sao Paulo",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 1-2 years experience in business development, sales or related field experienceAbility to work in a fast paced environment.\n• You think out-of-the-box and wow people with your interesting angles and quality workExperience researching, account planning, prospecting, and cold calling into a large list of accounts that are a hybrid of net-new and existing installProven track record of achieving sales metrics and consistent achievement of year-over-year quota attainment University Overview Interns New Grads Advanced Degrees Associate Program Manager Generate new business pipeline primarily through prospecting outbound opportunitiesManage inbound leads that are driven by outbound effortNurture early-stage opportunitiesGain interest through outbound cold calling across a set of existing Salesforce customers and breaking into net new logos in assigned territoryPartner with core seller to identify and source net new pipeline and assist by researching lines of business and personasAlign with internal account teamIdentify key decision makers within new accounts.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr331595/business-development-representative/",
-    "id": "salesforce-business-development-representative-texas-austin"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences User Experience Brazil - Sao Paulo Full time Posted 24 February 2026 JR321185 University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr321185/associate-demo-engineer/",
+    "id": "salesforce-associate-demo-engineer-brazil-sao-paulo"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, AWS Networking",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Development Engineer, AWS Networking",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3194659/software-development-engineer-aws-networking",
+    "id": "amazon-software-development-engineer-aws-networking-santa-clara"
   }
 ]
