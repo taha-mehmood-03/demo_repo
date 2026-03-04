@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Digital Design Engineer",
+    "employer_name": "Micron Technology",
+    "job_title": "New College Grad - DRAM Design Layout Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• New College Grad - Semiconductor Verification Design Engineer, DRAM Products GroupBoise, Idaho, United States of AmericaPosted 22 days ago New College Grad - Semiconductor Verification Design Engineer, DRAM Products GroupBoise, Idaho, United States of AmericaPosted 23 days ago New College Grad - Semiconductor Design Engineer, DRAM Products GroupBoise, Idaho, United States of AmericaPosted a month ago New College Grad - Semiconductor Design Engineer, DRAM Products GroupBoise, Idaho, United States of AmericaPosted a month ago New College Grad - CAD/Computer Engineer, Central EngineeringBoise, Idaho, United States of AmericaPosted 3 months ago Bachelor’s degree with 2+ years of related experience or Master’s degree in Electrical or Computer Engineering.\n• New College Grad - Memory Design Engineer, DRAMBoise, Idaho, United States of AmericaPosted a day ago Fully understand design datasheets and circuit functionality, including timing requirements.\n• Bachelor’s or Master's degree or equivalent experience in Electrical or Computer Engineering.\n• Knowledge of verification languages (SystemVerilog or equivalent), methodologies (UVM or equivalent), and scripting languages (Python, Perl).",
+    "job_apply_link": "https://careers.micron.com/careers/job/39543535",
+    "id": "micron-technology-new-college-grad-dram-design-layout-engineer-boise"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Graphics Performance Content Validation Engineer",
     "job_city": "US",
-    "job_state": "CA",
+    "job_state": "California",
     "job_posted_at": "1d",
-    "job_description": "• Principal Analog & Mixed-Signal Design Engineerlocations2 Locationsposted onPosted 28 Days AgoR258818AMS Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258367RF Product EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255417Deep Tech Optical Sensing ArchitectlocationsUS, MA, Bostonposted onPosted 5 Days AgoR258735Principal Mixed-Signal/Analog Design Engineerlocations2 Locationsposted onPosted 28 Days AgoR258796Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258887Senior RF Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR255654Staff Analog/Mixed-Signal Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260398Principal Mixed-Signal Design Engineerlocations2 Locationsposted onPosted 28 Days AgoR260405Principal Mixed-Signal Design Engineerlocations2 Locationsposted onPosted 18 Days AgoR260407Staff AI/ML Applications Engineer - Product Validation & TestlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR260874Principal Analog IC Design Engineerlocations2 Locationsposted onPosted 22 Days AgoR260158Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR260965Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR258651Staff Engineer, Product Engineering (Prod Dev)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258899Product Engineering (Prod Dev)locations5 Locationsposted onPosted 30+ Days AgoR255207Principal Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257277Senior Engineer, Product Engineering (ASD AMP/TRM)locationsUS, MA, Chelmsford, Elizabethposted onPosted 25 Days AgoR257083LTspice Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoR258375Senior Analog/Mixed Signal Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR258476.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R260965?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-digital-design-engineer-us"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Summer 2026 Co-op, Software Development (Bachelors)",
-    "job_city": "Canonsburg",
-    "job_state": "Pennsylvania",
-    "job_posted_at": "2d",
-    "job_description": "• Enrolled in a full-time degree program and planning to return to university after the completion of the co-op program.\n• Sharp and tenacious problem-solving skills.\n• Preferred: Exposure to object-oriented programming, previous coding experience, exposure to CAD and/or FEA, and strong math skills or experience writing algorithms.\n• Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright Collaborate with software developers to design, implement, and debug features in our industry-leading simulation software.\n• Company About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions Resources Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Learn What is an AI Accelerator.\n• What is AI Chip Design What are Chiplets.\n• What is EDA Agentic AI.\n• What is an Integrated Circuit.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/summer-2026-co-op-software-development-bachelors/44408/92358709968",
-    "id": "synopsys-summer-2026-co-op-software-development-bachelors-canonsburg"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Software Engineer, HIL, Autonomy",
-    "job_city": "Palo Alto",
-    "job_state": "California US",
-    "job_posted_at": "1d",
-    "job_description": "• Develop test plans, test cases, and QA documents based on embedded software requirements Develop and maintain HiL testing frameworks, ensuring scalability and reliability Experience in testing automotive ECUs and protocols like CAN and Ethernet Bachelor's or Master's in Electrical Engineering or Computer Engineering 1+ years of Embedded/Platform Software testing experience Expertise in scripting and programming, especially Python Self-motivated with cross-functional collaboration skills Experience with CD/CD tools such as GitLab and Jenkins Knowledge of Socket Programming, TCP/IP, and HTTP.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/29571/login",
-    "id": "rivian-software-engineer-hil-autonomy-palo-alto"
+    "job_description": "• GPU Design Verification Engineerlocations3 Locationsposted onPosted 18 Days AgoJR0280553GPU Design Verification Engineerlocations2 Locationsposted onPosted 11 Days AgoJR0280548SoC Design Verification Engineer - EmulationlocationsUS, Oregon, Hillsboroposted onPosted 27 Days AgoJR0280503Intel Foundry Senior Customer Quality Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0281345Graphics Performance Content Validation EngineerlocationsUS, California, Folsomposted onPosted TodayJR0281328Senior CPU Pre-Silicon Verification Engineerlocations2 Locationsposted onPosted YesterdayJR0281371SoC Power and Performance Validation Engineerlocations3 Locationsposted onPosted 12 Days AgoJR0281050Senior Application Support Engineer – Memory and eFUSElocations3 Locationsposted onPosted TodayJR0281348Senior Laser DesignerlocationsUS, California, Santa Claraposted onPosted 8 Days AgoJR0280860Ecosystem IP and Alliance Leadlocations5 Locationsposted onPosted 5 Days AgoJR0281344Materials Program Managerlocations2 Locationsposted onPosted 7 Days AgoJR0281115Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 30+ Days AgoJR0279474Senior Strategic Technical Program Manager, Intelligent Supportlocations4 Locationsposted onPosted 14 Days AgoJR0280875Senior Performance Architectlocations3 Locationsposted onPosted 30+ Days AgoJR0277713Technology Product Owner - Demand Forecasting and Planninglocations4 Locationsposted onPosted YesterdayJR0281370Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 26 Days AgoSpotlight JobJR0280283Senior Finance System AnalystlocationsUS, Oregon, Hillsboroposted onPosted 25 Days AgoJR0280680Vice President - DCG - Get to Market Grouplocations2 Locationsposted onPosted 30+ Days AgoJR0278570Data Center Validation ArchitectlocationsUS, Oregon, Hillsboroposted onPosted 8 Days AgoJR0281159Business Development Lead, Neuromorphic/Physical AIlocations5 Locationsposted onPosted 30+ Days AgoJR0279984.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Graphics-Performance-Content-Validation-Engineer_JR0281328-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-graphics-performance-content-validation-engineer-us"
   }
 ]
