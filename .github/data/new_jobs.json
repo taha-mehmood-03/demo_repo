@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Associate Demo Engineer",
-    "job_city": "Brazil - Sao Paulo",
+    "employer_name": "Intel",
+    "job_title": "GPU Validation Engineer",
+    "job_city": "2 Locations",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences User Experience Brazil - Sao Paulo Full time Posted 24 February 2026 JR321185 University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr321185/associate-demo-engineer/",
-    "id": "salesforce-associate-demo-engineer-brazil-sao-paulo"
+    "job_posted_at": "1d",
+    "job_description": "• Data ScientistlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0280682HPC Lab Operations ManagerlocationsUS, New Mexico, Albuquerqueposted onPosted 15 Days AgoJR0280695Senior Foundry Device EngineerlocationsUS, Arizona, Phoenixposted onPosted 22 Days AgoJR0280822Memory Debug Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0281051Systems SW Engineer - Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0279981Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 14 Days AgoJR0281133Silicon Hardware Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 14 Days AgoJR0281132Ethernet Networking Product Managerlocations2 Locationsposted onPosted 6 Days AgoJR0281109Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0277312Emulation EngineerlocationsUS, Texas, Austinposted onPosted 8 Days AgoJR0276365Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0279083HPC Storage Dev Ops Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280323Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 14 Days AgoJR0281142Lead EDA Tools EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0280859Government Information Security Engineerlocations4 Locationsposted onPosted 12 Days AgoJR0276257Lead Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 8 Days AgoJR0281150GPU Validation Engineerlocations2 Locationsposted onPosted YesterdayJR0281312Identity Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0278271Pre-Si Power and Performance System Validation Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0277776CPU Verification Engineerlocations2 Locationsposted onPosted 12 Days AgoJR0278559.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Validation-Engineer_JR0281312-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-gpu-validation-engineer-2-locations"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, AWS Networking",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer, AWS Networking",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3194659/software-development-engineer-aws-networking",
-    "id": "amazon-software-development-engineer-aws-networking-santa-clara"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Site Reliability Development",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Site Reliability Development",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/95752852864934598-software-engineer-iii-site-reliability-development?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-site-reliability-development-seattle"
   }
 ]
