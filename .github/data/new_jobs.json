@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Dry Etch Process Development Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
+    "employer_name": "IBM",
+    "job_title": "2026 Intern Conversion : Entry Level Software Developer",
+    "job_city": "TUCSON",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Support process transfer to production facilities (some domestic and/or international travel may be required).\n• Developing dry etch processes to meet the physical & electrical requirements of Micron’s products.\n• Working knowledge in statistics, preferably in statistical process control.\n• Education: BS + 2 years of relevant semiconductor experience (required) MS / PhD in a related field specific to semiconductor R&D (preferred) Ability to multi-task and manage numerous projects simultaneously.\n• Academic or basic knowledge of one of the following: thermodynamics, transport phenomena, dry etch processing, kinetic theory, or basic plasma physics.\n• Optimizing dry etch processes to reduce cost, process variability, and improve process capability.\n• Ability to work independently, with minimal direction, and a focus on meeting commitments.\n• Ability to resolve complex issues through root-cause or model-based problem solving.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-dry-etch-process-development-engineer-boise"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Kernels and Performance, Core ML Frameworks",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Kernels and Performance, Core ML Frameworks",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/117792917778506438-software-engineer-kernels-and-performance-core-ml-frameworks?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-kernels-and-performance-core-ml-frameworks-sunnyvale"
+    "job_description": "software engineering job for the role 2026 Intern Conversion : Entry Level Software Developer",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99889&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-conversion-entry-level-software-developer-tucson"
   }
 ]
