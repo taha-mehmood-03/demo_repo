@@ -1,22 +1,62 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Junior Java Developer (Clearable)",
-    "job_city": "USA MD Annapolis Junction",
+    "employer_name": "IBM",
+    "job_title": "Entry-Level Hire Technical Support Engineer (Poughkeepsie, NY)",
+    "job_city": "POUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Java-Developer--Clearable-_RQ216150?q=software+engineering",
-    "id": "general-dynamics-junior-java-developer-clearable-usa-md-annapolis-junction"
+    "job_description": "software engineering job for the role Entry-Level Hire Technical Support Engineer (Poughkeepsie, NY)",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99684&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hire-technical-support-engineer-poughkeepsie-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Photolithography Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "2d",
+    "job_description": "• Use project management skills to complete project milestones that close hardware gaps around equipment deficiencies BS or Masters in the Engineering field, equivalent military experience or AAS with 5+yr industry experience Installation and qualification of industry leading Photolithography equipment in our new cleanroom 2+ years of industry experience working as Equipment Owner with Photolithography Equipment Strong communication skills and the ability to work collaboratively in a team environment Excellent analytical and problem-solving skills, with a meticulous approach Proficient in Data Science and Programming skills Less than 2 years Senior Photolithography Equipment EngineerBoise, Idaho, United States of AmericaPosted 10 days ago Senior PVD/CVD Equipment EngineerBoise, Idaho, United States of AmericaPosted 5 months ago.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-photolithography-equipment-engineer-boise"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "FPGA Implementation Tools Software Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Strong object-oriented programming experience (C++ preferred)Hands-on experience with FPGA implementation tools such as Xilinx Vivado or Intel QuartusSolid understanding of FPGA place-and-route algorithms and optimization techniquesExperience with timing closure methodologies and performance tuningAbility to communicate technical findings clearly across engineering and partner teams AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Work with AMD’s partners to understand the limitations in current AMD place and route solutions for emulation and prototyping FPGA designs.\n• Triage designs from AMD’s partners to find root cause of timing closure failures, high compile time and memory usage.\n• Apply knowledge of FPGA place and route algorithms to identify areas of improvement for AMD tools.\n• Work closely with R&D team to implement tool improvements that help AMD’s partners achieve their design closure, compile time and memory goals.\n• Work with AMD’s architecture team to develop tools support for next generation FPGAs.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/78262/login",
+    "id": "amd-fpga-implementation-tools-software-engineer-us"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Station Control, Google Beam",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Station Control, Google Beam",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/101660659837477574-software-engineer-station-control-google-beam?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-station-control-google-beam-mountain-view"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Dev Engineer II - AMZ10016764",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2d",
-    "job_description": "software engineering job for the role Software Dev Engineer II - AMZ10016764",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3195729/software-dev-engineer-ii-amz10016764",
-    "id": "amazon-software-dev-engineer-ii-amz10016764-seattle"
+    "job_title": "Software Engineer I, Twitch Chat",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Engineer I, Twitch Chat",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3198440/software-engineer-i-twitch-chat",
+    "id": "amazon-software-engineer-i-twitch-chat-san-francisco"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, PreStart Domain",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Development Engineer, PreStart Domain",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3198597/software-development-engineer-prestart-domain",
+    "id": "amazon-software-development-engineer-prestart-domain-boston"
   }
 ]
