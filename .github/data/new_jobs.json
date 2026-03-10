@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Resident Solution Engineer - Entry Level Sales Program",
-    "job_city": "",
-    "job_state": "United States",
+    "employer_name": "Arm",
+    "job_title": "Intern AI Engineer - CPU",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Resident Solution Engineer - Entry Level Sales Program",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=101556&source=WEB_Search_NA",
-    "id": "ibm-resident-solution-engineer-entry-level-sales-program-"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/chandler/intern-ai-engineer-cpu/33099/92596916400",
+    "id": "arm-intern-ai-engineer-cpu-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate SoC Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• We are looking for experienced SoC performance engineers who are passionate about enhancing system performance on Arm IPs.\n• With a mid-year, and year-end review you'll have two windows each year to progress recognizing the pace at which you could grow.\n• Join our Graduate Committee and home in on your planning, networking and co-ordination skills.\n• Hold (or are on track to hold) a University degree or equivalent experience by the programme start date.\n• Candidates with alternative degrees will also be considered if they have meaningful experience.\n• A yearly occurrence exclusive for Graduates allowing you to hear from executive members, inspiring speakers and make connections for life.\n• You will apply your performance analysis skills in modeling and evaluating new features for future IPs, and will play a key role in productizing performance models for partners in the Arm ecosystem.\n• Work closely with internal and external teams, delivering the collateral needed to develop the highest performing systems based on Arm technology.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-soc-performance-engineer/33099/92596916336",
+    "id": "arm-graduate-soc-performance-engineer-austin"
   }
 ]
