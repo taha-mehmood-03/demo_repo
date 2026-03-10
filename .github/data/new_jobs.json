@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Intern AI Engineer - CPU",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
+    "employer_name": "BAE Systems",
+    "job_title": "Electronic Warfare Software Engineer",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
     "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/chandler/intern-ai-engineer-cpu/33099/92596916400",
-    "id": "arm-intern-ai-engineer-cpu-chandler"
+    "job_description": "• Embedded Software Engineer, LeadlocationsLexington Park, MDposted onPosted 19 Days AgoR0234374 Web Expert Software EngineerlocationsAtlanta, GAposted onPosted 30+ Days AgoR0233283.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Electronic-Warfare-Software-Engineer_R0235359?q=software+engineering",
+    "id": "bae-systems-electronic-warfare-software-engineer-beavercreek"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate SoC Performance Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Intel",
+    "job_title": "CPU RTL Design Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• We are looking for experienced SoC performance engineers who are passionate about enhancing system performance on Arm IPs.\n• With a mid-year, and year-end review you'll have two windows each year to progress recognizing the pace at which you could grow.\n• Join our Graduate Committee and home in on your planning, networking and co-ordination skills.\n• Hold (or are on track to hold) a University degree or equivalent experience by the programme start date.\n• Candidates with alternative degrees will also be considered if they have meaningful experience.\n• A yearly occurrence exclusive for Graduates allowing you to hear from executive members, inspiring speakers and make connections for life.\n• You will apply your performance analysis skills in modeling and evaluating new features for future IPs, and will play a key role in productizing performance models for partners in the Arm ecosystem.\n• Work closely with internal and external teams, delivering the collateral needed to develop the highest performing systems based on Arm technology.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-soc-performance-engineer/33099/92596916336",
-    "id": "arm-graduate-soc-performance-engineer-austin"
+    "job_description": "• CPU RTL Design Engineerlocations2 Locationsposted onPosted YesterdayJR0281533FCS Risk and Audit Managerlocations2 Locationsposted onPosted 5 Days AgoJR0281469GPU Design Verification Engineerlocations3 Locationsposted onPosted 25 Days AgoJR0280552GPU Design Verification Engineerlocations3 Locationsposted onPosted 25 Days AgoJR0280553GPU Design Verification Engineerlocations2 Locationsposted onPosted 18 Days AgoJR0280548GPU Design Verification Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0279367SoC Design Verification Engineer - EmulationlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0280503Intel Foundry Senior Customer Quality Engineerlocations2 Locationsposted onPosted 11 Days AgoJR0281345Senior CPU Pre-Silicon Verification Engineerlocations2 Locationsposted onPosted 8 Days AgoJR0281371Graphics Performance Content Validation EngineerlocationsUS, California, Folsomposted onPosted 7 Days AgoJR0281328SoC Power and Performance Validation Engineerlocations3 Locationsposted onPosted 19 Days AgoJR0281050Senior Laser DesignerlocationsUS, California, Santa Claraposted onPosted 15 Days AgoJR0280860Senior Application Support Engineer – Memory and eFUSElocations3 Locationsposted onPosted 7 Days AgoJR0281348Ecosystem IP and Alliance Leadlocations5 Locationsposted onPosted 12 Days AgoJR0281344Director-Analog Design & Infrastructure Design Automationlocations4 Locationsposted onPosted 6 Days AgoJR0281184Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 30+ Days AgoJR0279474Senior Performance Architectlocations3 Locationsposted onPosted 30+ Days AgoJR0277713Senior Strategic Technical Program Manager, Intelligent Supportlocations4 Locationsposted onPosted 5 Days AgoJR0280875Technology Product Owner - Demand Forecasting and Planninglocations4 Locationsposted onPosted 8 Days AgoJR0281370Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 30+ Days AgoSpotlight JobJR0280283.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/CPU-RTL-Design-Engineer_JR0281533?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-cpu-rtl-design-engineer-2-locations"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Cloud Platform",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/73883173598962374-software-engineer-iii-google-cloud-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-google-cloud-platform-new-york"
   }
 ]
