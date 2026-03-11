@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Intel",
-    "job_title": "Supply Chain Analyst",
-    "job_city": "US",
-    "job_state": "California",
+    "employer_name": "BAE Systems",
+    "job_title": "Front End Developer, Mid",
+    "job_city": "Reston",
+    "job_state": "VA",
     "job_posted_at": "1d",
-    "job_description": "• GPU Design Verification Engineerlocations2 Locationsposted onPosted 19 Days AgoJR0280548GPU Design Verification Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0279367SoC Design Verification Engineer - EmulationlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0280503Supply Chain AnalystlocationsUS, California, Folsomposted onPosted YesterdayJR0281767FCS Risk and Audit Managerlocations2 Locationsposted onPosted 6 Days AgoJR0281469Senior CPU Pre-Silicon Verification Engineerlocations2 Locationsposted onPosted 9 Days AgoJR0281371SoC Power and Performance Validation Engineerlocations3 Locationsposted onPosted 20 Days AgoJR0281050Intel Foundry Senior Customer Quality Engineerlocations2 Locationsposted onPosted 12 Days AgoJR0281345Senior Laser DesignerlocationsUS, California, Santa Claraposted onPosted 16 Days AgoJR0280860Graphics Performance Content Validation EngineerlocationsUS, California, Folsomposted onPosted 8 Days AgoJR0281328Senior Application Support Engineer – Memory and eFUSElocations3 Locationsposted onPosted 8 Days AgoJR0281348Ecosystem IP and Alliance Leadlocations5 Locationsposted onPosted 13 Days AgoJR0281344Director-Analog Design & Infrastructure Design Automationlocations4 Locationsposted onPosted 7 Days AgoJR0281184Senior Performance Architectlocations3 Locationsposted onPosted 30+ Days AgoJR0277713Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 30+ Days AgoJR0279474Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 30+ Days AgoSpotlight JobJR0280283Senior Strategic Technical Program Manager, Intelligent Supportlocations4 Locationsposted onPosted 6 Days AgoJR0280875Technology Product Owner - Demand Forecasting and Planninglocations4 Locationsposted onPosted 9 Days AgoJR0281370Vice President - DCG - Get to Market Grouplocations2 Locationsposted onPosted 30+ Days AgoJR0278570Data Center Validation ArchitectlocationsUS, Oregon, Hillsboroposted onPosted 16 Days AgoJR0281159.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Supply-Chain-Analyst_JR0281767?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-supply-chain-analyst-us"
+    "job_description": "• Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 14 Days AgoR0234704 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Quantum Go-To-Market Specialist, Leadlocations2 Locationsposted onPosted 6 Days AgoR0235194 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 6 Days AgoR0235191 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 6 Days AgoR0235238 Software Developer, LeadlocationsFort Meade, MDposted onPosted 14 Days AgoR0233725.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Front-End-Developer--Mid_R0235622?q=software+engineering",
+    "id": "bae-systems-front-end-developer-mid-reston"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Frameworks Developer, Mid",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• Automated Software Test Engineer, SeniorlocationsHuntsville, ALposted onPosted 14 Days AgoR0234704 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Quantum Go-To-Market Specialist, Leadlocations2 Locationsposted onPosted 6 Days AgoR0235194 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 6 Days AgoR0235191 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 6 Days AgoR0235238 Software Developer, LeadlocationsFort Meade, MDposted onPosted 14 Days AgoR0233725.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Frameworks-Developer--Mid_R0235624?q=software+engineering",
+    "id": "bae-systems-frameworks-developer-mid-reston"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Operations Engineering Intern- Summer",
+    "job_city": "Troy",
+    "job_state": "Michigan",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Business Intelligence EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00223935Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 30+ Days AgoR00218574Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603Operations Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted YesterdayR00234264Gearbox and Mechatronics Engineering StudentlocationsTroy, Michigan, USposted onPosted 16 Days AgoR00232073Benchmarking & Product Line Engineering StudentlocationsTroy, Michigan, USposted onPosted 16 Days AgoR00232066Magna Engineered Glass: Material HandlerlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00188244Magna Engineered Glass: 1st Shift Production SupervisorlocationsHolland, Michigan, USposted onPosted 9 Days AgoR00233087Magna Engineered Glass: 2nd Shift Maintenance / Controls TechlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00221810Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 2 Days AgoR00232837Validation Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225610CNC Programmer SupervisorlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00209942Metallurgical Lab Technician - 2nd ShiftlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00221812Senior Designer- LightinglocationsNovi, Michigan, USposted onPosted YesterdayR00233167IT Industry 4.\n• 0 Lead DeveloperlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222196Group Product Manager - Unified FactorylocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213371Account Manager, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00106519IT - ProgrammerlocationsNashville, Illinois, USposted onPosted 5 Days AgoR00223231.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Operations-Engineering-Intern--Summer-2026_R00234264?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-operations-engineering-intern-summer-troy"
   }
 ]
