@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Memory Innovation Engineer, AI and Machine Learning",
+    "job_city": "Folsom",
+    "job_state": "California",
+    "job_posted_at": "14h",
+    "job_description": "• Develop forward-looking technical strategies that connect AI workload trends (training, inference, emerging models) to memory, packaging, and system level requirements.\n• Strong background in computer architecture, systems design, or hardware–software codesigns, with relevance to AI, datacenter, or high performance computing.\n• Principal Engineer/MTS – Member of Technical Staff, HIG-HBM Product System Engineering (Media Health Reliability)Singapore, SingaporePosted 2 months ago Engage with customers, hyperscalers, startups, and industry partners to influence requirements, validate concepts, and shape future directions.\n• Experience with AI systems, including training or inference workloads, accelerators (GPU/ASIC), or performance benchmarking.\n• Experience building software or analytical models for system evaluation, performance analysis, or architectural exploration.\n• Strong communication and collaboration skills, with the ability to bridge deep technical detail and strategic context.\n• Demonstrated ability to analyze complex system level performance problems, especially memory, bandwidth, latency, and scaling.\n• Track record of technical influence, such as patents, industry collaboration, customer engagements, or technology evangelism.",
+    "job_apply_link": "https://careers.micron.com/careers/job/29338749",
+    "id": "micron-technology-memory-innovation-engineer-ai-and-machine-learning-folsom"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Wet Etch Process Development Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "Description content not available",
+    "job_apply_link": "https://careers.micron.com/careers/job/39785217",
+    "id": "micron-technology-wet-etch-process-development-engineer-boise"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Intern/Co-Op Student-Operations",
+    "job_city": "Holly",
+    "job_state": "Michigan",
+    "job_posted_at": "1d",
+    "job_description": "• IT Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225626UX DesignerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00226939Controls Intern - Summer 2026locationsAlto, Michigan, USposted onPosted 30+ Days AgoR00226252Marketing & Communications Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225615CNC MachinistlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222195Document Control CoordinatorlocationsBowling Green, Ohio, USposted onPosted 15 Days AgoR00232277Tool & Die Journeyman - 2nd & 3rd shiftslocationsBowling Green, Ohio, USposted onPosted 10 Days AgoR00213354Quality Continuous Improvement (CI) InternlocationsLansing, Michigan, USposted onPosted 30+ Days AgoR00227594Customer Success ManagerlocationsLowell, Massachusetts, USposted onPosted 13 Days AgoR00221331Intern/Co-Op Student-OperationslocationsHolly, Michigan, USposted onPosted TodayR00233088Innovation Ventures Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR002256421st shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR002126083rd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR00212611Thinning Analysis TechlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00175377Thinning Analysis Team LeaderlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00174307Assistant Maintenance ManagerlocationsNew Hudson, Michigan, USposted onPosted 13 Days AgoR00232540Maintenance Technician IlocationsLiberty, Missouri, USposted onPosted 14 Days AgoR00231930Paint and Waste Treatment Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 26 Days AgoR00228984Maintenance Technician III-B ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00198151Clerk, AccountinglocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00208801.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Holly-Michigan-US/Intern-Co-Op-Student-Operations_R00233088?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-intern-co-op-student-operations-holly"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, reCAPTCHA Bot Detection",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, reCAPTCHA Bot Detection",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/88676088938406598-software-engineer-recaptcha-bot-detection?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-recaptcha-bot-detection-raleigh"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "ServiceNow App Dev Eng, OTS Delivery Software Engineering (DSE)",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "15h",
+    "job_description": "software engineering job for the role ServiceNow App Dev Eng, OTS Delivery Software Engineering (DSE)",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3202150/servicenow-app-dev-eng-ots-delivery-software-engineering-dse",
+    "id": "amazon-servicenow-app-dev-eng-ots-delivery-software-engineering-dse-austin"
+  }
+]
