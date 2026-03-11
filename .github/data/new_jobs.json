@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Control Fabric Design Verification Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Experience with firmware development and debug on embedded processors.\n• Bachelor’s or Master's degree in Electrical Engineering, Computer Engineering or equivalent preferred AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Strong understanding of C/C++, UVM methodology, SystemVerilog, and C-DPI co-verification techniques.\n• Familiarity with standard bus protocols (AXI, AHB, AMBA) and interconnect architectures.\n• Proficiency in scripting languages (Python, Perl, or similar) for automation and infrastructure development.\n• Knowledge of ASIC verification tools, simulation environments, and formal verification.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/78557/login",
-    "id": "amd-control-fabric-design-verification-engineer-us"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Prototyping Manufacturing Engineer",
-    "job_city": "Plymouth",
-    "job_state": "Michigan US",
-    "job_posted_at": "1d",
-    "job_description": "• Prior experience in manufacturing or a lab environment is preferred.\n• Experience with CAE/FEA software to simulate a design’s structural performance when under loads.\n• Catia V6 experience is highly preferred.\n• 3D Scanning Software experience is a plus.\n• Bachelor or Associate degree preferred.\n• Excellent communication skills.\n• Collaborate with team members to identify and resolve manufacturability issues.\n• Take these lessons to then contribute to process improvements.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/29748/login",
-    "id": "rivian-prototyping-manufacturing-engineer-plymouth"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Google Translate, Mobile (Android)",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Salesforce",
+    "job_title": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
+    "job_city": "Virginia - Washington DC Metro -",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Google Translate, Mobile (Android)",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/107351465734873798-software-engineer-google-translate-mobile-android?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-google-translate-mobile-android-mountain-view"
+    "job_description": "• Become a Trusted Partner and Collaborate Directly with End-Users in classified and unclassified environments to deeply understand mission needs, operational challenges, and strategic goals and translate them into technical implementations using Salesforce’s multi-cloud portfolio.\n• You'll directly push its capabilities to the limit, developing bespoke intelligent agents, automating intricate business processes, and crafting intuitive user experiences that deliver tangible value.\n• Prototype and Iterate Rapidly to develop proofs-of-concept and minimum viable products, coding alongside client teams to demonstrate capabilities and gather feedback for iterative refinement.\n• 3-7 years of experience in software engineering, solutions architecture, or systems integration.\n• Strong background in Computer Science or a related engineering discipline.\n• Hands-on experience building solutions with AI/LLM technologies, including integrating LLMs, applying AI orchestration frameworks, and prompt engineering techniques.\n• Experience with data integration, API design, ETL, and AI/ML model deployment.\n• Experience working in or adjacent to secure environments.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr333171/missionforce-associate-forward-deployed-engineer-fde-public-sector/",
+    "id": "salesforce-missionforce-associate-forward-deployed-engineer-fde-public-sector-virginia-washington-dc-metro"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "AI/ML Engineer",
+    "job_city": "USA DC Washington",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/AI-ML-Engineer_RQ216427?q=software+engineering",
+    "id": "general-dynamics-ai-ml-engineer-usa-dc-washington"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "GPU Performance Engineer - Artificial Intelligence",
+    "job_city": "US",
+    "job_state": "MD",
+    "job_posted_at": "1d",
+    "job_description": "• Hands-on experience with distributed training frameworks and communication libraries (e.\n• Docker) and GitHub skillsProficiency in Python or C++ for performance-critical development.\n• Experience in benchmarking methodologies, performance analysis/profiling (e.\n• Experience scaling training to thousands of GPUs for foundation models a plus.\n• AMD Partner Hub Authorized Distributors AMD University Program Master's or PhD degree in Computer Science or Computer Engineering Profile and optimize large-scale AI training workloads (transformers, multimodal, diffusion, recommender systems) across multi-node, multi-GPU clusters.\n• Strong expertise in GPU tuning and optimization (CUDA, ROCm, or equivalent).\n• Understanding of GPU microarchitecture (execution units, memory hierarchy, interconnects, warp scheduling).\n• , PyTorch DDP, DeepSpeed, Megatron-LM, NCCL/RCCL, MPI).",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/80270/login",
+    "id": "amd-gpu-performance-engineer-artificial-intelligence-us"
   }
 ]
