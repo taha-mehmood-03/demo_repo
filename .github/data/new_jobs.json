@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Long-Horizon Agents Software Engineer — New College Grad",
-    "job_city": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Distributed Cloud Air Gapped",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Systems Software Engineer, Kubernetes Scale - DGX CloudlocationsUS, CA, Santa Claraposted onPosted 9 Days AgoJR2012310Senior System Software Engineer Platform - Server Embedded Firmwarelocations3 Locationsposted onPosted YesterdayJR2014509Senior Manager, Systems Software Engineering - GeForce NOW CloudlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2014496Senior Software Engineer, AI and DL Kernel Librarieslocations8 Locationsposted onPosted TodayJR2014704Software Engineering Manager - Image and Data Compression LibrarieslocationsUS, CA, Remoteposted onPosted 30+ Days AgoJR1990877Senior Linux Kernel Systems Software Engineer – CSP Engagementslocations4 Locationsposted onPosted YesterdayJR1999600Senior Software Engineer, Cloud-Native Stack – CSP Engagementslocations4 Locationsposted onPosted 3 Days AgoJR2001098Senior Deep Learning Software Engineer, FlashInfer and cuDNNlocationsUS, CA, Santa Claraposted onPosted 20 Days AgoJR2001340Senior Software Engineer, Kubernetes and Virtualization - DGX Cloudlocations2 Locationsposted onPosted YesterdayJR2007944Senior System Software Engineer - Autonomous Vehicles AI ApplicationslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2009335Senior Deep Learning Software Engineer, PyTorch - TensorRT Performancelocations2 Locationsposted onPosted 30+ Days AgoJR2009866Senior Embedded System Software Engineer - Hypervisor and RTOSlocations5 Locationsposted onPosted 30+ Days AgoJR2011612Software Engineering Manager, Robotics 3D Perception and SimulationlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2012098Senior Software Engineer - VLM Microservices for Neural Reconstructionlocations2 Locationsposted onPosted 27 Days AgoJR2012089Senior System Software Engineer for Cloud – GeForce NOWlocationsUS, CA, Santa Claraposted onPosted 22 Days AgoJR2013549Senior System Software Engineer - Dynamo-Triton Inference ServerlocationsUS, CA, Santa Claraposted onPosted 21 Days AgoJR2013405Senior Systems Software Engineer, Cloud Infrastructure and DevelopmentlocationsUS, CA, Santa Claraposted onPosted 12 Days AgoJR2013426Long-Horizon Agents Software Engineer — New College Grad 2026locationsUS, CA, Santa Claraposted onPosted TodayJR2014184Senior Software Engineer - Deep Learning Compiler Verification and Infrastructurelocations6 Locationsposted onPosted 12 Days AgoJR2013996Senior Software Engineer, CUDA UMD - Graphs and GPU SharinglocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2014056.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Long-Horizon-Agents-Software-Engineer---New-College-Grad-2026_JR2014184?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-long-horizon-agents-software-engineer-new-college-grad-us"
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Google Distributed Cloud Air Gapped",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137303309231760070-software-engineer-iii-google-distributed-cloud-air-gapped?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
+    "id": "google-software-engineer-iii-google-distributed-cloud-air-gapped-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Front End, Google Cloud Platforms",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Front End, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132710911155544774-software-engineer-front-end-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-front-end-google-cloud-platforms-kirkland"
   }
 ]
