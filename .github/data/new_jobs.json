@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Research Scientist, AI",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "1d",
-    "job_description": "• With a mid-year, and year-end review you'll have two windows each year to progress recognizing the pace at which you could grow.\n• Join our Graduate Committee and home in on your planning, networking and co-ordination skills.\n• Candidates with alternative degrees will also be considered if they have relevant experience.\n• A yearly occurrence exclusive for Graduates allowing you to hear from executive members, inspiring speakers and make connections for life.\n• Experience designing, training, or analyzing machine learning models or systems using standard frameworks (e.\n• Familiarity with machine learning model optimization or deployment Familiarity with Arm architecture Familiarity with GPU programming Experienced Professionals.\n• Attend our \"Grad-teach-Grads\" workshops, guest speaker series and various social events to expand your knowledge.\n• Want to take this a step further.",
-    "job_apply_link": "https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/92713442704",
-    "id": "arm-graduate-research-scientist-ai-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Agentic AI, Gemini Cloud Assist",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Agentic AI, Gemini Cloud Assist",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/109380283731452614-software-engineer-agentic-ai-gemini-cloud-assist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-agentic-ai-gemini-cloud-assist-san-francisco"
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Lep Telemetry and Command",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "3d",
+    "job_description": "software engineering job for the role Software Development Engineer, Lep Telemetry and Command",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3201597/software-development-engineer-lep-telemetry-and-command",
+    "id": "amazon-software-development-engineer-lep-telemetry-and-command-redmond"
   }
 ]
