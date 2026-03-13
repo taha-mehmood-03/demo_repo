@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Product Owner - Customer Success",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Graduate Research Scientist, AI",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "1d",
+    "job_description": "• With a mid-year, and year-end review you'll have two windows each year to progress recognizing the pace at which you could grow.\n• Join our Graduate Committee and home in on your planning, networking and co-ordination skills.\n• Candidates with alternative degrees will also be considered if they have relevant experience.\n• A yearly occurrence exclusive for Graduates allowing you to hear from executive members, inspiring speakers and make connections for life.\n• Experience designing, training, or analyzing machine learning models or systems using standard frameworks (e.\n• Familiarity with machine learning model optimization or deployment Familiarity with Arm architecture Familiarity with GPU programming Experienced Professionals.\n• Attend our \"Grad-teach-Grads\" workshops, guest speaker series and various social events to expand your knowledge.\n• Want to take this a step further.",
+    "job_apply_link": "https://careers.arm.com/job/seattle/graduate-research-scientist-ai/33099/92713442704",
+    "id": "arm-graduate-research-scientist-ai-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Agentic AI, Gemini Cloud Assist",
+    "job_city": "San Francisco",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "• 3+ years of experience with Salesforce implementations (Service Cloud or Salesforce Platform) in a Product Owner or technical PM role.\n• Experience with the Jobs to be Done framework and user-centered design principles and practices (ie.\n• Demonstrated knowledge of project management concepts and techniques required.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Translate Strategy: Realize high-level requirements into well-formed strategic delivery plans for embedded Agents and Portal UX.\n• Security Standards: Manage the backlog to include compliance, security and privacy requirements, requesting advisory reviews to ensure compliance.\n• Tooling Accuracy: Maintain required fields in LeanIX (LIX) factsheets to provide a holistic view of the technology landscape.\n• Experience in system integration in particular with a focus on Customer Success/Support process integration.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr329187/product-owner-customer-success/",
-    "id": "salesforce-product-owner-customer-success-indiana-indianapolis"
+    "job_description": "software engineering job for the role Software Engineer, Agentic AI, Gemini Cloud Assist",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/109380283731452614-software-engineer-agentic-ai-gemini-cloud-assist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-agentic-ai-gemini-cloud-assist-san-francisco"
   }
 ]
