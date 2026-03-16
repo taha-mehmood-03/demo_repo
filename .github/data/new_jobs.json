@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, AI/TPU Infrastructure, Networking, Compute, On-Premises",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, AI/TPU Infrastructure, Networking, Compute, On-Premises",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/142559979834876614-software-engineer-aitpu-infrastructure-networking-compute-onpremises?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-ai-tpu-infrastructure-networking-compute-on-premises-kirkland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Search, Infrastructure",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Search, Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105665867164852934-software-engineer-search-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-search-infrastructure-boulder"
+    "employer_name": "Amazon",
+    "job_title": "Professional Services II - AMZ17578.5",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Professional Services II - AMZ17578.5",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3199390/professional-services-ii-amz17578-5",
+    "id": "amazon-professional-services-ii-amz17578-5-jersey-city"
   }
 ]
