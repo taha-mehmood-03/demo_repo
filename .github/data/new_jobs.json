@@ -1,22 +1,62 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Software Integration Engineer",
-    "job_city": "USA MD Annapolis Junction",
+    "employer_name": "Salesforce",
+    "job_title": "Incident Responder - Cyber Security",
+    "job_city": "California - San Francisco",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Integration-Engineer-3_RQ216694-1?q=software+engineering",
-    "id": "general-dynamics-software-integration-engineer-usa-md-annapolis-junction"
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 5+ years of relevant experience in security operations, incident management and/or risk management within an enterprise environment.\n• A related technical degree required.\n• Experience responding to and leading complex critical cyber security incidents in a large-scale environment.\n• Strong teamwork skills with the ability to build and grow relationships.\n• Excellent verbal and written communication skills.\n• Project management skills with proven ability to drive, influence and coordinate cross-teams and cross-region projects.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Technical knowledge of complex systems and Cloud environments (AWS, GCP, Azure).\n• Technical knowledge of incident response frameworks with operational experience across Windows, Mac and Linux forensics Operational and services experience in a cloud services delivery environmentExperience in conducting root cause analysisFamiliarity with cyber key security regulations and standards (e.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr332281/incident-responder-cyber-security/",
+    "id": "salesforce-incident-responder-cyber-security-california-san-francisco"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Platform Debug Technologist",
-    "job_city": "US",
-    "job_state": "Oregon",
+    "employer_name": "Salesforce",
+    "job_title": "The Future of Sales: Emerging Talent Virtual Summit (Early Career)",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Sales Driven: A clear desire to build a long term career in professional sales and a passion for mastering the #1 AI CRM.\n• Effective Communicator: Strong verbal and written skills with the ability to convey complex value propositions clearly and professionally.\n• Growth Mindset: A self motivated learner who is eager to master the tools and skills required to progress into a full cycle sales role.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences This event is by invitation only.\n• If you are selected, you must be able to join our virtual event on April 17.\n• Must be able to start a full-time role between July and December 2026.\n• Previous internship or full-time experience in corporate sales or B2B software is a plus.\n• Experience or strong interest in AI-driven productivity and CRM tools.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr334001/the-future-of-sales-emerging-talent-virtual-summit-early-career/",
+    "id": "salesforce-the-future-of-sales-emerging-talent-virtual-summit-early-career-illinois-chicago"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Full Stack Developer",
+    "job_city": "2 Locations",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Compiler EngineerlocationsUS, California, Santa Claraposted onPosted 27 Days AgoJR0280729Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280737Compiler Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0280731Compiler Engineerlocations2 Locationsposted onPosted 21 Days AgoJR0281201Compiler Engineerlocations2 Locationsposted onPosted 21 Days AgoJR0281207Senior Compiler Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR0280736Senior Compiler Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR0280733OS Kernel Engineerlocations2 Locationsposted onPosted YesterdayJR0281983Senior Automation Systems Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0281915Linux Kernel EngineerlocationsUS, Oregon, Hillsboroposted onPosted 7 Days AgoJR0278075Factory Automation Support Engineer - Shift 6locationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0282055Factory Automation Support Engineer - Shift 5locationsUS, Arizona, Phoenixposted onPosted YesterdayJR0282054Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0279795Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 13 Days AgoSpotlight JobJR0281566Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 13 Days AgoSpotlight JobJR0281567Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 6 Days AgoSpotlight JobJR0281914Quantum Error Correction Technical Leadlocations3 Locationsposted onPosted YesterdaySpotlight JobJR0281065Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 13 Days AgoSpotlight JobJR0281565Platform Debug TechnologistlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0281857Module Development EngineerlocationsUS, California, Santa Claraposted onPosted 8 Days AgoJR0281042.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Debug-Technologist_JR0281857?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-platform-debug-technologist-us"
+    "job_description": "• Senior Full Stack Python/JavaScript Developerlocations2 Locationsposted onPosted Today37301Full Stack Developerlocations2 Locationsposted onPosted Today37252Senior Full Stack Python /Java Script Developerlocations2 Locationsposted onPosted Today37299Industrial Engineering LeadlocationsUS - AL, Huntsvilleposted onPosted Today37318Cloud Solutions ArchitectlocationsUS - DC, Washingtonposted onPosted 15 Days Ago36301Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Data Integration Solutions EngineerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34366Sr.\n• QA (Playwright) Automation Engineerlocations2 Locationsposted onPosted 5 Days Ago37304Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33432Project Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33495Senior Developerlocations4 Locationsposted onPosted 4 Days Ago36909Technical Celonis Developerlocations2 Locationsposted onPosted 25 Days Ago35539Salesforce Business AnalystlocationsUS - TX, San Antonioposted onPosted 21 Days Ago35613ServiceNow Help Desk SupportlocationsUS - Remote (Any location)posted onPosted 22 Days Ago35821Enclave Program ManagerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33433Program Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33494Linkage Project ManagerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33461Lead Data Engineer, Health Data PlatformslocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34367Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 19 Days Ago36686Helpdesk Specialist IIlocationsUS - TX, San Antonioposted onPosted Today37308.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/Full-Stack-Developer_37252?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-full-stack-developer-2-locations"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Engineer, Design Automation, Front-End & AI Driven Methodologies",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• With a mid-year, and year-end review you'll have two windows each year to progress recognizing the pace at which you could grow.\n• Join our Graduate Committee and home in on your planning, networking and co-ordination skills.\n• A yearly occurrence exclusive for Graduates allowing you to hear from executive members, inspiring speakers and make connections for life.\n• Arm is owning the vision to unlock a broad ecosystem of silicon required for AI, data centers, mobile, compute, and IoT.\n• Have strong programming skills in Python, C++, Ruby, Go and general scripting.\n• Possess experience in data analytics, dashboarding, and workflow automation.\n• Strong problem-solving skills, analytical approach, and attention to detail.\n• Attend our \"Grad-teach-Grads\" workshops, guest speaker series and various social events to expand your knowledge.",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/graduate-engineer-design-automation-front-end-and-ai-driven-methodologies/33099/92890266176",
+    "id": "arm-graduate-engineer-design-automation-front-end-ai-driven-methodologies-san-diego"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Field Service Technician",
+    "job_city": "Fort Washington",
+    "job_state": "PA",
+    "job_posted_at": "21h",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• In this role, you will play a key part in defining software requirements, designing embedded solutions, and verifying system performance, ensuring our maintenance systems meet the evolving needs of modern aircraft.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.\n• This position is ideal for engineers experienced in modern software development methodologies, debugging, and performance optimization, who thrive in highly technical, cross‑functional environments.\n• You’ll bridge engineering and IT to ensure complex aerospace development ecosystems perform at scale, meet rigorous standards, and align with regulatory and export‑controlled requirements.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/141700/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-field-service-technician-fort-washington"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Applied Scientist - ML and Robotics",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_posted_at": "21h",
+    "job_description": "software engineering job for the role Applied Scientist - ML and Robotics",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3207170/applied-scientist-ml-and-robotics",
+    "id": "amazon-applied-scientist-ml-and-robotics-north-reading"
   }
 ]
