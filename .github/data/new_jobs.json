@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, BigQuery AI Developer Experience",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Software Engineer, GCS, Transfer Appliance Infrastructure",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, BigQuery AI Developer Experience",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/121917130059719366-software-engineer-bigquery-ai-developer-experience?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-bigquery-ai-developer-experience-new-york"
+    "job_description": "software engineering job for the role Software Engineer, GCS, Transfer Appliance Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132088712128275142-software-engineer-gcs-transfer-appliance-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-gcs-transfer-appliance-infrastructure-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Generative AI Media, Vertex AI",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Generative AI Media, Vertex AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/142994355647324870-software-engineer-generative-ai-media-vertex-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-generative-ai-media-vertex-ai-sunnyvale"
   }
 ]
