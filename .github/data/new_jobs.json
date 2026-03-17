@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, GCS, Transfer Appliance Infrastructure",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, GCS, Transfer Appliance Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132088712128275142-software-engineer-gcs-transfer-appliance-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-gcs-transfer-appliance-infrastructure-sunnyvale"
+    "employer_name": "Apple",
+    "job_title": "AR/VR Software Engineer, Spatial Media - Vision Products Software",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum Qualifications3 + years experience in software development.\n• Experience using Apple development tools and APIsProficiency in Computer GraphicsBS in Computer Science or equivalent experience.\n• Proficiency in an application programming language, such as C/C++, Objective-C, Swift, etc.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200649460-3401/ar-vr-software-engineer-spatial-media-vision-products-software?team=SFTWR",
+    "id": "apple-ar-vr-software-engineer-spatial-media-vision-products-software-"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Generative AI Media, Vertex AI",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Ridgeline Engineering",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Generative AI Media, Vertex AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/142994355647324870-software-engineer-generative-ai-media-vertex-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-generative-ai-media-vertex-ai-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Ridgeline Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/73551314360902342-software-engineer-ridgeline-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-ridgeline-engineering-seattle"
   }
 ]
