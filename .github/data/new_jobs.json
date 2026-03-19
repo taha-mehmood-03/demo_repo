@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Data and AI Engineer, Salesforce Ventures",
-    "job_city": "New York - New York",
+    "employer_name": "General Dynamics",
+    "job_title": "Data Scientist - Active Secret clearance",
+    "job_city": "Any Location /",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Build reusable AI skills, prompt pipelines, and project configurations tailored to investment workflows: sourcing, diligence, competitive analysis, and investment committee preparation.\n• Help conduct technical diligence on active deals — product architecture, API design, developer experience, infrastructure choices, open-source positioning, scalability, and technical moats.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.\n• Design and build internal tools and applications — deal tracking, portfolio analytics, sourcing workflows, pipeline management, and ad-hoc data requests across investment, finance, marketing, and portfolio development teams.\n• Build and improve data pipelines and reporting infrastructure powering essential firm activities like portfolio reviews, deployment analysis, fund performance measurement, and pipeline analytics.\n• Build and maintain custom integrations — MCP servers, Slack apps, and other connectors — that tie together the tools ecosystem and give AI systems deep access to internal data.\n• Help own Salesforce CRM data architecture: object model design, field logic, automation rules, validation, and data quality enforcement.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr333355/data-and-ai-engineer-salesforce-ventures/",
-    "id": "salesforce-data-and-ai-engineer-salesforce-ventures-new-york-new-york"
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Data-Scientist---Active-Secret-clearance_RQ216814-1?q=software+engineering",
+    "id": "general-dynamics-data-scientist-active-secret-clearance-any-location"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "System Software Engineer, Calibration - Autonomous Vehicles",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Intern Software Engineer",
+    "job_city": "Boston",
+    "job_state": "Massachusetts",
     "job_posted_at": "1d",
-    "job_description": "• Principal Software Engineer, AIOps and ObservabilitylocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2009014Senior Software Engineer, CUDA Core Librarieslocations2 Locationsposted onPosted 3 Days AgoJR2013324Senior System Software Engineer - AV PlatformlocationsUS, CA, Santa Claraposted onPosted 9 Days AgoJR2014181Principal Software Engineer - Physical AI Toolinglocations2 Locationsposted onPosted 9 Days AgoJR2014111Senior Software Engineer, L4 - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2014474Senior Software Engineer, Test - Autonomous Vehicleslocations4 Locationsposted onPosted 2 Days AgoJR2014504Senior AI Software Engineer, Kernel Librarieslocations2 Locationsposted onPosted 7 Days AgoJR2014705Senior System Software Engineer, Automotive Performancelocations3 Locationsposted onPosted YesterdayJR2014678Senior Software Engineer, Parking - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted TodayJR2014912System Software Engineer, Calibration - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted TodayJR2014856Software Engineering Manager - GPU Communications LibrarieslocationsUS, CA, Santa Claraposted onPosted TodayJR1980109Senior Software Engineer, Fabric Networking - GPUlocations2 Locationsposted onPosted 2 Days AgoJR1990846Senior System Software Engineer - GPU Performancelocations2 Locationsposted onPosted YesterdayJR1997214Linux GPU Senior System Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR1998968Senior System Software Engineer Platform - OpenBMClocations2 Locationsposted onPosted 6 Days AgoJR1999525Senior System Software Engineer - GPU ServerlocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2001533Principal System Software Engineer - CUDA DriverlocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2001780Senior Robotics Systems Software Engineer - ROSlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000889Senior System Software Engineer, GPU Serverlocations2 Locationsposted onPosted 30+ Days AgoJR2001815NVIDIA 2026 Internships: Software Engineering - USlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2003206.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-software-engineer-calibration-autonomous-vehicles-us"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/boston/intern-software-engineer/33099/92946308960",
+    "id": "arm-intern-software-engineer-boston"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Data Center Orchestration",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Data Center Orchestration",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127089559174292166-software-engineer-data-center-orchestration?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-data-center-orchestration-pittsburgh"
   }
 ]
