@@ -1,32 +1,72 @@
 [
   {
+    "employer_name": "Salesforce",
+    "job_title": "Account Solution Engineer: Non-Profit",
+    "job_city": "Illinois - Chicago Metro -",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Strong leadership, presentation and collaboration skills.\n• Solid verbal, written, presentation and interpersonal communication skills.\n• Proven time management & prioritization skills in a dynamic sales environment.\n• Technical expertise in any of the following industries (CRM, AI, Analytics, Business Intelligence, Digital Marketing, Community Engagement) Desired SkillsThe ideal candidate has a background in either non-profit management and operational roles, and/or Salesforce technology.\n• Provide customer feedback to the product management and engineering teams to capture new customer requirements and improvements.\n• Ability to travel domestically (up to 30%) Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 7+ years of professional work experience, preferably in the non-profit sector or software industry.\n• Experience working in a fast paced, agile company.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr334767/account-solution-engineer-non-profit/",
+    "id": "salesforce-account-solution-engineer-non-profit-illinois-chicago-metro"
+  },
+  {
     "employer_name": "AMD",
-    "job_title": "Software Development Engineer - GPU",
+    "job_title": "SLT Product Development Engineer",
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Manage and direct a team of experienced games/graphics engineers.\n• Stay informed of software and hardware trends and innovations, especially pertaining to algorithms and architecture Debugging/fix existing issues and research alternative, more efficient ways to accomplish the same work Develop technical relationships with peers and partners Computer science background with advanced years of full-time experience writing efficient, modern C++ and high-level shader code (HLSL SM6, GLSL, Slang, etc)Motivating leader with good interpersonal skills Effective communication and problem-solving skillsKnowledge of real-time rendering and graphics algorithms as used in AAA games.\n• Highly organized and experienced at planning development schedules, including adapting to changing requirementsExtensive experience shipping AAA games & game-engines or middleware.\n• Excellent written and verbal English skills.\n• Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Define and manage project schedules and deliverablesWork closely with research engineers to transform proof-of-concept prototypes into mature products at a very high level of quality.\n• Collaborate with external game development partners to integrate these technologies into their titles.\n• Optimize, extend, package and document high-level compute shader and C++ code.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/80404/login",
-    "id": "amd-software-development-engineer-gpu-us"
+    "job_description": "• Must have extensive experience with direct SLT Test patterns, calibration test flows/method development, debug, test and characterization experience working in an NPI Product Engineering team.\n• Collaborate with various engineering teams to determine System Level Test (SLT) coverage, content, characterization requirements, and root cause resolution for SLT device failuresEarly engagement in pre and post silicon phases, including test flow planning, test coverage bring-up, test flow integration, and test hardware checkout.\n• Mastery of principles of test experience in System Level Test or x86 System ArchitectureExtensive experience as a SLT technical leader with a successful track record of bringing up test patterns, debug low yield, test flow integration and characterization experience working in an NPI Product Engineering team.\n• Proficient in Windows, Unix, and Linux operating systemsExperience in platform test and debugExperience with IC test experience and assist in ASIC bring up and support activitiesTechnical knowledge in OS kernel, driver, BIOS firmwareDemonstrated programming and scripting experience using various programming languages (C, C++, Java, Ruby, Perl, Python)Knowledgeable in version control tools (Git)Electrical/Electronics, Computer Engineering, or comparable disciplines AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Accountable for driving test solution/coverage development, optimization to meet business milestones: schedule, test time, yield, cost and quality.\n• Validate new product features, test conditions, test methodologies, and test contentsPerform silicon characterization across process, voltage, and temperatureConducts engineering evaluation, test program correlation, releases for high volume production and engineering enhancement or improvement projectsDrive Key Performance Indicators such as test time reduction, yield debug, quality improvement across products and drive innovation on test strategyProvides overall Test Engineering support for AMD’s S3 products tested at global facilitiesWorking with regional teams, including Product development group and Manufacturing group in the early stage bring up for product cycles at the AMD high volume sitesRepresents test team on any test excursions and issue escalations to the respective owner to identify resolution or containment action for the issueInterface between AMD and OSAT for test program implementation and resolution for operation issuesStrong understanding of test program, good communication and capability to drive/deliver critical business milestonesProvide technical supervision or mentoring junior engineersFamiliar with RMA debug is a plus.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/79945/login",
+    "id": "amd-slt-product-development-engineer-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Data Engineer",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "19h",
+    "job_description": "• Minimum QualificationsBachelor's Degree in Computer Science, Engineering, or equivalent related experience3+ years of hands-on experience building data applications, backend services, or platform servicesStrong, production-level programming experience in Java, including building and maintaining RESTful or RPC-based servicesSolid experience with relational databases including schema design, data modeling, and query optimization using SQLExperience with distributed data technologies such as Apache Spark or Apache Flink, Hadoop, HDFS, KafkaFamiliarity with workflow orchestration concepts and tools such as Apache AirflowDemonstrated ability to build, test, and operationally maintain reliable software systems in production environments.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200652977-3337/software-data-engineer?team=SFTWR",
+    "id": "apple-software-data-engineer-seattle"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Cloud Build, Google Cloud Platforms",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Software Engineer III, Google Cloud Technical Infrastructure",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Cloud Build, Google Cloud Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140629788782928582-software-engineer-iii-cloud-build-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-iii-cloud-build-google-cloud-platforms-new-york"
+    "job_description": "software engineering job for the role Software Engineer III, Google Cloud Technical Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/123550799790777030-software-engineer-iii-google-cloud-technical-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-google-cloud-technical-infrastructure-kirkland"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Professional Services II - AMZ18813.5",
+    "job_title": "Data Engineer II, AWS Field Experience - Investments",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "6d",
-    "job_description": "software engineering job for the role Professional Services II - AMZ18813.5",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3207199/professional-services-ii-amz18813-5",
-    "id": "amazon-professional-services-ii-amz18813-5-seattle"
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Data Engineer II, AWS Field Experience - Investments",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10374036/data-engineer-ii-aws-field-experience-investments",
+    "id": "amazon-data-engineer-ii-aws-field-experience-investments-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Jr. Software Development Engineer - Austin, TX, Jr. Developer Program",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Jr. Software Development Engineer - Austin, TX, Jr. Developer Program",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10373833/jr-software-development-engineer-austin-tx-jr-developer-program",
+    "id": "amazon-jr-software-development-engineer-austin-tx-jr-developer-program-austin"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Dev Engineer, Leo Customer Terminal Network and Fleet Management",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Dev Engineer, Leo Customer Terminal Network and Fleet Management",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10373954/software-dev-engineer-leo-customer-terminal-network-and-fleet-management",
+    "id": "amazon-software-dev-engineer-leo-customer-terminal-network-and-fleet-management-redmond"
   }
 ]
