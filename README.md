@@ -19,7 +19,7 @@
 
 🔥 **Current Positions:** 696 hot software engineering jobs  
 🏢 **Top Companies:** 26 elite tech including Tesla, NVIDIA, Raytheon  
-⭐ **FAANG+ Jobs & Internships:** 180 premium opportunities  
+⭐ **FAANG+ Jobs & Internships:** 179 premium opportunities  
 📅 **Last Updated:** March 24, 2026  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
 📁 **Archived Developer Jobs:** 0 (older than 1 week)
@@ -62,21 +62,20 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
-### ⭐ **FAANG+** (180 positions)
+### ⭐ **FAANG+** (179 positions)
 
 <details>
-<summary><h4>📦 <strong>Amazon</strong> (28 positions)</h4></summary>
+<summary><h4>📦 <strong>Amazon</strong> (29 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| ServiceNow App Dev Eng, OTS Delivery Software Engineering (DSE) | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3202150/servicenow-app-dev-eng-ots-delivery-software-engineering-dse) | 1w |
 | Software Development Engineer, Data Center Controls Automation Software Engineering | Denver, CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10371632/software-development-engineer-data-center-controls-automation-software-engineering) | 5d |
+| ServiceNow App Dev Eng, OTS Delivery Software Engineering (DSE) | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3202150/servicenow-app-dev-eng-ots-delivery-software-engineering-dse) | 1w |
 | ServiceNow Application Development Engineer, OpsTech Solutions , OpsTech Solutions - Team Nowvengers | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3186914/servicenow-application-development-engineer-opstech-solutions-opstech-solutions-team-nowvengers) | 4w |
-| Software Engineer II- AI/ML, AWS Neuron | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10375046/software-engineer-ii-ai-ml-aws-neuron) | 21h |
 | IT Application Analyst Intern, AWS | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3186602/it-application-analyst-intern-aws) | 4w |
+| Software Engineer II- AI/ML, AWS Neuron | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10375046/software-engineer-ii-ai-ml-aws-neuron) | 23h |
 | Aerospace and Networking Systems Software Development Engineer, Aerospace Edge Solutions | Denver, CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3189952/aerospace-and-networking-systems-software-development-engineer-aerospace-edge-solutions) | 3w |
 | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) | 2w |
-| Software Development Engineer, EC2 ML Provisioning | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3206800/software-development-engineer-ec2-ml-provisioning) | 1w |
 | Ontologist, Product Knowledge | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3197796/ontologist-product-knowledge) | 2w |
 | Human Resources Partner | Newark, NJ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3196334/human-resources-partner) | 2w |
 | Data Engineer II, AWS Field Experience - Investments | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10374036/data-engineer-ii-aws-field-experience-investments) | 1d |
@@ -85,18 +84,20 @@
 | Jr. Software Development Engineer - Austin, TX, Jr. Developer Program | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10373833/jr-software-development-engineer-austin-tx-jr-developer-program) | 1d |
 | Software Development Engineer, Guidance and Personalization - Amazon Ads | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3202509/software-development-engineer-guidance-and-personalization-amazon-ads) | 1w |
 | Jr. Software Development Engineer - Tempe, AZ, Jr. Developer Program | Tempe, AZ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3202652/jr-software-development-engineer-tempe-az-jr-developer-program) | 1w |
-| Jr. Software Development Engineer - Sunnyvale, CA, Jr. Developer Program | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3189496/jr-software-development-engineer-sunnyvale-ca-jr-developer-program) | 3w |
 | Professional Services II - AMZ18813.5 | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3207199/professional-services-ii-amz18813-5) | 1w |
+| Jr. Software Development Engineer - Sunnyvale, CA, Jr. Developer Program | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3189496/jr-software-development-engineer-sunnyvale-ca-jr-developer-program) | 3w |
 | Professional Services II - AMZ17578.5 | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3199390/professional-services-ii-amz17578-5) | 2w |
 | Software Development Engineer – Amazon Transportation | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3206149/software-development-engineer-amazon-transportation) | 1w |
-| Software Dev Engineer, Leo Customer Terminal Network and Fleet Management | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10373954/software-dev-engineer-leo-customer-terminal-network-and-fleet-management) | 1d |
 | Applied Scientist, Worldwide Returns & Recommerce - Science | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10373925/applied-scientist-worldwide-returns-recommerce-science) | 1d |
+| Software Dev Engineer, Leo Customer Terminal Network and Fleet Management | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10373954/software-dev-engineer-leo-customer-terminal-network-and-fleet-management) | 1d |
+| Software Development Engineer , AWS Intent Driven Networking (AIDN) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3207213/software-development-engineer-aws-intent-driven-networking-aidn) | 1w |
 | Software Development Engineer, Sponsored Products and Brands | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10374217/software-development-engineer-sponsored-products-and-brands) | 1d |
-| Software Development Engineer , AWS Intent Driven Networking (AIDN) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3194622/software-development-engineer-aws-intent-driven-networking-aidn) | 3w |
 | Software Development Engineer, Lep Telemetry and Command | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3201597/software-development-engineer-lep-telemetry-and-command) | 2w |
 | Applied Scientist, PRG (Personal Robotics Group) | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3204663/applied-scientist-prg-personal-robotics-group) | 1w |
 | Software Dev Engineer II , AWS Intent Driven Networking (AIDN) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3203253/software-dev-engineer-ii-aws-intent-driven-networking-aidn) | 1w |
+| Software Development Engineer, Automated Profitability Management | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/10374259/software-development-engineer-automated-profitability-management) | 1d |
 | Mission Operations Systems Development Engineer, Optical Inter-Satellite Link | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3193073/mission-operations-systems-development-engineer-optical-inter-satellite-link) | 3w |
+| Software Development Engineer II, Amazon Industrial Robotics | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3202416/software-development-engineer-ii-amazon-industrial-robotics) | 1w |
 
 </details>
 
@@ -148,8 +149,8 @@
 | Software Engineer, Google Cloud Web3 | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/89339613067256518-software-engineer-google-cloud-web3?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 1h |
 | Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/96957711316329158-software-engineer-phd-early-career-embedded-systems-and-firmware-2026-start?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4) | 1h |
 | Software Engineer, Agentic AI, Gemini Cloud Assist | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/109380283731452614-software-engineer-agentic-ai-gemini-cloud-assist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4) | 1h |
-| Software Engineer, Cloud Quotas | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/117205449467404998-software-engineer-cloud-quotas?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4) | 1h |
 | Software Engineer, GPU Performance | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/91233894434513606-software-engineer-gpu-performance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4) | 1h |
+| Software Engineer, Cloud Quotas | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/117205449467404998-software-engineer-cloud-quotas?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4) | 1h |
 | Software Engineer III, Infrastructure, Platforms Infrastructure Engineering | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/95832940046361286-software-engineer-iii-infrastructure-platforms-infrastructure-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4) | 1h |
 | Software Engineer, Cloud Billing, Google Cloud | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/107653373481624262-software-engineer-cloud-billing-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4) | 1h |
 | Software Engineer, Infrastructure, Platforms and Devices | Los Angeles, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/106949799319610054-software-engineer-infrastructure-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4) | 1h |
@@ -190,12 +191,12 @@
 | Software Engineer III, Mobile (iOS), Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/136240555007845062-software-engineer-iii-mobile-ios-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer III, Mobile (iOS), YouTube | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/132922658411946694-software-engineer-iii-mobile-ios-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer III, Spanner Vector Search | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/134863669023384262-software-engineer-iii-spanner-vector-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
-| Software Engineer III, Google Cloud Security and Privacy | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/84816828894716614-software-engineer-iii-google-cloud-security-and-privacy?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer III, Payments | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/82093529987195590-software-engineer-iii-payments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
+| Software Engineer III, Google Cloud Security and Privacy | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/84816828894716614-software-engineer-iii-google-cloud-security-and-privacy?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer III, Infrastructure, Google Cloud Storage | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/72401075679699654-software-engineer-iii-infrastructure-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer III, AI/ML, Search | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/123203165674709702-software-engineer-iii-aiml-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
-| Software Engineer III, Google Cloud Technical Infrastructure | Kirkland, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/123550799790777030-software-engineer-iii-google-cloud-technical-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer III, Google Cloud Networking | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/85713592698970822-software-engineer-iii-google-cloud-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
+| Software Engineer III, Google Cloud Technical Infrastructure | Kirkland, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/123550799790777030-software-engineer-iii-google-cloud-technical-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer III, Mobile (Android), Geo | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/80913644220490438-software-engineer-iii-mobile-android-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer III, Google Cloud Platform | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/73883173598962374-software-engineer-iii-google-cloud-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
 | Software Engineer, Performance, YouTube ML Efficiency | San Bruno, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/125122470595175110-software-engineer-performance-youtube-ml-efficiency?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8) | 1h |
@@ -222,17 +223,17 @@
 | Software Engineer III, Infrastructure, Google Cloud Security and Privacy | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/139439628514927302-software-engineer-iii-infrastructure-google-cloud-security-and-privacy?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
 | Software Engineer III, Google Cloud Global Networking | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/78902946690933446-software-engineer-iii-google-cloud-global-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
 | Software Engineer III, Google Cloud Storage, Metadata Platforms | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/138680172667642566-software-engineer-iii-google-cloud-storage-metadata-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
+| Software Engineer III, Watch Essential Experiences | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/83879002921411270-software-engineer-iii-watch-essential-experiences?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
 | Software Engineer, Quantum Computing Software, Quantum AI | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/127495321914614470-software-engineer-quantum-computing-software-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
 | Software Engineer, Kubernetes, Networking | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/84206823279600326-software-engineer-kubernetes-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
 | Software Engineer III, Full Stack, Google Cloud Platforms | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/111930608938033862-software-engineer-iii-full-stack-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
 | Security Software Engineer, Emerging On-prem AI infrastructure | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/114738878203470534-security-software-engineer-emerging-onprem-ai-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
 | Software Engineer III, Infrastructure, Core | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/121951307261977286-software-engineer-iii-infrastructure-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
-| Software Engineer III, Full Stack, Chrome | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/140979796942168774-software-engineer-iii-full-stack-chrome?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10) | 1h |
 
 </details>
 
 <details>
-<summary><h4>🍎 <strong>Apple</strong> (29 positions)</h4></summary>
+<summary><h4>🍎 <strong>Apple</strong> (27 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -240,13 +241,12 @@
 | Wi-Fi Software Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200649764-0836/wi-fi-software-engineer?team=SFTWR) | 1w |
 | Software Engineer Applications | San Diego, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651951-3543/software-engineer-applications?team=SFTWR) | 1w |
 | Software Engineer (Frameworks/Data) | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-frameworks-data?team=SFTWR) | 1w |
-| Embedded Software Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200652955-0836/embedded-software-engineer?team=HRDWR) | 21h |
-| Accessibility Software Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200649395-0836/accessibility-software-engineer?team=SFTWR) | 5d |
+| Embedded Software Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200652955-0836/embedded-software-engineer?team=HRDWR) | 23h |
 | Software Engineer, Shortcuts | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200647415-0836/software-engineer-shortcuts?team=SFTWR) | 4w |
 | Software Data Engineer | Seattle, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200652977-3337/software-data-engineer?team=SFTWR) | 1d |
-| Software Development Engineer, Vision Products Software | US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635460-3401/software-development-engineer-vision-products-software?team=SFTWR) | 3w |
-| Software Development Engineer, Vision Products Software | Los Angeles, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635460-2605/software-development-engineer-vision-products-software?team=SFTWR) | 3w |
 | HomeKit Software Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200653266-0836/homekit-software-engineer?team=SFTWR) | 1d |
+| Software Development Engineer, Vision Products Software | Los Angeles, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635460-2605/software-development-engineer-vision-products-software?team=SFTWR) | 3w |
+| Software Development Engineer, Vision Products Software | US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635460-3401/software-development-engineer-vision-products-software?team=SFTWR) | 3w |
 | Streaming Software Development Engineer, Vision Products Software | US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200648947-3401/streaming-software-development-engineer-vision-products-software?team=SFTWR) | 3w |
 | iOS/macOS Software Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651661-0836/ios-macos-software-engineer?team=SFTWR) | 1w |
 | Software Engineer - Data | San Diego, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651243-3543/software-engineer-data?team=SFTWR) | 1w |
@@ -262,22 +262,22 @@
 | Camera Embedded Software Engineer | Sunnyvale, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651660-3956/camera-embedded-software-engineer?team=HRDWR) | 1w |
 | WatchOS Software QA Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634856-0836/watchos-software-qa-engineer?team=SFTWR) | 3w |
 | Software Engineer, eBusiness Services | US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200646764-0240/software-engineer-ebusiness-services?team=SFTWR) | 4w |
-| Software Engineer, Mail Intelligence | San Diego, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200651143-3543/software-engineer-mail-intelligence?team=MLAI) | 1w |
 | software QA engineer, Pages | Austin, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200652527-0157/software-qa-engineer-pages?team=SFTWR) | 5d |
-| Camera Imaging Software Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200653138-0836/camera-imaging-software-engineer?team=SFTWR) | 21h |
+| Camera Imaging Software Engineer | Cupertino, US | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200653138-0836/camera-imaging-software-engineer?team=SFTWR) | 23h |
 
 </details>
 
-### 🏢 **Top Tech** (201 positions)
+### 🏢 **Top Tech** (200 positions)
 
-#### 💾 **Marvel Technology** (9 positions)
+#### 💾 **Marvel Technology** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| T5 - Hardware & Silicon Validation Principle Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/T5---Hardware---Silicon-Validation-Principle-Engineer_2600978?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Firmware Engineer | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Design Verification Engineer | Westborough, MA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Design-Verification-Engineer_2502573?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | ASIC Design Engineer: DFT-IP | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/ASIC-Design-Engineer--DFT-IP_2600512?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| ASIC Design Engineer | 16 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/ASIC-Design-Engineer_2600835?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Test Engineer | Burlington, VT | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Test-Engineer_2600312-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 | Hardware Validation (Test Solutions) Engineer | Burlington, VT | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Hardware-Validation--Test-Solutions--Engineer_2600593-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Package Reliability Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Package-Reliability-Engineer_2600352?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Principle Validation and Hardware Design Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principle-Validation-and-Hardware-Design-Engineer_2600513-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
@@ -291,7 +291,7 @@
 | Summer 2026 Intern, R&D Software Development - Undergraduate | Boulder, Colorado | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/boulder/summer-2026-intern-r-and-d-software-development-undergraduate/44408/92898575712) | 1w |
 | DevOps Engineer | Canonsburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/canonsburg/devops-engineer-ii/44408/90427979216) | 1w |
 
-#### 🎮 **NVIDIA** (10 positions)
+#### 🎮 **NVIDIA** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -301,6 +301,7 @@
 | Systems Software Engineer - Tegra | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Tegra_JR2011790?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 6d |
 | System Software Engineer - Networking | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/System-Software-Engineer---Networking_JR2012786?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 3w |
 | System Software Engineer - GPU | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2013295?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 1d |
+| Software Engineer, Tegra SoC Products | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Tegra-SoC-Products_JR2011502-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 4w |
 | Graphics Developer Tools Software Engineer | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Graphics-Developer-Tools-Software-Engineer_JR2013628?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 3w |
 | System Software Engineer, Calibration - Autonomous Vehicles | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 6d |
 | Software Engineer, System Validation - EDA Infrastructure | 5 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 1d |
@@ -356,7 +357,7 @@
 </details>
 
 <details>
-<summary><h4>🔶 <strong>AMD</strong> (30 positions)</h4></summary>
+<summary><h4>🔶 <strong>AMD</strong> (28 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -371,15 +372,14 @@
 | C++ Software Engineer - GPU Modeling | US, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/78384/login) | 1d |
 | GPU Software Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/77592/login) | 1d |
 | Software System Researcher | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/79435/login) | 1d |
-| FPGA Implementation Tools Software Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/78262/login) | 1d |
 | Product Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/69260/login) | 1d |
 | CPU Tools and Diagnostics Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72316/login) | 1d |
+| AI Infrastructure / Platform Engineer - GPU compute | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/78471/login) | 1d |
 | Data Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/80133/login) | 1d |
 | Pre Silicon System Emulation and Debug Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/77976/login) | 1d |
 | Virtualization Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/77784/login) | 1d |
 | Memory Systems Design Engineer Client and Graphics Platform Engineering | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/78497/login) | 1d |
 | FPGA Prototyping and Emulation Engineer | US, IA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/80780/login) | 1d |
-| Silicon Photonics Validation and Characterization Test Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/77202/login) | 1d |
 | C-Simulation Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/75900/login) | 1d |
 | Design Verification Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/77841/login) | 1d |
 | AI/ML Silicon Verification Solutions Engineer – Hardware | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/80071/login) | 1d |
@@ -389,55 +389,50 @@
 | ATE Test & Product Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71235/login) | 1d |
 | SLT Product Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/79945/login) | 1d |
 | AI/ML Validation Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/77772/login) | 1d |
-| Hardware Systems Design Engineer | US, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/75082/login) | 1d |
 
 </details>
 
 <details>
-<summary><h4>☁️ <strong>Salesforce</strong> (30 positions)</h4></summary>
+<summary><h4>☁️ <strong>Salesforce</strong> (25 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineering MTS | Washington - Seattle, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr333972/software-engineering-mts/) | 1h |
-| Software Engineering SMTS | Indiana - Indianapolis, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr330170/software-engineering-smts/) | 1h |
 | Software Engineering MTS - Security Automation | New York - New York, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr328098/software-engineering-mts-security-automation/) | 1h |
+| Software Engineering SMTS | Indiana - Indianapolis, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr330170/software-engineering-smts/) | 1h |
 | Software Engineering LMTS - Cloud Platform | New York - New York, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr328097/software-engineering-lmts-cloud-platform/) | 1h |
 | Software Engineering SMTS - Cloud Reliability | New York - New York, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr328096/software-engineering-smts-cloud-reliability/) | 1h |
 | Summer 2026 Intern - Software Engineer | California - San Francisco, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/) | 1h |
 | Software Engineer, Search Data Infrastructure -Slack | Washington - Seattle, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr331617/software-engineer-search-data-infrastructure-slack/) | 1h |
 | Technical Support Engineer | Indiana - Indianapolis, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr334959/technical-support-engineer/) | 1h |
+| Account Solution Engineer - Mulesoft | Portugal - Lisbon, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr334522/account-solution-engineer-mulesoft/) | 1h |
 | Workday Financials - Integrations Engineer | California - San Francisco, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr321740/workday-financials-integrations-engineer/) | 1h |
 | AI Engineer, Agent Systems | California - Palo Alto, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329631/ai-engineer-agent-systems/) | 1h |
 | Performance Engineer | California - San Francisco, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329118/performance-engineer/) | 1h |
-| Solution Engineer (Pre-Sales) - All Levels | New York - New York, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr317953/solution-engineer-pre-sales-all-levels/) | 1h |
 | Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector | Washington D.C. -, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr333171/missionforce-associate-forward-deployed-engineer-fde-public-sector/) | 1h |
-| Summer 2026 Intern - Applied Scientist, Optimization | Massachusetts - Boston, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr317299/summer-2026-intern-applied-scientist-optimization/) | 1h |
 | Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector | Hawaii -, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr309444/missionforce-associate-forward-deployed-engineer-fde-public-sector/) | 1h |
 | Solution Engineer (Pre-Sales)- Small, Medium & Growth Business | Illinois - Chicago, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr318273/solution-engineer-pre-sales-small-medium-growth-business/) | 1h |
-| Product Owner - Customer Success | Indiana - Indianapolis, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr329187/product-owner-customer-success/) | 1h |
 | Incident Responder - Cyber Security | California - San Francisco, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr332281/incident-responder-cyber-security/) | 1h |
 | Vertex Systems Engineer - SMTS | California - San Francisco, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr332465/vertex-systems-engineer-smts/) | 1h |
-| Site Reliability Engineer, GovCloud Incident Response (GIR) | Colorado - Denver, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr328560/site-reliability-engineer-govcloud-incident-response-gir/) | 1h |
-| LMTS Front End Engineer, Agentforce Voice | California - Palo Alto, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr327161/lmts-front-end-engineer-agentforce-voice/) | 1h |
-| Account Solution Engineer - Mulesoft | Portugal - Lisbon, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr334522/account-solution-engineer-mulesoft/) | 1h |
+| Account Solution Engineer: Non-Profit | Illinois - Chicago Metro -, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr334767/account-solution-engineer-non-profit/) | 1h |
 | Account Solution Engineer, Public Sector (Higher Education) | Illinois - Chicago, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr334666/account-solution-engineer-public-sector-higher-education/) | 1h |
+| Technical Product Marketing Engineer - Developer Services | California - San Francisco, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr328365/technical-product-marketing-engineer-developer-services/) | 1h |
 | AFD360 Solution Engineer - Regulated Industries | California - San Francisco, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr328814/afd360-solution-engineer-regulated-industries/) | 1h |
 | Solution Engineer (Pre-Sales) - Mulesoft | California - San Francisco, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr318263/solution-engineer-pre-sales-mulesoft/) | 1h |
 | Technical Support Engineer - Agentforce / Data360 - Spanish or Portuguese Speaking | Indiana - Indianapolis, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr325132/technical-support-engineer-agentforce-data360-spanish-or-portuguese-speaking/) | 1h |
 | Platform & Security AE | New York - New York City Metro -, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr331216/platform-security-ae/) | 1h |
-| Account Solution Engineer: Non-Profit | Illinois - Chicago Metro -, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr334767/account-solution-engineer-non-profit/) | 1h |
-| Research Scientist - Salesforce AI Research | California - Palo Alto, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr214107/research-scientist-salesforce-ai-research/) | 1h |
 | CTO - Agentic Process Automation & Intelligence | Virginia - Washington DC Metro -, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr330506/cto-agentic-process-automation-intelligence/) | 1h |
 
 </details>
 
 <details>
-<summary><h4>🔵 <strong>IBM</strong> (79 positions)</h4></summary>
+<summary><h4>🔵 <strong>IBM</strong> (83 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Developer 2026 ELH | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=91689&source=WEB_Search_NA) | 1d |
+| Entry Level Software Engineering – Agentic AI & Workflow Automation | New York, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=104582&source=WEB_Search_NA) | 1d |
 | Software Developer Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=91235&source=WEB_Search_NA) | 1d |
+| Software Developer 2026 ELH | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=91689&source=WEB_Search_NA) | 1d |
 | Software Engineer – Watsonx Data Platform | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=100430&source=WEB_Search_NA) | 1d |
 | Software Engineer Apprentice | shipAustin, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=72695&source=WEB_Search_NA) | 1d |
 | AI/ML Engineering internship: SVL | shipSan Jose, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=84961&source=WEB_Search_NA) | 1d |
@@ -466,49 +461,52 @@
 | Associate AI & Analytics – Data Scientist-Finance Transformation | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=97086&source=WEB_Search_NA) | 1d |
 | Power Systems Development -Firmware, Hypervisor, Operating Systems, AI Enablement | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=75325&source=WEB_Search_NA) | 1d |
 | Quantum EDA Junior Developer | Yorktown Heights, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=88964&source=WEB_Search_NA) | 1d |
-| Intern 2026: Quantum Network / Security Engineer | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=60905&source=WEB_Search_NA) | 1d |
 | Cloud-Native Front-end and API Developer Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=58571&source=WEB_Search_NA) | 1d |
-| Data Scientist Intern 2026 - AI Analytics & Automation | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87271&source=WEB_Search_NA) | 1d |
+| Intern 2026: Quantum Network / Security Engineer | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=60905&source=WEB_Search_NA) | 1d |
 | Quantum Error Correction Control Systems Engineer | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=96709&source=WEB_Search_NA) | 1d |
+| Data Scientist Intern 2026 - AI Analytics & Automation | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87271&source=WEB_Search_NA) | 1d |
 | Data Engineer Co-op 2026 - Data Services - Financial Services | shipUniversity Park, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=96264&source=WEB_Search_NA) | 1d |
 | Data Engineer Intern 2026 - Data Services | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87258&source=WEB_Search_NA) | 1d |
-| Network Support Engineer | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87893&source=WEB_Search_NA) | 1d |
 | Application Developer 2026- Asset Management | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89813&source=WEB_Search_NA) | 1d |
+| Network Support Engineer | POUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87893&source=WEB_Search_NA) | 1d |
 | Associate Data Engineer 2026 – Data Services | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87247&source=WEB_Search_NA) | 1d |
-| Application Developer 2026- Oracle Middleware | BATON ROUGE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89836&source=WEB_Search_NA) | 1d |
 | 2026 Returning Intern - Hardware Development | shipPOUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=86345&source=WEB_Search_NA) | 1d |
+| Application Developer 2026- Oracle Middleware | BATON ROUGE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89836&source=WEB_Search_NA) | 1d |
+| Hardware Developer Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=55106&source=WEB_Search_NA) | 1d |
 | Associate Application Developer 2026 - Business Applications | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87003&source=WEB_Search_NA) | 1d |
-| Hardware Developer Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=73023&source=WEB_Search_NA) | 1d |
 | Associate Application Developer | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87273&source=WEB_Search_NA) | 1d |
 | Application Developer 2026 - Adobe Marketing & Analytics | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89839&source=WEB_Search_NA) | 1d |
 | Application Developer 2026 - Azure Cloud Migration | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89841&source=WEB_Search_NA) | 1d |
 | Application Developer Intern 2026- Azure Cloud Migration | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89769&source=WEB_Search_NA) | 1d |
 | Application Developer Intern – Client Innovation Center (Entry Level) | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87264&source=WEB_Search_NA) | 1d |
 | Associate Developer Intern 2026 – Microsoft, Oracle, Application Operations, Salesforce and ServiceNow | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87239&source=WEB_Search_NA) | 1d |
-| Application Developer Intern 2026- Azure Cloud Migration | shipBATON ROUGE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89826&source=WEB_Search_NA) | 1d |
 | Application Developer Intern 2026- Asset Management | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89823&source=WEB_Search_NA) | 1d |
-| Federal Associate Quality Engineer Tester (Rocket Center, WV) | Rocket Center, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=78579&source=WEB_Search_NA) | 1d |
+| Application Developer Intern 2026- Azure Cloud Migration | shipBATON ROUGE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89826&source=WEB_Search_NA) | 1d |
 | "Application Developer Intern 2026- Oracle Middleware | shipBATON ROUGE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89833&source=WEB_Search_NA) | 1d |
-| Associate Application Developer – Hybrid Cloud and Data | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87004&source=WEB_Search_NA) | 1d |
+| Federal Associate Quality Engineer Tester (Rocket Center, WV) | Rocket Center, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=78579&source=WEB_Search_NA) | 1d |
 | Application Developer 2026- Salesforce | BATON ROUGE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89793&source=WEB_Search_NA) | 1d |
+| Associate Application Developer – Hybrid Cloud and Data | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87004&source=WEB_Search_NA) | 1d |
 | Associate Developer | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87249&source=WEB_Search_NA) | 1d |
 | Application Developer Intern 2026 - Salesforce | shipBATON ROUGE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=89729&source=WEB_Search_NA) | 1d |
 | Associate Application Developer 2026 – Salesforce | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87201&source=WEB_Search_NA) | 1d |
 | Data Engineer Intern – Client Innovation Center (Entry Level) | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87269&source=WEB_Search_NA) | 1d |
+| Site Reliability Engineer & Administrator (Intern) | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=74600&source=WEB_Search_NA) | 1d |
 | Associate Data Engineer – Client Innovation Center (Entry Level) | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87015&source=WEB_Search_NA) | 1d |
 | Federal Associate Developer (Rocket Center, WV) | Rocket Center, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=54769&source=WEB_Search_NA) | 1d |
-| Site Reliability Engineer & Administrator (Intern) | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=74600&source=WEB_Search_NA) | 1d |
-| Thermal Lab Tech Apprentice | shipHOPEWELL JUNCTION, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=73026&source=WEB_Search_NA) | 1d |
 | Hardware Design Technician Apprentice | shipAustin, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=95542&source=WEB_Search_NA) | 1d |
+| Hardware Design Technician Apprentice | shipPOUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=104302&source=WEB_Search_NA) | 1d |
+| Thermal Lab Tech Apprentice | shipHOPEWELL JUNCTION, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=73026&source=WEB_Search_NA) | 1d |
 | Data Scientist Intern – Client Innovation Center (Entry Level) | shipBuffalo, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=87026&source=WEB_Search_NA) | 1d |
 | IT Lab Tech - Physical Failure Analysis, Reliability Testing, and Characterization Apprentice | shipROCHESTER, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=93604&source=WEB_Search_NA) | 1d |
-| Hardware Design Technician Apprentice | shipPOUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=98260&source=WEB_Search_NA) | 1d |
 | Customer Success Engineer Co-op Fall | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=96251&source=WEB_Search_NA) | 1d |
-| Back End Developer Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=55372&source=WEB_Search_NA) | 1d |
 | Entry Level Back End Developer | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=55110&source=WEB_Search_NA) | 1d |
+| Back End Developer Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=55372&source=WEB_Search_NA) | 1d |
 | IT Lab Tech - Optical Apprentice | shipHOPEWELL JUNCTION, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=97517&source=WEB_Search_NA) | 1d |
 | Infrastructure Lab Technician Apprentice | shipPOUGHKEEPSIE, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=88987&source=WEB_Search_NA) | 1d |
 | IT Lab Tech Apprentice | shipTUCSON, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=69163&source=WEB_Search_NA) | 1d |
+| Associate Developer Co-op 2026 - Financial Services | shipUniversity Park, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=104341&source=WEB_Search_NA) | 1d |
+| Technology Sales– Intern Co-op | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=103622&source=WEB_Search_NA) | 1d |
+| Infrastructure Lab Technician Apprentice | shipROCHESTER, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=103901&source=WEB_Search_NA) | 1d |
 | IBM Research Visual Design Intern | ship, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=90210&source=WEB_Search_NA) | 1d |
 | Pricing & Packaging | United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=73177&source=WEB_Search_NA) | 1d |
 | Associate Designer Co-op 2026 - Financial Services | shipUniversity Park, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.ibm.com/careers/JobDetail?jobId=102093&source=WEB_Search_NA) | 1d |
@@ -518,7 +516,7 @@
 
 </details>
 
-### 💻 **Enterprise Software** (33 positions)
+### 💻 **Enterprise Software** (35 positions)
 
 #### 💻 **Dell** (7 positions)
 
@@ -533,25 +531,27 @@
 | Field Service Engineer 2 - Ellendale, North Dakota 🏠 | - North Dakota, US | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Remote---North-Dakota-United-States/Field-Service-Engineer-2---Ellendale--North-Dakota_R286538?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
 <details>
-<summary><h4>📡 <strong>Broadcom</strong> (18 positions)</h4></summary>
+<summary><h4>📡 <strong>Broadcom</strong> (20 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer VMkernel 🏠 | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-VMkernel_R023785?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| R&D Systems Applications Engineer (SAE) 🏠 | USA-California-San Jose-1320 Ridder Park Drive, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/R-D-Systems-Applications-Engineer--SAE-_R024997-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| R&D Engineer Software 🏠 | USA-Colorado-Colorado Springs-4420 Arrowswest Drive, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/R-D-Engineer-Software-2_R025104?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
-| R&D Engineer Software 🏠 | USA-TX Plano Legacy Drive Suite 700, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/R-D-Engineer-Software-6_R025441?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
-| Mainframe Quality Engineer 🏠 | USA-TX Plano Legacy Drive Suite 700, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Quality-Engineer-3_R025423?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
-| Mfg Support Ops 🏠 | USA-Pennsylvania-Breinigsville-9999 Hamilton Blvd, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Mfg-Support-Ops-2_R025386?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
-| PCIe QA Engineer 🏠 | USA-California-San Jose-1320 Ridder Park Drive, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/PCIe-QA-Engineer_R025493?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| R&D Software Engineer 2 (mainframe) 🏠 | USA-TX Plano Legacy Drive Suite 700, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/R-D-Software-Engineer-2--mainframe-_R025434?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
-| Mainframe Software Technical Support Engineer 🏠 | 7 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Software-Technical-Support-Engineer_R025388?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Equipment Assocaite Engineer | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Senoko/Equipment-Assocaite-Engineer_R025416-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Equipment Associate Engineer | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Senoko/Equipment-Associate-Engineer_R025417-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Board Hardware Engineer | USA-GA-Duluth-River Green Parkway, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R024349?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Software Development Engineer in Test (SDET) | USA-IL Lisle Warrenville Road, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Software-Development-Engineer-in-Test--SDET-_R025268?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Software Systems Engineer | USA-CA - Promontory B, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Systems-Engineer_R025305?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
-| ESX Engineer | USA-CA - Promontory B, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/ESX-Engineer_R025200?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
+| Product Owner, Mainframe Networking & Observability | USA-PA Pittsburgh Holiday Drive, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-PA-Pittsburgh-Holiday-Drive/Product-Owner--Mainframe-Networking---Observability_R025485?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Software Engineer | USA-CA - Promontory E, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/Software-Engineer_R025456?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Software Engineer VMkernel | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-VMkernel_R023785?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| R&D Systems Applications Engineer (SAE) | USA-California-San Jose-1320 Ridder Park Drive, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/R-D-Systems-Applications-Engineer--SAE-_R024997-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| R&D Engineer Software | USA-Colorado-Colorado Springs-4420 Arrowswest Drive, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/R-D-Engineer-Software-2_R025104?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| R&D Engineer Software | USA-TX Plano Legacy Drive Suite 700, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/R-D-Engineer-Software-6_R025441?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| Mainframe Quality Engineer | USA-TX Plano Legacy Drive Suite 700, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Quality-Engineer-3_R025423?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| Mfg Support Ops | USA-Pennsylvania-Breinigsville-9999 Hamilton Blvd, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Mfg-Support-Ops-2_R025386?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| PCIe QA Engineer | USA-California-San Jose-1320 Ridder Park Drive, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/PCIe-QA-Engineer_R025493?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
+| R&D Software Engineer 2 (mainframe) | USA-TX Plano Legacy Drive Suite 700, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/R-D-Software-Engineer-2--mainframe-_R025434?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Mainframe Software Technical Support Engineer | 7 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Software-Technical-Support-Engineer_R025388?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Equipment Assocaite Engineer 🏠 | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Senoko/Equipment-Assocaite-Engineer_R025416-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Equipment Associate Engineer 🏠 | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Senoko/Equipment-Associate-Engineer_R025417-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Board Hardware Engineer 🏠 | USA-GA-Duluth-River Green Parkway, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R024349?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Software Development Engineer in Test (SDET) 🏠 | USA-IL Lisle Warrenville Road, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Software-Development-Engineer-in-Test--SDET-_R025268?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Software Systems Engineer 🏠 | USA-CA - Promontory B, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Systems-Engineer_R025305?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
+| ESX Engineer 🏠 | USA-CA - Promontory B, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/ESX-Engineer_R025200?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Supply Chain Planning and Wafer Qualification Engineering | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Senoko/Supply-Chain-Planning-and-Wafer-Qualification-Engineering_R025258?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Field Applications Engineer | USA-Pennsylvania - location, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Pennsylvania---Remote-location/Field-Applications-Engineer_R025185?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Board Validation Engineer | USA-GA-Duluth-River Green Parkway, US | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Validation-Engineer_R025092?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
@@ -576,10 +576,10 @@
 | Software Application Engineer (US Federal) 🏠 | USA, GA | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Application-Engineer----US-Federal-_JR-0104403-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Software Development Engineer - US Federal 🏠 | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Software-Development-Engineer---US-Federal_JR-0104927?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 
-### 🚀 **Startups & Growth** (73 positions)
+### 🚀 **Startups & Growth** (71 positions)
 
 <details>
-<summary><h4>🛡️ <strong>BAE Systems</strong> (55 positions)</h4></summary>
+<summary><h4>🛡️ <strong>BAE Systems</strong> (54 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -631,7 +631,6 @@
 | Front End Developer, Mid | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Front-End-Developer--Mid_R0236106?q=software+engineering) | 1w |
 | Cloud Developer, Mid | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Developer--Mid_R0236171?q=software+engineering) | 6d |
 | AWS Full Stack Developer | 4 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/AWS-Full-Stack-Developer_R0236438?q=software+engineering) | 4d |
-| Software Test Engineer | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Test-Engineer_R0233881?q=software+engineering) | 2w |
 | Quantum Algorithms Developer | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Quantum-Algorithms-Developer_R0235196?q=software+engineering) | 2w |
 | Ground Software Systems Engineer | 3 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Ground-Software-Systems-Engineer_R0234302?q=software+engineering) | 2w |
 | UI/UX Front-End Web Developer | 6 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/UI-UX-Front-End-Web-Developer_R0234584?q=software+engineering) | 4w |
@@ -642,7 +641,7 @@
 </details>
 
 <details>
-<summary><h4>📊 <strong>Guidehouse</strong> (18 positions)</h4></summary>
+<summary><h4>📊 <strong>Guidehouse</strong> (17 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -653,11 +652,10 @@
 | Data Engineer 🏠 | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Engineer_34501?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Archibus Database Engineer 🏠 | US - VA, Springfield | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Archibus-Database-Engineer_35550?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | ServiceNow Developer 🏠 | US - (Any location), US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/ServiceNow-Developer_36261?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Microsoft Dynamics 365 Developer 🏠 | US - (Any location), US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Microsoft-Dynamics-365-Developer_37540-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Power Apps Developer 🏠 | US - (Any location), US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Power-Apps-Developer_37549?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 4d |
-| Microsoft Power Platform Developer 🏠 | US - (Any location), US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Microsoft-Power-Platform-Developer_37550-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Palantir Foundry Developer 🏠 | US - (Any location), US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Palantir-Foundry-Developer_36683-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 | Data Scientist 🏠 | US - VA, Arlington | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Scientist_37200?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Revenue Integrity Analyst (Medical Coding) 🏠 | 3 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/Revenue-Integrity-Analyst--Medical-Coding-_37159-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Databricks Apps Developer 🏠 | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Databricks-Apps-Developer_37350?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 | Revenue Integrity Analyst (Medical Biller) 🏠 | 3 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/Revenue-Integrity-Analyst--Medical-Biller-_37153?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Power Apps Developer 🏠 | 3 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Power-Apps-Developer_36781?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 4w |
@@ -725,14 +723,14 @@
 | AI/ML Software Engineer | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704167/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Big Data Software Engineer - Python | Ciudad Autónoma de Buenos Aires, Argentina | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210668244/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Software Engineer III - Quantitative Developer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705836/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
+| Software Engineer III- Python / Numpy / Pandas | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712779/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | UI React Software Engineer | OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707085/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Software Engineer [Multiple Positions Available] | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721965/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Software Engineer III- Python / Numpy / Pandas | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712779/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Software Engineer III - Technology Control Operations | BOURNEMOUTH, DORSET | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727308/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Software Engineer III - Java, Kubernetes, AWS | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705679/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
+| Python / Load Balancing / Software Engineer | Columbus, OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210692526/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Software Engineer III - LLM | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719158/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
+| Software Engineer III - Java, Kubernetes, AWS | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705679/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Software Engineer III - SRE | BOURNEMOUTH, DORSET | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709060/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| AI/ML Engineer - Software Engineer | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725876/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 
 </details>
 
@@ -745,7 +743,7 @@
 | Electrical Test Engineer | US - California - San Diego, US | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Electrical-Test-Engineer-1_42316-JOB?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Engineer 2, Process Development | US - California - San Diego, US | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Engineer-2--Process-Development_42466-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 
-### 🏭 **Manufacturing & Industrial** (158 positions)
+### 🏭 **Manufacturing & Industrial** (160 positions)
 
 <details>
 <summary><h4>💪 <strong>Arm</strong> (16 positions)</h4></summary>
@@ -776,7 +774,6 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern - Software Engineering | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40878410) | 2d |
 | Software Automation Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40663067) | 2w |
 | New College Grad - Embedded Software Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/41025899) | 2d |
 | Software Development Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40899228) | 2d |
@@ -800,49 +797,53 @@
 | CAD Design Automation Engineer, CE | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38954244) | 2w |
 | RDA/Metrology Technician, TD | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40616714) | 2w |
 | Data Scientist | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40662603) | 2w |
-| ID1 Photolithography Process Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/39744397) | 1w |
 | EUV Lithography Process Development Engineer- TPG | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40272481) | 1d |
 | Layout Engineer, DDEG | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40100240) | 1w |
+| ID1 Photolithography Process Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/39744397) | 1w |
 | Engineer, ID1 RAM Hardware | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40530265) | 1d |
+| New College Grad - Semiconductor Verification Design Engineer, DRAM Products Group | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/40033242) | 1d |
 
 </details>
 
 <details>
-<summary><h4>⚡ <strong>ABB</strong> (31 positions)</h4></summary>
+<summary><h4>⚡ <strong>ABB</strong> (34 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Mechanical Design Engineer | Location Ede, Gelderland | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014290/Mechanical-Design-Engineer) | 1h |
+| Warehouse/Internal Logistics Operator | Location Phoenix, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator) | 1h |
+| Technical Support Engineer - Drives | Location San Diego, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011894/Technical-Support-Engineer-Drives) | 1h |
+| Regional Technical Advisor | Available in one of 2 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00024990/Regional-Technical-Advisor) | 1h |
+| Cloud and Edge Solutions Intern- Summer | Location San Jose, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00024381/Cloud-and-Edge-Solutions-Intern-Summer-2026) | 1h |
+| Agentic AI Intern- Summer | Location San Jose, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00024219/Agentic-AI-Intern-Summer-2026) | 1h |
+| Field Service Engineer - Drives | Location Houston, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012229/Field-Service-Engineer-Drives) | 1h |
+| R&D Associate Electrical Engineer | Location Fort Smith, Arkansas | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00025653/R-D-Associate-Electrical-Engineer) | 1h |
+| Manufacturing Engineer | Location Ozark, Arkansas | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00027221/Manufacturing-Engineer) | 1h |
 | Solutions & Applications Engineer, Autonomous Manipulative Mobile Robotics (AMMR) | Available in one of 11 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00028232/Solutions-Applications-Engineer-Autonomous-Manipulative-Mobile-Robotics-AMMR) | 1h |
-| Field Service Engineer | Location Beersel, Flemish Brabant | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00015965/Field-Service-Engineer) | 1h |
-| Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d) | Location Ratingen, North Rhine-Westphalia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/92948027/Project-Application-Engineer-Automation-Engineer-DCS-and-protection-systems-f-m-d) | 1h |
-| Test & Automation Engineer – Control Systems (f/m/d) Required | Location Minden, North Rhine-Westphalia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00020307/Test-Automation-Engineer-Control-Systems-f-m-d-Required) | 1h |
-| Technical Support Engineer (f/m/d) | Location Minden, North Rhine-Westphalia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00025911/Technical-Support-Engineer-f-m-d) | 1h |
-| Business Functional Analyst | Available in one of 7 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012620/Business-Functional-Analyst) | 1h |
-| R&D Electrical Engineer | Location Nottingham, Nottinghamshire | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00017571/R-D-Electrical-Engineer) | 1h |
-| Commissioning Engineer | Location Coleshill, Warwickshire | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00018194/Commissioning-Engineer) | 1h |
-| R&D Junior Power Development Engineer (80-100%) | Location Untersiggenthal, Aargau | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00026568/R-D-Junior-Power-Development-Engineer-80-100) | 1h |
-| ABB Discovery Trainee @Motion High Power (100%) | Location Untersiggenthal, Aargau | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00027531/ABB-Discovery-Trainee-Motion-High-Power-100) | 1h |
-| Traction Service Engineer | Location Warrington, Cheshire | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00021748/Traction-Service-Engineer) | 1h |
-| Software Engineer – Mobile Robotics – 1 year fixed term (f/m/d) | Location Gilching, Bavaria | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00025520/Software-Engineer-Mobile-Robotics-1-year-fixed-term-f-m-d) | 1h |
-| Business Developer KNX | Available in one of 3 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00027801/Business-Developer-KNX) | 1h |
-| Project Engineer (m/w/d) | Available in one of 3 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00023433/Project-Engineer-m-w-d) | 1h |
-| Baustellenleitung (m/w/d) Industrieanlagen | Available in one of 3 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00023436/Baustellenleitung-m-w-d-Industrieanlagen) | 1h |
-| R&D Engineer - Medium Voltage Switchgear | Location Dalmine, Bergamo | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00023144/R-D-Engineer-Medium-Voltage-Switchgear) | 1h |
-| Software/Switchgear Field Service Technician | Available in one of 2 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00025307/Software-Switchgear-Field-Service-Technician) | 1h |
-| Field Service Technician | Location Dalmine, Bergamo | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00025754/Field-Service-Technician) | 1h |
-| Internship for thesis - Product Review based on Design for Sustainability Approach | Location Dalmine, Bergamo | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00025503/Internship-for-thesis-Product-Review-based-on-Design-for-Sustainability-Approach) | 1h |
-| QUALITY CONTROL TECHNICIAN | Location Dalmine, Bergamo | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00023007/QUALITY-CONTROL-TECHNICIAN) | 1h |
-| Sales Engineer - B&R Automation | Available in one of 2 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00022689/Sales-Engineer-B-R-Automation) | 1h |
-| Technical Sales Support | Location, Czechia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013995/Technical-Sales-Support) | 1h |
-| Project Engineer | Available in one of 2 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00017853/Project-Engineer) | 1h |
-| Embedded Firmware Developer | Location Zamudio, Vizcaya | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00029773/Embedded-Firmware-Developer) | 1h |
-| System Service Technician | Available in one of 2 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00026789/System-Service-Technician) | 1h |
-| Internship: Programming, analysis and documentation of ABB Robotics products (SW&HW). | Location Sant Quirze del Valles, Barcelona | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00027968/Internship-Programming-analysis-and-documentation-of-ABB-Robotics-products-SW-HW) | 1h |
-| Project Engineers | Location Vaesteras, Vastmanland County | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00024429/Project-Engineers) | 1h |
-| R&D Software Engineer to ABB Process Control System | Location Vaesteras, Vastmanland County | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010852/R-D-Software-Engineer-to-ABB-Process-Control-System) | 1h |
-| Temporary position: Research Scientist - ABB Robotics Software (end date 2026-12-31) | Location Vaesteras, Vastmanland County | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00026401/Temporary-position-Research-Scientist-ABB-Robotics-Software-end-date-2026-12-31) | 1h |
+| Maintenance/Manufacturing Engineer | Location Selmer, Tennessee | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00022464/Maintenance-Manufacturing-Engineer) | 1h |
+| Quality Engineer | Location Mount Juliet, Tennessee | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00027438/Quality-Engineer) | 1h |
+| Software Engineer (Front-End Focused) | Available in one of 2 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00024657/Software-Engineer-Front-End-Focused) | 1h |
+| System Engineering Coop - Fall | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00021833/System-Engineering-Coop-Fall-2026) | 1h |
+| R&D Associate Engineer | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer) | 1h |
+| Associate Field Service Technician | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00022889/Associate-Field-Service-Technician) | 1h |
+| Systems Drives Technical Support Technician | Location Florence, South Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/95864763/Systems-Drives-Technical-Support-Technician) | 1h |
+| Pre-Sales Engineer | Location Milton, Ontario | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00023203/Pre-Sales-Engineer) | 1h |
+| IS Functional Analyst – Corporate & Cross Domain Applications | Available in one of 2 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00028496/IS-Functional-Analyst-Corporate-Cross-Domain-Applications) | 1h |
+| Associate Mechanical Design Engineer | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00020831/Associate-Mechanical-Design-Engineer) | 1h |
+| Manufacturing Quality Tester-2 | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2) | 1h |
+| Buyer - Smart Power | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00015187/Buyer-Smart-Power) | 1h |
+| Manufacturing Quality Tester | Location Mebane, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester) | 1h |
 | Software Engineering Intern | Location Estonia, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00025167/Software-Engineering-Intern) | 1h |
+| Production Engineering Technician (2nd Shift) | Location Pinetops, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00028526/Production-Engineering-Technician-2nd-Shift) | 1h |
+| Quality Technician | Location Richmond, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00022503/Quality-Technician) | 1h |
+| Quality Control Engineer | Location Richmond, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer) | 1h |
+| Field Service Engineer - Propulsion | Location Miramar, Florida | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00026170/Field-Service-Engineer-Propulsion) | 1h |
+| Field Service Engineer - Drives | Location Miramar, Florida | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012230/Field-Service-Engineer-Drives) | 1h |
+| Field Service Engineer | Location Miramar, Florida | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012222/Field-Service-Engineer) | 1h |
+| Software Engineer – Mobile Robotics – 1 year fixed term (f/m/d) | Location Gilching, Bavaria | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00025520/Software-Engineer-Mobile-Robotics-1-year-fixed-term-f-m-d) | 1h |
+| Test & Automation Engineer – Control Systems (f/m/d) Required | Location Minden, North Rhine-Westphalia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00020307/Test-Automation-Engineer-Control-Systems-f-m-d-Required) | 1h |
+| Project Engineer | Location Auckland, Auckland | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014773/Project-Engineer) | 1h |
+| System Service Technician | Available in one of 2 locations, US | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00026789/System-Service-Technician) | 1h |
+| Automation Engineer | Location Faridabad, Haryāna | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00021474/Automation-Engineer) | 1h |
 
 </details>
 
@@ -854,14 +855,13 @@
 | Industrial Systems Engineer - AMA/RTD | Sherman, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25009726/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 4d |
 
 <details>
-<summary><h4>📡 <strong>Analog Devices</strong> (17 positions)</h4></summary>
+<summary><h4>📡 <strong>Analog Devices</strong> (16 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | ASIC Design and Verification Engineer - AI | 2 Locations, US | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-AI-ML-Applications-Engineer_R260556?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Engineer, Defect Reduction & Yield Enhancement | US, WA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Engineer--Defect-Reduction---Yield-Enhancement_R261450?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 | Equipment Technician 1, Epitaxy (Night Shift) | US, OR | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-1--Epitaxy--Night-Shift-_R261052?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
-| Engineer, Design Verification Engineering | US, AZ | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Engineer--Design-Verification-Engineering_R261549?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Equipment Engineering Technician | US, OR | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Technician-2_R261300-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 | Analog IC Engineer | US, NC | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Analog-IC-Engineer_R261021?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Technician 2, Process Sustaining Engineering | US, WA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Technician-2--Process-Sustaining-Engineering_R261406?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
@@ -967,7 +967,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (123 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (29) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (28)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (123 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (27) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (29)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -975,16 +975,16 @@
 
 
 #### ☁️ **Enterprise & Cloud** (11 companies)
-💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (7 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (18) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (5) • 📅 **[Workday](https://workday.wd5.myworkdayjobs.com/Workday)** (3) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (9) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (10) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (41) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (30) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (30) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (79)
+💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (7 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (20) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (5) • 📅 **[Workday](https://workday.wd5.myworkdayjobs.com/Workday)** (3) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (10) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (11) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (41) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (28) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (25) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (83)
 
 ---
 ### 📈 **Experience Breakdown**
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 115 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 258 | 37% | 1-2 years of experience |
-| 🔴 Manager         | 323 | 46% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 120 | 17% | No or minimal experience |
+| 🟡 Beginner & Early Career | 257 | 37% | 1-2 years of experience |
+| 🔴 Manager         | 319 | 46% | 2+ years of experience |
 
 ---
 
@@ -993,9 +993,9 @@
 - **2 Locations, US**: 36 positions
 - **Mountain View, CA**: 28 positions
 - **United States**: 26 positions
-- **ship, US**: 23 positions
+- **ship, US**: 24 positions
 - **Boise, Idaho**: 22 positions
-- **Cupertino, US**: 16 positions
+- **Cupertino, US**: 15 positions
 - **Seattle, WA**: 15 positions
 
 ---
