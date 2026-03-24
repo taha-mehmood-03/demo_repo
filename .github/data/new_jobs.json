@@ -1,122 +1,32 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Asset Management",
+    "job_title": "Application Developer 2026 - Azure Cloud Migration",
     "job_city": "",
     "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Application Developer\t2026- Asset Management",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89813&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-asset-management-"
+    "job_description": "software engineering job for the role Application Developer 2026 - Azure Cloud Migration",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89841&source=WEB_Search_NA",
+    "id": "ibm-application-developer-2026-azure-cloud-migration-"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Oracle Middleware",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
+    "job_title": "Application Developer 2026 - Adobe Marketing & Analytics",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Application Developer 2026- Oracle Middleware",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89836&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-oracle-middleware-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer Intern 2026- Azure Cloud Migration",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Application Developer Intern 2026- Azure Cloud Migration",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89769&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-azure-cloud-migration-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "\"Application Developer Intern 2026- Oracle Middleware",
-    "job_city": "shipBATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role \"Application Developer\t Intern 2026- Oracle Middleware",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89833&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-oracle-middleware-shipbaton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer Intern 2026- Asset Management",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Application Developer Intern 2026- Asset Management",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89823&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-asset-management-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer Intern 2026- Azure Cloud Migration",
-    "job_city": "shipBATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Application Developer Intern 2026- Azure Cloud Migration",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89826&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-azure-cloud-migration-shipbaton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Salesforce",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Application Developer 2026- Salesforce",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89793&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-salesforce-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer Intern 2026 - Salesforce",
-    "job_city": "shipBATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Application Developer Intern 2026 - Salesforce",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89729&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-salesforce-shipbaton-rouge"
+    "job_description": "software engineering job for the role Application Developer 2026 - Adobe Marketing & Analytics",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89839&source=WEB_Search_NA",
+    "id": "ibm-application-developer-2026-adobe-marketing-analytics-"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Technical Support Engineer",
-    "job_city": "Illinois - Chicago",
+    "job_title": "Software Engineering MTS",
+    "job_city": "Washington - Seattle",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Lead the end-to-end customer technical experience by managing support cases from initial diagnosis through resolution.\n• Bachelor’s degree in Computer Science, Engineering, or related technical discipline, or equivalent experience.\n• 2+ years of experience in technical support, software engineering, or related customer-facing technical roles.\n• Experience troubleshooting software applications and debugging code, including Java-based applications.\n• Experience explaining complex technical concepts to non-technical audiences.\n• Excellent written and verbal communication skills.\n• Strong analytical and problem-solving skills in fast-paced technical environments.\n• Professional proficiency in spoken and written English is required Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr334959/technical-support-engineer/",
-    "id": "salesforce-technical-support-engineer-illinois-chicago"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "GPU Software Development Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Platform Enabling Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0279546Advanced IC Packaging Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 27 Days AgoJR0281218Software DevOps EngineerlocationsUS, Oregon, Hillsboroposted onPosted 12 Days AgoJR0281813Embedded OS Software Engineering Developer (Zephyr RTOS)locationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0282191Cloud Software Development Engineerlocations3 Locationsposted onPosted 5 Days AgoJR0281205AI Software Development Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0281453Senior Software Development Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0281597GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 12 Days AgoJR0281314GPU Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0282186GPU Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0282189GPU Software Development Engineerlocations2 Locationsposted onPosted TodayJR0281981GPU Software Development Engineerlocations2 Locationsposted onPosted TodayJR0281988Foundry Automation Software Application EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0282047Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280028Senior Engineering Manager – Software Asset Management (SAM) ManagerlocationsUS, California, Santa Claraposted onPosted 12 Days AgoJR0281806Software Application Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0282051Software Application Development Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0282062Global Head, AI Software Developer Evangelismlocations3 Locationsposted onPosted 30+ Days AgoJR0278422AI Software Architect – Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0279982Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 10 Days AgoJR0281966.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0281981?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-gpu-software-development-engineer-2-locations"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Systems and Hardware Enabling Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoSpotlight JobJR0281566Quantum Error Correction Technical Leadlocations3 Locationsposted onPosted 7 Days AgoSpotlight JobJR0281065Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoSpotlight JobJR0281567Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 12 Days AgoSpotlight JobJR0281914Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoSpotlight JobJR0281565Senior Director, Data & IntelligencelocationsUS, California, Santa Claraposted onPosted 5 Days AgoJR0281811Platform Debug TechnologistlocationsUS, Oregon, Hillsboroposted onPosted 6 Days AgoJR0281857Firmware Development Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0281547Module Development EngineerlocationsUS, California, Santa Claraposted onPosted 14 Days AgoJR0281042Senior AI Algorithm Engineerlocations2 Locationsposted onPosted 13 Days AgoJR0281199Senior Technical Sales LeaderlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0279497Platform Reliability Availability and Serviceability (RAS) Architectlocations8 Locationsposted onPosted 4 Days AgoJR0282175Transport Media and Materials Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0282050Dell Sales Account ManagerlocationsUS, Texas, Austinposted onPosted 11 Days AgoJR0281909Test Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoJR0281628WLA Yield Analysis Systems Englocations3 Locationsposted onPosted 5 Days AgoJR0282026HPC Lab Operations ManagerlocationsUS, New Mexico, Albuquerqueposted onPosted 30+ Days AgoJR0280695Systems SW Engineer - Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0279981Systems and Hardware Enabling Engineerlocations2 Locationsposted onPosted TodayJR0282232Senior Foundry Device EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0280822.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Systems-and-Hardware-Enabling-Engineer_JR0282232?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-systems-and-hardware-enabling-engineer-2-locations"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "System Software Engineer, GPU Development Tools",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineer, Planning and ControllocationsUS, CA, Santa Claraposted onPosted TodayJR2014989System Software Engineer, GPU Development Toolslocations2 Locationsposted onPosted TodayJR2015188Senior Software Engineer, Fabric Networking - GPUlocations6 Locationsposted onPosted TodayJR2015216Software Engineering Manager - GPU Communications LibrarieslocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR1980109Senior System Software Engineer - GPU Performancelocations2 Locationsposted onPosted 2 Days AgoJR1997214Linux GPU Senior System Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR1998968Senior System Software Engineer Platform - OpenBMClocations2 Locationsposted onPosted 3 Days AgoJR1999525Senior System Software Engineer - GPU ServerlocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR2001533Principal System Software Engineer - CUDA DriverlocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2001780Senior Robotics Systems Software Engineer - ROSlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000889Senior System Software Engineer, GPU Serverlocations2 Locationsposted onPosted 30+ Days AgoJR2001815NVIDIA 2026 Internships: Software Engineering - USlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2003206Senior Deep Learning Software Engineer, Inferencelocations2 Locationsposted onPosted 30+ Days AgoJR2002670Senior System Software Engineer, Enterprise MODSlocations2 Locationsposted onPosted 30+ Days AgoJR2003636Senior Software Engineer, AI Inference SystemslocationsUS, CA, Santa Claraposted onPosted 6 Days AgoJR2007798Full Stack Software Engineer, GPU ArchitecturelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2009172Senior Software Engineer, DL Libraries Infrastructurelocations5 Locationsposted onPosted 11 Days AgoJR2011478Manager, Linux GPU System Software EngineeringlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2011785Senior Cloud Software Engineer, Developer ToolslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2011653Senior System Software Engineer - GPU PowerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2012313.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-software-engineer-gpu-development-tools-2-locations"
+    "job_description": "• AI-Forward: You have practical experience building software with LLMs and agents.\n• Collaborate to Meet Customer Need: Work closely with product managers and senior engineers to refine and clarify the scope of work, ensuring technical implementations align with customer requirements.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Technically Versatile: You’re proficient in an Object-Oriented language and act as a \"hybrid engineer\"—equally comfortable writing features, automated tests, and managing CI/CD pipelines.\n• You are excited to use AI tools to boost your own productivity while building innovative, AI-powered features for our customers.\n• Adaptable Problem-Solver: You are an adaptable learner who thrives in fast-paced environments.\n• You can work independently once a plan is set and know when to loop in teammates or leadership for architectural guidance.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr333972/software-engineering-mts/",
+    "id": "salesforce-software-engineering-mts-washington-seattle"
   }
 ]
