@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Integrity Engineer, Photos",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "17h",
+    "job_description": "• Minimum Qualifications2-3 years of professional experience in software quality engineering or consumer software test engineering, utilizing manual and automated methodsBachelor's degree in Computer Science, Engineering, or related field, or equivalent professional experienceStrong understanding of QE fundamentals, including test planning, test execution, and bug managementExperience working collaboratively with engineering teamsStrong analytical and problem-solving skills for effective problem and defect discoveryDemonstrated ability to take ownership and drive work independentlyAbility to balance multiple tasks and meet tight deadlines while keeping to a holistic quality visionExcellent written and verbal communication skills.\n• Comfortable sharing considered opinions and seeking the same from others.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200653661-0836/software-integrity-engineer-photos?team=SFTWR",
+    "id": "apple-software-integrity-engineer-photos-cupertino"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Analyst, RCX",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "17h",
+    "job_description": "software engineering job for the role Data Analyst, RCX",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10376167/data-analyst-rcx",
+    "id": "amazon-data-analyst-rcx-bellevue"
+  }
+]
