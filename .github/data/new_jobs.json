@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Test Engineer - ATE & SLT",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "Guidehouse",
+    "job_title": "Microsoft Dynamics Developer",
+    "job_city": "US - (Any location)",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Test Engineer - ATE & SLTlocationsSanta Clara, CAposted onPosted Today2601067Package Design Engineerlocations2 Locationsposted onPosted Yesterday2600351Hardware Validation (Test Solutions) EngineerlocationsBurlington, VTposted onPosted Yesterday2600678Program ManagerlocationsSanta Clara, CAposted onPosted Yesterday2600734Rack Level Integration EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2600698Staff EDA Licensing & Infrastructure EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2600947Advanced Laboratory Technician, OpticslocationsSanta Clara, CAposted onPosted 2 Days Ago2601021Principal SRAM Circuit Design EngineerlocationsBurlington, VTposted onPosted 2 Days Ago2600955Senior Staff Analog Layout SRAM EngineerlocationsBurlington, VTposted onPosted 2 Days Ago2600996Senior Staff SRAM Software EngineerlocationsBurlington, VTposted onPosted 2 Days Ago2600956Link Layer architectlocationsSanta Clara, CAposted onPosted 2 Days Ago2601002Analog IC Design Engineer, Senior StafflocationsIrvine, CAposted onPosted 2 Days Ago2600617Hardware & Silicon Validation Principal EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2600978Sr.\n• Director, Engineering Applications & Labslocations2 Locationsposted onPosted 3 Days Ago2503200Senior Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivitylocationsSanta Clara, CAposted onPosted 3 Days Ago2600793Staff Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/AEC/Microled/ODSP/PHY/AI ConnectivitylocationsSanta Clara, CAposted onPosted 3 Days Ago2600794Analog Layout Staff EngnieerlocationsSanta Clara, CAposted onPosted 3 Days Ago2600965Staff CAD Software EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2600480Firmware Engineerlocations2 Locationsposted onPosted 4 Days Ago2601000.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Engineer---ATE---SLT_2601067?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-test-engineer-ate-slt-santa-clara"
+    "job_description": "• Dynamics 365 CE Junior Developerlocations28 Locationsposted onPosted 2 Days Ago36327Power Apps DeveloperlocationsUS - VA, McLeanposted onPosted 30+ Days Ago36521Senior Power Platform ProfessionallocationsUS - IN, Indianapolisposted onPosted 8 Days Ago36874ServiceNow ArchitectlocationsIN - Chennaiposted onPosted 3 Days Ago33251Microsoft Dynamics 365 Developerlocations28 Locationsposted onPosted 30+ Days Ago35441Dynamics 365 CE Senior Developerlocations28 Locationsposted onPosted 30+ Days Ago36322Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 3 Days Ago37540Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted Today37546Microsoft Dynamics DeveloperlocationsUS - Remote (Any location)posted onPosted Today37559ServiceNow DeveloperslocationsUS - Remote (Any location)posted onPosted 30+ Days Ago35779Senior Power Apps Developerlocations2 Locationsposted onPosted 30+ Days Ago35430Senior Power Platform Developerlocations2 Locationsposted onPosted 25 Days Ago36609Power Apps DeveloperlocationsUS - Remote (Any location)posted onPosted 7 Days Ago37549Microsoft Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 3 Days Ago37550Solution Architect – AI & Data Development (Health)locationsUS - Remote (Any location)posted onPosted 30+ Days Ago36401Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 16 Days Ago32512Palantir Foundry DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago36683Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 30+ Days Ago35408Data and AI Project Manager (AI & Data - Public Sector)locations4 Locationsposted onPosted 23 Days Ago34037Senior Appian Developerlocations2 Locationsposted onPosted 30+ Days Ago35409.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Microsoft-Dynamics-Developer_37559?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-microsoft-dynamics-developer-us-any-location"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Compiling, Quantum AI",
-    "job_city": "Los Angeles",
+    "job_title": "Software Engineer III, Site Reliability Development",
+    "job_city": "San Bruno",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Compiling, Quantum AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86380683932377798-software-engineer-compiling-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-compiling-quantum-ai-los-angeles"
+    "job_description": "software engineering job for the role Software Engineer III, Site Reliability Development",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/85711717006222022-software-engineer-iii-site-reliability-development?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-site-reliability-development-san-bruno"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Mobile, Android",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile, Android",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/125179632314917574-software-engineer-iii-mobile-android?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-mobile-android-san-diego"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Pre-Silicon SoC Modeling Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "15h",
+    "job_description": "software engineering job for the role Pre-Silicon SoC Modeling Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10378119/pre-silicon-soc-modeling-engineer-annapurna-labs-machine-learning-accelerators-aws",
+    "id": "amazon-pre-silicon-soc-modeling-engineer-annapurna-labs-machine-learning-accelerators-aws-austin"
   }
 ]
