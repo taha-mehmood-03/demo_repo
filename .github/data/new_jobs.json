@@ -1,12 +1,22 @@
 [
   {
+    "employer_name": "Marvel Technology",
+    "job_title": "Test Engineer - ATE & SLT",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Test Engineer - ATE & SLTlocationsSanta Clara, CAposted onPosted Today2601067Package Design Engineerlocations2 Locationsposted onPosted Yesterday2600351Hardware Validation (Test Solutions) EngineerlocationsBurlington, VTposted onPosted Yesterday2600678Program ManagerlocationsSanta Clara, CAposted onPosted Yesterday2600734Rack Level Integration EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2600698Staff EDA Licensing & Infrastructure EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2600947Advanced Laboratory Technician, OpticslocationsSanta Clara, CAposted onPosted 2 Days Ago2601021Principal SRAM Circuit Design EngineerlocationsBurlington, VTposted onPosted 2 Days Ago2600955Senior Staff Analog Layout SRAM EngineerlocationsBurlington, VTposted onPosted 2 Days Ago2600996Senior Staff SRAM Software EngineerlocationsBurlington, VTposted onPosted 2 Days Ago2600956Link Layer architectlocationsSanta Clara, CAposted onPosted 2 Days Ago2601002Analog IC Design Engineer, Senior StafflocationsIrvine, CAposted onPosted 2 Days Ago2600617Hardware & Silicon Validation Principal EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2600978Sr.\n• Director, Engineering Applications & Labslocations2 Locationsposted onPosted 3 Days Ago2503200Senior Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivitylocationsSanta Clara, CAposted onPosted 3 Days Ago2600793Staff Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/AEC/Microled/ODSP/PHY/AI ConnectivitylocationsSanta Clara, CAposted onPosted 3 Days Ago2600794Analog Layout Staff EngnieerlocationsSanta Clara, CAposted onPosted 3 Days Ago2600965Staff CAD Software EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2600480Firmware Engineerlocations2 Locationsposted onPosted 4 Days Ago2601000.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Engineer---ATE---SLT_2601067?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-test-engineer-ate-slt-santa-clara"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Google Distributed Cloud Compute/Kubernetes",
-    "job_city": "Sunnyvale",
+    "job_title": "Software Engineer, Compiling, Quantum AI",
+    "job_city": "Los Angeles",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Google Distributed Cloud Compute/Kubernetes",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75467481270887110-software-engineer-google-distributed-cloud-computekubernetes?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-google-distributed-cloud-compute-kubernetes-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Compiling, Quantum AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86380683932377798-software-engineer-compiling-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-compiling-quantum-ai-los-angeles"
   }
 ]
