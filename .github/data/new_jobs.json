@@ -1,42 +1,52 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Core Data Path Design Verification Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "1d",
-    "job_description": "• Strong background in SOC and IP-level ASIC verification.\n• Hands-on experience with UVM-based testbenches in both Linux and Windows environments.\n• Skilled in Verilog, SystemVerilog.\n• Experience developing and maintaining UVM verification frameworks, test environments, and automation flows.\n• Strong C++ programming skills, especially on Linux.\n• Scripting experience in Perl, Ruby, Makefile, or shell.\n• Leadership or mentorship experience is considered an asset.\n• Collaborate with architects, hardware engineers, and others to understand the new features to be verified Build test plan documentation, accounting for interactions with other features, the hardware, the firmware, and the software driver use cases Estimate the time required to write the new feature tests and any required changes to the test environment Build the directed and random verification tests Debug test failures to determine the root cause.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/73094/login",
-    "id": "amd-core-data-path-design-verification-engineer-us"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, iOS Keyboard",
-    "job_city": "Cupertino",
+    "employer_name": "Salesforce",
+    "job_title": "Fullstack Software Engineer - DET",
+    "job_city": "Mexico - Mexico City",
     "job_state": "US",
-    "job_posted_at": "15h",
-    "job_description": "• Minimum Qualifications3+ years of experience in building iOS apps using Apple’s UI frameworksExperience with Objective-C, C, Swift, or C++ programmingExposure to modern software development standard methodologies, such as source control, unit testing, and debuggingExcellent verbal and written communication skillsPassion to improve Apple’s products.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200654277-0836/software-engineer-ios-keyboard?team=SFTWR",
-    "id": "apple-software-engineer-ios-keyboard-cupertino"
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336264/fullstack-software-engineer-det/",
+    "id": "salesforce-fullstack-software-engineer-det-mexico-mexico-city"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Activation Solution Engineer- TMT/CBS",
+    "job_city": "New York - New York",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Remain current on the cutting edge of AI technologies and patterns and incorporate them into the Activation Team’s work by example and through instructionDefine reusable patterns and implementations for agent skills, guardrails, and multi-agent collaboration and contemporary developments in the field of AI.\n• 5+ years of relevant professional experience in a technical pre-sales or consulting role, with a focus on enterprise architecture.\n• Experience with Salesforce D360 (formerly Data Cloud)Deep experience and expertise with Salesforce Service Cloud and Field Service Lightning implementations.\n• Understanding and experience in working on distributed systemsUnderstanding of modern AI (including but not limited to LLMs, regression models, statistical models, human-in-the-loop, fine-tuning, prompt and context engineering, MCP, A2A)Experience designing, developing, and maintaining RESTful servicesUnderstanding of vibe coding and its place in modern software development (e.\n• , Claude code, Cursor, rulesets, and supporting patterns)Experience with RAG architecturesExperience with public cloud infrastructure - AWS/Azure/GCPExperience integrating LLMs and AI services into enterprise applications.\n• Proven experience in architecting and delivering large-scale enterprise solutions.\n• Security concepts (mTLS, PKI, OAuth/SAML etc)Experience with open source projects and community developmentDemonstrated experience learning new technologies quickly Hands-on experience with Agentforce / conversational AI / intelligent agents.\n• Experience with NoSQL such as Cassandra, HBase and/or document store such as Elastic SearchKnowledge/Contribution to open source technologyNative Windows, Mac, and/or Linux development experienceExperience with distributed caching and load balancing systemsPossession of relevant Salesforce certifications, such as Service Cloud Consultant or Field Service Lightning Consultant Certifications.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336253/activation-solution-engineer-tmtcbs/",
+    "id": "salesforce-activation-solution-engineer-tmt-cbs-new-york-new-york"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Product Validation Engineer",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0279795Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 26 Days AgoSpotlight JobJR0281566Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 26 Days AgoSpotlight JobJR0281567Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoSpotlight JobJR0281914Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 12 Days AgoSpotlight JobJR0281565Senior Director, Data & IntelligencelocationsUS, California, Santa Claraposted onPosted 12 Days AgoJR0281811Firmware Development Engineerlocations2 Locationsposted onPosted 11 Days AgoJR0281547Senior Technical Sales LeaderlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0279497Module Development EngineerlocationsUS, California, Santa Claraposted onPosted 21 Days AgoJR0281042Platform Reliability Availability and Serviceability (RAS) Architectlocations8 Locationsposted onPosted 11 Days AgoJR0282175AI Performance Library Architectlocations2 Locationsposted onPosted 3 Days AgoJR0281978Dell Sales Account ManagerlocationsUS, Texas, Austinposted onPosted 18 Days AgoJR0281909WLA Yield Analysis Systems Englocations3 Locationsposted onPosted 12 Days AgoJR0282026Product Validation EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0282420Transport Media and Materials Engineerlocations2 Locationsposted onPosted 11 Days AgoJR0282050Test Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 12 Days AgoJR0281628Analog product Development EngineerlocationsUS, California, Santa Claraposted onPosted 4 Days AgoJR0282427Systems and Hardware Enabling Engineerlocations2 Locationsposted onPosted 7 Days AgoJR0282232Systems SW Engineer - Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0279981Cloud DevOps and Infrastructure Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0282274.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Product-Validation-Engineer_JR0282420?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-product-validation-engineer-us"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Junior CPU Design Verification Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "6d",
+    "job_description": "• IP Design Verification EngineerlocationsUS, Oregon, Hillsboroposted onPosted 12 Days AgoJR0281953DTCO Systems Analysis Engineer - MemorylocationsUS, Texas, Austinposted onPosted 6 Days AgoSpotlight JobJR0280241Identity Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0278271Sr.\n• IP Logic Design Engineerlocations2 Locationsposted onPosted 12 Days AgoJR0281896GPU Performance Engineerlocations2 Locationsposted onPosted 26 Days AgoJR0281331Network Security Engineer- Automation Developerlocations3 Locationsposted onPosted 30+ Days AgoJR0278568Senior GPU Validation EngineerlocationsUS, California, Folsomposted onPosted 12 Days AgoSpotlight JobJR0279452Project Controls Engineer (PCE)locationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0280667Junior CPU Design Verification Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0282204Network Monitoring Security Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0278569CPU Verification Engineerlocations2 Locationsposted onPosted 28 Days AgoJR0281127CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted 6 Days AgoJR0281846SoC PnP Validation Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280500RTL Design Engineerlocations3 Locationsposted onPosted 10 Days AgoJR0281759Senior CPU Verification Engineerlocations2 Locationsposted onPosted 28 Days AgoJR0281123GPU Design Verification Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0281327CPU RTL Design Engineerlocations2 Locationsposted onPosted 8 Days AgoJR0281533GPU Logic Design Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0281318Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 10 Days AgoJR0280051GPU Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280552.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Junior-CPU-Design-Verification-Engineer_JR0282204?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-junior-cpu-design-verification-engineer-2-locations"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer, Decoding, Quantum AI",
+    "job_city": "Los Angeles",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Mobile (iOS), Search Notifications, User Experience",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81388810947961542-software-engineer-mobile-ios-search-notifications-user-experience?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-mobile-ios-search-notifications-user-experience-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Health and Home",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Health and Home",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97591214294868678-software-engineer-iii-aiml-health-and-home?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
-    "id": "google-software-engineer-iii-ai-ml-health-and-home-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Decoding, Quantum AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100330097759658694-software-engineer-decoding-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-decoding-quantum-ai-los-angeles"
   }
 ]
