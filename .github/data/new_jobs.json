@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Technical Associate - Platforms, Technology - Campus",
+    "job_city": "4 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Dynamics 365 CE Junior Developerlocations28 Locationsposted onPosted 5 Days Ago36327Power Apps DeveloperlocationsUS - VA, McLeanposted onPosted 30+ Days Ago36521Senior Power Platform ProfessionallocationsUS - IN, Indianapolisposted onPosted 11 Days Ago36874Microsoft Dynamics 365 Developerlocations28 Locationsposted onPosted 30+ Days Ago35441Dynamics 365 CE Senior Developerlocations28 Locationsposted onPosted 30+ Days Ago36322Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 6 Days Ago37540Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 3 Days Ago37546Microsoft Dynamics DeveloperlocationsUS - Remote (Any location)posted onPosted 3 Days Ago37559ServiceNow DeveloperslocationsUS - Remote (Any location)posted onPosted 30+ Days Ago35779Senior Power Apps Developerlocations2 Locationsposted onPosted 30+ Days Ago35430Senior Power Platform Developerlocations2 Locationsposted onPosted 28 Days Ago36609Power Apps DeveloperlocationsUS - Remote (Any location)posted onPosted 10 Days Ago37549Microsoft Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 6 Days Ago37550Technical Associate - Platforms, Technology - Campus 2026locations4 Locationsposted onPosted Today37860Solution Architect – AI & Data Development (Health)locationsUS - Remote (Any location)posted onPosted 30+ Days Ago36401Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 19 Days Ago32512Palantir Foundry DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago36683Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 30+ Days Ago35408Senior Appian Developerlocations2 Locationsposted onPosted 30+ Days Ago35409Data and AI Project Manager (AI & Data - Public Sector)locations4 Locationsposted onPosted 26 Days Ago34037.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Technical-Associate---Platforms--Technology---Campus-2026_37860-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-technical-associate-platforms-technology-campus-4-locations"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "iOS Software Engineer, Customer Systems",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsCore Platform Development: 4+ years of experience developing iOS applications using Swift, with proficiency in object-oriented design and programming, including a deep understanding and practical experience with modern Swift features like Concurrency and Swift Testing.\n• BS in Computer Science, Engineering, or equivalent industry experience.\n• Native Frameworks: Deep familiarity with UIKit, SwiftUI, Core Animation, AVFoundation, and Async/Await.\n• Platform Acumen: Up-to-date with the latest iOS version changes, features, architectural patterns, sandboxing, security, privacy, code signing, and deployment best practices.\n• Web Services & APIsUnderstanding of Protobuf, JSON, REST, and similar web service communication protocols.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200644642-3956/ios-software-engineer-customer-systems?team=SFTWR",
+    "id": "apple-ios-software-engineer-customer-systems-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, TPU Inference, AI/ML",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, TPU Inference, AI/ML",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/125604915144729286-software-engineer-tpu-inference-aiml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-tpu-inference-ai-ml-kirkland"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Professional Services II - AMZ14469.4",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Professional Services II - AMZ14469.4",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10372663/professional-services-ii-amz14469-4",
+    "id": "amazon-professional-services-ii-amz14469-4-seattle"
+  }
+]
