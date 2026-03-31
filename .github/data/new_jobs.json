@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Vision Products Software",
+    "job_city": "Los Angeles",
+    "job_state": "US",
+    "job_posted_at": "12h",
+    "job_description": "• Minimum QualificationsBS/MS in Computer Science OR equivalent degree OR equivalent experience5+ years of relevant industry experienceProven industry experience in game engines, tools, or related fieldsSolid understanding of 3D mathExtensive programming experience, including experience with C++, Swift, and Apple development toolsExperience architecting large, open-ended feature sets end-to-endProven track record of shipping user-facing products or features, with a passion for end-user impactExperience developing software that incorporates generative AI or LLMsExcellent communication skills for cross-functional collaborationSelf-motivated approach to improving customer workflows with an eye toward product quality and user experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200648923-2605/software-engineer-vision-products-software?team=SFTWR",
+    "id": "apple-software-engineer-vision-products-software-los-angeles"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Vision Products Software",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "12h",
+    "job_description": "• Minimum Qualifications3+ years of industry experience in Build/CI, DevOps, Developer Productivity or similar fields.\n• BS in Computer Science or equivalent degree/experienceStrong foundational knowledge of C/C++/Swift and modern build systemsStrong knowledge and experience in CI/CD systems and build automationProficiency in Python for tooling and automationExcellent communication skills for cross-functional collaboration.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200628596-3401/software-engineer-vision-products-software?team=SFTWR",
+    "id": "apple-software-engineer-vision-products-software-"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Vision Products Software",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "12h",
+    "job_description": "• Minimum QualificationsBS/MS in Computer Science OR equivalent degree OR equivalent experience5+ years of relevant industry experienceProven industry experience in game engines, tools, or related fieldsSolid understanding of 3D mathExtensive programming experience, including experience with C++, Swift, and Apple development toolsExperience architecting large, open-ended feature sets end-to-endProven track record of shipping user-facing products or features, with a passion for end-user impactExperience developing software that incorporates generative AI or LLMsExcellent communication skills for cross-functional collaborationSelf-motivated approach to improving customer workflows with an eye toward product quality and user experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200648923-3337/software-engineer-vision-products-software?team=SFTWR",
+    "id": "apple-software-engineer-vision-products-software-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer, Spatial Computing, Vision Products Software",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "12h",
+    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science, Computer Engineering, or equivalent practical experience5+ years of professional experience in video rendering, media playback systems, or real-time graphics programmingStrong proficiency in C++ and shader programming languages (Metal Shading Language, GLSL, or HLSL)Solid understanding of modern graphics APIs (Metal, Vulkan, or DirectX 12) and GPU architectureUnderstanding of GPU texture management and efficient frame buffer handlingStrong problem-solving skills and ability to debug complex rendering issuesExcellent communication and collaboration skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200635456-3401/software-development-engineer-spatial-computing-vision-products-software?team=SFTWR",
+    "id": "apple-software-development-engineer-spatial-computing-vision-products-software-"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software QA Engineer, Apple Vision Pro, Vision Products Software",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "12h",
+    "job_description": "• Minimum QualificationsExcellent knowledge of software development lifecycle, testing methodologies, and testing tools.\n• Proactive self-starter with a keen eye for details with focus on end-user experiences and ability to go above and beyond to ensure a high quality release.\n• Experience developing detailed test plans, assessing risks, filing detailed bug reports, and providing relevant data for test reporting.\n• Experience testing large technology stacks with many software and hardware components.\n• Experience learning new tools/technologies and testing consumer electronics, mobile applications & experiences.\n• Experience using UNIX shell / command-line tools / executing scripts.\n• BA/BS in Computer Science/Engineering and/or relevant professional experience.\n• Troubleshoot, triage and provide detailed debug information for expediting issue resolution.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200632669-3401/software-qa-engineer-apple-vision-pro-vision-products-software?team=SFTWR",
+    "id": "apple-software-qa-engineer-apple-vision-pro-vision-products-software-"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, ML, Google Ads",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, ML, Google Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103053759860351686-software-engineer-ml-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-ml-google-ads-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, AI Security",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, AI Security",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83882675118449350-software-engineer-ai-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-ai-security-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Mobile (iOS), Search Images Tab",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile (iOS), Search Images Tab",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/99163137965466310-software-engineer-iii-mobile-ios-search-images-tab?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-iii-mobile-ios-search-images-tab-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Flume ML",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Flume ML",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133068778031194822-software-engineer-iii-flume-ml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-flume-ml-sunnyvale"
+  }
+]
