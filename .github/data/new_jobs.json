@@ -1,92 +1,12 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Vision Products Software",
-    "job_city": "Los Angeles",
-    "job_state": "US",
-    "job_posted_at": "12h",
-    "job_description": "• Minimum QualificationsBS/MS in Computer Science OR equivalent degree OR equivalent experience5+ years of relevant industry experienceProven industry experience in game engines, tools, or related fieldsSolid understanding of 3D mathExtensive programming experience, including experience with C++, Swift, and Apple development toolsExperience architecting large, open-ended feature sets end-to-endProven track record of shipping user-facing products or features, with a passion for end-user impactExperience developing software that incorporates generative AI or LLMsExcellent communication skills for cross-functional collaborationSelf-motivated approach to improving customer workflows with an eye toward product quality and user experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200648923-2605/software-engineer-vision-products-software?team=SFTWR",
-    "id": "apple-software-engineer-vision-products-software-los-angeles"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Vision Products Software",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "12h",
-    "job_description": "• Minimum Qualifications3+ years of industry experience in Build/CI, DevOps, Developer Productivity or similar fields.\n• BS in Computer Science or equivalent degree/experienceStrong foundational knowledge of C/C++/Swift and modern build systemsStrong knowledge and experience in CI/CD systems and build automationProficiency in Python for tooling and automationExcellent communication skills for cross-functional collaboration.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200628596-3401/software-engineer-vision-products-software?team=SFTWR",
-    "id": "apple-software-engineer-vision-products-software-"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Vision Products Software",
-    "job_city": "Seattle",
-    "job_state": "US",
-    "job_posted_at": "12h",
-    "job_description": "• Minimum QualificationsBS/MS in Computer Science OR equivalent degree OR equivalent experience5+ years of relevant industry experienceProven industry experience in game engines, tools, or related fieldsSolid understanding of 3D mathExtensive programming experience, including experience with C++, Swift, and Apple development toolsExperience architecting large, open-ended feature sets end-to-endProven track record of shipping user-facing products or features, with a passion for end-user impactExperience developing software that incorporates generative AI or LLMsExcellent communication skills for cross-functional collaborationSelf-motivated approach to improving customer workflows with an eye toward product quality and user experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200648923-3337/software-engineer-vision-products-software?team=SFTWR",
-    "id": "apple-software-engineer-vision-products-software-seattle"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Development Engineer, Spatial Computing, Vision Products Software",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "12h",
-    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science, Computer Engineering, or equivalent practical experience5+ years of professional experience in video rendering, media playback systems, or real-time graphics programmingStrong proficiency in C++ and shader programming languages (Metal Shading Language, GLSL, or HLSL)Solid understanding of modern graphics APIs (Metal, Vulkan, or DirectX 12) and GPU architectureUnderstanding of GPU texture management and efficient frame buffer handlingStrong problem-solving skills and ability to debug complex rendering issuesExcellent communication and collaboration skills.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200635456-3401/software-development-engineer-spatial-computing-vision-products-software?team=SFTWR",
-    "id": "apple-software-development-engineer-spatial-computing-vision-products-software-"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software QA Engineer, Apple Vision Pro, Vision Products Software",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "12h",
-    "job_description": "• Minimum QualificationsExcellent knowledge of software development lifecycle, testing methodologies, and testing tools.\n• Proactive self-starter with a keen eye for details with focus on end-user experiences and ability to go above and beyond to ensure a high quality release.\n• Experience developing detailed test plans, assessing risks, filing detailed bug reports, and providing relevant data for test reporting.\n• Experience testing large technology stacks with many software and hardware components.\n• Experience learning new tools/technologies and testing consumer electronics, mobile applications & experiences.\n• Experience using UNIX shell / command-line tools / executing scripts.\n• BA/BS in Computer Science/Engineering and/or relevant professional experience.\n• Troubleshoot, triage and provide detailed debug information for expediting issue resolution.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200632669-3401/software-qa-engineer-apple-vision-pro-vision-products-software?team=SFTWR",
-    "id": "apple-software-qa-engineer-apple-vision-pro-vision-products-software-"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, ML, Google Ads",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, ML, Google Ads",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103053759860351686-software-engineer-ml-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-ml-google-ads-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, AI Security",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, AI Security",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83882675118449350-software-engineer-ai-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-ai-security-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Mobile (iOS), Search Images Tab",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Mobile (iOS), Search Images Tab",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/99163137965466310-software-engineer-iii-mobile-ios-search-images-tab?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-iii-mobile-ios-search-images-tab-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Flume ML",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Flume ML",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133068778031194822-software-engineer-iii-flume-ml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-software-engineer-iii-flume-ml-sunnyvale"
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineering [Multiple Positions Available]",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• Software Engineer III - Blockchain Jersey City, NJ, United States TechnologySoftware Engineering The blockchain engineering team is looking for a passionate and experienced software engineer to join its team of expert engineers.\n• Lead Software Engineer - DevOps/SRE Jersey City, NJ, United States TechnologySoftware Engineering Lead Software Engineer with DevOps and SRE skills Lead Software Engineer - Fullstack New York, NY, United States TechnologySoftware Engineering Senior Software Engineer specializing in Java and React for Equity Derivatives Group Technology Lead Software Engineer Wilmington, DE, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Python/AWS Columbus, OH, United States TechnologySoftware Engineering Lead Software Engineer – Big Data & Analytics Software Developer -Automation (Operations) Cebu, Central Visayas, Philippines OperationsOperations Automation Analyze business needs, improve processes by developing tools & designing automation workflows using traditional and low-code methods Director of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Director of Software Engineering Plano, TX, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Principal Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Architect and deliver core components of a next-generation, cloud-native distributed data platform.\n• Frontend Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Frontend Software Engineer II in Compliance Technology - Digital Experience Principal Software Engineer Wilmington, DE, United States TechnologySoftware Engineering Grow with motivated engineers and leaders—mentorship, resources, and opportunities to expand your impact at JPMorgan Chase.\n• Director of Software Engineering - Payment Investigations Plano, TX, United States TechnologySoftware Engineering CIB Payments - Investigations new platform - Director of Software Engineering Senior Lead Software Engineer - API Marketplace Jersey City, NJ, United States and 1 more TechnologySoftware Engineering Senior Lead Software Engineer - API Marketplace Lead Software Engineer - Market Risk Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III - Python, Databrick, AWS, Market Risk Lead Software Engineer- Python, Java Columbus, OH, United States and 2 more TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within Open Source Governance in Engineering Platforms and Experience team Software Engineer III - AI ML BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering As an AI/ML Software Engineer build enterprise AI at global scale.\n• Lead Software Engineer- Python GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java, AWS Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Java Software Engineer who has strong experience with AWS Services Software Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Design, develop and implement software solutions.\n• Sr Manager of Software Engineering Wilmington, DE, United States TechnologySoftware Engineering Serve in a leadership role by providing technical coaching and advisory for multiple technical teams Software Engineer II - Python AWS Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Senior Lead Software Engineer - Python & AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Data Engineer - Credit Technology Java Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Java Software Engineer with strong experience in distributed and reactive programming Software Engineer III - Java AWS Pune, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team.\n• Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729076/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineering-multiple-positions-available-plano"
   }
 ]
