@@ -1,42 +1,82 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Service Now",
-    "job_city": "BATON ROUGE",
+    "employer_name": "Analog Devices",
+    "job_title": "Litigation Paralegal",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• 2nd Shift Manufacturing Operations SupervisorlocationsUS, MA, Chelmsford, Alphaposted onPosted 22 Days AgoR261297Supply Chain AnalystlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR260868Digital Product ManagerlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR260762Vulnerability Analyst (U.\n• Government Secure Enclave)locationsUS, MA, Wilmingtonposted onPosted 14 Days AgoR261157Project Manager InternlocationsUS, MA, Wilmingtonposted onPosted 27 Days AgoR257017Program Finance Analystlocations2 Locationsposted onPosted 5 Days AgoR261599Technician 3, Equipment MaintenancelocationsUS, WA, Camasposted onPosted 30+ Days AgoR254012Senior Analyst, Supply Chain PlanninglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260988B2B Delivery LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260198Senior Manager Production, Manufacturing OperationslocationsUS, WA, Camasposted onPosted 19 Days AgoR261427Bioelectronic Platforms Research InternlocationsUS, MA, Bostonposted onPosted 4 Days AgoR257541Supply Chain Management Process/Systems DirectorlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR261115Sales & Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 28 Days AgoR260017Litigation ParalegallocationsUS, MA, Wilmingtonposted onPosted TodayR260969Head of Finance – Internal Front‑End Manufacturing (Wafer‑Fab Network)locations2 Locationsposted onPosted 28 Days AgoR260880.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Litigation-Paralegal_R260969?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-litigation-paralegal-us"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "OS kernel system software development engineer",
+    "job_city": "USA-CA - Promontory B",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Application Developer 2026- Service Now",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89817&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-service-now-baton-rouge"
+    "job_description": "• Senior Mainframe Software EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 7 Days AgoR025469 Senior Product Architect – CA 7 Distributed Componentslocations2 Locationstime typeFull timeposted onPosted TodayR025525 Mainframe Principal Support EngineerlocationsCZE-Praha 11 V Parku 2343/24time typeFull timeposted onPosted TodayR025174 Workload Automation Product Marketing Managerlocations4 Locationstime typeFull timeposted onPosted 5 Days AgoR024000 Senior Quality Engineer - Virtual Machine Monitorlocations3 Locationstime typeFull timeposted onPosted TodayR025587 Brocade SAN Migration ConsultantlocationsUSA-WA-Remote Locationtime typeFull timeposted onPosted 5 Days AgoR024970 Agile LeaderlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 7 Days AgoR025474 Senior Product Managerlocations2 Locationstime typeFull timeposted onPosted TodayR025473 Senior Product Ownerlocations2 Locationstime typeFull timeposted onPosted TodayR025471.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-ESXi-CPU---Server-Platform_R025562?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-os-kernel-system-software-development-engineer-usa-ca-promontory-b"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Data Engineer 2026- Data Integration",
-    "job_city": "",
-    "job_state": "United States",
+    "employer_name": "Broadcom",
+    "job_title": "Java Engineer - REST APIs & Database Systems",
+    "job_city": "USA-IL Lisle Warrenville Road",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Data Engineer 2026- Data Integration",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89835&source=WEB_Search_NA",
-    "id": "ibm-data-engineer-2026-data-integration-"
+    "job_description": "• Senior Mainframe Software EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 7 Days AgoR025469 Senior Product Architect – CA 7 Distributed Componentslocations2 Locationstime typeFull timeposted onPosted TodayR025525 Mainframe Principal Support EngineerlocationsCZE-Praha 11 V Parku 2343/24time typeFull timeposted onPosted TodayR025174 Workload Automation Product Marketing Managerlocations4 Locationstime typeFull timeposted onPosted 5 Days AgoR024000 Senior Quality Engineer - Virtual Machine Monitorlocations3 Locationstime typeFull timeposted onPosted TodayR025587 Brocade SAN Migration ConsultantlocationsUSA-WA-Remote Locationtime typeFull timeposted onPosted 5 Days AgoR024970 Agile LeaderlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 7 Days AgoR025474 Senior Product Managerlocations2 Locationstime typeFull timeposted onPosted TodayR025473 Senior Product Ownerlocations2 Locationstime typeFull timeposted onPosted TodayR025471.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Java-Engineer---REST-APIs---Database-Systems_R025498?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-java-engineer-rest-apis-database-systems-usa-il-lisle-warrenville-road"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Ads, Conversational and Agentic AI",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Ads, Conversational and Agentic AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/113596066326028998-software-engineer-ads-conversational-and-agentic-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
-    "id": "google-software-engineer-ads-conversational-and-agentic-ai-mountain-view"
+    "employer_name": "Intel",
+    "job_title": "Linux Kernel Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• AI Agent Systems Application Engineerlocations2 Locationsposted onPosted 13 Days AgoJR0281919Senior Principal Engineer – AI Applied ResearchlocationsUS, Oregon, Hillsboroposted onPosted 27 Days AgoJR0281578Software Application Development Engineerlocations2 Locationsposted onPosted 5 Days AgoJR0282276Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoJR0282277Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0282273Operations Manager - Government Programs | Intel Foundry Automationlocations2 Locationsposted onPosted 13 Days AgoJR0282061Senior Phase Gates Engineerlocations2 Locationsposted onPosted 14 Days AgoSpotlight JobJR0282043Director-Foundry Customer PlanninglocationsUS, California, Santa Claraposted onPosted 11 Days AgoJR0282293GPU IP Engineering Program Managerlocations2 Locationsposted onPosted 7 Days AgoJR0282177Compiler Engineerlocations5 Locationsposted onPosted 4 Days AgoJR0282387Compiler Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0280731Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280737Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281201Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281207Senior Compiler Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR0280736OS Kernel Engineerlocations3 Locationsposted onPosted 5 Days AgoJR0281962Senior Automation Systems Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0281915Factory Automation Support Engineer - Shift 6locationsUS, Oregon, Hillsboroposted onPosted 15 Days AgoJR0282055Factory Automation Support Engineer - Shift 5locationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0282054Linux Kernel Engineerlocations3 Locationsposted onPosted TodayJR0282458.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Linux-Kernel-Engineer_JR0282458?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-linux-kernel-engineer-3-locations"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer , AWS Intent Driven Networking (AIDN)",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "23h",
-    "job_description": "software engineering job for the role Software Development Engineer , AWS Intent Driven Networking (AIDN)",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10380818/software-development-engineer-aws-intent-driven-networking-aidn",
-    "id": "amazon-software-development-engineer-aws-intent-driven-networking-aidn-seattle"
+    "employer_name": "Intel",
+    "job_title": "Intel Foundry Data Steward/Scientist",
+    "job_city": "5 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Linux Kernel Engineerlocations3 Locationsposted onPosted TodayJR0282456Staff OS Kernel Engineerlocations3 Locationsposted onPosted 5 Days AgoJR0281963Linux Kernel EngineerlocationsUS, Oregon, Hillsboroposted onPosted 21 Days AgoJR0278075Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0279795Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 27 Days AgoSpotlight JobJR0281566Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 27 Days AgoSpotlight JobJR0281567Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 20 Days AgoSpotlight JobJR0281914Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 13 Days AgoSpotlight JobJR0281565Senior Director, Data & IntelligencelocationsUS, California, Santa Claraposted onPosted 13 Days AgoJR0281811Silicon Firmware Development Engineerlocations2 Locationsposted onPosted YesterdayJR0281990Firmware Development Engineerlocations2 Locationsposted onPosted 12 Days AgoJR0281547AI Algorithm Engineer ScientistlocationsUS, California, Santa Claraposted onPosted YesterdayJR0282284Senior Technical Sales LeaderlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0279497Platform Reliability Availability and Serviceability (RAS) Architectlocations8 Locationsposted onPosted 12 Days AgoJR0282175Module Development EngineerlocationsUS, California, Santa Claraposted onPosted 22 Days AgoJR0281042AI Performance Library Architectlocations2 Locationsposted onPosted 4 Days AgoJR0281978Firmware HW Integration Validation LeadlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0282400Dell Sales Account ManagerlocationsUS, Texas, Austinposted onPosted 19 Days AgoJR0281909WLA Yield Analysis Systems Englocations3 Locationsposted onPosted 13 Days AgoJR0282026Intel Foundry Data Steward/Scientistlocations5 Locationsposted onPosted TodayJR0282283.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Intel-Foundry-Data-Steward-Scientist_JR0282283?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-intel-foundry-data-steward-scientist-5-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "AI Software Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• AI Software Engineerlocations2 Locationsposted onPosted TodayJR2015357Senior Software Engineer, Networking Softwarelocations4 Locationsposted onPosted 30+ Days AgoJR1998106Senior Software Engineer, Networking Softwarelocations5 Locationsposted onPosted 30+ Days AgoJR2001671Senior Software Engineer - HPClocations3 Locationsposted onPosted 22 Days AgoJR2013372Infrastructure Systems Software Engineerlocations2 Locationsposted onPosted TodayJR2014386Embedded Software Engineer - RISCVlocationsUS, CA, Santa Claraposted onPosted 18 Days AgoJR2012326Senior Software Engineer, FirmwarelocationsUS, CA, Santa Claraposted onPosted 9 Days AgoJR2014879Senior Software Engineer, NCCLlocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR1997186Backend Python Software EngineerlocationsUS, NC, Durhamposted onPosted 8 Days AgoJR1999975System Software Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002051Senior Software Engineer, JAXlocations2 Locationsposted onPosted 30+ Days AgoJR2004629Senior Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2004671Senior Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2006779System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2007081Senior System Software EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2009237Senior Software Engineer, ObservabilitylocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2008750Senior Software Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2010039Principal Software Engineer - Dynamolocations2 Locationsposted onPosted 30+ Days AgoJR2010290Software Engineer - Ethernet Switchinglocations2 Locationsposted onPosted 30+ Days AgoJR2010826Senior Quantum Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR2010687.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer_JR2015357?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-ai-software-engineer-2-locations"
+  },
+  {
+    "employer_name": "Workday",
+    "job_title": "Software Engineer, BDS Hadoop Engineer - US Federal",
+    "job_city": "USA.VA.Reston",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Sr Software Engineer, DevOpsremote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0104808Sr Software Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103020Sr Software Engineer Analytics (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103017Senior Software Engineer, DBaas - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0102749Software Engineer, BDS Hadoop Engineer - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0097446Senior Software Development Engineerremote typeFlexlocationsUSA.\n• Restonposted onPosted YesterdayJR-0104081Sr Software Development Engineerremote typeOnsitelocationsUSA.\n• Restonposted onPosted YesterdayJR-0103568Principal Software Development Engineer - (Flowise)remote typeFlexlocations2 Locationsposted onPosted 15 Days AgoJR-0100573Software Application Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103060Senior Manager, Software Development Engineeringremote typeFlexlocationsUSA.\n• Restonposted onPosted YesterdayJR-0104083Software Application Engineer (US Federal)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted 20 Days AgoJR-0104403Software Development Engineer (US Federal)remote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0103783Software Development Engineer - US Federalremote typeOnsitelocations2 Locationsposted onPosted 6 Days AgoJR-0105759Sr Software Application Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103063Manager, Software Development Engineering (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103062Senior Software Development Engineer - US Federalremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 20 Days AgoJR-0104419Senior Software Development Engineer - US Federalremote typeOnsitelocations2 Locationsposted onPosted 18 Days AgoJR-0104943Senior Software Development Engineer - US Federalremote typeOnsitelocations2 Locationsposted onPosted 18 Days AgoJR-0104942Manager, Software Development Engineering - US Federalremote typeOnsitelocations2 Locationsposted onPosted 18 Days AgoJR-0104887Sr.\n• Software Development Engineer (US Federal)remote typeOnsitelocationsUSA.",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Engineer--DBaas---US-Federal_JR-0097446?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-software-engineer-bds-hadoop-engineer-us-federal-usa-va-reston"
+  },
+  {
+    "employer_name": "Workday",
+    "job_title": "Software Development Engineer (US Federal)",
+    "job_city": "USA.VA.Reston",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Sr Software Engineer, DevOpsremote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0104808Sr Software Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103020Sr Software Engineer Analytics (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103017Senior Software Engineer, DBaas - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0102749Software Engineer, BDS Hadoop Engineer - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0097446Senior Software Development Engineerremote typeFlexlocationsUSA.\n• Restonposted onPosted YesterdayJR-0104081Sr Software Development Engineerremote typeOnsitelocationsUSA.\n• Restonposted onPosted YesterdayJR-0103568Principal Software Development Engineer - (Flowise)remote typeFlexlocations2 Locationsposted onPosted 15 Days AgoJR-0100573Software Application Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103060Senior Manager, Software Development Engineeringremote typeFlexlocationsUSA.\n• Restonposted onPosted YesterdayJR-0104083Software Application Engineer (US Federal)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted 20 Days AgoJR-0104403Software Development Engineer (US Federal)remote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0103783Software Development Engineer - US Federalremote typeOnsitelocations2 Locationsposted onPosted 6 Days AgoJR-0105759Sr Software Application Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103063Manager, Software Development Engineering (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103062Senior Software Development Engineer - US Federalremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 20 Days AgoJR-0104419Senior Software Development Engineer - US Federalremote typeOnsitelocations2 Locationsposted onPosted 18 Days AgoJR-0104943Senior Software Development Engineer - US Federalremote typeOnsitelocations2 Locationsposted onPosted 18 Days AgoJR-0104942Manager, Software Development Engineering - US Federalremote typeOnsitelocations2 Locationsposted onPosted 18 Days AgoJR-0104887Sr.\n• Software Development Engineer (US Federal)remote typeOnsitelocationsUSA.",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Sr-Software-Development-Engineer---US-Federal_JR-0103783?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-software-development-engineer-us-federal-usa-va-reston"
   }
 ]
