@@ -1,62 +1,42 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Operations Integration Intern",
-    "job_city": "shipArmonk",
+    "job_title": "Ceph Performance Engineer",
+    "job_city": "TUCSON",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Operations Integration Intern",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107576&source=WEB_Search_NA",
-    "id": "ibm-operations-integration-intern-shiparmonk"
+    "job_description": "software engineering job for the role Ceph Performance Engineer",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107725&source=WEB_Search_NA",
+    "id": "ibm-ceph-performance-engineer-tucson"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Equipment Engineering Technician 3- Thin Films",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "1d",
-    "job_description": "• Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 14 Days AgoR261438CMOS Research Engineer (Life Sciences)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR255391Senior Supplier Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 13 Days AgoR260989Equipment Engineering Technician 3- Thin FilmslocationsUS, OR, Beavertonposted onPosted TodayR261506Staff Product Engineer - RFlocations2 Locationsposted onPosted 30+ Days AgoR258336Principal Algorithm Engineer / Robotics Algorithm LeadlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR258879Senior RF EngineerlocationsUS, NC, Durhamposted onPosted 15 Days AgoR260166Digital Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260273Principal Engineer, Design VerificationlocationsUS, NC, Durhamposted onPosted 2 Days AgoR261421Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258575Equipment Engineering Technician 2locationsUS, OR, Beavertonposted onPosted 13 Days AgoR261300Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258730Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258733Senior System Design EngineerlocationsUS, CA, Santa Barbaraposted onPosted 30+ Days AgoR260100Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR258731Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR258732Staff Engineer, Digital Design EngineeringlocationsUS, OR, Beavertonposted onPosted 15 Days AgoR261443Principal Navigation Systems Architect (PN&T)locations2 Locationsposted onPosted 30+ Days AgoR260123Senior Engineer, Product Engineering (Manufacturing)locationsUS, CA, San Jose, Rio Roblesposted onPosted 19 Days AgoR258684Power Management System EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR260148.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Technician-3--Thin-Films_R261506?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-equipment-engineering-technician-3-thin-films-us"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Density Fill PDK Development Engineer",
-    "job_city": "4 Locations",
+    "employer_name": "IBM",
+    "job_title": "Associate Developer",
+    "job_city": "San Francisco",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 19 Days AgoJR0281966End to End GPU AI Software Architectlocations4 Locationsposted onPosted 26 Days AgoJR0281455Senior Principal Engineer – AI Applied ResearchlocationsUS, Oregon, Hillsboroposted onPosted 28 Days AgoJR0281578Software Application Development Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0282276Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 6 Days AgoJR0282277Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoJR0282273Operations Manager - Government Programs | Intel Foundry Automationlocations2 Locationsposted onPosted 14 Days AgoJR0282061Senior C/C++ Engineer - Media Optimization & Codecslocations3 Locationsposted onPosted TodayJR0281205Density Fill PDK Development Engineerlocations4 Locationsposted onPosted TodayJR0282533Senior Density Fill Development Engineerlocations4 Locationsposted onPosted TodayJR0282534Senior Phase Gates Engineerlocations2 Locationsposted onPosted 15 Days AgoSpotlight JobJR0282043Director-Foundry Customer PlanninglocationsUS, California, Santa Claraposted onPosted 12 Days AgoJR0282293GPU IP Engineering Program Managerlocations2 Locationsposted onPosted 8 Days AgoJR0282177Compiler Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0280731Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280737Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281201Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281207Compiler Engineerlocations5 Locationsposted onPosted 5 Days AgoJR0282387Senior Compiler Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR0280736Factory Automation Support Engineer - Shift 6locationsUS, Oregon, Hillsboroposted onPosted 16 Days AgoJR0282055.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Density-Fill-PDK-Development-Engineer_JR0282533?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-density-fill-pdk-development-engineer-4-locations"
+    "job_description": "software engineering job for the role Associate Developer 2026",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100310&source=WEB_Search_NA",
+    "id": "ibm-associate-developer-san-francisco"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Infrastructure and DevOps Engineer",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Infrastructure and DevOps Engineerlocations4 Locationsposted onPosted TodayJR0282486Cloud Application Development Engineerlocations4 Locationsposted onPosted TodayJR0282485Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276257Sr.\n• Infrastructure Engineer - Observability and Monitoringlocations2 Locationsposted onPosted 15 Days AgoSpotlight JobJR0282063AI Frameworks Engineer (OpenVINO, GenAI)locations2 Locationsposted onPosted 14 Days AgoJR0281970Data Platforms Engineering InternlocationsUS, California, Folsomposted onPosted 2 Days AgoJR0279842Lead Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 16 Days AgoJR0281150GPU Validation Engineerlocations2 Locationsposted onPosted 29 Days AgoJR0281312CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted 28 Days AgoJR0278193IP Design Verification EngineerlocationsUS, Oregon, Hillsboroposted onPosted 29 Days AgoJR0281444IP Design Verification EngineerlocationsUS, Oregon, Hillsboroposted onPosted 14 Days AgoJR0281953CPU Verification Engineerlocations2 Locationsposted onPosted 20 Days AgoJR0278559Network Security Engineer- Automation Developerlocations3 Locationsposted onPosted 30+ Days AgoJR0278568Systems Research Engineer/ScientistlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0282558Identity Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0278271Sr.\n• IP Logic Design Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0281896GPU Performance Engineerlocations2 Locationsposted onPosted 28 Days AgoJR0281331Network Monitoring Security Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0278569Senior GPU Validation EngineerlocationsUS, California, Folsomposted onPosted 14 Days AgoSpotlight JobJR0279452Project Controls Engineer (PCE)locationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0280667.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Infrastructure-and-DevOps-Engineer_JR0282486?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-infrastructure-and-devops-engineer-4-locations"
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "3h",
+    "job_description": "software engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10381876/software-development-engineer-ec2-ultraserver-delivery-team",
+    "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Silicon Packaging Design Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Junior CPU Design Verification Engineerlocations2 Locationsposted onPosted 8 Days AgoJR0282204Security Automation Engineerlocations4 Locationsposted onPosted YesterdayJR0282481CPU Verification Engineerlocations2 Locationsposted onPosted 30 Days AgoJR0281127CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted 8 Days AgoJR0281846SoC PnP Validation Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280500Senior CPU Verification Engineerlocations2 Locationsposted onPosted 30 Days AgoJR0281123Silicon Packaging Design Engineerlocations2 Locationsposted onPosted TodayJR0282355GPU Design Verification Engineerlocations2 Locationsposted onPosted 16 Days AgoJR0281327GPU Logic Design Engineerlocations2 Locationsposted onPosted 16 Days AgoJR0281318FCS Risk and Audit Managerlocations3 Locationsposted onPosted 21 Days AgoJR0281469Supply Chain Engineer Fab Equipment Sourcinglocations2 Locationsposted onPosted 15 Days AgoJR0281690Responsible Minerals and Critical Materials Program Managerlocations2 Locationsposted onPosted YesterdayJR0282252CPU RTL Design Engineerlocations2 Locationsposted onPosted 10 Days AgoJR0281533Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 12 Days AgoJR0280051Foundry New Product Data Analystlocations4 Locationsposted onPosted TodayJR0282358Senior Laser DesignerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0280860Director, Business Developmentlocations2 Locationsposted onPosted 6 Days AgoJR0282399GPU Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280552GPU Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280553GPU Design Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280548.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0282355?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-silicon-packaging-design-engineer-2-locations"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Platforms and Applications",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum Qualifications3+ years of software development experience, with strong proficiency in Python or similar programming languages3+ years of hands-on experience with Kubernetes in production environmentsDemonstrated expertise in debugging complex systems with a commitment to code quality and best practicesExperience architecting and implementing large-scale distributed systems with multiple integrated services.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200647967-3543/software-engineer-platforms-and-applications?team=SFTWR",
-    "id": "apple-software-engineer-platforms-and-applications-san-diego"
+    "employer_name": "Amazon",
+    "job_title": "Embedded Software Development Engineer II, AWS Hardware Engineering Services",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "3h",
+    "job_description": "software engineering job for the role Embedded Software Development Engineer II, AWS Hardware Engineering Services",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10381878/embedded-software-development-engineer-ii-aws-hardware-engineering-services",
+    "id": "amazon-embedded-software-development-engineer-ii-aws-hardware-engineering-services-cupertino"
   }
 ]
