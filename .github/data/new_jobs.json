@@ -1,62 +1,52 @@
 [
   {
-    "employer_name": "Dell",
-    "job_title": "Privileged Access Management Engineer",
-    "job_city": "Round Rock",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Hardware Engineerlocations2 Locationsposted onPosted 30+ Days AgoR284675Electrical Systems Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR285151Senior Hardware Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR285154AI Solution Principal Systems Development Engineerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR285598EIS DPE Lab Support Engineerremote typeOnsitelocationsDurham, North Carolina, United Statesposted onPosted YesterdayR288029Systems Development Engineer 1remote typeOnsitelocations2 Locationsposted onPosted TodayR289739Privileged Access Management Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted TodayR286164Senior Principal Systems Development Engineerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 10 Days AgoR286020HPC Senior System Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR285114HPC Senior System Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR285112Senior Electrical Engineer- FPGA Developmentremote typeOnsitelocations2 Locationsposted onPosted 2 Days AgoR287410EIS PBS & SDS Lab Service Deliveryremote typeOnsitelocations2 Locationsposted onPosted TodayR288037Senior Principal Engineer, Solutions Architectureremote typeFieldlocations2 Locationsposted onPosted 6 Days AgoR286406Field Service Engineer 2 Childress, Texasremote typeFieldlocationsRemote - Texas, United Statesposted onPosted TodayR286544Field Service Engineer 2 Memphis, Tennesseeremote typeFieldlocationsRemote - Tennessee, United Statesposted onPosted 16 Days AgoR286684Field Service Engineer 2 -- Ellendale, North Dakotaremote typeFieldlocationsRemote - North Dakota, United Statesposted onPosted TodayR286536HPC Principal Systems Development Engineerrremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR285116Network Security Architect, Consultantremote typeOnsitelocations2 Locationsposted onPosted YesterdayR285457Lead AI Solutions Technical Product Managerremote typeOnsitelocations3 Locationsposted onPosted 30+ Days AgoR285489Senior Consultant-AI Strategyremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 2 Days AgoR282987.",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Privileged-Access-Management-Engineer_R286164-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-privileged-access-management-engineer-round-rock"
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering SMTS, Salesforce",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• 8+ years of hands-on experience in the Salesforce ecosystem with demonstrated independent deliveryAdvanced proficiency in Apex development, including triggers, batch processing, queueable Apex, and asynchronous patternsStrong expertise in Agentforce, Agent Builder, and Salesforce AI featuresExperience with Lightning Web Components (LWC) and the Lightning UI frameworkProficiency in REST/SOAP APIs, web services, and integration patterns (event-driven, batch, real-time)Deep understanding of Salesforce platform fundamentals: data model, security model, order of execution, and governor limitsExperience with test automation (Apex tests, integration testing, regression automation)Solid experience with Sales Cloud and Service Cloud configuration and customizationProficiency with Git, modern IDEs (VS Code, IntelliJ, Eclipse), and CI/CD tools (Jenkins, GitHub Actions, GitLab CI)Experience with Agile methodologies (Scrum, Kanban)Relevant Salesforce certifications (Platform Developer I & II, Administrator) Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Partner with Business, Product, Architecture, Engineering, and QA teams to deliver scalable, high-performance solutionsParticipate in solution design sessions, providing technical recommendations and architectural inputCollaborate on roadmap planning and contribute to architectural decision-makingMentor and develop team members through knowledge sharing and code reviewsContribute ideas and feedback across the team's portfolio of projects Experience with Salesforce DX, scratch orgs, and CLI toolsFamiliarity with MuleSoft AnyPoint Platform for enterprise orchestrationsExperience with managed packages, unlocked packages, or AppExchange developmentKnowledge of CMDB and ITIL Service Configuration University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr334762/software-engineering-smts-salesforce/",
+    "id": "salesforce-software-engineering-smts-salesforce-california-san-francisco"
   },
   {
-    "employer_name": "Dell",
-    "job_title": "EIS PBS & SDS Lab Service Delivery",
+    "employer_name": "Salesforce",
+    "job_title": "Signature Support Engineer",
+    "job_city": "Washington - Seattle",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336780/signature-support-engineer/",
+    "id": "salesforce-signature-support-engineer-washington-seattle"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "PHY Application Engineer",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Hardware Engineerlocations2 Locationsposted onPosted 30+ Days AgoR284675Electrical Systems Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR285151Senior Hardware Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR285154AI Solution Principal Systems Development Engineerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR285598EIS DPE Lab Support Engineerremote typeOnsitelocationsDurham, North Carolina, United Statesposted onPosted YesterdayR288029Systems Development Engineer 1remote typeOnsitelocations2 Locationsposted onPosted TodayR289739Privileged Access Management Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted TodayR286164Senior Principal Systems Development Engineerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 10 Days AgoR286020HPC Senior System Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR285114HPC Senior System Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR285112Senior Electrical Engineer- FPGA Developmentremote typeOnsitelocations2 Locationsposted onPosted 2 Days AgoR287410EIS PBS & SDS Lab Service Deliveryremote typeOnsitelocations2 Locationsposted onPosted TodayR288037Senior Principal Engineer, Solutions Architectureremote typeFieldlocations2 Locationsposted onPosted 6 Days AgoR286406Field Service Engineer 2 Childress, Texasremote typeFieldlocationsRemote - Texas, United Statesposted onPosted TodayR286544Field Service Engineer 2 Memphis, Tennesseeremote typeFieldlocationsRemote - Tennessee, United Statesposted onPosted 16 Days AgoR286684Field Service Engineer 2 -- Ellendale, North Dakotaremote typeFieldlocationsRemote - North Dakota, United Statesposted onPosted TodayR286536HPC Principal Systems Development Engineerrremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR285116Network Security Architect, Consultantremote typeOnsitelocations2 Locationsposted onPosted YesterdayR285457Lead AI Solutions Technical Product Managerremote typeOnsitelocations3 Locationsposted onPosted 30+ Days AgoR285489Senior Consultant-AI Strategyremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 2 Days AgoR282987.",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Durham-North-Carolina-United-States/EIS-PBS---SDS-Lab-Service-Delivery_R288037-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-eis-pbs-sds-lab-service-delivery-2-locations"
+    "job_description": "• Technical lead - Staff Software Quality EngineerlocationsUSA-CA - Promontory Etime typeFull timeposted onPosted YesterdayR025364 Senior Product Architect – CA 7 Distributed Componentslocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR025525 Senior Quality Engineer - Virtual Machine Monitorlocations3 Locationstime typeFull timeposted onPosted 2 Days AgoR025587 Workload Automation Product Marketing Managerlocations4 Locationstime typeFull timeposted onPosted 7 Days AgoR024000 Brocade SAN Migration ConsultantlocationsUSA-WA-Remote Locationtime typeFull timeposted onPosted 7 Days AgoR024970 Senior Product Managerlocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR025473 Senior Product Ownerlocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR025471.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/PHY-Application-Engineer_R025363?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-phy-application-engineer-2-locations"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Trade Compliance Analyst",
+    "employer_name": "Intel",
+    "job_title": "Memory Systems Firmware Development Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• WLA Yield Analysis Systems Englocations3 Locationsposted onPosted 15 Days AgoJR0282026Intel Foundry Data Steward/Scientistlocations5 Locationsposted onPosted 2 Days AgoJR0282283Dell Sales Account ManagerlocationsUS, Texas, Austinposted onPosted 21 Days AgoJR0281909Advanced Packaging Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0282579Memory Systems Firmware Development Engineerlocations2 Locationsposted onPosted TodayJR0282544Transport Media and Materials Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0282050Product Validation EngineerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0282420Packaging Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0282430Test Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0281628Lab Engineering TechnicianlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0282532Systems and Hardware Enabling Engineerlocations2 Locationsposted onPosted 10 Days AgoJR0282232Senior Foundry Device EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0280822Systems SW Engineer - Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0279981Cloud DevOps and Infrastructure Engineerlocations3 Locationsposted onPosted 9 Days AgoJR0282274Memory Debug Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281051APTM Yield Defect Metrology EngineerlocationsUS, Oregon, Hillsboroposted onPosted 29 Days AgoJR0281177Yield Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 21 Days AgoJR0281661Ethernet Networking Product Managerlocations2 Locationsposted onPosted 30+ Days AgoJR0281109Senior Middleware Development Engineerlocations2 Locationsposted onPosted 9 Days AgoSpotlight JobJR0279083Infrastructure and DevOps Engineerlocations4 Locationsposted onPosted YesterdayJR0282486.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Memory-Systems-Firmware-Development-Engineer_JR0282544?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-memory-systems-firmware-development-engineer-2-locations"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Lab Engineering Technician",
     "job_city": "US",
-    "job_state": "MA",
+    "job_state": "Oregon",
     "job_posted_at": "1d",
-    "job_description": "• Analyst, Information SecuritylocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR260660Photo Technician 4, Equipment MaintenancelocationsUS, WA, Camasposted onPosted 30+ Days AgoR258537Digital Product ManagerlocationsUS, MA, Wilmingtonposted onPosted 15 Days AgoR2607622nd Shift Manufacturing Operations SupervisorlocationsUS, MA, Chelmsford, Alphaposted onPosted 24 Days AgoR261297Supply Chain AnalystlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR260868Vulnerability Analyst (U.\n• Government Secure Enclave)locationsUS, MA, Wilmingtonposted onPosted 16 Days AgoR261157Project Manager InternlocationsUS, MA, Wilmingtonposted onPosted 29 Days AgoR257017Program Finance Analystlocations2 Locationsposted onPosted 7 Days AgoR261599Trade Compliance AnalystlocationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR261805Technician 3, Equipment MaintenancelocationsUS, WA, Camasposted onPosted 30+ Days AgoR254012B2B Delivery LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260198Senior Analyst, Supply Chain PlanninglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260988Senior Incoming InspectorlocationsUS, MA, Chelmsford, Alphaposted onPosted TodayR261600Business Discovery Research Analyst Intern (Business Discovery Team)locationsUS, MA, Bostonposted onPosted TodayR260688Bioelectronic Platforms Research InternlocationsUS, MA, Bostonposted onPosted 6 Days AgoR257541Senior Manager Production, Manufacturing OperationslocationsUS, WA, Camasposted onPosted 21 Days AgoR261427Supply Chain Management Process/Systems DirectorlocationsUS, MA, Wilmingtonposted onPosted 27 Days AgoR261115Sales & Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR260017Litigation ParalegallocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR260969Head of Finance – Internal Front‑End Manufacturing (Wafer‑Fab Network)locations2 Locationsposted onPosted 30 Days AgoR260880.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Trade-Compliance-Analyst_R261805?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-trade-compliance-analyst-us"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Power Analysis Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/power-analysis-engineer/33099/93501874160",
-    "id": "arm-power-analysis-engineer-"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Supply Chain Systems",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Supply Chain Systems",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/101053834108773062-software-engineer-supply-chain-systems?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-supply-chain-systems-sunnyvale"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Engineer, Electric Utility Grid, Hadron",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "20h",
-    "job_description": "software engineering job for the role Software Engineer, Electric Utility Grid, Hadron",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10382656/software-engineer-electric-utility-grid-hadron",
-    "id": "amazon-software-engineer-electric-utility-grid-hadron-seattle"
+    "job_description": "• WLA Yield Analysis Systems Englocations3 Locationsposted onPosted 15 Days AgoJR0282026Intel Foundry Data Steward/Scientistlocations5 Locationsposted onPosted 2 Days AgoJR0282283Dell Sales Account ManagerlocationsUS, Texas, Austinposted onPosted 21 Days AgoJR0281909Advanced Packaging Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0282579Memory Systems Firmware Development Engineerlocations2 Locationsposted onPosted TodayJR0282544Transport Media and Materials Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0282050Product Validation EngineerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0282420Packaging Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0282430Test Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0281628Lab Engineering TechnicianlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0282532Systems and Hardware Enabling Engineerlocations2 Locationsposted onPosted 10 Days AgoJR0282232Senior Foundry Device EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0280822Systems SW Engineer - Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0279981Cloud DevOps and Infrastructure Engineerlocations3 Locationsposted onPosted 9 Days AgoJR0282274Memory Debug Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281051APTM Yield Defect Metrology EngineerlocationsUS, Oregon, Hillsboroposted onPosted 29 Days AgoJR0281177Yield Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 21 Days AgoJR0281661Ethernet Networking Product Managerlocations2 Locationsposted onPosted 30+ Days AgoJR0281109Senior Middleware Development Engineerlocations2 Locationsposted onPosted 9 Days AgoSpotlight JobJR0279083Infrastructure and DevOps Engineerlocations4 Locationsposted onPosted YesterdayJR0282486.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Lab-Engineering-Technician_JR0282532?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-lab-engineering-technician-us"
   }
 ]
