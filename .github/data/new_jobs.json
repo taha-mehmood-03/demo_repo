@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "SOC Analyst – Cyber Threat Intelligence",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "1w",
-    "job_description": "• Cloud Architecture ManagerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260046Principal PM, Project / Program Managementlocations2 Locationsposted onPosted 30+ Days AgoR260692Principal Applications Engineer – High Performance PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted YesterdayR261572Senior Supervisor Manufacturing OperationslocationsUS, OR, Beavertonposted onPosted 3 Days AgoR261055Senior Trade Compliance AnalystlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR260648Cybersecurity Lead – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 22 Days AgoR255249Manufacturing and Supply Chain LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260012Photolithography Technician 3, Equipment MaintenancelocationsUS, WA, Camasposted onPosted 14 Days AgoR258383SOC Analyst – Cyber Threat IntelligencelocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR261158Product Marketing Manager - Automotive Power ProductslocationsUS, AZ, Chandler, East Elliotposted onPosted 23 Days AgoR260574Senior Specialist Digital Marketinglocations2 Locationsposted onPosted 30 Days AgoR258789Robotics Hardware System ArchitectlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR257085Senior Staff Analyst CMMC CompliancelocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR258574Facilities TechnicianlocationsUS, WA, Camasposted onPosted 30 Days AgoR260716Senior Analyst, Business PlanninglocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR261345Semiconductor Process and Device InternlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR257109AI/ML Researcher Intern - Co-oplocations2 Locationsposted onPosted 3 Days AgoR257656Sr.\n• Analyst, Information SecuritylocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR260660Photo Technician 4, Equipment MaintenancelocationsUS, WA, Camasposted onPosted 30+ Days AgoR258537Digital Product ManagerlocationsUS, MA, Wilmingtonposted onPosted 15 Days AgoR260762.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Analyst--Information-Security_R261158-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-soc-analyst-cyber-threat-intelligence-us"
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Traffic, Envoy",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsB.\n• In Computer Science or equivalent experience5+ years of relevant industry experienceProfessional expertise in software engineeringSkilled with one or more advanced programming language such as C, C++, Java or GoFull product lifecycle ownership mindset (design → implementation → production)Experience with core production engineering best practices (e.\n• , designing for operability and scalability, adopting SLOs, eliminating toil).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200655221-3337/software-engineer-traffic-envoy?team=SFTWR",
+    "id": "apple-software-engineer-traffic-envoy-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Mobile, Android, Core",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Mobile, Android, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/95812737057071814-software-engineer-mobile-android-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-mobile-android-core-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Play Analytics, Platforms and Devices",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Play Analytics, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/129330249518195398-software-engineer-play-analytics-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-play-analytics-platforms-and-devices-mountain-view"
   }
 ]
