@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Ceph Performance Engineer",
-    "job_city": "TUCSON",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Cyber Warfare Engineer",
+    "job_city": "Schriever AFB",
+    "job_state": "CO",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Ceph Performance Engineer",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107725&source=WEB_Search_NA",
-    "id": "ibm-ceph-performance-engineer-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Developer",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Developer 2026",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100310&source=WEB_Search_NA",
-    "id": "ibm-associate-developer-san-francisco"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "3h",
-    "job_description": "software engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10381876/software-development-engineer-ec2-ultraserver-delivery-team",
-    "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Embedded Software Development Engineer II, AWS Hardware Engineering Services",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "3h",
-    "job_description": "software engineering job for the role Embedded Software Development Engineer II, AWS Hardware Engineering Services",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10381878/embedded-software-development-engineer-ii-aws-hardware-engineering-services",
-    "id": "amazon-embedded-software-development-engineer-ii-aws-hardware-engineering-services-cupertino"
+    "job_description": "• Site Reliability EngineerlocationsHerndon, VAposted onPosted 5 Days AgoR0234522 System Integration and Architecture LeadlocationsAnnapolis Junction, MDposted onPosted 5 Days AgoR0235970 Modeling and Simulations SpecialistlocationsSan Antonio, TXposted onPosted 5 Days AgoR0235908 Enterprise Integration Architect, LeadlocationsMcLean, VAposted onPosted 5 Days AgoR0236335 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 5 Days AgoR0232705 Software Architect, LeadlocationsLexington Park, MDposted onPosted 5 Days AgoR0235783 MUMPS Developer, Leadlocations2 Locationsposted onPosted 5 Days AgoR0232453.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Schriever-AFB-CO/Cyber-Warfare-Engineer_R0234870?q=software+engineering",
+    "id": "bae-systems-cyber-warfare-engineer-schriever-afb"
   }
 ]
