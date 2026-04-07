@@ -1,52 +1,32 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering MTS",
-    "job_city": "Mexico - Mexico City",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336518/software-engineering-mts/",
-    "id": "salesforce-software-engineering-mts-mexico-mexico-city"
+    "employer_name": "Analog Devices",
+    "job_title": "Engineer, Central Applications",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Technical Marketing EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR261220Engineer, Central ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR254408Staff Engineer, Field ApplicationslocationsUS, FL, Home Officeposted onPosted 30+ Days AgoR261103System and Firmware Engineer InternlocationsUS, NJ, Somersetposted onPosted 28 Days AgoR258554Semiconductor Device EngineerlocationsUS, MA, Wilmingtonposted onPosted 18 Days AgoR257843Lead PM, Program/Project ManagerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258804Field Applications Engineer (FAE) – Aerospace, Defense & Communicationslocations3 Locationsposted onPosted 30+ Days AgoR260541Field Technical Leader – DCElocationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR261416Product Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257710Staff Power Applications EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261016Senior Product Applications Engineerlocations2 Locationsposted onPosted 14 Days AgoR261536Network Security EngineerlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR261338Senior Product Applications Engineer (FPGA)locations2 Locationsposted onPosted 21 Days AgoR261279Associate Facilities Engineerlocations2 Locationsposted onPosted 27 Days AgoR256657Staff Field Applications Engineer – Optical Modules, Data Center Systems and EnergylocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261200Lead PM, Project/Program Management (Eng)locationsUS, MA, Bostonposted onPosted 12 Days AgoR261655Lead Technical PM Project/Program Managerlocations3 Locationsposted onPosted 30+ Days AgoR260141Associate Applications Engineer (Power Electronics)locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR256049Lead PM, Project / Program Management (Eng)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260363Staff Physical Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR257673.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Engineer--Central-Applications_R254408?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-central-applications-us"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "F-35 Software Systems Engineer",
-    "job_city": "Arlington",
-    "job_state": "VA",
+    "job_title": "AI/ML Software Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 11 Days AgoR0221864 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 11 Days AgoR0235191 Product Security Senior Managerlocations8 Locationsposted onPosted 11 Days AgoR0230956 Software Developer, LeadlocationsFort Meade, MDposted onPosted 11 Days AgoR0233725 DevOps Engineer, SeniorlocationsMoorestown, NJposted onPosted YesterdayR0236058 PHP Developer, SeniorlocationsChantilly, VAposted onPosted 11 Days AgoR0234945.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/F-35-Software-Systems-Engineer_R0237248?q=software+engineering",
-    "id": "bae-systems-f-35-software-systems-engineer-arlington"
+    "job_description": "• Embedded Software Engineer, LeadlocationsLexington Park, MDposted onPosted 11 Days AgoR0234374.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-ML-Software-Engineer_R0237289?q=software+engineering",
+    "id": "bae-systems-ai-ml-software-engineer-2-locations"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Tool and Die Maker",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030225/Tool-and-Die-Maker",
-    "id": "abb-tool-and-die-maker-location-saint-louis"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Graphics Software Engineer, Material for iOS",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Graphics Software Engineer, Material for iOS",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78409022767538886-graphics-software-engineer-material-for-ios?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-graphics-software-engineer-material-for-ios-san-francisco"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, AWS Keyspaces (NoSQL Cassandra compatible database)",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "17h",
-    "job_description": "software engineering job for the role Software Development Engineer, AWS Keyspaces (NoSQL Cassandra compatible database)",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10385393/software-development-engineer-aws-keyspaces-nosql-cassandra-compatible-database",
-    "id": "amazon-software-development-engineer-aws-keyspaces-nosql-cassandra-compatible-database-seattle"
+    "employer_name": "Magna International",
+    "job_title": "IT Systems Administrator - 2nd Shift",
+    "job_city": "Lancaster",
+    "job_state": "Ohio",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Manager Product Development ADAS & In-Vehicle Infotainment (IVI)locationsSouthfield, Michigan, USposted onPosted 11 Days AgoR00236329CAE SupervisorlocationsTroy, Michigan, USposted onPosted 14 Days AgoR00235933Validation Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225610CNC Programmer SupervisorlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00209942Program Purchasing StudentlocationsTroy, Michigan, USposted onPosted 7 Days AgoR00236500Metallurgical Lab Technician (First Shift)locationsSterling Heights, Michigan, USposted onPosted 25 Days AgoR00234464Metallurgical Lab Technician - 2nd ShiftlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00221812Designer- LightinglocationsNovi, Michigan, USposted onPosted 21 Days AgoR00235134IT Industry 4.\n• 0 Lead DeveloperlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222196Account Manager, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00106519IT Systems Administrator - 2nd ShiftlocationsLancaster, Ohio, USposted onPosted TodayR00237934CNC MachinistlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222195Tool & Die Journeyman - 2nd & 3rd shiftslocationsBowling Green, Ohio, USposted onPosted 7 Days AgoR00213354Intern/Co-Op Student-OperationslocationsHolly, Michigan, USposted onPosted 27 Days AgoR002330881st shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 30+ Days AgoR00212608Thinning Analysis TechlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00175377Program ManagerlocationsNovi, Michigan, USposted onPosted 14 Days AgoR00233860Thinning Analysis Team LeaderlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00174307Assistant Maintenance ManagerlocationsNew Hudson, Michigan, USposted onPosted 30+ Days AgoR00232540Maintenance Technician IlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00231930.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/IT-Systems-Administrator---2nd-Shift_R00237934?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-it-systems-administrator-2nd-shift-lancaster"
   }
 ]
