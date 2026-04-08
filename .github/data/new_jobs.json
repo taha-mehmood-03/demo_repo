@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Data Engineer, Operations and Infrastructure Data Science",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Salesforce",
+    "job_title": "Data Scientist",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Data Engineer, Operations and Infrastructure Data Science",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127631856240599750-data-engineer-operations-and-infrastructure-data-science?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-data-engineer-operations-and-infrastructure-data-science-sunnyvale"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311143/data-scientist/",
+    "id": "salesforce-data-scientist-mexico-mexico-city"
   },
   {
     "employer_name": "Google",
-    "job_title": "Cloud Engineer, Application Modernization, Google Public Sector",
-    "job_city": "Reston",
-    "job_state": "VA",
+    "job_title": "Software Engineer, Infrastructure, Core",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Cloud Engineer, Application Modernization, Google Public Sector",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/93681333766628038-cloud-engineer-application-modernization-google-public-sector?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-cloud-engineer-application-modernization-google-public-sector-reston"
+    "job_description": "software engineering job for the role Software Engineer, Infrastructure, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86470736511673030-software-engineer-infrastructure-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-infrastructure-core-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, GCS Object Context and Retrieval",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, GCS Object Context and Retrieval",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138230280748966598-software-engineer-iii-gcs-object-context-and-retrieval?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-gcs-object-context-and-retrieval-seattle"
   }
 ]
