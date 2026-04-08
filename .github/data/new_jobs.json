@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "Salesforce",
-    "job_title": "Data Scientist",
-    "job_city": "Mexico - Mexico City",
+    "job_title": "Solution Engineer - Core Business",
+    "job_city": "New Zealand - Auckland",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311143/data-scientist/",
-    "id": "salesforce-data-scientist-mexico-mexico-city"
+    "job_description": "• Whether your background is in Engineering, Consulting, or Architecture, you’re proficient in navigating complex stacks, you aren't afraid to get your hands dirty building solutions, and you have the \"scars\" to show for it.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Strategic Advisory: Move beyond technical proof to help customers understand the commercial conviction behind AI and digital transformation.\n• Continuous Growth: Benefit from our \"Talent Pyramid\"—as you own the core run-rate of the business, you will be mentored by senior Architects to develop the skills needed for the next stage of your career.\n• Industry Knowledge: Experience in New Zealand’s key sectors (Retail, Government, FSI, etc.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.\n• Confident Advocacy: You possess the \"swagger\" to lead a room, backed by the humility to listen.\n• You are comfortable holding a professional opinion and defending the integrity of your advice, even when it means challenging a stakeholder’s initial assumptions.\n• Business Curiosity: You enjoy understanding how a company works.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr337197/solution-engineer-core-business/",
+    "id": "salesforce-solution-engineer-core-business-new-zealand-auckland"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Infrastructure, Core",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Infrastructure, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86470736511673030-software-engineer-infrastructure-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-infrastructure-core-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, GCS Object Context and Retrieval",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, GCS Object Context and Retrieval",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138230280748966598-software-engineer-iii-gcs-object-context-and-retrieval?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-gcs-object-context-and-retrieval-seattle"
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030614/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-available-in-one-of-2-locations"
   }
 ]
