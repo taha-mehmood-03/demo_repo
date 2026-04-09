@@ -1,32 +1,72 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Software Engineer, Mid",
-    "job_city": "9 Locations",
-    "job_state": "US",
+    "job_title": "Software Test Engineer",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
     "job_posted_at": "1d",
-    "job_description": "• Chief Product Software Engineerlocations2 Locationsposted onPosted 13 Days AgoR0220298 Software Engineer, SeniorlocationsFort Belvoir, VAposted onPosted YesterdayR0237370 Software Engineer, LeadlocationsSpringfield, VAposted onPosted 13 Days AgoR0236224 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 13 Days AgoR0236102 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 13 Days AgoR0236761 Software Engineer, LeadlocationsClearfield, UTposted onPosted 6 Days AgoR0237056 Software Engineering LeadlocationsMcLean, VAposted onPosted 13 Days AgoR0236684 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 6 Days AgoR0235734.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer--Mid_R0237451?q=software+engineering",
-    "id": "bae-systems-software-engineer-mid-9-locations"
+    "job_description": "• Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 13 Days AgoR0236491 Front End Developer, SeniorlocationsHerndon, VAposted onPosted 13 Days AgoR0236105 Software Developer, LeadlocationsFort Meade, MDposted onPosted 13 Days AgoR0233725 Full Stack Developer, SeniorlocationsMcLean, VAposted onPosted 2 Days AgoR0236685 Full Stack Tech LeadlocationsMcLean, VAposted onPosted 13 Days AgoR0235027.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Software-Test-Engineer_R0237035?q=software+engineering",
+    "id": "bae-systems-software-test-engineer-fort-meade"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Intel Foundry Analytics Business Analyst",
-    "job_city": "4 Locations",
-    "job_state": "US",
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Software Engineer",
+    "job_city": "Ft. Collins",
+    "job_state": "Colorado",
+    "job_posted_at": "1w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineer_1202031-1?q=software+engineering",
+    "id": "hewlett-packard-enterprise-software-engineer-ft-collins"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Software Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "6d",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer_1203703-2?q=software+engineering",
+    "id": "hewlett-packard-enterprise-software-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "RIVIAN",
+    "job_title": "Software Engineer II, Data, Autonomy",
+    "job_city": "Palo Alto",
+    "job_state": "California US",
     "job_posted_at": "1d",
-    "job_description": "• Compiler Engineerlocations4 Locationsposted onPosted YesterdayJR0282385Senior Automation Systems Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 27 Days AgoJR0281915Factory Automation Support Engineer - Shift 6locationsUS, Oregon, Hillsboroposted onPosted 24 Days AgoJR0282055Factory Automation Support Engineer - Shift 5locationsUS, Arizona, Phoenixposted onPosted 24 Days AgoJR0282054Linux Kernel Engineerlocations3 Locationsposted onPosted 9 Days AgoJR0282458OS Kernel Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0281983Linux Kernel Engineerlocations3 Locationsposted onPosted 9 Days AgoJR0282456Staff OS Kernel Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0281963Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0279795Linux Kernel EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30 Days AgoJR0278075Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoSpotlight JobJR0281566Quantum Error Correction Technical Leadlocations3 Locationsposted onPosted YesterdaySpotlight JobJR0281065Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoSpotlight JobJR0281567Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 29 Days AgoSpotlight JobJR0281914Senior Director, Data & IntelligencelocationsUS, California, Santa Claraposted onPosted 22 Days AgoJR0281811IT Director - Direct and Capital Equipment ProcurementlocationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0282455Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 22 Days AgoSpotlight JobJR0281565Intel Foundry Analytics Business Analystlocations4 Locationsposted onPosted TodayJR0282777Silicon Firmware Development Engineerlocations2 Locationsposted onPosted 10 Days AgoJR0281990Firmware Development Engineerlocations2 Locationsposted onPosted 21 Days AgoJR0281547.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Intel-Foundry-Analytics-Business-Analyst_JR0282777?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-intel-foundry-analytics-business-analyst-4-locations"
+    "job_description": "• Check Application Status US English Français (Canada) Français (Canada) Search Jobs Search Jobs Check Application Status en-US English Français (Canada) Français (Canada) Palo Alto, California Autonomous Driving.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/30323/login",
+    "id": "rivian-software-engineer-ii-data-autonomy-palo-alto"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Commerce",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer, Network Test and Infrastructure, Infrastructure",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Commerce",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/93692618793198278-software-engineer-iii-full-stack-commerce?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-full-stack-commerce-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Network Test and Infrastructure, Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127892927975170758-software-engineer-network-test-and-infrastructure-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-network-test-and-infrastructure-infrastructure-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Front End, Google Cloud AI",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Front End, Google Cloud AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75375854586077894-software-engineer-iii-front-end-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-front-end-google-cloud-ai-kirkland"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, EC2 Provisioning Host Ingest",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Development Engineer, EC2 Provisioning Host Ingest",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10387543/software-development-engineer-ec2-provisioning-host-ingest",
+    "id": "amazon-software-development-engineer-ec2-provisioning-host-ingest-seattle"
   }
 ]
