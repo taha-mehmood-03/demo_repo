@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer – L&W Laboratory Testing Equipment",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Cloud Air Gapped Build",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009831/Field-Service-Engineer-L-W-Laboratory-Testing-Equipment",
-    "id": "abb-field-service-engineer-l-w-laboratory-testing-equipment-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Design Engineer - New Product Development (m/f/d)",
-    "job_city": "Location Heidelberg",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029060/R-D-Design-Engineer-New-Product-Development-m-f-d",
-    "id": "abb-r-d-design-engineer-new-product-development-m-f-d-location-heidelberg"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electronics Engineer - Embedded",
-    "job_city": "Location Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027410/Electronics-Engineer-Embedded",
-    "id": "abb-electronics-engineer-embedded-location-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Mechanical Engineer",
-    "job_city": "Location Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029434/R-D-Mechanical-Engineer",
-    "id": "abb-r-d-mechanical-engineer-location-vaesteras"
+    "job_description": "software engineering job for the role Software Engineer III, Cloud Air Gapped Build",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100248869190673094-software-engineer-iii-cloud-air-gapped-build?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-cloud-air-gapped-build-sunnyvale"
   }
 ]
