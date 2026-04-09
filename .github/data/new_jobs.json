@@ -1,62 +1,42 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "LATAM Internship Program - Experience Design (UX/UI) – AI & Salesforce",
-    "job_city": "Brazil - Sao Paulo",
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer – L&W Laboratory Testing Equipment",
+    "job_city": "Available in one of 4 locations",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr334819/latam-internship-program-experience-design-uxui-ai-salesforce/",
-    "id": "salesforce-latam-internship-program-experience-design-ux-ui-ai-salesforce-brazil-sao-paulo"
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009831/Field-Service-Engineer-L-W-Laboratory-Testing-Equipment",
+    "id": "abb-field-service-engineer-l-w-laboratory-testing-equipment-available-in-one-of-4-locations"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Intern - Electrical Engineering",
-    "job_city": "Southfield",
-    "job_state": "Michigan",
-    "job_posted_at": "1d",
-    "job_description": "• Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 22 Days AgoR00225164Warranty EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00231491Systems Test EngineerlocationsLowell, Massachusetts, USposted onPosted 2 Days AgoR00237019Lead Engineer, HardwarelocationsNovi, Michigan, USposted onPosted 28 Days AgoR00234324Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232060Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 29 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Intern - Electrical EngineeringlocationsSouthfield, Michigan, USposted onPosted YesterdayR00235436Manufacturing Engineer InternlocationsHolly, Michigan, USposted onPosted YesterdayR00236959Intern - Engineering ADAS FeatureslocationsAuburn Hills, Michigan, USposted onPosted 20 Days AgoR00235439Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 16 Days AgoR00221215Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 24 Days AgoR00219364Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Controls Engineer 2nd ShiftlocationsHolly, Michigan, USposted onPosted 8 Days AgoR00234393Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 2 Days AgoR00237791Controls Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted YesterdayR00237992Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 20 Days AgoR00235424Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted YesterdayR00237633Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235436?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-intern-electrical-engineering-southfield"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Manufacturing Engineer Intern",
-    "job_city": "Holly",
-    "job_state": "Michigan",
-    "job_posted_at": "1d",
-    "job_description": "• Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 22 Days AgoR00225164Warranty EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00231491Systems Test EngineerlocationsLowell, Massachusetts, USposted onPosted 2 Days AgoR00237019Lead Engineer, HardwarelocationsNovi, Michigan, USposted onPosted 28 Days AgoR00234324Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232060Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 29 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Intern - Electrical EngineeringlocationsSouthfield, Michigan, USposted onPosted YesterdayR00235436Manufacturing Engineer InternlocationsHolly, Michigan, USposted onPosted YesterdayR00236959Intern - Engineering ADAS FeatureslocationsAuburn Hills, Michigan, USposted onPosted 20 Days AgoR00235439Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 16 Days AgoR00221215Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 24 Days AgoR00219364Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Controls Engineer 2nd ShiftlocationsHolly, Michigan, USposted onPosted 8 Days AgoR00234393Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 2 Days AgoR00237791Controls Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted YesterdayR00237992Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 20 Days AgoR00235424Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted YesterdayR00237633Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Holly-Michigan-US/Manufacturing-Engineer-Intern_R00236959-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-manufacturing-engineer-intern-holly"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Controls Engineer - B Shift",
-    "job_city": "Liberty",
-    "job_state": "Missouri",
-    "job_posted_at": "1d",
-    "job_description": "• Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 22 Days AgoR00225164Warranty EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00231491Systems Test EngineerlocationsLowell, Massachusetts, USposted onPosted 2 Days AgoR00237019Lead Engineer, HardwarelocationsNovi, Michigan, USposted onPosted 28 Days AgoR00234324Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232060Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 29 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Intern - Electrical EngineeringlocationsSouthfield, Michigan, USposted onPosted YesterdayR00235436Manufacturing Engineer InternlocationsHolly, Michigan, USposted onPosted YesterdayR00236959Intern - Engineering ADAS FeatureslocationsAuburn Hills, Michigan, USposted onPosted 20 Days AgoR00235439Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 16 Days AgoR00221215Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 24 Days AgoR00219364Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Controls Engineer 2nd ShiftlocationsHolly, Michigan, USposted onPosted 8 Days AgoR00234393Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 2 Days AgoR00237791Controls Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted YesterdayR00237992Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 20 Days AgoR00235424Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted YesterdayR00237633Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Liberty-Missouri-US/Controls-Engineer---B-Shift_R00237992?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-controls-engineer-b-shift-liberty"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Warranty & Customer Liaison Engineer (Electrical/Controls)",
-    "job_city": "Troy",
-    "job_state": "Michigan",
-    "job_posted_at": "1d",
-    "job_description": "• Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 22 Days AgoR00225164Warranty EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00231491Systems Test EngineerlocationsLowell, Massachusetts, USposted onPosted 2 Days AgoR00237019Lead Engineer, HardwarelocationsNovi, Michigan, USposted onPosted 28 Days AgoR00234324Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232060Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 29 Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Intern - Electrical EngineeringlocationsSouthfield, Michigan, USposted onPosted YesterdayR00235436Manufacturing Engineer InternlocationsHolly, Michigan, USposted onPosted YesterdayR00236959Intern - Engineering ADAS FeatureslocationsAuburn Hills, Michigan, USposted onPosted 20 Days AgoR00235439Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 16 Days AgoR00221215Vehicle Verification Engineering StudentlocationsTroy, Michigan, USposted onPosted 24 Days AgoR00219364Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Controls Engineer 2nd ShiftlocationsHolly, Michigan, USposted onPosted 8 Days AgoR00234393Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 2 Days AgoR00237791Controls Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted YesterdayR00237992Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 20 Days AgoR00235424Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted YesterdayR00237633Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Warranty---Customer-Liaison-Engineer--Electrical-Controls-_R00237633?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-warranty-customer-liaison-engineer-electrical-controls-troy"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Next Generation AI/ML Infrastructure",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "ABB",
+    "job_title": "R&D Design Engineer - New Product Development (m/f/d)",
+    "job_city": "Location Heidelberg",
+    "job_state": "Baden-Wurttemberg",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Next Generation AI/ML Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79906529687282374-software-engineer-next-generation-aiml-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-next-generation-ai-ml-infrastructure-sunnyvale"
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029060/R-D-Design-Engineer-New-Product-Development-m-f-d",
+    "id": "abb-r-d-design-engineer-new-product-development-m-f-d-location-heidelberg"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electronics Engineer - Embedded",
+    "job_city": "Location Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027410/Electronics-Engineer-Embedded",
+    "id": "abb-electronics-engineer-embedded-location-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Mechanical Engineer",
+    "job_city": "Location Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029434/R-D-Mechanical-Engineer",
+    "id": "abb-r-d-mechanical-engineer-location-vaesteras"
   }
 ]
