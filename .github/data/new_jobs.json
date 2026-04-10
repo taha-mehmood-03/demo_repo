@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Engineer - System IP",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Visa sponsorship support is also available for candidates who require it.\n• Experienced Professionals.\n• Please note that relocation support is available for this role for domestic moves within the country.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-engineer-system-ip/33099/90386075120",
-    "id": "arm-graduate-engineer-system-ip-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Engineer - System IP",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "• Visa sponsorship support is also available for candidates who require it.\n• Experienced Professionals.\n• Please note that relocation support is available for this role for domestic moves within the country.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-engineer-system-ip/33099/90386075120",
-    "id": "arm-graduate-engineer-system-ip-"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Site Reliability Engineering, Pub/Sub",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Site Reliability Engineering, Pub/Sub",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79506891570324166-software-engineer-site-reliability-engineering-pubsub?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-site-reliability-engineering-pub-sub-new-york"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Core",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "job_title": "Software Engineer III, Infrastructure, Google Ads",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/136472692889920198-software-engineer-iii-full-stack-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-full-stack-core-austin"
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83005501599556294-software-engineer-iii-infrastructure-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-infrastructure-google-ads-los-angeles"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, GDC AI Storage",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "System Software and Performance Engineer, Silicon",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, GDC AI Storage",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/121236656379306694-software-engineer-iii-infrastructure-gdc-ai-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-software-engineer-iii-infrastructure-gdc-ai-storage-kirkland"
+    "job_description": "software engineering job for the role System Software and Performance Engineer, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127658354041332422-system-software-and-performance-engineer-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-system-software-and-performance-engineer-silicon-mountain-view"
   }
 ]
