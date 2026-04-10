@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Site Reliability Engineering, Pub/Sub",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Site Reliability Engineering, Pub/Sub",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79506891570324166-software-engineer-site-reliability-engineering-pubsub?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-site-reliability-engineering-pub-sub-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Ads",
-    "job_city": "Los Angeles",
+    "job_title": "Software Engineer III, Vertex Core Infrastructure, Cloud AI",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Ads",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83005501599556294-software-engineer-iii-infrastructure-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-infrastructure-google-ads-los-angeles"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "System Software and Performance Engineer, Silicon",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role System Software and Performance Engineer, Silicon",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/127658354041332422-system-software-and-performance-engineer-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-system-software-and-performance-engineer-silicon-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, Vertex Core Infrastructure, Cloud AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/82946713697821382-software-engineer-iii-vertex-core-infrastructure-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-vertex-core-infrastructure-cloud-ai-sunnyvale"
   }
 ]
