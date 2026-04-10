@@ -1,52 +1,42 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Thin Films Process Sustaining Engineer",
-    "job_city": "US",
-    "job_state": "OR",
+    "employer_name": "IBM",
+    "job_title": "Entry-Level Software Developer",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Staff Test Development Engineer - Product Development (ATE)locationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR261849Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 22 Days AgoR261438Staff Product Engineer - RFlocations2 Locationsposted onPosted 30+ Days AgoR258336Principal Algorithm Engineer / Robotics Algorithm LeadlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR258879Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 14 Days AgoR261549CMOS Research Engineer (Life Sciences)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR255391Senior Supplier Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 21 Days AgoR260989Equipment Engineering Technician 3- Thin FilmslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR261506Senior RF EngineerlocationsUS, NC, Durhamposted onPosted 23 Days AgoR260166Digital Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260273Principal Engineer, Design VerificationlocationsUS, NC, Durhamposted onPosted 10 Days AgoR261421Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258730Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258733Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 27 Days AgoR258731Principal Navigation Systems Architect (PN&T)locations2 Locationsposted onPosted 30+ Days AgoR260123Equipment Engineering Technician 2locationsUS, OR, Beavertonposted onPosted 21 Days AgoR261300Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258575Power Management System EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR260148Thin Films Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted TodayR261668Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254049.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Thin-Films-Process-Sustaining-Engineer_R261668?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-thin-films-process-sustaining-engineer-us"
+    "job_description": "software engineering job for the role Entry-Level Software Developer 2026",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92145&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-austin"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "CMP Process Sustaining Engineer",
-    "job_city": "US",
-    "job_state": "OR",
+    "employer_name": "IBM",
+    "job_title": "Infrastructure Lab Technician Apprentice",
+    "job_city": "shipAustin",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257681Senior RFIC Design EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 13 Days AgoR260436Senior Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261020Ultrasound Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257663Senior Wireless IC System ArchitectlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR260439Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted YesterdayR261961Senior Analog Design Verification Engineer locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257462Digital Design Engineer - Automotivelocations5 Locationsposted onPosted 30+ Days AgoR258787Senior Digital Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260099CMP Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted TodayR260500Technician 2, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 7 Days AgoR261791Principal Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted YesterdayR258498Staff Analog & Mixed-Signal Design EngineerlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR258819Staff Engineer Analog IC Design Engineerlocations2 Locationsposted onPosted 2 Days AgoR260158Etch/BackEnd-Cleans Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 17 Days AgoR261295Senior RF Test Engineer locationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR261601Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR261927Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR261925RF Product EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255417Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR257756.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Process-Sustaining-Engineer_R260500?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-cmp-process-sustaining-engineer-us"
+    "job_description": "software engineering job for the role Infrastructure Lab Technician Apprentice",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108215&source=WEB_Search_NA",
+    "id": "ibm-infrastructure-lab-technician-apprentice-shipaustin"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Meta GAM",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Supply Chain AnalystlocationsUS, MA, Wilmingtonposted onPosted 14 Days AgoR260868Trade Compliance AnalystlocationsUS, MA, Chelmsford, Elizabethposted onPosted 7 Days AgoR261805Project Manager InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257017Program Finance Analystlocations2 Locationsposted onPosted 14 Days AgoR261599Senior PM, Project / Program Management (Admin)locationsUS, CA, San Jose, Rio Roblesposted onPosted YesterdayR260986B2B Delivery LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260198Senior Analyst, Supply Chain PlanninglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260988Senior Incoming InspectorlocationsUS, MA, Chelmsford, Alphaposted onPosted 7 Days AgoR261600Business Discovery Research Analyst Intern (Business Discovery Team)locationsUS, MA, Bostonposted onPosted 7 Days AgoR260688Technician 3, Equipment MaintenancelocationsUS, WA, Camasposted onPosted 30+ Days AgoR254012Director, Supply Planning ITlocationsUS, CA, San Jose, Rio Roblesposted onPosted YesterdayR261442Senior Manager Production, Manufacturing OperationslocationsUS, WA, Camasposted onPosted 28 Days AgoR261427Principal Account Manager, FSElocations4 Locationsposted onPosted TodayR262002Supply Chain Management Process/Systems DirectorlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261115Meta GAMlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR261626Business Information Security OfficerlocationsUS, MA, Wilmingtonposted onPosted YesterdayR261947Sales & Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260017Litigation ParalegallocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR260969Head of Finance – Internal Front‑End Manufacturing (Wafer‑Fab Network)locations2 Locationsposted onPosted 30+ Days AgoR260880.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Meta-GAM_R261626?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-meta-gam-us"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Technical SETA SME – Machine Learning, Modeling & Simulation",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
-    "job_posted_at": "1d",
-    "job_description": "• Palantir Foundry DeveloperlocationsUS - Remote (Any location)posted onPosted 2 Days Ago36683Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 30+ Days Ago35408Senior Appian Developerlocations2 Locationsposted onPosted 30+ Days Ago35409ServiceNow Senior DeveloperlocationsUS - CA, Sacramentoposted onPosted 30+ Days Ago34947Data and AI Project Manager (AI & Data - Public Sector)locations4 Locationsposted onPosted 30+ Days Ago34037Senior Data ScientistlocationsUS - VA, Chantillyposted onPosted 24 Days Ago37322Microsoft DeveloperlocationsIN - Chennaiposted onPosted 13 Days Ago37609Technical SETA SME – Machine Learning, Modeling & SimulationlocationsUS - MD, Bethesdaposted onPosted Today38258Data AnalystlocationsUS - VA, Arlingtonposted onPosted Today36810Senior Salesforce Developerlocations2 Locationsposted onPosted 30+ Days Ago30979AI ArchitectlocationsIN - Chennaiposted onPosted 9 Days Ago37858Databricks Apps Developerlocations2 Locationsposted onPosted 21 Days Ago37350BAS TechnicianlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago32779Data Scientist, Modeling LeadlocationsUS - VA, Arlingtonposted onPosted 9 Days Ago37764Revenue Integrity Analyst (Medical Biller)locations3 Locationsposted onPosted 30+ Days Ago37153Senior Developer - RPAlocationsIN - Chennaiposted onPosted Yesterday38077Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 29 Days Ago37095Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 22 Days Ago37446Lead Developerlocations2 Locationsposted onPosted 10 Days Ago37698Power Apps Developerlocations3 Locationsposted onPosted 30+ Days Ago36781.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Technical-SETA-SME---Machine-Learning--Modeling---Simulation_38258?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-technical-seta-sme-machine-learning-modeling-simulation-us-md"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Core, Identity Platform",
-    "job_city": "San Francisco",
-    "job_state": "CA",
+    "employer_name": "Salesforce",
+    "job_title": "LMTS Machine Learning Engineer",
+    "job_city": "New York - New York",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Core, Identity Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108956692045013702-software-engineer-iii-core-identity-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-software-engineer-iii-core-identity-platform-san-francisco"
+    "job_description": "• Demonstrated ability to take models from research to productionStrong software engineering proficiency in Python and data manipulation skills like SQL.\n• Experience using third-party and in-house Machine learning tools and infrastructure to develop reusable, high-performing Machine Learning systems, enable fast model development, low-latency serving and ease of model quality upkeep.\n• )Familiarity with ML libraries such as scikit-learn, XGBoost, Pytorch, or TensorFlowExperience with feature engineering on big data (Spark, Trino, Snowflake, etc.\n• )Experience with ML lifecycle management tools (ML Flow, Airflow, Kubeflow or equivalents).\n• Experience with containerization technologies (Docker) and orchestration (Kubernetes).\n• Experience with Agile development methodology, Test-Driven Development, incremental delivery, and CI/CDExperience owning and operating services throughout the software development lifecycle including design, development, release and maintenance.\n• Experience communicating technical vision, mentoring junior engineers and managing projects.\n• Experience developing and evaluating AI Agents that integrate with traditional ML models, (e.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr335917/lmts-machine-learning-engineer/",
+    "id": "salesforce-lmts-machine-learning-engineer-new-york-new-york"
+  },
+  {
+    "employer_name": "Dell",
+    "job_title": "Engineering Infra Services Modernization - Durham Support",
+    "job_city": "Durham",
+    "job_state": "North Carolina",
+    "job_posted_at": "1d",
+    "job_description": "• Technical Staff-Storage Architectremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 7 Days AgoR286797Technical Staff-Storage Architectremote typeOnsitelocations2 Locationsposted onPosted 9 Days AgoR286771Principal Systems Development Engineerremote typeOnsitelocations2 Locationsposted onPosted 3 Days AgoR287490Principal Systems Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 2 Days AgoR287887Technical Staff-Network Architectremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 10 Days AgoR286864Technical Staff-Network Architectremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 28 Days AgoR286863Principal Systems Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 24 Days AgoR286659Hardware Engineerlocations2 Locationsposted onPosted 30+ Days AgoR284675Lab Support Senior Engineerremote typeOnsitelocations2 Locationsposted onPosted 3 Days AgoR288227Electrical Systems Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR285151Senior Hardware Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR285154AI Solution Principal Systems Development Engineerremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted YesterdayR285598EIS DPE Lab Support Engineerremote typeOnsitelocationsDurham, North Carolina, United Statesposted onPosted 8 Days AgoR288029Systems Development Engineer 1remote typeOnsitelocations2 Locationsposted onPosted 7 Days AgoR289739Engineering Infra Services Modernization - Durham Supportremote typeOnsitelocationsDurham, North Carolina, United Statesposted onPosted TodayR288129EIS PBS & SDS Lab Services Principal Engineerremote typeOnsitelocations2 Locationsposted onPosted 6 Days AgoR288035EIS PBS & SDS Lab Service Deliveryremote typeOnsitelocations2 Locationsposted onPosted 7 Days AgoR288037HPC Senior System Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR285114HPC Senior System Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR285112Senior Electrical Engineer- FPGA Developmentremote typeOnsitelocations2 Locationsposted onPosted 9 Days AgoR287410.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Durham-North-Carolina-United-States/Engineering-Infra-Services-Modernization---Durham-Support_R288129?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-engineering-infra-services-modernization-durham-support-durham"
   }
 ]
