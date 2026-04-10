@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Vertex Core Infrastructure, Cloud AI",
+    "job_title": "Software Engineer, Applied AI, Commerce AI",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Vertex Core Infrastructure, Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/82946713697821382-software-engineer-iii-vertex-core-infrastructure-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-vertex-core-infrastructure-cloud-ai-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Applied AI, Commerce AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/139210647836467910-software-engineer-applied-ai-commerce-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-applied-ai-commerce-ai-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Ads",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138663091045835462-software-engineer-iii-aiml-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-ai-ml-ads-mountain-view"
   }
 ]
