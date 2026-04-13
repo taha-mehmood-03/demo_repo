@@ -1,32 +1,162 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Technician 2, Metrology Engineer",
-    "job_city": "US",
-    "job_state": "WA",
+    "employer_name": "IBM",
+    "job_title": "Application Developer 2026- Oracle",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254049Thin Films Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR261668Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257681Senior RFIC Design EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 17 Days AgoR260436Senior Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261020Ultrasound Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257663Senior Wireless IC System ArchitectlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR260439Senior Analog Design Verification Engineer locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257462Digital Design Engineer - Automotivelocations5 Locationsposted onPosted 30+ Days AgoR258787Senior Digital Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260099CMP Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR260500Technician 2, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 11 Days AgoR261791Principal Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR258498Staff Analog & Mixed-Signal Design EngineerlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR258819Staff Engineer Analog IC Design Engineerlocations2 Locationsposted onPosted 6 Days AgoR260158Etch/BackEnd-Cleans Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 21 Days AgoR261295Senior RF Test Engineer locationsUS, MA, Chelmsford, Alphaposted onPosted 18 Days AgoR261601Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR261927Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR261925Technician 2, Metrology EngineerlocationsUS, WA, Camasposted onPosted TodayR261943.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Technician-2--Metrology-Engineer_R261943?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-technician-2-metrology-engineer-us"
+    "job_description": "software engineering job for the role Application Developer 2026- Oracle",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89836&source=WEB_Search_NA",
+    "id": "ibm-application-developer-2026-oracle-baton-rouge"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "PubSec Salesforce Software Engineer (MTS)",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Design, develop, and maintain a scalable, customer-facing portal using Salesforce Experience CloudBuild custom Lightning Web Components (LWC) and Aura components optimized for external usersImplement and maintain secure guest and authenticated user access (SSO, OAuth, SAML)Integrate the portal with CRM, support, identity provider and third-party systems via REST/SOAP APIsPartner with UX/UI designers and Product Management to deliver intuitive, branded, and accessible customer experiencesOptimize portal performance, page load times, and mobile responsivenessWrite, execute and maintain automated test suitesWork with Customer Success and Support teams to surface self-service content and knowledge articlesDocument and present implementation designs to peers, stakeholders and review boardCoordinate with stakeholders to align on the development environment and launch dependenciesMonitor usage analytics and iterate based on customer behavior and feedbackEnsure compliance with data privacy standards (GDPR, CCPA) for external-facing dataEnsure compliance with applicable Public Sector regulationsProvide investigative support on new & existing integrationsWork with project managers to provide timely status and feedback to stakeholdersAlign to Agile MethodologyKeep up with targeted security, technical and business training 4+ years of Salesforce development experience with a strong focus on Experience Cloud / CommunitiesExposure to Salesforce-on-Salesforce technologies such as MuleSoft Anypoint / DevHub, Data Cloud, Government Cloud, Agentforce, Tableau and/or SlackExperience writing & running automated tests with Selenium or Playwright Experience working with XSL/T, XPath expressions & functionsProven experience building and launching external (B2B or B2C) customer portalsProficiency in LWC, Aura, Apex, SOQL, and JavaScriptStrong understanding of responsive design, accessibility (WCAG 2.\n• 1), and cross-browser compatibilityExperience with CDN, caching strategies, and performance tuning for high-traffic portalsExperience with customer identity and access management (CIAM) — SSO, OAuth 2.\n• 0, social techniquesExperience with Salesforce DX and CI/CD pipelinesExperience consuming open and/or private APIs, such as Google, Salesforce.\n• Excellent interpersonal, verbal and written skills and the ability to interact with all level of stakeholders, support personnel, and clientsStrong documentation, analytical and problem-solving skillsA related technical degree required Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Familiarity with Salesforce CMS, Knowledge, and Case Management for self-service use casesFamiliarity with headless portal architectures or React-based frontendsExposure to customer analytics tools (e.\n• , Google Analytics, Amplitude) University Overview Interns New Grads Advanced Degrees Associate Program Manager Salesforce Experience Cloud ConsultantPlatform Developer II Salesforce Basic Administrator.\n• Com, Snowflake, Slack, etc.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336108/pubsec-salesforce-software-engineer-mts/",
+    "id": "salesforce-pubsec-salesforce-software-engineer-mts-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Product Owner",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336116/product-owner/",
+    "id": "salesforce-product-owner-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Dell",
+    "job_title": "Lab Support Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Technical Staff-Storage Architectremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 13 Days AgoR286796Technical Staff-Storage Architectremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 11 Days AgoR286797Technical Staff-Storage Architectremote typeOnsitelocations2 Locationsposted onPosted 13 Days AgoR286771Technical Staff-Network Architectremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 14 Days AgoR286864Technical Staff-Network Architectremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 30+ Days AgoR286863Principal Systems Development Engineerremote typeOnsitelocations2 Locationsposted onPosted 7 Days AgoR287490Manufacturing Test Engineerremote typeOnsitelocationsEl Paso, Texas, United Statesposted onPosted 3 Days AgoR285077Principal Systems Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 6 Days AgoR287887Principal Systems Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 28 Days AgoR286659Lab Support Engineer 2remote typeOnsitelocations2 Locationsposted onPosted TodayR288033Lab Support Senior Engineerremote typeOnsitelocations2 Locationsposted onPosted TodayR288032Hardware Engineerlocations2 Locationsposted onPosted 30+ Days AgoR284675Manufacturing Test & Project Engineerremote typeOnsitelocationsEl Paso, Texas, United Statesposted onPosted 3 Days AgoR286946Lab Support Senior Engineerremote typeOnsitelocations2 Locationsposted onPosted TodayR288226Electrical Systems Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR285151Senior Hardware Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR285154EIS DPE Lab Support Engineerremote typeOnsitelocationsDurham, North Carolina, United Statesposted onPosted 12 Days AgoR288029Engineering Infra Services Modernization - Durham Supportremote typeOnsitelocationsDurham, North Carolina, United Statesposted onPosted 4 Days AgoR288129EIS PBS & SDS Lab Services Principal Engineerremote typeOnsitelocations2 Locationsposted onPosted 10 Days AgoR288035HPC Senior System Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 5 Days AgoR285114.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Durham-North-Carolina-United-States/Lab-Support-Engineer-2_R288033?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-lab-support-engineer-2-locations"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Silicon System AI Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "21h",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/41043973",
+    "id": "micron-technology-silicon-system-ai-engineer-san-jose"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Industrial Engineer",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "1d",
+    "job_description": "• Thin Films Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR261668Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254049Industrial EngineerlocationsUS, OR, Beavertonposted onPosted TodayR261839Reliability Product Test Engineer - RFlocationsUS, NC, Durhamposted onPosted TodayR261669Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257681Senior RFIC Design EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 17 Days AgoR260436Senior Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261020Ultrasound Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257663Senior Wireless IC System ArchitectlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR260439Senior Analog Design Verification Engineer locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257462Digital Design Engineer - Automotivelocations5 Locationsposted onPosted 30+ Days AgoR258787Senior Digital Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260099CMP Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR260500Technician 2, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 11 Days AgoR261791Principal Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR258498Staff Analog & Mixed-Signal Design EngineerlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR258819Staff Engineer Analog IC Design Engineerlocations2 Locationsposted onPosted 6 Days AgoR260158Etch/BackEnd-Cleans Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 21 Days AgoR261295Senior RF Test Engineer locationsUS, MA, Chelmsford, Alphaposted onPosted 18 Days AgoR261601Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR261927.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Industrial-Engineer_R261839?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-industrial-engineer-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Reliability Product Test Engineer - RF",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "1d",
+    "job_description": "• Thin Films Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR261668Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254049Industrial EngineerlocationsUS, OR, Beavertonposted onPosted TodayR261839Reliability Product Test Engineer - RFlocationsUS, NC, Durhamposted onPosted TodayR261669Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257681Senior RFIC Design EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 17 Days AgoR260436Senior Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261020Ultrasound Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257663Senior Wireless IC System ArchitectlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR260439Senior Analog Design Verification Engineer locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257462Digital Design Engineer - Automotivelocations5 Locationsposted onPosted 30+ Days AgoR258787Senior Digital Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260099CMP Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR260500Technician 2, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 11 Days AgoR261791Principal Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR258498Staff Analog & Mixed-Signal Design EngineerlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR258819Staff Engineer Analog IC Design Engineerlocations2 Locationsposted onPosted 6 Days AgoR260158Etch/BackEnd-Cleans Process Sustaining EngineerlocationsUS, OR, Beavertonposted onPosted 21 Days AgoR261295Senior RF Test Engineer locationsUS, MA, Chelmsford, Alphaposted onPosted 18 Days AgoR261601Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR261927.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Reliability-Product-Test-Engineer---RF_R261669?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-reliability-product-test-engineer-rf-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Internship - Robotics",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR261276Principal Engineer, Ethernet Systems Design/Architecturelocations3 Locationsposted onPosted 30+ Days AgoR260160Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260981Digital Design Engineer InternlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR257717Principal Mixed Signal Design Engineerlocations2 Locationsposted onPosted 12 Days AgoR251701Principal Engineer, Mixed Signal DesignerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260276Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR261313Staff Field Robotic System Engineerlocations2 Locationsposted onPosted 5 Days AgoR262004Engineer, Central ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR254408Applications Engineer InternlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR256352Semiconductor Device EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR257843System and Firmware Engineer InternlocationsUS, NJ, Somersetposted onPosted 30+ Days AgoR258554Semiconductor Functional Safety Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260664Product Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257710Staff Engineer, Field ApplicationslocationsUS, FL, Home Officeposted onPosted 30+ Days AgoR261103Network Security EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR261338Staff Power Applications EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261016Internship - RoboticslocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR261623Associate Facilities Engineerlocations2 Locationsposted onPosted 30+ Days AgoR256657Senior Product Applications Engineer (FPGA)locations2 Locationsposted onPosted 27 Days AgoR261279.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Internship---Robotics_R261623?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-internship-robotics-us"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "UI Full Stack Software Developer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• University, Applied AI Software Development InternlocationsMcLean, VAposted onPosted 6 Days AgoR0236822 University, Applied AI Software Developer InternlocationsMcLean, VAposted onPosted 6 Days AgoR0236821 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted 17 Days AgoR0234280 Full Stack Software Engineer, SeniorlocationsFayetteville, NCposted onPosted 17 Days AgoR0235788 User Interface Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted YesterdayR0227236 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 3 Days AgoR0234879 AI and ML Software Engineer, SeniorlocationsAlexandria, VAposted onPosted 17 Days AgoR0233468 AI and ML Software Engineer, SeniorlocationsAlexandria, VAposted onPosted 17 Days AgoR0235443 Full Stack Software Engineer, SeniorlocationsLaurel, MDposted onPosted 17 Days AgoR0234279 Full Stack Software Engineer, SeniorlocationsMcLean, VAposted onPosted 17 Days AgoR0235946.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/UI-Full-Stack-Software-Developer_R0237666?q=software+engineering",
+    "id": "bae-systems-ui-full-stack-software-developer-2-locations"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Foundry Automation ML Engineer",
+    "job_city": "US",
+    "job_state": "Oregon",
+    "job_posted_at": "1d",
+    "job_description": "• EC Infra and DevOps Engineer Undergraduate Internlocations2 Locationsposted onPosted TodayJR0282713Software EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0280597GPU software engineerlocations2 Locationsposted onPosted 6 Days AgoJR0282660Development Tools Software EngineerlocationsUS, California, Folsomposted onPosted TodayJR0282770Advanced IC Packaging Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0281218AMHS Automation Systems Software Engineerlocations2 Locationsposted onPosted 12 Days AgoJR0282488GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 7 Days AgoJR0279567Senior Software Development Engineerlocations2 Locationsposted onPosted 11 Days AgoJR0281597GPU Software Development Engineerlocations2 Locationsposted onPosted 21 Days AgoJR0281981GPU Software Development Engineerlocations2 Locationsposted onPosted 21 Days AgoJR0281988GPU Software Development Engineerlocations2 Locationsposted onPosted 17 Days AgoJR0282197GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 14 Days AgoJR0281198Foundry Automation Software Application EngineerlocationsUS, Arizona, Phoenixposted onPosted 20 Days AgoJR0282047Automation Software Development Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0282056vPro Product Support Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0282592AI Software Architect – Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0279982Software Enabling and Optimization Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0282409Foundry Automation ML EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0282890Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 30+ Days AgoJR0281966Senior Principal Engineer – AI Applied ResearchlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0281578.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Automation-ML-Engineer_JR0282890-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-foundry-automation-ml-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer - DPU Platform",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• System Software Engineer, GeForce SoftwarelocationsUS, CA, Santa Claraposted onPosted 7 Days AgoJR2015749Senior Software Engineer, Networking Softwarelocations4 Locationsposted onPosted 30+ Days AgoJR1998106Senior Software Engineer, Networking Softwarelocations5 Locationsposted onPosted 30+ Days AgoJR2001671Senior Software Engineer - HPClocations3 Locationsposted onPosted 30+ Days AgoJR2013372Embedded Software Engineer - RISCVlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2012326Senior Software Engineer, FirmwarelocationsUS, CA, Santa Claraposted onPosted 22 Days AgoJR2014879Tegra System Software Engineerlocations4 Locationsposted onPosted 7 Days AgoJR2015299Software Engineer - DPU PlatformlocationsUS, MA, Westfordposted onPosted TodayJR2015949Senior Software Engineer, NCCLlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR1997186Backend Python Software EngineerlocationsUS, NC, Durhamposted onPosted 21 Days AgoJR1999975System Software Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002051Senior Backend Software Engineerlocations4 Locationsposted onPosted 4 Days AgoJR2003378Senior Software Engineer, JAXlocations2 Locationsposted onPosted 3 Days AgoJR2004629Senior Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2004671Senior Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2006779System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2007081Senior System Software EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2009237Senior Software Engineer, ObservabilitylocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2008750Senior Systems Software EngineerlocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR2009477Senior Software Engineer - XRlocations3 Locationsposted onPosted 3 Days AgoJR2010006.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-dpu-platform-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Accessibility",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "21h",
+    "job_description": "• Minimum QualificationsBachelor of Science in Computer Science3+ years of relevant work experienceExperience with at least one of the following languages and related development tools: ObjectiveC, Swift, C++, or CAbility to create and understand maintain and perform Object-Oriented software designs.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-accessibility?team=SFTWR",
+    "id": "apple-software-engineer-accessibility-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Embedded Software Infrastructure Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "21h",
+    "job_description": "• Minimum QualificationsA minimum of a bachelor's degree in electrical engineering, computer engineering, or related field with 3 years of experience.\n• 2-3 years of CI/CD or DevOps experience in a MacOS, Linux, or Unix environmentExperience building CI/CD systems at scale for embedded or low-level softwareExpert Python programming skillsExperience working with databases and metrics/visualization tools (Grafana, Prometheus)Experience working with containerized applications (Kubernetes, Docker) and configuration management systems (Ansible preferred)Strong debugging skills for software under development and system-level failures.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200657602-0157/embedded-software-infrastructure-engineer?team=HRDWR",
+    "id": "apple-embedded-software-infrastructure-engineer-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Embedded Software Infrastructure Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "21h",
+    "job_description": "• Minimum QualificationsA minimum of a bachelor's degree in electrical engineering, computer engineering, or related field with 3 years of experience.\n• 2-3 years of CI/CD or DevOps experience in a MacOS, Linux, or Unix environmentExperience building CI/CD systems at scale for embedded or low-level softwareExpert Python programming skillsExperience working with databases and metrics/visualization tools (Grafana, Prometheus)Experience working with containerized applications (Kubernetes, Docker) and configuration management systems (Ansible preferred)Strong debugging skills for software under development and system-level failures.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200657602-0836/embedded-software-infrastructure-engineer?team=HRDWR",
+    "id": "apple-embedded-software-infrastructure-engineer-cupertino"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML Computer Vision, AR",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML Computer Vision, AR",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/116258316836840134-software-engineer-iii-aiml-computer-vision-ar?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-ai-ml-computer-vision-ar-san-jose"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, EC2 Pricing Engineering, EC2 Pricing - Commitment Visibility Products",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "20h",
-    "job_description": "software engineering job for the role Software Development Engineer, EC2 Pricing Engineering, EC2 Pricing - Commitment Visibility Products",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10390300/software-development-engineer-ec2-pricing-engineering-ec2-pricing-commitment-visibility-products",
-    "id": "amazon-software-development-engineer-ec2-pricing-engineering-ec2-pricing-commitment-visibility-products-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Data Center Design Engineering - BIM & AI Technologies",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "20h",
-    "job_description": "software engineering job for the role Software Development Engineer II, Data Center Design Engineering - BIM & AI Technologies",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10390224/software-development-engineer-ii-data-center-design-engineering-bim-ai-technologies",
-    "id": "amazon-software-development-engineer-ii-data-center-design-engineering-bim-ai-technologies-seattle"
+    "job_title": "Software Dev Engineer",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "21h",
+    "job_description": "software engineering job for the role Software Dev Engineer",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10390345/software-dev-engineer",
+    "id": "amazon-software-dev-engineer-irvine"
   }
 ]
