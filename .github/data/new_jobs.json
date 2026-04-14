@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Magna International",
+    "job_title": "Intern - Infrared Imaging & Algorithms",
+    "job_city": "Goleta",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Operations Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00234264Robotics Engineering Intern- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 7 Days AgoR00237111Benchmarking & Product Line Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232066Warranty & Customer Liaison Engineer (Mechanical)locationsTroy, Michigan, USposted onPosted 4 Days AgoR00237633Senior Reactive Black Belt EngineerlocationsTroy, Michigan, USposted onPosted 5 Days AgoR00237634Magna Engineered Glass: Material HandlerlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00188244Magna Engineered Glass: 2nd Shift Production SupervisorlocationsHolland, Michigan, USposted onPosted 4 Days AgoR00238471Magna Engineered Glass: 2nd Shift Maintenance / Controls TechlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00221810Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232837User Experience Summer InternlocationsLowell, Massachusetts, USposted onPosted YesterdayR00238235Senior Manager Product Development ADAS & In-Vehicle Infotainment (IVI)locationsSouthfield, Michigan, USposted onPosted 18 Days AgoR00236329Validation Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225610CNC Programmer SupervisorlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00209942Intern - Infrared Imaging & AlgorithmslocationsGoleta, California, USposted onPosted TodayR00235409Program Purchasing StudentlocationsTroy, Michigan, USposted onPosted 14 Days AgoR00236500Metallurgical Lab Technician (First Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00234464Designer- LightinglocationsNovi, Michigan, USposted onPosted 28 Days AgoR00235134IT Industry 4.\n• 0 Lead DeveloperlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222196Account Manager, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00106519IT Systems Administrator - 2nd ShiftlocationsLancaster, Ohio, USposted onPosted 7 Days AgoR00237934.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Goleta-California-US/Intern---Engineering_R00235409?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-intern-infrared-imaging-algorithms-goleta"
+  },
+  {
+    "employer_name": "Synopsys",
+    "job_title": "Agentic AI Internship",
+    "job_city": "Canonsburg",
+    "job_state": "Pennsylvania",
+    "job_posted_at": "6d",
+    "job_description": "• Enhance coding agent workflows by providing instructions and skills to help developers work faster and more efficiently.\n• Currently pursuing a degree in Computer Science, Artificial Intelligence, Mechanical, Aerospace, or a related engineering field.\n• Experience with Large Language Models (LLM).\n• Excellent analytical and algorithmic thinking skills.\n• Experience with Microsoft Visual Studio and software configuration management tools (SVN, GIT) and GitHub.\n• Background in Machine Learning, including LLM concepts like Retrieval Augmented Generation (RAG), Natural Language Processing, and graph algorithms.\n• Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions.\n• Company About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions Resources Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Learn What is an AI Accelerator.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/agentic-ai-internship/44408/93784465120",
+    "id": "synopsys-agentic-ai-internship-canonsburg"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, AI/TPU Infrastructure, On-prem",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, AI/TPU Infrastructure, On-prem",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75040512129540806-software-engineer-aitpu-infrastructure-onprem?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-ai-tpu-infrastructure-on-prem-sunnyvale"
+  }
+]
