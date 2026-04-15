@@ -1,12 +1,82 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Spanner Analytics Federation",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "employer_name": "Salesforce",
+    "job_title": "LATAM Internship Program - Experience Design (UX/UI) – AI & Salesforce",
+    "job_city": "Colombia - Bogota",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Spanner Analytics Federation",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/109986857130828486-software-engineer-iii-infrastructure-spanner-analytics-federation?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-infrastructure-spanner-analytics-federation-kirkland"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Support the design of end-to-end digital experiences.\n• Strong communication and collaboration skills.\n• The connection between design, experience, and business impact.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Collaborate with Product, Tech, and Business teams in an Agile environment.\n• Apply Design Thinking to solve real-world problems.\n• Create prototypes and wireframes using tools like Figma and Stitch.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr334968/latam-internship-program-experience-design-uxui-ai-salesforce/",
+    "id": "salesforce-latam-internship-program-experience-design-ux-ui-ai-salesforce-colombia-bogota"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Sensing & Connectivity",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBachelor's or Master's degree in Computer Science, EECS, or equivalent experienceSolid understanding of algorithm design and data structuresStrong understanding of object-oriented designProficiency in C or C++.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200637055-0836/software-engineer-sensing-connectivity?team=SFTWR",
+    "id": "apple-software-engineer-sensing-connectivity-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Security Software Engineer, Data Protection",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsExcellent C and systems programming skillsStrong understanding of operating systems internalsIndustry exposure to and knowledge of OS security and applied cryptographyAbility to deliver solid work on tight schedulesExcellent teamwork skills.\n• We work with all engineering teams involved in these products, and on all of their code.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200649068-0836/security-software-engineer-data-protection?team=SFTWR",
+    "id": "apple-security-software-engineer-data-protection-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Machine Learning System Software Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsProven expertise in software design and architecture, including deep experience with full-stack software design, implementation and optimizationUnderstand software and hardware interfacesHigh-level proficiency in C or C++ and experience working with large, complex software systems and demonstrated ability to ship high-quality production softwareBachelor’s degree in Computer Science, Computer Engineering, or a related field, with 3+ years of experience shipping production software.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200654700-3956/machine-learning-system-software-engineer?team=MLAI",
+    "id": "apple-machine-learning-system-software-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Quality Engineer - Heath Software",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum Qualifications4+ years of experience with test automaton development including creation and management of test frameworks from scratch.\n• Experience writing code in Scala/Java to test an API, SDK, or Framework.\n• Experience developing various forms of software tests in any of the following: unit, functional, performance, or stressExperience in writing and automating test cases that interact with SQL and NoSQL databases.\n• Understanding of microservices design principles, service orchestration, and inter-service communication (e.\n• , REST, gRPC, messaging systems like Kafka or RabbitMQ)BS in Computer Science or relevant field.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200640109-3543/quality-engineer-heath-software?team=SFTWR",
+    "id": "apple-quality-engineer-heath-software-san-diego"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Mobile (Android), Platforms and Devices",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Mobile (Android), Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111405502008566470-software-engineer-mobile-android-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-mobile-android-platforms-and-devices-san-jose"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Integration Engineer II, Google Cloud",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Integration Engineer II, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/92339970382930630-integration-engineer-ii-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-integration-engineer-ii-google-cloud-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, RCS Business Messaging",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, RCS Business Messaging",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/104068186038510278-software-engineer-iii-rcs-business-messaging?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-rcs-business-messaging-san-jose"
   }
 ]
