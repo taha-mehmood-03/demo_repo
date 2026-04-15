@@ -1,92 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Technical Support Engineer - GVC Cloud (US Citizen Only)",
-    "job_city": "Washington - Seattle",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer II, Incident Response Management",
+    "job_city": "Raleigh",
+    "job_state": "NC",
     "job_posted_at": "1h",
-    "job_description": "• Lead the end-to-end customer technical experience by managing support cases from initial diagnosis through resolution.\n• Bachelor’s degree in Computer Science, Engineering, or related technical discipline, or equivalent experience.\n• 2+ years of experience in technical support, software engineering, or related customer-facing technical roles.\n• Experience troubleshooting software applications and debugging code, including Java-based applications.\n• Experience explaining complex technical concepts to non-technical audiences.\n• Excellent written and verbal communication skills.\n• Strong analytical and problem-solving skills in fast-paced technical environments.\n• Professional proficiency in spoken and written English is required.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336509/technical-support-engineer-gvc-cloud-us-citizen-only/",
-    "id": "salesforce-technical-support-engineer-gvc-cloud-us-citizen-only-washington-seattle"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Software Development Engineer in Test (SDET)",
-    "job_city": "5 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Workload Automation Product Marketing Managerlocations3 Locationstime typeFull timeposted onPosted 5 Days AgoR025722 Technical Consulting Principal Project Managerlocations5 Locationstime typeFull timeposted onPosted TodayR025695 Principal Kubernetes Software Engineerlocations7 Locationstime typeFull timeposted onPosted 6 Days AgoR025637 Senior Kubernetes Software Engineerlocations5 Locationstime typeFull timeposted onPosted 6 Days AgoR025638 Senior Software Engineerlocations2 Locationstime typeFull timeposted onPosted 6 Days AgoR025528 Senior Project Managerlocations2 Locationstime typeFull timeposted onPosted TodayR025706.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Software-Development-Engineer-in-Test--SDET-_R024197?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-software-development-engineer-in-test-sdet-5-locations"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "Equipment Engineer - Metrology",
-    "job_city": "USA-Colorado-Fort Collins-4380 Ziegler Road",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Workload Automation Product Marketing Managerlocations3 Locationstime typeFull timeposted onPosted 5 Days AgoR025722 Technical Consulting Principal Project Managerlocations5 Locationstime typeFull timeposted onPosted TodayR025695 Principal Kubernetes Software Engineerlocations7 Locationstime typeFull timeposted onPosted 6 Days AgoR025637 Senior Kubernetes Software Engineerlocations5 Locationstime typeFull timeposted onPosted 6 Days AgoR025638 Senior Software Engineerlocations2 Locationstime typeFull timeposted onPosted 6 Days AgoR025528 Senior Project Managerlocations2 Locationstime typeFull timeposted onPosted TodayR025706.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Equipment-Engineer---Metrology_R025684?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-equipment-engineer-metrology-usa-colorado-fort-collins-4380-ziegler-road"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "LTD Process Integration Development Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Defect Metrology Engineerlocations3 Locationsposted onPosted 8 Days AgoJR0280593Yield Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0281661Senior Yield Development Engineer - Intel Foundrylocations2 Locationsposted onPosted TodayJR0282073Yield Engineer On ShiftlocationsUS, Arizona, Phoenixposted onPosted TodayJR0282007LTD Process Integration Development Engineerlocations2 Locationsposted onPosted TodayJR0282930Substrate Packaging Defect Metro tool ownerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0282524Ethernet Networking Product Managerlocations2 Locationsposted onPosted 30+ Days AgoJR0281109Sr Commercial PC Technical GTM Program Managerlocations4 Locationsposted onPosted 4 Days AgoJR0282787Senior Middleware Development Engineerlocations2 Locationsposted onPosted 21 Days AgoSpotlight JobJR0279083Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281986Infrastructure and DevOps Engineerlocations4 Locationsposted onPosted 13 Days AgoJR0282486Cloud Application Development Engineerlocations4 Locationsposted onPosted 5 Days AgoJR0282485Infrastructure Engineer – Compute and ClientlocationsUS, Oregon, Hillsboroposted onPosted 6 Days AgoJR0282728Design Engineer - Neuromorphic Computinglocations5 Locationsposted onPosted 11 Days AgoJR0282551Sr.\n• Infrastructure Engineer - Observability and Monitoringlocations2 Locationsposted onPosted 28 Days AgoSpotlight JobJR0282063AI Frameworks Engineer (OpenVINO, GenAI)locations2 Locationsposted onPosted 27 Days AgoJR0281970GPU Validation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281312Lead Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 29 Days AgoJR0281150CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0278193CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0278559.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/LTD-Process-Integration-Development-Engineer_JR0282930?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-ltd-process-integration-development-engineer-2-locations"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Application Engineer - Early Career",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Application Engineer - Early CareerlocationsSanta Clara, CAposted onPosted Today2503703Firmware Engineer - Early Careerlocations2 Locationsposted onPosted Today2601000Principal System QA EngineerlocationsSanta Clara, CAposted onPosted Today2601092Staff System QA EngineerlocationsSanta Clara, CAposted onPosted Today2601094Staff Application EngineerlocationsSanta Clara, CAposted onPosted Today2601202Sr Staff Firmware Engineer - Windows Kernel DriverslocationsSanta Clara, CAposted onPosted Today2601339Senior Principal Digital IC Design EngineerlocationsWestborough, MAposted onPosted Today2601226Package Reliability EngineerlocationsSanta Clara, CAposted onPosted Today2601119Network Security Engineerlocations3 Locationsposted onPosted Today2601211AI/ML Data EngineerlocationsSanta Clara, CAposted onPosted Today2601154Technical Program Manager - Central CAD & Design ServiceslocationsSanta Clara, CAposted onPosted Yesterday2600255Senior Principal Engineer, VerificationlocationsSanta Clara, CAposted onPosted Yesterday2601027Principal Test Engineer (Optical Module)locationsSanta Clara, CAposted onPosted 2 Days Ago2600730Senior Firmware Engineer - high-speed interconnects /custom silicon/ASIC design / microcontroller architectures /locationsSanta Clara, CAposted onPosted 5 Days Ago2600356Director of Product Engineering, Opticslocations2 Locationsposted onPosted 5 Days Ago2601155Staff Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 5 Days Ago2601184Advanced Packaging Design Staff Engineerlocations3 Locationsposted onPosted 5 Days Ago2600637Staff Application Engineer (Post-Silicon SerDes)locationsSanta Clara, CAposted onPosted 5 Days Ago2503985Principal Test Development EngineerlocationsIrvine, CAposted onPosted 5 Days Ago2601204.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-application-engineer-early-career-santa-clara"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Firmware Engineer - Early Career",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Application Engineer - Early CareerlocationsSanta Clara, CAposted onPosted Today2503703Firmware Engineer - Early Careerlocations2 Locationsposted onPosted Today2601000Principal System QA EngineerlocationsSanta Clara, CAposted onPosted Today2601092Staff System QA EngineerlocationsSanta Clara, CAposted onPosted Today2601094Staff Application EngineerlocationsSanta Clara, CAposted onPosted Today2601202Sr Staff Firmware Engineer - Windows Kernel DriverslocationsSanta Clara, CAposted onPosted Today2601339Senior Principal Digital IC Design EngineerlocationsWestborough, MAposted onPosted Today2601226Package Reliability EngineerlocationsSanta Clara, CAposted onPosted Today2601119Network Security Engineerlocations3 Locationsposted onPosted Today2601211AI/ML Data EngineerlocationsSanta Clara, CAposted onPosted Today2601154Technical Program Manager - Central CAD & Design ServiceslocationsSanta Clara, CAposted onPosted Yesterday2600255Senior Principal Engineer, VerificationlocationsSanta Clara, CAposted onPosted Yesterday2601027Principal Test Engineer (Optical Module)locationsSanta Clara, CAposted onPosted 2 Days Ago2600730Senior Firmware Engineer - high-speed interconnects /custom silicon/ASIC design / microcontroller architectures /locationsSanta Clara, CAposted onPosted 5 Days Ago2600356Director of Product Engineering, Opticslocations2 Locationsposted onPosted 5 Days Ago2601155Staff Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 5 Days Ago2601184Advanced Packaging Design Staff Engineerlocations3 Locationsposted onPosted 5 Days Ago2600637Staff Application Engineer (Post-Silicon SerDes)locationsSanta Clara, CAposted onPosted 5 Days Ago2503985Principal Test Development EngineerlocationsIrvine, CAposted onPosted 5 Days Ago2601204.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-firmware-engineer-early-career-2-locations"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Power Electronics Engineer",
-    "job_city": "Carson",
-    "job_state": "California US",
-    "job_posted_at": "1d",
-    "job_description": "• Knowledge and experience with embedded control of power electronic circuitsPower converters and grid tie controlPWM methodsPower converter thermal analysis and protectionDual active bridge DC/DC modeling and control Minimum B.\n• S strongly preferred Strong experience designing and analyzing inverter and converter circuits, including gate drivers Experience using software tools such as Spice, PLECS, Mathcad, Ansys Simplorer, and Matlab Engage with Mechanical, Systems, Test, Quality, Manufacturing, and Reliability Engineers Experience using FEA simulation tools such as Ansys Maxwell/Q3D or equivalent Skilled in working in a lab environment with high voltage and current Experience in EMI/EMC filter design for power electronics products Minimum 1 year’s experience developing high-power electronics Ability to work in a fast-paced development environment.\n• In Electrical Engineering, specializing in power electronics.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/30506/login",
-    "id": "rivian-power-electronics-engineer-carson"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Dev Engineer, EC2 Instance Connectivity",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Dev Engineer, EC2 Instance Connectivity",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10392281/software-dev-engineer-ec2-instance-connectivity",
-    "id": "amazon-software-dev-engineer-ec2-instance-connectivity-arlington"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Jr. Software Development Engineer - Seattle/Bellevue (DOH), Jr. Developer Program",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Jr. Software Development Engineer - Seattle/Bellevue (DOH), Jr. Developer Program",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10391824/jr-software-development-engineer-seattle-bellevue-doh-jr-developer-program",
-    "id": "amazon-jr-software-development-engineer-seattle-bellevue-doh-jr-developer-program-bellevue"
+    "job_description": "software engineering job for the role Software Engineer II, Incident Response Management",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/95255462902932166-software-engineer-ii-incident-response-management?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-ii-incident-response-management-raleigh"
   }
 ]
