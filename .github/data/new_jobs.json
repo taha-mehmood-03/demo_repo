@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Data Analytics Analyst",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
+    "employer_name": "ABB",
+    "job_title": "Junior Electrical Engineer",
+    "job_city": "Location Bielsko-Biala",
+    "job_state": "Silesian",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 3+ years of experience in data visualization, BI, or analytics rolesProficiency in Tableau (Tableau Desktop and Tableau Cloud/Server).\n• Familiarity with Tableau Next and Tableau Pulse a strong plusStrong SQL skills and experience with Salesforce data models and reporting objectsExperience connecting to and analyzing data from Salesforce orgsSolid understanding of enablement, learning & development, or HR analytics data a significant advantageExcellent communication skills — able to translate complex data into clear narratives for both technical and non-technical audiences including senior leadershipPassion for data-driven enablement and continuous learningBachelor's degree in Data Science, Statistics, Business, or related field (or equivalent experience) Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences A front-row seat in transforming how Salesforce enables and develops talent through AI-amplified analyticsA collaborative, bold team culture that ships working models and proves valueDirect exposure to senior leadership and high-visibility strategic programsContinuous learning, development, and certification opportunities Tableau certification (Tableau Desktop Specialist or Tableau Certified Data Analyst)Experience with AI/ML concepts, prompt engineering, or LLM-integrated analyticsFamiliarity with Snowflake, dbt, or similar data transformation toolsExperience in Sales Enablement or Revenue Operations University Overview Interns New Grads Advanced Degrees Associate Program Manager Design, develop, and maintain interactive Tableau dashboards and reports that track enablement completion, readiness metrics, and program performanceConnect and blend data across Salesforce orgs, Readiness platforms, and other internal data sources to build comprehensive enablement viewsPartner closely with Field Readiness, TechOps, and the Data Office engineering team to align data outputs with strategic prioritiesEnsure data accuracy, integrity, and consistency across all published dashboards in support of the AI-enabled enablement visionIdentify trends, patterns, and anomalies in enablement data and proactively surface insights to leadershipSupport the evolution from reactive reporting to predictive, personalized analytics aligned to our FY27 roadmapDocument data sources, metric definitions, and best practices to support scalable, governed analyticsTrain and uplevel team members on Tableau usage and data literacy across the organization.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr338334/data-analytics-analyst/",
-    "id": "salesforce-data-analytics-analyst-illinois-chicago"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Business Process Analyst",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr338810/business-process-analyst/",
-    "id": "salesforce-business-process-analyst-indiana-indianapolis"
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031625/Junior-Electrical-Engineer",
+    "id": "abb-junior-electrical-engineer-location-bielsko-biala"
   }
 ]
