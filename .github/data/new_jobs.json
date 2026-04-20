@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, BigQuery Core, Managed Storage",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "employer_name": "Salesforce",
+    "job_title": "Integrated Producer",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, BigQuery Core, Managed Storage",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/124712165390066374-software-engineer-bigquery-core-managed-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-bigquery-core-managed-storage-kirkland"
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 5+ years producing video and/ or social content, with strong post production experienceProven track record managing social media content pipelines at scaleExperience with technical or developer-facing content is a strong plusFluency with AI forward post production workflows, file management, and project tracking toolsHighly organized — you proactively build structure where there isn't anyCollaborative — you're a natural partner who communicates clearly across teamsOperationally minded — you find efficiency gains without sacrificing qualityCalm under pressure — you manage competing priorities in a fast paced environment with good judgmentCurious about emerging platforms, formats, and content trends Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager Lead post production on customer story videos, product demos, and event/opener films including edit, stakeholder review processes, color, mix, sound design, and finishing.\n• Manage handoffs from shoot through final delivery, ensuring quality and on-time output.\n• On occasion, you'll fully own the lifecycle of production, not just the post processesMaintain post production hygiene — job numbers, naming conventions, footage storage, and archiving.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336818/integrated-producer/",
+    "id": "salesforce-integrated-producer-mexico-mexico-city"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Google Cloud Storage",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Google Cloud Storage",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/115188728246215366-software-engineer-iii-aiml-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-ai-ml-google-cloud-storage-sunnyvale"
   }
 ]
