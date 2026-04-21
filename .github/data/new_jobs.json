@@ -1,62 +1,82 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering MTS, Salesforce",
-    "job_city": "Texas - Dallas",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Identify and implement performance optimizationsDrive innovation in agent experiences while evaluating new AI and generative technologies to enhance the overall platform.\n• 3+ years of professional Software Engineering experience in a SaaS environment Expert-level Apex, LWC, and SOQL/SOSL.\n• Full-stack development skills (backend & frontend), including JAVA/APEX, LWC, HTML, CSS, JavaScript.\n• Advanced proficiency in Salesforce Flow (the primary engine for Agentforce actions) Strong foundation in object-oriented programming principles, design patterns, software architecture, and test-driven developmentExpert in Salesforce SOQL, SOSL, DML operations, governor limits, Sales Cloud, and Service CloudExperience with automated testing frameworks (JUnit, Selenium) and maintaining code coverage standardsProven experience with REST/SOAP APIs, Event-Driven Architecture (Platform Events, CDC), and JSON handling Proficiency with SFDX, Git-based version control, and automated testing frameworks (Jest, JUnit, Selenium) Strong analytical skills with the ability to debug complex issues.\n• A related technical degree required Hands-on experience with Agentforce, Prompt Builder, Prompt Engineering.\n• Experience with Salesforce Data Cloud, including data mapping, identity resolution, and vector database concepts.\n• Knowledge of the evolving LLM landscape (OpenAI, Anthropic, Mistral, Gemini) and prompt optimization techniques Experience supporting global rollouts of agent solutions and scaling across multiple regions.\n• Salesforce certifications or equivalent expertise in AI-enhanced CRM solutionsExperience with SaaS/PaaS architectures and large-scale enterprise agent implementations.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr339004/software-engineering-mts-salesforce/",
-    "id": "salesforce-software-engineering-mts-salesforce-texas-dallas"
-  },
-  {
     "employer_name": "Analog Devices",
-    "job_title": "Algorithm Development Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "job_title": "Systems Integration Intern",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "1d",
-    "job_description": "• Staff Robotic Software EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR257971Staff Robotic Simulation Software EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258507Staff Software Engineer, Embedded ToolslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261415Embedded Software Technical LeadlocationsUS, TX, Austin, Plaza on the Lakeposted onPosted 27 Days AgoR261351Staff Engineer, Software Development EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260010Development Manager, Cloud Technologies – Regulated Software (MedTech)locationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR261937ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 26 Days AgoR260556Senior Engineer, Software ToolslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261298Embedded AI Tooling EngineerlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR261712Product Manager, SW Enablement Brandslocations19 Locationsposted onPosted 6 Days AgoR262101Principal Engineer, AI/ML Softwarelocations2 Locationsposted onPosted 30+ Days AgoR260373Principal Engineer, AI/ML Softwarelocations2 Locationsposted onPosted 30+ Days AgoR260367Deep Agentic Reasoning Engineer locations2 Locationsposted onPosted 30+ Days AgoR260369Deep Agentic Reasoning Engineer locations2 Locationsposted onPosted 30+ Days AgoR260371Staff Cloud Engineer (AWS)locations4 Locationsposted onPosted 11 Days AgoR261620Principal AI Infrastructure EngineerlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR262018Senior AI Infrastructure EngineerlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR262019Senior Algorithms EngineerlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR261975Algorithm Development Engineerlocations2 Locationsposted onPosted TodayR255533Principal AI Engineer, Demand ForecastinglocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR255778.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Development-Engineer_R255533-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-algorithm-development-engineer-2-locations"
+    "job_description": "• Technical Program ManagerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR261655Lead Technical PM Project/Program Managerlocations3 Locationsposted onPosted 30+ Days AgoR260141Associate Applications Engineer (Power Electronics)locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR256049Lead PM, Project / Program Management (Eng)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260363Facilities Coordinator 4locationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR262006Staff Applications Engineer, Power ProductslocationsUS, NC, Durhamposted onPosted 12 Days AgoR261736Staff Engineer, Product Applications (ATE/Power)locations2 Locationsposted onPosted 19 Days AgoR253811Module Project ManagerlocationsUS, MA, Wilmingtonposted onPosted 11 Days AgoR260167Staff Analyst (Patch Management Lead Engineer)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258698Principal Applications Engineer – High Performance PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR261572Staff Project Mgr.\n• - CybersecuritylocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260743Cloud Architecture ManagerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260046Principal PM, Project / Program Managementlocations2 Locationsposted onPosted 30+ Days AgoR260692Senior Trade Compliance AnalystlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR260648Cybersecurity Lead – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted YesterdayR262190Manufacturing and Supply Chain LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260012Technical Marketing ManagerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR261220Product Marketing Manager (PMM) – Automotive Power ProductslocationsUS, AZ, Chandler, East Elliotposted onPosted 4 Days AgoR262034Facilities I&C Technician 4locationsUS, OR, Beavertonposted onPosted 11 Days AgoR261932Systems Integration InternlocationsUS, MA, Wilmingtonposted onPosted TodayR256312.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Systems-Integration-Intern_R256312?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-systems-integration-intern-us"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Field Robotic System Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "Magna International",
+    "job_title": "Engineer II - Systems Test",
+    "job_city": "Rochester Hills",
+    "job_state": "Michigan",
     "job_posted_at": "1d",
-    "job_description": "• Staff Product Development EngineerlocationsUS, NJ, Somersetposted onPosted 4 Days AgoR261644Staff Analog Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR257756Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258532Principal Analog & Mixed-Signal Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR258818AMS Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258367Principal Mixed-Signal/Analog Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR258796Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR261276Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Engineer, Central ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR254408Senior Engineer, Product Engineering (ASD AMP/TRM)locationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR257083LTspice Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoR258375Field Robotic System Engineerlocations2 Locationsposted onPosted TodayR262004Internship - RoboticslocationsUS, CA, San Jose, Rio Roblesposted onPosted 8 Days AgoR261623Satellite Communications System Architectlocations8 Locationsposted onPosted 30+ Days AgoR260575Principal Engineer, Ethernet Systems Design/Architecturelocations3 Locationsposted onPosted 30+ Days AgoR260160Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260981Applications Engineer InternlocationsUS, CA, San Jose, Rio Roblesposted onPosted 8 Days AgoR256352Principal Mixed Signal Design Engineerlocations2 Locationsposted onPosted TodayR251701Principal Engineer, Mixed Signal DesignerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260276.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Field-Robotic-System-Engineer_R262004?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-robotic-system-engineer-2-locations"
+    "job_description": "• Systems Test EngineerlocationsLowell, Massachusetts, USposted onPosted 14 Days AgoR00237019Lead Engineer, HardwarelocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00234324Solutions Engineering ManagerlocationsLowell, Massachusetts, USposted onPosted TodayR00221303Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Intern - Electrical EngineeringlocationsSouthfield, Michigan, USposted onPosted 13 Days AgoR00235436Jr.\n• Quality EngineerlocationsMoore, South Carolina, USposted onPosted 6 Days AgoR00229110Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 28 Days AgoR00221215Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Engineer II - Systems TestlocationsRochester Hills, Michigan, USposted onPosted TodayR00237945Controls Engineer 2nd ShiftlocationsHolly, Michigan, USposted onPosted 20 Days AgoR00234393Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 14 Days AgoR00237791Controls Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted 13 Days AgoR00237992Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00235424Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Intern - Engineering ADAS Vehicle IntegrationlocationsAuburn Hills, Michigan, USposted onPosted TodayR00238341Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted 11 Days AgoR00237635Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603Operations Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00234264Robotics Engineering Intern- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 14 Days AgoR00237111.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Rochester-Hills-Michigan-US/Engineer-II---Systems-Test_R00237945?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-engineer-ii-systems-test-rochester-hills"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Agentic AI & ML Software Development Engineer",
-    "job_city": "Washington",
-    "job_state": "DC",
+    "employer_name": "Magna International",
+    "job_title": "Intern - Engineering ADAS Vehicle Integration",
+    "job_city": "Auburn Hills",
+    "job_state": "Michigan",
     "job_posted_at": "1d",
-    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 6 Days AgoR0237863 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 25 Days AgoR0221864 AI and ML Software Engineer, SeniorlocationsAlexandria, VAposted onPosted 5 Days AgoR0235443 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 25 Days AgoR0235191 Product Security Senior Managerlocations8 Locationsposted onPosted 25 Days AgoR0230956 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 4 Days AgoR0238021 PHP Developer, SeniorlocationsChantilly, VAposted onPosted 25 Days AgoR0234945.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Agentic-AI---ML-Software-Development-Engineer_R0238284-1?q=software+engineering",
-    "id": "bae-systems-agentic-ai-ml-software-development-engineer-washington"
+    "job_description": "• Systems Test EngineerlocationsLowell, Massachusetts, USposted onPosted 14 Days AgoR00237019Lead Engineer, HardwarelocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00234324Solutions Engineering ManagerlocationsLowell, Massachusetts, USposted onPosted TodayR00221303Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Intern - Electrical EngineeringlocationsSouthfield, Michigan, USposted onPosted 13 Days AgoR00235436Jr.\n• Quality EngineerlocationsMoore, South Carolina, USposted onPosted 6 Days AgoR00229110Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 28 Days AgoR00221215Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Engineer II - Systems TestlocationsRochester Hills, Michigan, USposted onPosted TodayR00237945Controls Engineer 2nd ShiftlocationsHolly, Michigan, USposted onPosted 20 Days AgoR00234393Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 14 Days AgoR00237791Controls Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted 13 Days AgoR00237992Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00235424Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Intern - Engineering ADAS Vehicle IntegrationlocationsAuburn Hills, Michigan, USposted onPosted TodayR00238341Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted 11 Days AgoR00237635Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603Operations Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00234264Robotics Engineering Intern- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 14 Days AgoR00237111.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering-ADAS-Vehicle-Integration_R00238341?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-intern-engineering-adas-vehicle-integration-auburn-hills"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "AI/ML Infrastructure Software Development Engineer",
-    "job_city": "Washington",
-    "job_state": "DC",
+    "employer_name": "Magna International",
+    "job_title": "Soft Trim Product Developer (seat cover)",
+    "job_city": "Novi",
+    "job_state": "Michigan",
     "job_posted_at": "1d",
-    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 6 Days AgoR0237863 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 25 Days AgoR0221864 AI and ML Software Engineer, SeniorlocationsAlexandria, VAposted onPosted 5 Days AgoR0235443 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 25 Days AgoR0235191 Product Security Senior Managerlocations8 Locationsposted onPosted 25 Days AgoR0230956 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 4 Days AgoR0238021 PHP Developer, SeniorlocationsChantilly, VAposted onPosted 25 Days AgoR0234945.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-ML-Infrastructure-Software-Development-Engineer_R0238288?q=software+engineering",
-    "id": "bae-systems-ai-ml-infrastructure-software-development-engineer-washington"
+    "job_description": "• Warranty & Customer Liaison Engineer (Mechanical)locationsTroy, Michigan, USposted onPosted 11 Days AgoR00237633Senior Reactive Black Belt EngineerlocationsTroy, Michigan, USposted onPosted 12 Days AgoR00237634Magna Engineered Glass: Material HandlerlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00188244Magna Engineered Glass: 2nd Shift Production SupervisorlocationsHolland, Michigan, USposted onPosted 11 Days AgoR00238471Magna Engineered Glass: 2nd Shift Maintenance / Controls TechlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00221810Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232837User Experience Summer InternlocationsLowell, Massachusetts, USposted onPosted 8 Days AgoR00238235Senior Manager Product Development ADAS & In-Vehicle Infotainment (IVI)locationsSouthfield, Michigan, USposted onPosted 5 Days AgoR00236329Validation Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225610CNC Programmer SupervisorlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00209942Intern - Infrared Imaging & AlgorithmslocationsGoleta, California, USposted onPosted 7 Days AgoR00235409Soft Trim Product Developer (seat cover)locationsNovi, Michigan, USposted onPosted TodayR00238973Metallurgical Lab Technician (First Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00234464Designer- LightinglocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00235134IT Industry 4.\n• 0 Lead DeveloperlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222196Account Manager, Autonomous Mobile Robotslocations3 Locationsposted onPosted 30+ Days AgoR00106519IT - ProgrammerlocationsNashville, Illinois, USposted onPosted 5 Days AgoR00223231IT Systems Administrator - 2nd ShiftlocationsLancaster, Ohio, USposted onPosted 14 Days AgoR00237934Industrialization ManagerlocationsMoore, South Carolina, USposted onPosted 8 Days AgoR00238563CNC MachinistlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222195.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Novi-Michigan-US/Product-Developer_R00238973?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-soft-trim-product-developer-seat-cover-novi"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "AI Power Performance Validation and Software Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Power performance debug and tuning experience for various workloads, understand workload sensitivities, and tune for most efficient performance.\n• Contribute to the definition of firmware requirements and validation strategies to ensure robust coverage of real‑world use cases.\n• Experience working with or validating low‑level firmware (e.\n• Hands‑on experience with graphics, SoC, or IP‑level firmware used for bring‑up, configuration, or power/clock management.\n• Will be required to do FW prototyping, making changes in FW, compile, test and debug for Power/perf prototyping.\n• Experience validating systems where firmware plays a critical role in feature enablement and performance tuning.\n• Experience collaborating with firmware or embedded software engineers to debug complex system‑level issues.\n• , Power management FW, FreeRTOS, Zephyr, Microcontroller FW).",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/80717/login",
+    "id": "amd-ai-power-performance-validation-and-software-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Test Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Develop and debug ATE test patterns and test flowsDefine and execute test plans, characterization, and silicon validationEnsure testability and manufacturability from development through productionAnalyze silicon failures and drive test flow improvementsPerform silicon debug, including performance, yield, and marginality analysisOptimize test flows to improve quality, efficiency, and costAnalyze characterization data to inform design and process improvementsCollaborate with Design and Platform teams to root cause and resolve issues Experience with ATE platforms (e.\n• , Verigy 93K) including hardware, software, timing, and pattern developmentKnowledge of test methodologies such as Open/Shorts, Boundary Scan, and connectivity testingFamiliarity with ATE test program development and infrastructure Strong data analysis and presentation skillsProgramming experience in Java, Perl, or C++Unix/Linux proficiencyKnowledge of JTAG and modern processor architectures Understanding of scan compression techniques, failure mechanisms, and debug processesExperience with at-speed (AC scan) development, debug, and characterization Knowledge of modern SRAM operationExperience with SRAM debug, characterization, test, or designFamiliarity with Memory BIST architectures AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/84692/login",
+    "id": "amd-test-engineer-us"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/chandler/applications-engineer/33099/94222456880",
+    "id": "arm-applications-engineer-chandler"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Dev Engineer, Software Controller, CLOS Fabric Engineering, AWS",
+    "job_title": "Software Dev Engineer II, AWS Transactional Services (Database & Distributed Systems), Transactional Services",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "17h",
-    "job_description": "software engineering job for the role Software Dev Engineer, Software Controller, CLOS Fabric Engineering, AWS",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10398324/software-dev-engineer-software-controller-clos-fabric-engineering-aws",
-    "id": "amazon-software-dev-engineer-software-controller-clos-fabric-engineering-aws-seattle"
+    "job_posted_at": "20h",
+    "job_description": "software engineering job for the role Software Dev Engineer II, AWS Transactional Services (Database & Distributed Systems), Transactional Services",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10398448/software-dev-engineer-ii-aws-transactional-services-database-distributed-systems-transactional-services",
+    "id": "amazon-software-dev-engineer-ii-aws-transactional-services-database-distributed-systems-transactional-services-seattle"
   }
 ]
