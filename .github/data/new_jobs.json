@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Salesforce",
+    "job_title": "Corporate Marketing Associate Analyst",
+    "job_city": "New York - New York",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Manage projects end-to-end and build relationships and skills to get the job done well while having fun.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Graduating pursuing a BA/BS in Communications, Marketing, or a related field.\n• Strong writing, editing, and communication skills with an interest in storytelling.\n• Experience creating presentations to showcase strategies and metrics-based outcomes.\n• Experience working in Slack and using workflows, managing channels.\n• Experience working in collaborative writing environments.\n• Experience in digital media, creative writing, marketing, event planning, or communications.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr339392/corporate-marketing-associate-analyst/",
+    "id": "salesforce-corporate-marketing-associate-analyst-new-york-new-york"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Andromeda",
-    "job_city": "Sunnyvale",
+    "job_title": "Software Engineer III, Engineering Productivity, Payments",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Andromeda",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/90915196586861254-software-engineer-andromeda?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-andromeda-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity, Payments",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/98988773030666950-software-engineer-iii-engineering-productivity-payments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-engineering-productivity-payments-mountain-view"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Sponsored Products and Brands",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "14h",
+    "job_description": "software engineering job for the role Software Development Engineer, Sponsored Products and Brands",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10399407/software-development-engineer-sponsored-products-and-brands",
+    "id": "amazon-software-development-engineer-sponsored-products-and-brands-new-york"
   }
 ]
