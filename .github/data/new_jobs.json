@@ -1,32 +1,32 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Full Stack Developer, Junior",
-    "job_city": "McLean",
-    "job_state": "VA",
+    "job_title": "AI and ML Software Engineer",
+    "job_city": "Dayton",
+    "job_state": "OH",
     "job_posted_at": "1d",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 26 Days AgoR0221864 AI and ML Software Engineer, SeniorlocationsAlexandria, VAposted onPosted 6 Days AgoR0235443 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 26 Days AgoR0235191 Product Security Senior Managerlocations8 Locationsposted onPosted 26 Days AgoR0230956 DevOps Engineer, SeniorlocationsMoorestown, NJposted onPosted 5 Days AgoR0236058 PHP Developer, SeniorlocationsChantilly, VAposted onPosted 26 Days AgoR0234945 Full Stack Developer, JuniorlocationsMcLean, VAposted onPosted TodayR0238345.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Developer--Junior_R0238345-1?q=software+engineering",
-    "id": "bae-systems-full-stack-developer-junior-mclean"
+    "job_description": "• Full Stack Software Engineer, SeniorlocationsFayetteville, NCposted onPosted 26 Days AgoR0235788 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 2 Days AgoR0237930 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 12 Days AgoR0234879 Full Stack Software Engineer, Seniorlocations2 Locationsposted onPosted 26 Days AgoR0233918 Full Stack Software Engineer, SeniorlocationsMcLean, VAposted onPosted 26 Days AgoR0235946 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0231841 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0237850 Google Cloud Engineer, SeniorlocationsAlexandria, VAposted onPosted 6 Days AgoR0237734 Google Cloud Engineer, SeniorlocationsAlexandria, VAposted onPosted 6 Days AgoR0237705 Python Data Engineer, SeniorlocationsChantilly, VAposted onPosted 26 Days AgoR0235388.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-and-ML-Software-Engineer_R0238382?q=software+engineering",
+    "id": "bae-systems-ai-and-ml-software-engineer-dayton"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Robotics Engineer",
-    "job_city": "McLean",
-    "job_state": "VA",
+    "job_title": "UAS Robotics Engineer",
+    "job_city": "Honolulu",
+    "job_state": "HI",
     "job_posted_at": "1d",
-    "job_description": "• Modeling and Simulations SpecialistlocationsSan Antonio, TXposted onPosted 26 Days AgoR0235908 Data and Visualization Engineer, LeadlocationsMonterey, CAposted onPosted 26 Days AgoR0235754 Enterprise Integration Architect, LeadlocationsMcLean, VAposted onPosted 26 Days AgoR0236335 Software Architect, LeadlocationsLexington Park, MDposted onPosted 26 Days AgoR0235783 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 13 Days AgoR0237448 Applications Leadlocations2 Locationsposted onPosted 21 Days AgoR0231578.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Robotics-Engineer_R0238340-1?q=software+engineering",
-    "id": "bae-systems-robotics-engineer-mclean"
+    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 26 Days AgoR0221864 AI and ML Software Engineer, SeniorlocationsAlexandria, VAposted onPosted 6 Days AgoR0235443 Software Integration Engineer, SeniorlocationsCalifornia, MDposted onPosted TodayR0237819 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 26 Days AgoR0235191 PHP Developer, SeniorlocationsChantilly, VAposted onPosted 26 Days AgoR0234945 Full Stack Developer, JuniorlocationsMcLean, VAposted onPosted TodayR0238345.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/UAS-Software-Engineer_R0237617?q=software+engineering",
+    "id": "bae-systems-uas-robotics-engineer-honolulu"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Android Large Screen",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Android Large Screen",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100006164883743430-software-engineer-iii-android-large-screen?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-iii-android-large-screen-san-jose"
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer II, AWS Ground Station, AWS Aerospace Solutions (AES) - Control Plane",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_posted_at": "17h",
+    "job_description": "software engineering job for the role Software Development Engineer II, AWS Ground Station, AWS Aerospace Solutions (AES) - Control Plane",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10399633/software-development-engineer-ii-aws-ground-station-aws-aerospace-solutions-aes-control-plane",
+    "id": "amazon-software-development-engineer-ii-aws-ground-station-aws-aerospace-solutions-aes-control-plane-denver"
   }
 ]
