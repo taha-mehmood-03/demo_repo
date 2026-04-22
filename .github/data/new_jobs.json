@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Corporate Marketing Associate Analyst",
-    "job_city": "New York - New York",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Manage projects end-to-end and build relationships and skills to get the job done well while having fun.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Graduating pursuing a BA/BS in Communications, Marketing, or a related field.\n• Strong writing, editing, and communication skills with an interest in storytelling.\n• Experience creating presentations to showcase strategies and metrics-based outcomes.\n• Experience working in Slack and using workflows, managing channels.\n• Experience working in collaborative writing environments.\n• Experience in digital media, creative writing, marketing, event planning, or communications.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr339392/corporate-marketing-associate-analyst/",
-    "id": "salesforce-corporate-marketing-associate-analyst-new-york-new-york"
+    "employer_name": "BAE Systems",
+    "job_title": "Full Stack Developer, Junior",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 26 Days AgoR0221864 AI and ML Software Engineer, SeniorlocationsAlexandria, VAposted onPosted 6 Days AgoR0235443 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 26 Days AgoR0235191 Product Security Senior Managerlocations8 Locationsposted onPosted 26 Days AgoR0230956 DevOps Engineer, SeniorlocationsMoorestown, NJposted onPosted 5 Days AgoR0236058 PHP Developer, SeniorlocationsChantilly, VAposted onPosted 26 Days AgoR0234945 Full Stack Developer, JuniorlocationsMcLean, VAposted onPosted TodayR0238345.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Developer--Junior_R0238345-1?q=software+engineering",
+    "id": "bae-systems-full-stack-developer-junior-mclean"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Robotics Engineer",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• Modeling and Simulations SpecialistlocationsSan Antonio, TXposted onPosted 26 Days AgoR0235908 Data and Visualization Engineer, LeadlocationsMonterey, CAposted onPosted 26 Days AgoR0235754 Enterprise Integration Architect, LeadlocationsMcLean, VAposted onPosted 26 Days AgoR0236335 Software Architect, LeadlocationsLexington Park, MDposted onPosted 26 Days AgoR0235783 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 13 Days AgoR0237448 Applications Leadlocations2 Locationsposted onPosted 21 Days AgoR0231578.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Robotics-Engineer_R0238340-1?q=software+engineering",
+    "id": "bae-systems-robotics-engineer-mclean"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Engineering Productivity, Payments",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer III, Android Large Screen",
+    "job_city": "San Jose",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity, Payments",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/98988773030666950-software-engineer-iii-engineering-productivity-payments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-engineering-productivity-payments-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Sponsored Products and Brands",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "14h",
-    "job_description": "software engineering job for the role Software Development Engineer, Sponsored Products and Brands",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10399407/software-development-engineer-sponsored-products-and-brands",
-    "id": "amazon-software-development-engineer-sponsored-products-and-brands-new-york"
+    "job_description": "software engineering job for the role Software Engineer III, Android Large Screen",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100006164883743430-software-engineer-iii-android-large-screen?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-iii-android-large-screen-san-jose"
   }
 ]
