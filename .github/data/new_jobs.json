@@ -1,62 +1,102 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "AWS Database Software Engineer",
-    "job_city": "4 Locations",
+    "job_title": "Software Engineer, Junior",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Integrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 12 Days AgoR0233456 Software Development Engineer, SeniorlocationsWashington, DCposted onPosted YesterdayR0238303 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 26 Days AgoR0235336 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 5 Days AgoR0238008 Software Developer, LeadlocationsFort Meade, MDposted onPosted 26 Days AgoR0226754 Software Developer, SeniorlocationsMonterey, CAposted onPosted 7 Days AgoR0237891.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/AWS-Database-Software-Engineer_R0238413?q=software+engineering",
-    "id": "bae-systems-aws-database-software-engineer-4-locations"
+    "job_description": "• Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 9 Days AgoR0237681 Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 9 Days AgoR0237682 Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted YesterdayR0238286 Software Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted YesterdayR0238285 Software Engineer, SeniorlocationsFort Belvoir, VAposted onPosted 14 Days AgoR0237370 Software Engineer, Seniorlocations11 Locationsposted onPosted 13 Days AgoR0237456 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted YesterdayR0238287 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 26 Days AgoR0236761 Software Engineer, Seniorlocations2 Locationsposted onPosted 9 Days AgoR0237633 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 7 Days AgoR0237811.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer--Junior_R0238429?q=software+engineering",
+    "id": "bae-systems-software-engineer-junior-2-locations"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "AWS Geospatial Software Engineer",
-    "job_city": "4 Locations",
+    "employer_name": "Guidehouse",
+    "job_title": "Junior Data Engineer",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Integrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 12 Days AgoR0233456 Software Development Engineer, SeniorlocationsWashington, DCposted onPosted YesterdayR0238303 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 26 Days AgoR0235336 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 5 Days AgoR0238008 Software Developer, LeadlocationsFort Meade, MDposted onPosted 26 Days AgoR0226754 Software Developer, SeniorlocationsMonterey, CAposted onPosted 7 Days AgoR0237891.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/AWS-Geospatial-Software-Engineer_R0238408?q=software+engineering",
-    "id": "bae-systems-aws-geospatial-software-engineer-4-locations"
+    "job_description": "• Microsoft Biz Apps Developer - Power Apps and MS Dynamics Architectlocations27 Locationsposted onPosted 30+ Days Ago37238Junior Data Engineerlocations2 Locationsposted onPosted Today38141AI Engineerlocations2 Locationsposted onPosted Today38812Data Engineerlocations2 Locationsposted onPosted 30+ Days Ago34501Associate Director – Cloud and Application DevelopmentlocationsIN - Chennaiposted onPosted 6 Days Ago38419Senior Python/Java Script Full Stack Developerlocations2 Locationsposted onPosted 5 Days Ago37297Senior Full Stack Python/JavaScript Developerlocations2 Locationsposted onPosted 5 Days Ago37301Senior Full Stack Python /Java Script Developerlocations2 Locationsposted onPosted 5 Days Ago37299Cloud Solutions ArchitectlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago36301Data Engineer (Border Security)locationsUS - DC, Washingtonposted onPosted 5 Days Ago38352AI/ML Solutions Architect (Agentic Systems)locationsUS - Remote (Any location)posted onPosted 13 Days Ago37697Industrial Engineering Leadlocations2 Locationsposted onPosted 16 Days Ago37948AI / Machine Learning Engineerlocations2 Locationsposted onPosted 5 Days Ago38348Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Data Integration Solutions EngineerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34366Palantir Data Pipeline & Metadata Leadlocations2 Locationsposted onPosted Today38574Palantir Application DeveloperlocationsUS - Remote (Any location)posted onPosted 5 Days Ago38400Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33432Project Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33495Senior Data Scientist, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 15 Days Ago37879.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Junior-Data-Engineer_38141?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-junior-data-engineer-2-locations"
   },
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Hardware and Silicon Validation",
-    "job_city": "Westlake Village",
+    "employer_name": "Magna International",
+    "job_title": "Controls Engineer",
+    "job_city": "Ethridge",
+    "job_state": "Tennessee",
+    "job_posted_at": "1d",
+    "job_description": "• Full Stack Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 7 Days AgoR00236395Senior Full Stack Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 7 Days AgoR00236390Weld EngineerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00211009Controls EngineerlocationsLansing, Michigan, USposted onPosted 30+ Days AgoR00233370Controls EngineerlocationsHighland Park, Michigan, USposted onPosted 21 Days AgoR00235544Controls EngineerlocationsEthridge, Tennessee, USposted onPosted TodayR00239804Industrial EngineerlocationsShepherdsville, Kentucky, USposted onPosted 7 Days AgoR00231578Automation EngineerlocationsNorthwood, Ohio, USposted onPosted 15 Days AgoR00237626Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00218593Process EngineerlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00170906Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00226639Engineer, ManufacturinglocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00233394Controls EngineerlocationsNewaygo, Michigan, USposted onPosted 30+ Days AgoR00230384Robotics EngineerlocationsHighland Park, Michigan, USposted onPosted 29 Days AgoR00235540Packaging EngineerlocationsNorthwood, Ohio, USposted onPosted 28 Days AgoR00235637Industrial EngineerlocationsNashville, Illinois, USposted onPosted 7 Days AgoR00228008Manufacturing EngineerlocationsHighland Park, Michigan, USposted onPosted 29 Days AgoR00235547Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213782Controls EngineerlocationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00234298Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00225164.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Ethridge-Tennessee-US/Controls-Engineer_R00239804-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-controls-engineer-ethridge"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Engineer",
+    "job_city": "Location Stonehouse",
+    "job_state": "Gloucestershire",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029565/Production-Engineer",
+    "id": "abb-production-engineer-location-stonehouse"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship in scientific software development (80-100%)",
+    "job_city": "Location Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031890/Internship-in-scientific-software-development-80-100",
+    "id": "abb-internship-in-scientific-software-development-80-100-location-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Developer for B&R Product Configurators (f/m/d)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015303/Developer-for-B-R-Product-Configurators-f-m-d",
+    "id": "abb-developer-for-b-r-product-configurators-f-m-d-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Data Platform Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029311/Robotics-Data-Platform-Engineer",
+    "id": "abb-robotics-data-platform-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Platforms and Devices",
+    "job_city": "Mountain View",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Director of SoC Design VerificationlocationsUS-CA - San Diegoposted onPosted 7 Days Ago2601017Senior Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 7 Days Ago2601116Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Hardware and Silicon ValidationlocationsWestlake Village, CAposted onPosted Today2600895Senior Staff Physical Design ManagerlocationsSanta Clara, CAposted onPosted Today2503480Advanced Packaging Senior Staff ManagerlocationsBurlington, VTposted onPosted Today2601393Principal Static Timing Analysis (STA) Engineer – SoC DesignlocationsWestborough, MAposted onPosted Today2600948Sr.\n• Staff Validation EngineerlocationsSanta Clara, CAposted onPosted Yesterday2600694Field Application Engineering, Principal EngineerlocationsSanta Clara, CAposted onPosted Yesterday2601142Firmware Engineer - Early Careerlocations2 Locationsposted onPosted Yesterday2601000Principal Application EngineerlocationsSanta Clara, CAposted onPosted Yesterday2601406Principal Test EngineerlocationsSanta Clara, CAposted onPosted Yesterday2600177Director of DV for MEM/PCIE COElocationsSanta Clara, CAposted onPosted Yesterday2601361Signal Integrity Engineer – HFSS/SiWave/PCB/Package - Sr Staff Engineerlocations2 Locationsposted onPosted 2 Days Ago2600178ASIC Security ArchitectlocationsSanta Clara, CAposted onPosted 2 Days Ago2601327ASIC ArchitectlocationsSanta Clara, CAposted onPosted 2 Days Ago2601312Sr.\n• Director, Global Workplace Operationslocations3 Locationsposted onPosted 2 Days Ago2601263Director, AI Governance & EnablementlocationsSanta Clara, CAposted onPosted 2 Days Ago2601240Principal Verification EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2601290Senior Staff Design Verification EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2601292.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Hardware-and-Silicon-Validation_2600895?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-hardware-and-silicon-validation-westlake-village"
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103120737727849158-software-engineer-iii-infrastructure-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-infrastructure-platforms-and-devices-mountain-view"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, WebKit Accessibility",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "20h",
-    "job_description": "• Minimum QualificationsBachelor of Science in Computer Science or equivalent3+ years of relevant work experienceProficient in C++ or another a low-level systems languageExcellent written and verbal communication skills.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-webkit-accessibility?team=SFTWR",
-    "id": "apple-software-engineer-webkit-accessibility-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Creator Studio",
-    "job_city": "Pittsburgh",
-    "job_state": "US",
-    "job_posted_at": "20h",
-    "job_description": "• Minimum Qualifications3+ years of proven experience developing and shipping reliable, scalable, maintainable, and testable code.\n• Knowledge of the iOS ecosystem, including system frameworks, APIs, daemons and resource management capabilitiesExperience with Apple’s languages such as Swift and Objective-C, and machine learning development tools such as CoreMLExcellent understanding of an ML-based product lifecycleAbility to write performant, scalable, maintainable, and correct multi-threaded code.\n• Strong communication, collaboration, and project management skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent experience.\n• Ability to work effectively in a fast-paced environment and manage multiple priorities.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200646727-2926/software-engineer-creator-studio?team=SFTWR",
-    "id": "apple-software-engineer-creator-studio-pittsburgh"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Creator Studio",
+    "employer_name": "Amazon",
+    "job_title": "Software Dev Eng II - Mobile Observability, Builderworks",
     "job_city": "Seattle",
-    "job_state": "US",
-    "job_posted_at": "20h",
-    "job_description": "• Minimum Qualifications3+ years of proven experience developing and shipping reliable, scalable, maintainable, and testable code.\n• Knowledge of the iOS ecosystem, including system frameworks, APIs, daemons and resource management capabilitiesExperience with Apple’s languages such as Swift and Objective-C, and machine learning development tools such as CoreMLExcellent understanding of an ML-based product lifecycleAbility to write performant, scalable, maintainable, and correct multi-threaded code.\n• Strong communication, collaboration, and project management skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent experience.\n• Ability to work effectively in a fast-paced environment and manage multiple priorities.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200646727-3337/software-engineer-creator-studio?team=SFTWR",
-    "id": "apple-software-engineer-creator-studio-seattle"
+    "job_state": "WA",
+    "job_posted_at": "21h",
+    "job_description": "software engineering job for the role Software Dev Eng II - Mobile Observability, Builderworks",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10399958/software-dev-eng-ii-mobile-observability-builderworks",
+    "id": "amazon-software-dev-eng-ii-mobile-observability-builderworks-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer, ORBIT (AMZL operational reporting and BI)",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "21h",
+    "job_description": "software engineering job for the role Data Engineer, ORBIT (AMZL operational reporting and BI)",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10399979/data-engineer-orbit-amzl-operational-reporting-and-bi",
+    "id": "amazon-data-engineer-orbit-amzl-operational-reporting-and-bi-austin"
   }
 ]
