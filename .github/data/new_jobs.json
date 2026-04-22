@@ -1,102 +1,42 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Engineer, Junior",
+    "employer_name": "Guidehouse",
+    "job_title": "MLOps Engineer",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 9 Days AgoR0237681 Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 9 Days AgoR0237682 Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted YesterdayR0238286 Software Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted YesterdayR0238285 Software Engineer, SeniorlocationsFort Belvoir, VAposted onPosted 14 Days AgoR0237370 Software Engineer, Seniorlocations11 Locationsposted onPosted 13 Days AgoR0237456 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted YesterdayR0238287 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 26 Days AgoR0236761 Software Engineer, Seniorlocations2 Locationsposted onPosted 9 Days AgoR0237633 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 7 Days AgoR0237811.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer--Junior_R0238429?q=software+engineering",
-    "id": "bae-systems-software-engineer-junior-2-locations"
+    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 13 Days Ago33026Junior Software EngineerlocationsUS - LA, New Orleansposted onPosted 19 Days Ago37454Senior Software EngineerlocationsUS - LA, New Orleansposted onPosted 13 Days Ago37470Mid Azure DevOps Software EngineerlocationsUS - Remote (Any location)posted onPosted 16 Days Ago37978Computer ProgrammerlocationsUS - LA, New Orleansposted onPosted 13 Days Ago37611DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 16 Days Ago37733Senior Software ProgrammerlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago36823SME Software DeveloperlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago36818SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 14 Days Ago35849Data Infrastructure EngineerlocationsUS - Remote (Any location)posted onPosted 13 Days Ago37773Cloud Infrastructure & Automation EngineerlocationsUS - Remote (Any location)posted onPosted 13 Days Ago37772Senior Software DeveloperlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago36817Senior Software ProgrammerlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago36819Palantir Integration Engineerlocations7 Locationsposted onPosted 2 Days Ago38387Palantir Data Engineerlocations2 Locationsposted onPosted Yesterday38627IDOS Aerospace Professionalslocations7 Locationsposted onPosted 14 Days Ago38210Data Engineerlocations2 Locationsposted onPosted 5 Days Ago38300Data Engineerlocations2 Locationsposted onPosted 23 Days Ago37881MLOps Engineerlocations2 Locationsposted onPosted Today38349Technical Associate - Platforms, Technology - Campus 2026 (San Antonio)locationsUS - TX, San Antonioposted onPosted 7 Days Ago36081.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/MLOps-Engineer_38349?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-mlops-engineer-2-locations"
   },
   {
     "employer_name": "Guidehouse",
-    "job_title": "Junior Data Engineer",
-    "job_city": "2 Locations",
+    "job_title": "ServiceNow Developer",
+    "job_city": "29 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Microsoft Biz Apps Developer - Power Apps and MS Dynamics Architectlocations27 Locationsposted onPosted 30+ Days Ago37238Junior Data Engineerlocations2 Locationsposted onPosted Today38141AI Engineerlocations2 Locationsposted onPosted Today38812Data Engineerlocations2 Locationsposted onPosted 30+ Days Ago34501Associate Director – Cloud and Application DevelopmentlocationsIN - Chennaiposted onPosted 6 Days Ago38419Senior Python/Java Script Full Stack Developerlocations2 Locationsposted onPosted 5 Days Ago37297Senior Full Stack Python/JavaScript Developerlocations2 Locationsposted onPosted 5 Days Ago37301Senior Full Stack Python /Java Script Developerlocations2 Locationsposted onPosted 5 Days Ago37299Cloud Solutions ArchitectlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago36301Data Engineer (Border Security)locationsUS - DC, Washingtonposted onPosted 5 Days Ago38352AI/ML Solutions Architect (Agentic Systems)locationsUS - Remote (Any location)posted onPosted 13 Days Ago37697Industrial Engineering Leadlocations2 Locationsposted onPosted 16 Days Ago37948AI / Machine Learning Engineerlocations2 Locationsposted onPosted 5 Days Ago38348Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Data Integration Solutions EngineerlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago34366Palantir Data Pipeline & Metadata Leadlocations2 Locationsposted onPosted Today38574Palantir Application DeveloperlocationsUS - Remote (Any location)posted onPosted 5 Days Ago38400Enclave Task LeadlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33432Project Manager, PPRLlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago33495Senior Data Scientist, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 15 Days Ago37879.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Junior-Data-Engineer_38141?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-junior-data-engineer-2-locations"
+    "job_description": "• ServiceNow Developerlocations29 Locationsposted onPosted Today38814Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted Today32512Data ScientistlocationsUS - VA, Arlingtonposted onPosted 8 Days Ago38181Palantir Foundry DeveloperlocationsUS - Remote (Any location)posted onPosted 15 Days Ago36683ServiceNow DeveloperlocationsUS - VA, McLeanposted onPosted 5 Days Ago38611Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 30+ Days Ago35408GIS Leaderlocations2 Locationsposted onPosted 5 Days Ago37975Senior Appian Developerlocations2 Locationsposted onPosted 30+ Days Ago35409Senior Data ScientistlocationsUS - VA, Chantillyposted onPosted 30+ Days Ago37322Technical Data Analyst (Border Security)locationsUS - DC, Washingtonposted onPosted 5 Days Ago38211Technical SETA SME – Machine Learning, Modeling & SimulationlocationsUS - MD, Bethesdaposted onPosted 13 Days Ago38258AI ArchitectlocationsIN - Chennaiposted onPosted 22 Days Ago37858Databricks Apps Developerlocations2 Locationsposted onPosted 30+ Days Ago37350Data Scientist, Modeling LeadlocationsUS - VA, Arlingtonposted onPosted 22 Days Ago37764Revenue Integrity Analyst (Medical Biller)locations3 Locationsposted onPosted 30+ Days Ago37153Senior Data ScientistlocationsUS - AL, Huntsvilleposted onPosted Today38678Senior Developer - RPAlocationsIN - Chennaiposted onPosted 14 Days Ago38077Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago37095Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago37446Lead Developerlocations2 Locationsposted onPosted 23 Days Ago37698.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/ServiceNow-Developer_38814?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-servicenow-developer-29-locations"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Controls Engineer",
-    "job_city": "Ethridge",
-    "job_state": "Tennessee",
-    "job_posted_at": "1d",
-    "job_description": "• Full Stack Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 7 Days AgoR00236395Senior Full Stack Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 7 Days AgoR00236390Weld EngineerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00211009Controls EngineerlocationsLansing, Michigan, USposted onPosted 30+ Days AgoR00233370Controls EngineerlocationsHighland Park, Michigan, USposted onPosted 21 Days AgoR00235544Controls EngineerlocationsEthridge, Tennessee, USposted onPosted TodayR00239804Industrial EngineerlocationsShepherdsville, Kentucky, USposted onPosted 7 Days AgoR00231578Automation EngineerlocationsNorthwood, Ohio, USposted onPosted 15 Days AgoR00237626Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00218593Process EngineerlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00170906Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00226639Engineer, ManufacturinglocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00233394Controls EngineerlocationsNewaygo, Michigan, USposted onPosted 30+ Days AgoR00230384Robotics EngineerlocationsHighland Park, Michigan, USposted onPosted 29 Days AgoR00235540Packaging EngineerlocationsNorthwood, Ohio, USposted onPosted 28 Days AgoR00235637Industrial EngineerlocationsNashville, Illinois, USposted onPosted 7 Days AgoR00228008Manufacturing EngineerlocationsHighland Park, Michigan, USposted onPosted 29 Days AgoR00235547Validation EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00213782Controls EngineerlocationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00234298Robotics EngineerlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00225164.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Ethridge-Tennessee-US/Controls-Engineer_R00239804-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-controls-engineer-ethridge"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Production Engineer",
-    "job_city": "Location Stonehouse",
-    "job_state": "Gloucestershire",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029565/Production-Engineer",
-    "id": "abb-production-engineer-location-stonehouse"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Internship in scientific software development (80-100%)",
-    "job_city": "Location Baden-Daettwil",
-    "job_state": "Aargau",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031890/Internship-in-scientific-software-development-80-100",
-    "id": "abb-internship-in-scientific-software-development-80-100-location-baden-daettwil"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Developer for B&R Product Configurators (f/m/d)",
-    "job_city": "Available in one of 3 locations",
+    "employer_name": "Intel",
+    "job_title": "Compiler Engineer",
+    "job_city": "3 Locations",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015303/Developer-for-B-R-Product-Configurators-f-m-d",
-    "id": "abb-developer-for-b-r-product-configurators-f-m-d-available-in-one-of-3-locations"
+    "job_posted_at": "1d",
+    "job_description": "• Software Enabling and Optimization Engineerlocations2 Locationsposted onPosted 23 Days AgoJR0282409AI Software Architect – Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0279982Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 30+ Days AgoJR0281966vPro Product Support Engineerlocations2 Locationsposted onPosted 15 Days AgoJR0282592End to End GPU AI Software Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0281455Foundry Automation ML EngineerlocationsUS, Oregon, Hillsboroposted onPosted 2 Days AgoJR0282890Senior Principal Engineer – AI Applied ResearchlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0281578Software Application Development Engineerlocations2 Locationsposted onPosted 27 Days AgoJR0282276Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 27 Days AgoJR0282277Senior C/C++ Engineer - Media Optimization & Codecslocations3 Locationsposted onPosted 21 Days AgoJR0281205Operations Manager - Government Programs | Intel Foundry Automationlocations2 Locationsposted onPosted 30+ Days AgoJR0282061Senior Phase Gates Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0282043GPU IP Engineering Program Managerlocations2 Locationsposted onPosted 29 Days AgoJR0282177Foundry Services Advanced Packaging Account Technical Solutions Engineerlocations5 Locationsposted onPosted 7 Days AgoJR0283006Senior Technical Solutions Engineer - Advanced Packaginglocations5 Locationsposted onPosted YesterdayJR0283012Sr.\n• EDA Tools Engineer - ESDlocations4 Locationsposted onPosted 14 Days AgoJR0280046Density Fill PDK Development Engineerlocations4 Locationsposted onPosted 5 Days AgoJR0282533Senior Density Fill Development Engineerlocations4 Locationsposted onPosted 5 Days AgoJR0282534Compiler Engineerlocations3 Locationsposted onPosted TodayJR0281201Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281207.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Compiler-Engineer_JR0281201?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-compiler-engineer-3-locations"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Robotics Data Platform Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029311/Robotics-Data-Platform-Engineer",
-    "id": "abb-robotics-data-platform-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Platforms and Devices",
-    "job_city": "Mountain View",
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineering, Data Infrastructure",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Platforms and Devices",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103120737727849158-software-engineer-iii-infrastructure-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
-    "id": "google-software-engineer-iii-infrastructure-platforms-and-devices-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Dev Eng II - Mobile Observability, Builderworks",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Software Dev Eng II - Mobile Observability, Builderworks",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10399958/software-dev-eng-ii-mobile-observability-builderworks",
-    "id": "amazon-software-dev-eng-ii-mobile-observability-builderworks-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Data Engineer, ORBIT (AMZL operational reporting and BI)",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "21h",
-    "job_description": "software engineering job for the role Data Engineer, ORBIT (AMZL operational reporting and BI)",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10399979/data-engineer-orbit-amzl-operational-reporting-and-bi",
-    "id": "amazon-data-engineer-orbit-amzl-operational-reporting-and-bi-austin"
+    "job_posted_at": "1d",
+    "job_description": "• System Software Engineer, GeForce SoftwarelocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR2015749Senior Software Engineer, Networking Softwarelocations4 Locationsposted onPosted 30+ Days AgoJR1998106Senior Software Engineer, Networking Softwarelocations5 Locationsposted onPosted 30+ Days AgoJR2001671Senior Software Engineer - HPClocations3 Locationsposted onPosted 30+ Days AgoJR2013372Embedded Software Engineer - RISCVlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2012326Senior Software Engineer, FirmwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2014879Software Engineer, Simulation - RoboticslocationsUS, CA, Santa Claraposted onPosted 7 Days AgoJR2015217Tegra System Software Engineerlocations4 Locationsposted onPosted 16 Days AgoJR2015299Software Engineer - DPU PlatformlocationsUS, MA, Westfordposted onPosted 9 Days AgoJR2015949Senior Systems Software Engineerlocations5 Locationsposted onPosted 2 Days AgoJR2016619Senior Software Engineer - Omniverselocations6 Locationsposted onPosted TodayJR2016478Software Engineering, Data InfrastructurelocationsUS, CA, Santa Claraposted onPosted TodayJR2015096Senior Software Engineer, NCCLlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR1997186Senior Software Engineer, JAXlocations2 Locationsposted onPosted 12 Days AgoJR2004629Senior Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2006779System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted TodayJR2007081Senior Software Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2010039Principal Software Engineer - Dynamolocations2 Locationsposted onPosted 30+ Days AgoJR2010290Software Engineer - Ethernet Switchinglocations2 Locationsposted onPosted 30+ Days AgoJR2010826Senior System Software EngineerlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2011064.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering--Data-Infrastructure_JR2015096?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineering-data-infrastructure-us"
   }
 ]
