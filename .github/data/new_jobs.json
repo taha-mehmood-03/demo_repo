@@ -1,12 +1,22 @@
 [
   {
+    "employer_name": "AMD",
+    "job_title": "Hardware Diagnostic QA Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Strong experience in hardware validation, diagnostic QA, or manufacturing testStrong Python scripting skills for test automation and debugExperience working with hardware systems, including:Embedded systemsASIC-based platforms, servers, or networking hardwareHardware bring-up or validationExperience executing regression tests and analyzing failuresExperience working with manufacturing or production test environmentsStrong debugging and problem-solving skills Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Experience with hardware diagnostic software or manufacturing test systemsFamiliarity with:UART, I2C, SPI, JTAG, PCIe, or Ethernet interfacesEmbedded Linux or RTOS environmentsAutomated test systemsExperience working with contract manufacturersExperience with version control systems such as GitExperience working in cross-functional environments with hardware and firmware teams Execute regression testing for hardware diagnostic software on new hardware buildsValidate diagnostic features, test coverage, and stability across different hardware platformsDevelop, maintain, and improve automated diagnostic test scripts using PythonEnsure diagnostic software meets quality and reliability standards before release to manufacturing Improve test automation efficiency and reliabilityMaintain regression test environments and test infrastructureEnhance test scripts and frameworks to support new hardware features Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/79458/login",
+    "id": "amd-hardware-diagnostic-qa-engineer-us"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Agentic AI Infrastructure",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Software Engineer, Search Ads Budgeting",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Agentic AI Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/142497582013129414-software-engineer-agentic-ai-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-agentic-ai-infrastructure-new-york"
+    "job_description": "software engineering job for the role Software Engineer, Search Ads Budgeting",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/74563156579361478-software-engineer-search-ads-budgeting?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-search-ads-budgeting-mountain-view"
   }
 ]
