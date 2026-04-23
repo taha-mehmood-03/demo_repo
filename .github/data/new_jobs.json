@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Account Solution Engineer, Higher Education",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Geometric Camera Calibration, Google Beam, Labs",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "• Understand Institutional Needs – Engage with education institutions to deeply understand their unique challenges and strategic goals, mapping them to Salesforce’s solutions.\n• This role will primarily align to large higher education institutions.\n• Position Salesforce as a Strategic Partner – Clearly articulate how Salesforce platform and products, including but not limited to Agentforce for Education, align to institutional initiatives.\n• Prepare, build, and present tailored demonstrations that showcase Salesforce solutions aligned to institutions' strategic and technical goalsApply Industry and Technical Expertise – Translate education business processes into impactful technology solutions, differentiating Salesforce capabilities to both technical and non-technical stakeholders.\n• Collaborate Across Teams – Work effectively with account teams, solution specialists, professional services, and Salesforce partners to align Salesforce solutions with institutional needs.\n• Stay Ahead of Industry Trends – Continuously build expertise in education challenges and technology trends, incorporating insights into solution recommendations.\n• Agentforce & AI/Data Use Case Expertise - Develop and present Agentforce and Data360 Cloud use cases tailored to education institutions, including POCs, workshops, and technical deep-dives that demonstrate AI-powered transformation for student success and operational efficiency.\n• 7+ years of combined experience working with Salesforce or other CRM solutions, with a focus on education.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr334666/account-solution-engineer-higher-education/",
-    "id": "salesforce-account-solution-engineer-higher-education-illinois-chicago"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Engineer-Wet Process Equipment Development",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "1d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/41616923",
-    "id": "micron-technology-engineer-wet-process-equipment-development-boise"
+    "job_description": "software engineering job for the role Software Engineer, Geometric Camera Calibration, Google Beam, Labs",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/130915876281950918-software-engineer-geometric-camera-calibration-google-beam-labs?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-geometric-camera-calibration-google-beam-labs-mountain-view"
   }
 ]
