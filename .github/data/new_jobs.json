@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Solution Developer - Demos Engineering",
+    "job_city": "Argentina - Buenos Aires",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Understand the needs of demo product owners and seamlessly solve for them.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences A demonstrated, genuine AI-first approach to engineering — using AI to move faster, build fluency across the stack, and contribute well beyond your core specialty.\n• Experience using AI tools (e.\n• Advanced prompt engineering skills and the ability to write precise, structured prompts and cultivate the system context that makes AI outputs reliable, secure, and production-ready.\n• Partner with Product Managers to prioritize the development backlog, balancing long-term innovations with immediate SE needs.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Collaborate with Product Managers to help define and design new features that showcase the latest capabilities of the platform.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336513/solution-developer-demos-engineering/",
+    "id": "salesforce-solution-developer-demos-engineering-argentina-buenos-aires"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Search AI Infra Performance",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Search AI Infra Performance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/104401173779227334-software-engineer-search-ai-infra-performance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-search-ai-infra-performance-mountain-view"
+  }
+]
