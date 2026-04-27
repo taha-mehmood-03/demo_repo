@@ -1,92 +1,32 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Software Engineer-Junior",
-    "job_city": "ational",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Software-Engineer-Junior_RQ218778-1?q=software+engineering",
-    "id": "general-dynamics-software-engineer-junior-ational"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "EPM Software Developer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "3w",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/EPM-Software-Developer_RQ217619-1?q=software+engineering",
-    "id": "general-dynamics-epm-software-developer-2-locations"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Citrix Software Virtualization Engineer",
+    "employer_name": "BAE Systems",
+    "job_title": "Software Engineer - Full Stack",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Software-Virtualization-Engineer_RQ209355-1?q=software+engineering",
-    "id": "general-dynamics-citrix-software-virtualization-engineer-2-locations"
+    "job_description": "• Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0235336 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 10 Days AgoR0238008 Software Developer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226754 Software Developer, SeniorlocationsMonterey, CAposted onPosted TodayR0237891.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Software-Engineer---Full-Stack_R0238756?q=software+engineering",
+    "id": "bae-systems-software-engineer-full-stack-2-locations"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Power Platform Developer",
-    "job_city": "27 Locations",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Full Stack Software Developer",
+    "job_city": "Charlottesville",
+    "job_state": "VA",
     "job_posted_at": "1d",
-    "job_description": "• Senior Data ScientistlocationsUS - AL, Huntsvilleposted onPosted 5 Days Ago38678Senior Developer - RPAlocationsIN - Chennaiposted onPosted 19 Days Ago38077Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago37095Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago37446Lead Developerlocations2 Locationsposted onPosted 28 Days Ago37698Data ConsultantlocationsUS - TX, San Antonioposted onPosted 3 Days Ago35853Professional Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 3 Days Ago38800Power Apps Developerlocations3 Locationsposted onPosted 30+ Days Ago36781ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 10 Days Ago38612MHS GENESIS Application Support Analystlocations3 Locationsposted onPosted 30+ Days Ago37166Revenue Cycle Solutions ArchitectlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago35353ServiceNow Business AnalystlocationsUS - Remote (Any location)posted onPosted 11 Days Ago35742Power Platform Developerlocations2 Locationsposted onPosted 10 Days Ago37514Power Platform Developerlocations27 Locationsposted onPosted Today38766ServiceNow DeveloperlocationsUS - FL, Tampaposted onPosted 30+ Days Ago37367Service Desk Front Line Support Agentlocations2 Locationsposted onPosted 30+ Days Ago35389Power Platform Developerlocations2 Locationsposted onPosted 19 Days Ago38064Cleared Data ScientistlocationsUS - DC, Washingtonposted onPosted 6 Days Ago38698Cleared Data Scientist LeadlocationsUS - DC, Washingtonposted onPosted 6 Days Ago38407Energy Efficiency Consultant with Financial Modeling Focuslocations2 Locationsposted onPosted 30+ Days Ago36732.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Power-Platform-Developer_38766?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-power-platform-developer-27-locations"
+    "job_description": "• Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 17 Days AgoR0234879 Full Stack Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0233918 Full Stack Software Engineer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0235946 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted TodayR0237930 Modern Software Developer, SeniorlocationsArlington, VAposted onPosted 14 Days AgoR0237637 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 12 Days AgoR0231841 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 12 Days AgoR0237850 Deployment Engineer, SeniorlocationsArlington, VAposted onPosted 13 Days AgoR0237747 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 10 Days AgoR0234072 Software Development Team LeadlocationsQuantico, VAposted onPosted TodayR0238698.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Full-Stack-Software-Developer_R0238747?q=software+engineering",
+    "id": "bae-systems-full-stack-software-developer-charlottesville"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Software DevOps Engineer, Networking",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Systems Software Engineer - Holoscan Sensor BridgelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2011816Senior System Software Engineer - GPU Power Managementlocations2 Locationsposted onPosted 30+ Days AgoJR2012311Senior System Software Engineer - SoC Power Managementlocations2 Locationsposted onPosted 30+ Days AgoJR2012319Senior System Software Engineer - Neural Graphics SDKslocations2 Locationsposted onPosted 30+ Days AgoJR2012086Senior Applications Software Engineer, Planning and ControllocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2012603Senior DGX Cloud AI Infrastructure Software Engineerlocations5 Locationsposted onPosted 25 Days AgoJR2012361Senior System Software Engineer, Kubernetes and KubeVirtlocations2 Locationsposted onPosted 30+ Days AgoJR2011789Senior Software Engineer, Deep Learning Inference - TensorRTlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2013020Senior System Software Engineer, GPU Performance Profilinglocations2 Locationsposted onPosted 30+ Days AgoJR2013302Senior Systems Software Engineer, Base OS - KernellocationsUS, CA, Remoteposted onPosted YesterdayJR2013791Senior System Software Engineer - Data Platform Observabilitylocations3 Locationsposted onPosted 30+ Days AgoJR2012588Director, System Software Engineering - Metropolis Accelerated and Inferencing SoftwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2011299Senior Software Engineer, Drive-Alpha Engineering - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2014529Senior Software Quality EngineerlocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2015670Software DevOps Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted TodayJR2011548Senior Software Engineer, ASIC Design and Verification ToolslocationsUS, CA, Santa Claraposted onPosted TodayJR2012173Senior Software Engineer, Hardware Tools and Methodology DevelopmentlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2012046Senior Software Engineer, 3D/4D Reconstruction - Autonomous Vehicleslocations2 Locationsposted onPosted 21 Days AgoJR2013923Lead System Software Engineer Platform - Server Embedded FirmwarelocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2014509Senior Software Engineer CUDA UMD - GPU Kernel SchedulinglocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR2014057.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer_JR2011548?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-software-devops-engineer-networking-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Data Center Optical Transceiver Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Lead qualification and validation of high-speed data center optical transceivers (400G/800G/1.\n• 6T), including electrical, optical, and system-level testingDrive vendor optics evaluation and selection, ensuring performance, interoperability, and quality across multiple suppliersPerform system-level debug of optical links, including module, host (NIC/switch), and cable interactionsDefine and execute test plans for PAM4 (100G/200G per lane) links, including BER, SI, jitter, and compliance validationValidate compliance with industry standards and CMIS MSA and ensure robust diagnostics and control integrationDevelop automation tools (Python) for test execution, data analysis, and reportingCollaborate cross-functionally with ASIC, system, optics, and thermal teams to resolve complex integration issuesContribute to next-generation interconnect technologies, including 212G Linear Drive Optics, and emerging CPO/NPO/XPO implement solutions 5+ years in optical networking or high-speed data center interconnectsHands-on experience with QSFP-DD, OSFP, QSFP112, and 400G/800G/1.\n• 6T optical modules and DAC/AEC solutionsStrong background in system-level optics validation, SI/debug, and link bring-upExperience with vendor qualification and cross-vendor interoperability testingFamiliarity with switch/NIC platforms (e.\n• , Broadcom Tomahawk or equivalent) and host-side integration AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/84277/login",
-    "id": "amd-data-center-optical-transceiver-engineer-us"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Maintenance Electro-Mechanic-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033330/Maintenance-Electro-Mechanic-2",
-    "id": "abb-maintenance-electro-mechanic-2-location-saint-louis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Control Software Engineer for Traction Applications (80 -100%)",
-    "job_city": "Location Untersiggenthal",
-    "job_state": "Aargau",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030156/Control-Software-Engineer-for-Traction-Applications-80-100",
-    "id": "abb-control-software-engineer-for-traction-applications-80-100-location-untersiggenthal"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Python & Databricks",
-    "job_city": "Plano",
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Event Outfitters Engineering",
+    "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer II Hyderabad, Telangana, India TechnologySoftware Engineering Build skills, gain experience, and accelerate your career with an exciting software engineering opportunity tailored to your growth.\n• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Director of Software Engineering India and 1 more TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III New York, NY, United States TechnologySoftware Engineering We are seeking a skilled and collaborative Java Back-End Engineer (Level III) to join an exciting and innovative team.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Principal Software Engineer New York, NY, United States and 1 more TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III for COMMODITIES UK LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer - Precious Metals Tech/ Front Office / Python / Athena Frontend Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Frontend Software Engineer II in Compliance Technology - Digital Experience Java Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer who is strong with Java, Springboot, Security, Monitoring and Databases Principal Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• Sr Manager of Software Engineering Columbus, OH, United States TechnologySoftware Engineering Serve in a leadership role by providing technical coaching and advisory for multiple technical teams Software Engineer II - Salesforce Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Java Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Java Software Engineer with strong experience in distributed and reactive programming Software Engineer III - AWS Dublin, Ireland TechnologySoftware Engineering Promote data integration design, build, and transformation to solve complex business problems through innovative engineering practices.\n• Software Engineer [Multiple Positions Available] Jersey City, NJ, United States TechnologySoftware Engineering Contribute to software development items including recurring requirements gathering sessions to support delivery to the risk and PNL reporting platform Risk Central.\n• Contribute to software development items including translating business requirements into technical specifications, securing stakeholder approval for implementation to support delivery to the risk and PNL reporting platform Risk Central.\n• Java / Spark / AWS Lead Software Engineer Jersey City, NJ, United States and 1 more TechnologySoftware Engineering Seeking a lead software engineer strong with Java, Spark and AWS Principal Software Engineer - AWS Cloud Engineer New York, NY, United States and 2 more TechnologySoftware Engineering Principal Software Engineer - Public Cloud Software Engineer III- Python API / Agentic Development New York, NY, United States TechnologySoftware Engineering Seeking a strong Python API Software Engineer with Agentic Systems experience Front End / React Lead Software Engineer New York, NY, United States and 1 more TechnologySoftware Engineering Seeking a strong Lead Front End / React Software Engineer Software Engineer II - Fullstack (Java/React) Dublin, Ireland TechnologySoftware Engineering We are currently hiring a fullstack software engineer for our Employee Platforms team.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741143/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-python-databricks-plano"
+    "job_posted_at": "21h",
+    "job_description": "software engineering job for the role Software Development Engineer, Event Outfitters Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10404534/software-development-engineer-event-outfitters-engineering",
+    "id": "amazon-software-development-engineer-event-outfitters-engineering-austin"
   }
 ]
