@@ -1,252 +1,52 @@
 [
   {
-    "employer_name": "Honeywell",
-    "job_title": "Salesforce Software Engineer",
-    "job_city": "Hamilton",
-    "job_state": "NJ",
-    "job_posted_at": "1w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/145926/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-salesforce-software-engineer-hamilton"
+    "employer_name": "Salesforce",
+    "job_title": "Field Marketing Analyst",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• 2-4 years professional experience in third party events field or a similar discipline - including planning and execution of in person and virtual eventsEnglish language is a must have Experience in Marketing Operations, Analytics, and/or Business Operations is a plusStrong organizational skills with careful attention to detail and the ability to manage multiple tasks simultaneouslyComfortable working in a deadline-driven environment Excellent written and verbal communication skills, with the ability to support presentations and and draft email templates that align with event themes and drive lead conversionProactive and self-motivated team player who takes ownership of responsibilities and follows through on deliverablesExperience partnering with Sales and Marketing to design and optimize pre- and post-event campaigns focused on maximizing ROI and pipeline conversionFamiliarity with Slack, Google Slides, Vendelux, Splashthat and ON24Experience or familiarity with Salesforce and/or other marketing tools used for campaign management and reporting Create and distribute all communications related to third-party events for sales and marketing stakeholders.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager Own the pre- and post-event data management process, including attendee list uploads and lead routing.\n• Promote and reinforce the process for pre-event meeting booking with field teams.\n• Develop and launch a pre-event sales guide & post-event follow-up guide featuring key CTAs and relevant content, in collaboration with internal stakeholders.\n• Drive alignment with sales teams for follow up motions and help drive accountability.\n• Contribute to and evolve the Third Party Events Playbook, ensuring it is actionable, and aligned with broader marketing goals.\n• Stakeholder Management:Collaborate with internal teams and external partners to ensure seamless execution of third-party events.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336823/field-marketing-analyst/",
+    "id": "salesforce-field-marketing-analyst-mexico-mexico-city"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Software Engineer",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_posted_at": "21h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/146736/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-software-engineer-charlotte"
+    "employer_name": "Salesforce",
+    "job_title": "Database DevOps Engineer",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Bachelor's degree in Computer Science, Engineering, or equivalent practical experience, with **10+ years** of hands-on experience as a Database Engineer, DBA, or similar role.\n• Hands-on experience with CI/CD tooling **(Jenkins, Spinnaker, Helm, GIT)**, containerization **(Docker, Kubernetes/EKS/GKE)**, and Infrastructure as Code **(Terraform)**.\n• Familiarity with AI/ML frameworks and experience integrating machine learning models with database and data pipeline workflows.\n• Experience working with vector databases **(pgvector or equivalent)** and supporting AI-driven applications and LLM-based workloads at scale.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Cloud deployment experience on AWS (EKS, RDS, or equivalent managed services)and familiarity with Apache Bookkeeper.\n• Experience with AI-powered observability and monitoring tools such as Grafana, Splunk, or AIOps platforms for anomaly detection and predictive alerting.\n• Hands-on experience using AI/ML tools for **automated query optimization**, capacity planning, or intelligent incident response.\n• Agile/Scrum methodology and full SDLC exposure, from requirements gathering through operational support.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr339631/database-devops-engineer/",
+    "id": "salesforce-database-devops-engineer-california-san-francisco"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Software Support Engineer",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_posted_at": "1w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/133753/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-software-support-engineer-raleigh"
+    "employer_name": "Salesforce",
+    "job_title": "Sales Development Representative",
+    "job_city": "Argentina - Buenos Aires",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Respond to and qualify incoming web and phone inquiries regarding salesforce.\n• Com in Latin AmericaCreate a great first impression to our prospects and customers by providing them with a world class experiencePartner with our experienced Account Executives to help fill their pipeline and develop your skillsMaintain active engagement with new and existing leads through creative follow-up communications designed to increase customer interest in salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Strong desire to be in technology salesPrior inside sales experience a plusExperience being held to metrics a plusExcellent written/verbal communication skillsAbility to multi-task, prioritize, and manage time effectiveStrong problem-solving skillsHigh energy and positive attitudeAbility to take initiativeComfortable working in a fast-paced and dynamic environment Fluency in written and verbal EnglishMust have completed a Bachelor’s degree within the past three years with inbound sales experience, or be on track to complete it within six months of the role’s start date.\n• This position is located in Buenos Aires and no relocation assistance is provided University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Com productsAchieve monthly quotas of sourced qualified opportunities and closed businessAI: Leverage the use of Salesforce's AI tools to streamline sales workflows, empower the team with timely insights, and articulate the value proposition of our offerings to drive business growth Our Story Newsroom Blog Careers Trust Salesforce.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296924/sales-development-representative/",
+    "id": "salesforce-sales-development-representative-argentina-buenos-aires"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engr I - GasDetection",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "employer_name": "Broadcom",
+    "job_title": "Supply Chain Planning Analyst",
+    "job_city": "USA-Colorado-Fort Collins-4380 Ziegler Road",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/144231/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engr-i-gasdetection-austin"
+    "job_description": "• Principal AI Development EngineerlocationsUSA-California-San Jose-1320 Ridder Park Drivetime typeFull timeposted onPosted 6 Days AgoR025622 Principal AI Development EngineerlocationsUSA-California-San Jose-1320 Ridder Park Drivetime typeFull timeposted onPosted 6 Days AgoR025623 Software Engineering ManagerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 8 Days AgoR025780 Principal Technology RolelocationsUSA-CA San Jose Innovation Drivetime typePart timeposted onPosted 7 Days AgoR025739 Principal EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted YesterdayR025895.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Supply-Chain-Planning-Analyst_R025887?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-supply-chain-planning-analyst-usa-colorado-fort-collins-4380-ziegler-road"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Experienced Technical Writer",
-    "job_city": "Muncie",
-    "job_state": "IN",
-    "job_posted_at": "1w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/126425/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-experienced-technical-writer-muncie"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Embedded Engineer",
-    "job_city": "Northford",
-    "job_state": "CT",
-    "job_posted_at": "1d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/145265/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-embedded-engineer-northford"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "QCS Field Service Engineer I - Mansfield, LA",
-    "job_city": "Mansfield",
-    "job_state": "LA",
-    "job_posted_at": "21h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/145909/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-qcs-field-service-engineer-i-mansfield-la-mansfield"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Major Project Sales Representative",
-    "job_city": "",
-    "job_state": "CA",
-    "job_posted_at": "6d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/146677/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-major-project-sales-representative-"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Application Engineer",
-    "job_city": "Duluth",
-    "job_state": "GA",
-    "job_posted_at": "21h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/146743/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-application-engineer-duluth"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Quality Engineer",
-    "job_city": "Mason",
+    "employer_name": "JPMorgan Chase",
+    "job_title": "DevOps/Automation Software Engineer",
+    "job_city": "Columbus",
     "job_state": "OH",
     "job_posted_at": "1d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/144855/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-quality-engineer-mason"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Traveling Field Programmer – HVAC Controls & Commissioning (Oklahoma Area)",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_posted_at": "3w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/144745/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-traveling-field-programmer-hvac-controls-commissioning-oklahoma-area-oklahoma-city"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Traveling Field Programmer – HVAC Controls & Commissioning (Dallas Fort Worth Area)",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "3w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/144747/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-traveling-field-programmer-hvac-controls-commissioning-dallas-fort-worth-area-dallas"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Traveling Field Service Programmer – HVAC Controls & Commissioning",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "2w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/145272/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-traveling-field-service-programmer-hvac-controls-commissioning-dallas"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engineer",
-    "job_city": "Cloquet",
-    "job_state": "MN",
-    "job_posted_at": "2w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/145245/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engineer-cloquet"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Access Controls Field Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "OH",
-    "job_posted_at": "1w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/139906/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-access-controls-field-service-technician-cleveland"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Chemical Engineer",
-    "job_city": "Allentown",
-    "job_state": "PA",
-    "job_posted_at": "2w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/144445/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-chemical-engineer-allentown"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Process Safety Engineer",
-    "job_city": "Shreveport",
-    "job_state": "LA",
-    "job_posted_at": "1w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/142843/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-process-safety-engineer-shreveport"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Electrical Engineer",
-    "job_city": "Northford",
-    "job_state": "CT",
-    "job_posted_at": "2w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/145264/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-electrical-engineer-northford"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Manufacturing Engineer",
-    "job_city": "Freeport",
-    "job_state": "IL",
-    "job_posted_at": "2w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/141410/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-manufacturing-engineer-freeport"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Mechanical Design Engineer",
-    "job_city": "Muncie",
-    "job_state": "IN",
-    "job_posted_at": "4w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/140722/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-mechanical-design-engineer-muncie"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Traveling Electrical Installer",
-    "job_city": "Mason",
-    "job_state": "OH",
-    "job_posted_at": "2w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/137474/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-traveling-electrical-installer-mason"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "QCS/DCS Field Service Engineer I - Queen City, LA",
-    "job_city": "Queen City",
-    "job_state": "TX",
-    "job_posted_at": "2w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/145552/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-qcs-dcs-field-service-engineer-i-queen-city-la-queen-city"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Project Engineer",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_posted_at": "3w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/143847/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-project-engineer-houston"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Field Engineer II - Turbo Machinery Control Systems",
-    "job_city": "Des Moines",
-    "job_state": "IA",
-    "job_posted_at": "2w",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/145925/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-engineer-ii-turbo-machinery-control-systems-des-moines"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Elastic Load Balancing (ELB)",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "5d",
-    "job_description": "software engineering job for the role Software Development Engineer, Elastic Load Balancing (ELB)",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10402107/software-development-engineer-elastic-load-balancing-elb",
-    "id": "amazon-software-development-engineer-elastic-load-balancing-elb-seattle"
+    "job_description": "• Software Engineer II Hyderabad, Telangana, India TechnologySoftware Engineering Build skills, gain experience, and accelerate your career with an exciting software engineering opportunity tailored to your growth.\n• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Director of Software Engineering India and 1 more TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III New York, NY, United States TechnologySoftware Engineering We are seeking a skilled and collaborative Java Back-End Engineer (Level III) to join an exciting and innovative team.\n• Lead Software Engineer Singapore TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Director of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Principal Software Engineer New York, NY, United States and 1 more TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III for COMMODITIES UK LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer - Precious Metals Tech/ Front Office / Python / Athena Frontend Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Frontend Software Engineer II in Compliance Technology - Digital Experience Java Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer who is strong with Java, Springboot, Security, Monitoring and Databases Software Engineer [Multiple Positions Available] Tampa, FL, United States TechnologySoftware Engineering Design, develop and implement software solutions that directly impact JPMC engineering workforce.\n• Senior Manager of Software Engineering -Front office trading Jersey City, NJ, United States TechnologySoftware Engineering Bring your Senior Manager of Software Engineering experience to lead the Front office Trading execution technology team.\n• Java Software Engineer III Boston, MA, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Manager of Software Engineering Columbus, OH, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer II - Salesforce Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Java Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Java Software Engineer with strong experience in distributed and reactive programming Senior Lead Software Engineer - Python & AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Data Engineer - Credit Technology Java Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a strong Lead Java Software Engineer for the Alternative Investments / Real Estate Technology Team Software Engineer [Multiple Positions Available] Columbus, OH, United States TechnologySoftware Engineering Design, develop and implement software solutions.\n• Software Engineer [Multiple Positions Available] Jersey City, NJ, United States TechnologySoftware Engineering Contribute to software development items including recurring requirements gathering sessions to support delivery to the risk and PNL reporting platform Risk Central.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734793/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-devops-automation-software-engineer-columbus"
   }
 ]
