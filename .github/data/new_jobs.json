@@ -1,52 +1,62 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Project Planning and Commissioning Engineer (m/f/d) – Functional Safety",
-    "job_city": "Location Mannheim",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032573/Project-Planning-and-Commissioning-Engineer-m-f-d-Functional-Safety",
-    "id": "abb-project-planning-and-commissioning-engineer-m-f-d-functional-safety-location-mannheim"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation SW Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025609/Automation-SW-Engineer",
-    "id": "abb-automation-sw-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Trainee/Project Support",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025610/Trainee-Project-Support",
-    "id": "abb-trainee-project-support-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer (Tools), Engagement Engineering",
-    "job_city": "Cupertino",
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer AWS 2026 - FutureNow - Chicago",
+    "job_city": "Chicago",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Minimum Qualifications6+ years industry experienceBachelor's Degree in Computer Science or equivalent experienceExperience in modern scripting or compiled languages (Python, Swift, C/C++, etc.\n• )Understanding of large language models and AI-assisted development toolsAbility to refine user requirements and prototype new solutions from scratch.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200660652-0836/software-engineer-tools-engagement-engineering?team=SFTWR",
-    "id": "apple-software-engineer-tools-engagement-engineering-cupertino"
+    "job_description": "software engineering job for the role Associate Application Developer AWS 2026 - FutureNow - Chicago",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=112429&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-aws-2026-futurenow-chicago-chicago"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer, AI Agents",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Associate Data Engineer 2026- FutureNow - Chicago",
+    "job_city": "Chicago",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/software-engineer-ai-agents/33099/94500679568",
-    "id": "arm-software-engineer-ai-agents-austin"
+    "job_description": "software engineering job for the role Associate Data Engineer 2026- FutureNow - Chicago",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=112424&source=WEB_Search_NA",
+    "id": "ibm-associate-data-engineer-2026-futurenow-chicago-chicago"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Industrial Paint Process Technician - B Shift",
+    "job_city": "Liberty",
+    "job_state": "Missouri",
+    "job_posted_at": "1d",
+    "job_description": "• Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00235424Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Intern - Engineering ADAS Vehicle IntegrationlocationsAuburn Hills, Michigan, USposted onPosted 7 Days AgoR00238341Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted 18 Days AgoR00237635Operations Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00234264Robotics Engineering Intern- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 21 Days AgoR00237111Warranty & Customer Liaison Engineer (Mechanical)locationsTroy, Michigan, USposted onPosted 18 Days AgoR00237633Senior Reactive Black Belt EngineerlocationsTroy, Michigan, USposted onPosted 19 Days AgoR00237634Trim Product Engineer (seat cover)locationsNovi, Michigan, USposted onPosted 4 Days AgoR00240385Magna Engineered Glass: Material HandlerlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00188244Magna Engineered Glass: 2nd Shift Production SupervisorlocationsHolland, Michigan, USposted onPosted 18 Days AgoR00238471Magna Engineered Glass: 2nd Shift Maintenance / Controls TechlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00221810Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232837User Experience Summer InternlocationsLowell, Massachusetts, USposted onPosted 15 Days AgoR00238235Industrial Paint Process Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted TodayR00240649Industrial Paint Process Technician - A ShiftlocationsLiberty, Missouri, USposted onPosted TodayR00240648Senior Manager Product Development ADAS & In-Vehicle Infotainment (IVI)locationsSouthfield, Michigan, USposted onPosted 12 Days AgoR00236329Validation Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225610CNC Programmer SupervisorlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00209942.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Liberty-Missouri-US/Industrial-Paint-Process-Technician---B-Shift_R00240649?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-industrial-paint-process-technician-b-shift-liberty"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Industrial Paint Process Technician - A Shift",
+    "job_city": "Liberty",
+    "job_state": "Missouri",
+    "job_posted_at": "1d",
+    "job_description": "• Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00235424Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Intern - Engineering ADAS Vehicle IntegrationlocationsAuburn Hills, Michigan, USposted onPosted 7 Days AgoR00238341Manufacturing Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225603Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted 18 Days AgoR00237635Operations Engineering Intern- Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00234264Robotics Engineering Intern- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 21 Days AgoR00237111Warranty & Customer Liaison Engineer (Mechanical)locationsTroy, Michigan, USposted onPosted 18 Days AgoR00237633Senior Reactive Black Belt EngineerlocationsTroy, Michigan, USposted onPosted 19 Days AgoR00237634Trim Product Engineer (seat cover)locationsNovi, Michigan, USposted onPosted 4 Days AgoR00240385Magna Engineered Glass: Material HandlerlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00188244Magna Engineered Glass: 2nd Shift Production SupervisorlocationsHolland, Michigan, USposted onPosted 18 Days AgoR00238471Magna Engineered Glass: 2nd Shift Maintenance / Controls TechlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00221810Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232837User Experience Summer InternlocationsLowell, Massachusetts, USposted onPosted 15 Days AgoR00238235Industrial Paint Process Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted TodayR00240649Industrial Paint Process Technician - A ShiftlocationsLiberty, Missouri, USposted onPosted TodayR00240648Senior Manager Product Development ADAS & In-Vehicle Infotainment (IVI)locationsSouthfield, Michigan, USposted onPosted 12 Days AgoR00236329Validation Intern - Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00225610CNC Programmer SupervisorlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00209942.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Liberty-Missouri-US/Industrial-Paint-Process-Technician---A-Shift_R00240648?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-industrial-paint-process-technician-a-shift-liberty"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Construction Sales Engineer",
+    "job_city": "Location Sharonville",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032403/Construction-Sales-Engineer",
+    "id": "abb-construction-sales-engineer-location-sharonville"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Construction Sales Engineer",
+    "job_city": "Location Columbus",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032405/Construction-Sales-Engineer",
+    "id": "abb-construction-sales-engineer-location-columbus"
   }
 ]
