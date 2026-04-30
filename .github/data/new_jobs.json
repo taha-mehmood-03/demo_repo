@@ -1,32 +1,122 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Software and Systems Integration Engineer",
-    "job_city": "Chantilly",
-    "job_state": "VA",
+    "job_title": "C++ Simulation Engineer",
+    "job_city": "Wright Patterson AFB",
+    "job_state": "OH",
     "job_posted_at": "1d",
-    "job_description": "• Modeling and Simulations SpecialistlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0235908 Enterprise Integration Architect, LeadlocationsMcLean, VAposted onPosted 30+ Days AgoR0236335 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 7 Days AgoR0232705 Software Architect, LeadlocationsLexington Park, MDposted onPosted 30+ Days AgoR0235783 Product Security Senior Managerlocations8 Locationsposted onPosted 6 Days AgoR0230956 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 21 Days AgoR0237448 DevOps Engineer, SeniorlocationsMoorestown, NJposted onPosted 13 Days AgoR0236058.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-and-Systems-Integration-Engineer_R0239040?q=software+engineering",
-    "id": "bae-systems-software-and-systems-integration-engineer-chantilly"
+    "job_description": "• University, Applied AI Software Development InternlocationsMcLean, VAposted onPosted 23 Days AgoR0236822 University, Applied AI Software Developer InternlocationsMcLean, VAposted onPosted 23 Days AgoR0236821 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234280 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 3 Days AgoR0237930 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 20 Days AgoR0234879 Full Stack Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0233918 Full Stack Software Engineer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0235946 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 15 Days AgoR0231841 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 15 Days AgoR0237850.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/C---Simulation-Engineer_R0238584?q=software+engineering",
+    "id": "bae-systems-c-simulation-engineer-wright-patterson-afb"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "IT System Assessor",
-    "job_city": "US - (Any location)",
+    "employer_name": "BAE Systems",
+    "job_title": "Palantir Data and Software Engineer",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• IT System AssessorlocationsUS - Remote (Any location)posted onPosted Today38924Cleared Data ScientistlocationsUS - DC, Washingtonposted onPosted 9 Days Ago38698Cleared Data Scientist LeadlocationsUS - DC, Washingtonposted onPosted 9 Days Ago38407Energy Efficiency Consultant with Financial Modeling Focuslocations2 Locationsposted onPosted 30+ Days Ago36732Energy Efficiency Consultantlocations2 Locationsposted onPosted 30+ Days Ago36731AI Development Leadlocations7 Locationsposted onPosted Yesterday37388AI & Data Associate Director - Energy Providers EM&Vlocations9 Locationsposted onPosted 30+ Days Ago37161Energy Providers Associated Director - Puerto Ricolocations2 Locationsposted onPosted 30+ Days Ago36162Energy Efficiency Consultant with Testing and Manufacturing Focuslocations2 Locationsposted onPosted 30+ Days Ago36733Journeyman Appian Developerlocations2 Locationsposted onPosted 30+ Days Ago35780ServiceNow Developerlocations2 Locationsposted onPosted 7 Days Ago37706Managing Consultant, AI & DatalocationsUS - Remote (Any location)posted onPosted Yesterday38007Consultant - Financial Management (FM) Transformation - Defense & Security - Campus 2026locations5 Locationsposted onPosted 6 Days Ago35992Energy Efficiency Consultant Ilocations2 Locationsposted onPosted 17 Days Ago38406Senior Consultant - Financial Management Transformation (Department of War)locationsUS - VA, Arlingtonposted onPosted 15 Days Ago38386Systems Integration AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago35976Senior Financial Transformation ConsultantlocationsUS - VA, McLeanposted onPosted 6 Days Ago38778Intern - Health Information Technology Solutions, Technology Consulting - Campus 2026locations2 Locationsposted onPosted 2 Days Ago38964.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/IT-System-Assessor_38924-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-it-system-assessor-us-any-location"
+    "job_description": "• University, Applied AI Software Development InternlocationsMcLean, VAposted onPosted 23 Days AgoR0236822 University, Applied AI Software Developer InternlocationsMcLean, VAposted onPosted 23 Days AgoR0236821 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234280 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 3 Days AgoR0237930 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 20 Days AgoR0234879 Full Stack Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0233918 Full Stack Software Engineer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0235946 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 15 Days AgoR0231841 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 15 Days AgoR0237850.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Palantir-Data-and-Software-Engineer_R0237976?q=software+engineering",
+    "id": "bae-systems-palantir-data-and-software-engineer-2-locations"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Cloud Platform Software Developer",
+    "job_city": "USA LA Home Office (LAHOME)",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-Home-Office-LAHOME/Cloud-Platform-Software-Developer_RQ218457-1?q=software+engineering",
+    "id": "general-dynamics-cloud-platform-software-developer-usa-la-home-office-lahome"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Vue/Node.js Software Engineer - TS/SCI with Polygraph",
+    "job_city": "USA VA McLean",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Vue-Nodejs-Software-Engineer---TS-SCI-with-Polygraph_RQ218769-2?q=software+engineering",
+    "id": "general-dynamics-vue-node-js-software-engineer-ts-sci-with-polygraph-usa-va-mclean"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Cloud Software Developer (Node.js and React.js) - State of Louisiana",
+    "job_city": "Any Location /",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer--Nodejs-and-Reactjs----State-of-Louisiana_RQ217569-1?q=software+engineering",
+    "id": "general-dynamics-cloud-software-developer-node-js-and-react-js-state-of-louisiana-any-location"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "MCCO Software Developer SME - Active TS/SCI CI Poly",
+    "job_city": "USA MD Fort Meade",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Fort-Meade/MCCO-Software-Developer-SME---Active-TS-SCI-CI-Poly_RQ217757?q=software+engineering",
+    "id": "general-dynamics-mcco-software-developer-sme-active-ts-sci-ci-poly-usa-md-fort-meade"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Jr Java / Angular Software Developer - DHS or CBP public trust preferred",
+    "job_city": "USA VA Ashburn",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Ashburn/Jr-Java---Angular-Software-Developer----DHS-or-CBP-public-trust-or-Top-Secret-preferred_RQ218126-1?q=software+engineering",
+    "id": "general-dynamics-jr-java-angular-software-developer-dhs-or-cbp-public-trust-preferred-usa-va-ashburn"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Cloud DevSecOps Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Cloud-DevSecOps-Engineer_RQ218706?q=software+engineering",
+    "id": "general-dynamics-cloud-devsecops-engineer-2-locations"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Product Development Engineer - AI Systems",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Proficiency in Python and experience building backend or data‑centric systems.\n• Hands‑on experience working with large language models (commercial or open‑source).\n• Experience with agentic AI frameworks (e.\n• Experience building analytics‑heavy or data‑intensive products.\n• Experience collaborating with domain experts to translate problem knowledge into software solutions.\n• AMD Partner Hub Authorized Distributors AMD University Program Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.\n• Design and develop multi‑agent analytics workflows, enabling specialized AI agents to collaborate on data retrieval, hypothesis generation, root‑cause analysis, and insight summarization.\n• Implement agent orchestration logic, including task decomposition, planning, routing, and inter‑agent communication.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/84767/login",
+    "id": "amd-product-development-engineer-ai-systems-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer",
+    "job_city": "New York City",
+    "job_state": "US",
+    "job_posted_at": "16h",
+    "job_description": "• Minimum QualificationsMaster’s degree or foreign equivalent in Computer Systems, Computer Science or related field and 3 years of experience in the job offered or related occupation.\n• Education and/or experience with each of the following skills is required:Utilizing programming languages including Python, Java, Golang, or C++ to design and implement backend systems and automation tools supporting large-scale content ingestion pipelines.\n• Utilizing Kubernetes and containerization technologies, including Docker, to design, deploy, and operate microservice-based distributed systems in production environments.\n• Configuring network gateways, ingress controllers, and load balancers (including NGINX or Envoy) to manage service traffic and optimize application entry points.\n• Utilizing continuous integration and delivery (CI/CD) tools, including Jenkins or GitHub Actions, to automate software builds, testing, and multi-environment deployments.\n• Designing and implementing telemetry and observability systems using Prometheus and PromQL to collect metrics, and Grafana to visualize performance trends and service reliability dashboards.\n• Designing and implementing distributed data processing systems using cloud platforms such as AWS or Google Cloud Platform (GCP).\n• Utilizing structured and unstructured data stores, including PostgreSQL and MongoDB, to support ingestion, transformation, and retrieval of high-volume datasets.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200659556-2459/software-development-engineer?team=SFTWR",
+    "id": "apple-software-development-engineer-new-york-city"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II - Low-Latency Java and Kafka",
-    "job_city": "BOURNEMOUTH",
-    "job_state": "DORSET",
+    "job_title": "Software Engineer III – Python/PySpark/AWS",
+    "job_city": "Tampa",
+    "job_state": "FL",
     "job_posted_at": "1d",
     "job_description": "• Lead Software Engineer, Cloud Platforms Jersey City, NJ, United States and 1 more TechnologySoftware Engineering Lead Software Engineer – Cloud Platform in the Corporate AI and Machine Learning Data Platforms Team Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Software Platform Engineering Manager to lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Director of Software Engineering India and 1 more TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III New York, NY, United States TechnologySoftware Engineering We are seeking a skilled and collaborative Java Back-End Engineer (Level III) to join an exciting and innovative team.\n• Lead Software Engineer Singapore TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III-Software Engineer III-DevOps – Cloud Platform Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Frontend Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Frontend Software Engineer II in Compliance Technology - Digital Experience Java Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer who is strong with Java, Springboot, Security, Monitoring and Databases Software Engineer [Multiple Positions Available] Tampa, FL, United States TechnologySoftware Engineering Design, develop and implement software solutions that directly impact JPMC engineering workforce.\n• Senior Manager of Software Engineering -Front office trading Jersey City, NJ, United States TechnologySoftware Engineering Bring your Senior Manager of Software Engineering experience to lead the Front office Trading execution technology team.\n• Java / Python Lead Software Engineer- Trading Systems Columbus, OH, United States TechnologySoftware Engineering Seeking a Lead Software Engineer who is hands on with Java and Python coding and has an aptitude for team management Software Engineer III- Mainframes Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - AI Houston, TX, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Java Software Engineer III Boston, MA, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Manager of Software Engineering Columbus, OH, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Java Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Lead Java Software Engineer with strong experience in distributed and reactive programming Senior Lead Software Engineer - Python & AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Data Engineer - Credit Technology Java Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a strong Lead Java Software Engineer for the Alternative Investments / Real Estate Technology Team Software Engineer [Multiple Positions Available] Columbus, OH, United States TechnologySoftware Engineering Design, develop and implement software solutions.\n• Lead Software Engineer, Payments Technology Sydney, NSW, Australia TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer [Multiple Positions Available] Jersey City, NJ, United States TechnologySoftware Engineering Contribute to software development items including recurring requirements gathering sessions to support delivery to the risk and PNL reporting platform Risk Central.\n• Contribute to software development items including translating business requirements into technical specifications, securing stakeholder approval for implementation to support delivery to the risk and PNL reporting platform Risk Central.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741357/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-low-latency-java-and-kafka-bournemouth"
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742667/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-python-pyspark-aws-tampa"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Search Intelligence Freshness",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Search Intelligence Freshness",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106772244834722502-software-engineer-iii-aiml-search-intelligence-freshness?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-iii-ai-ml-search-intelligence-freshness-mountain-view"
   }
 ]
