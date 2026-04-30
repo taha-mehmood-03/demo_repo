@@ -1,72 +1,72 @@
 [
   {
     "employer_name": "Micron Technology",
-    "job_title": "Computer Engineer, CE",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/41736690",
-    "id": "micron-technology-computer-engineer-ce-richardson"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Computer Engineer, CE",
+    "job_title": "Registered Apprentice , Waste Service Technician",
     "job_city": "Boise",
     "job_state": "Idaho",
     "job_posted_at": "1d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/41740737",
-    "id": "micron-technology-computer-engineer-ce-boise"
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Purpose for Which It Is Used: The Eightfold AI recruiting software is used to: (a) identify skills from your resume and career history.\n• (b) match your qualifications against role requirements.\n• The Platform will use AI to inform the human recruiter of skills you may have that are not listed on your resume, based on your career history and work experience listed in your resume or other application materials.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-registered-apprentice-waste-service-technician-boise"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Joomla Backend Developer",
-    "job_city": "Chantilly",
+    "employer_name": "General Dynamics",
+    "job_title": "OCO Software Developer/Engineer",
+    "job_city": "USA MD Annapolis Junction",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/OCO-Software-Developer-Engineer_RQ218975-2?q=software+engineering",
+    "id": "general-dynamics-oco-software-developer-engineer-usa-md-annapolis-junction"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Software Applications Tester - TS/SCI with Polygraph",
+    "job_city": "USA VA McLean",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Software-Applications-Tester---TS-SCI-with-Polygraph_RQ218751-1?q=software+engineering",
+    "id": "general-dynamics-software-applications-tester-ts-sci-with-polygraph-usa-va-mclean"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Cloud Software Developer with Node.js and React.js experience",
+    "job_city": "Any Location /",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "Same-page description extraction failed after retries",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer_RQ217412?q=software+engineering",
+    "id": "general-dynamics-cloud-software-developer-with-node-js-and-react-js-experience-any-location"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "CloudKit Client Software Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsSoftware engineering experience with strong programming skills in Swift and/or Objective-CExperience building on Apple Platforms (macOS, iOS, watchOS, tvOS, etc.\n• )Experience in building system-level frameworks and APIsExcellent communicationBachelor's Degree in an engineering-related field or equivalent related experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200653933-3577/cloudkit-client-software-engineer?team=SFTWR",
+    "id": "apple-cloudkit-client-software-engineer-san-francisco"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Dev Engineer (SDE II), AWS CX - EC2 Core / Outposts Consoles",
+    "job_city": "Arlington",
     "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Integration Engineer, SeniorlocationsCalifornia, MDposted onPosted 7 Days AgoR0237819 AI and ML Software Engineer, SeniorlocationsAlexandria, VAposted onPosted 13 Days AgoR0235443 Quantum Go-To-Market Specialistlocations2 Locationsposted onPosted 30+ Days AgoR0235191 Web Developer, SeniorlocationsArlington, VAposted onPosted YesterdayR0238853.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Joomla-Backend-Developer_R0239019?q=software+engineering",
-    "id": "bae-systems-joomla-backend-developer-chantilly"
+    "job_posted_at": "4h",
+    "job_description": "software engineering job for the role Software Dev Engineer (SDE II), AWS CX - EC2 Core / Outposts Consoles",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10407546/software-dev-engineer-sde-ii-aws-cx-ec2-core-outposts-consoles",
+    "id": "amazon-software-dev-engineer-sde-ii-aws-cx-ec2-core-outposts-consoles-arlington"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "AI Product Owner",
-    "job_city": "US - (Any location)",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Salesforce DeveloperlocationsUS - TX, San Antonioposted onPosted 23 Days Ago36980Senior Power Apps Developerlocations2 Locationsposted onPosted 30+ Days Ago35430Microsoft Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 6 Days Ago37550Power Apps Developerlocations2 Locationsposted onPosted Today38447Solution Architect – AI & Data Development (Health)locationsUS - Remote (Any location)posted onPosted 26 Days Ago36401Logistics IT Technical LeadlocationsUS - Remote (Any location)posted onPosted 2 Days Ago38680ServiceNow Developerlocations29 Locationsposted onPosted 7 Days Ago38814Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 7 Days Ago32512Data ScientistlocationsUS - VA, Arlingtonposted onPosted 15 Days Ago38181Palantir Foundry DeveloperlocationsUS - Remote (Any location)posted onPosted 22 Days Ago36683Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 30+ Days Ago35408GIS Leaderlocations2 Locationsposted onPosted 12 Days Ago37975Senior Appian Developerlocations2 Locationsposted onPosted 30+ Days Ago35409Senior Data ScientistlocationsUS - VA, Chantillyposted onPosted 30+ Days Ago37322Technical Data Analyst (Border Security)locationsUS - DC, Washingtonposted onPosted 12 Days Ago38211AI ArchitectlocationsIN - Chennaiposted onPosted 29 Days Ago37858Technical SETA SME – Machine Learning, Modeling & SimulationlocationsUS - MD, Bethesdaposted onPosted 20 Days Ago38258Databricks Apps Developerlocations2 Locationsposted onPosted 30+ Days Ago37350AI Product OwnerlocationsUS - Remote (Any location)posted onPosted Today38522AI Application TesterlocationsUS - Remote (Any location)posted onPosted 6 Days Ago38585.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/AI-Product-Owner_38522?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-ai-product-owner-us-any-location"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Robotics Engineer - B Shift",
-    "job_city": "Liberty",
-    "job_state": "Missouri",
-    "job_posted_at": "1d",
-    "job_description": "• Lead Engineer, HardwarelocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00234324System Engineering AdminlocationsTroy, Michigan, USposted onPosted 5 Days AgoR00240242Solutions Engineering ManagerlocationsLowell, Massachusetts, USposted onPosted 8 Days AgoR00221303Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00203332Supplier Quality EngineerlocationsMuncie, Indiana, USposted onPosted 30+ Days AgoR00206229Sr.\n• Process EngineerlocationsSterling Heights, Michigan, USposted onPosted YesterdayR00240866Intern - Electrical EngineeringlocationsSouthfield, Michigan, USposted onPosted 21 Days AgoR00235436Jr.\n• Quality EngineerlocationsMoore, South Carolina, USposted onPosted 14 Days AgoR00229110Controls Engineer - CastinglocationsBirmingham, Alabama, USposted onPosted 6 Days AgoR00240233Senior Packaging EngineerlocationsTroy, Michigan, USposted onPosted 5 Days AgoR00239101Student- Engineering ADAS FeatureslocationsAuburn Hills, Michigan, USposted onPosted 2 Days AgoR00238340Student - Engineering ADAS AlgorithmlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221215Process Development Engineer - AssemblylocationsTroy, Michigan, USposted onPosted 8 Days AgoR00236962Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Engineer II - Systems TestlocationsRochester Hills, Michigan, USposted onPosted 8 Days AgoR00237945Sr.\n• Engineer - System TestlocationsRochester Hills, Michigan, USposted onPosted 22 Days AgoR00237791Robotics Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted TodayR00225164Controls Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted 21 Days AgoR00237992Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 2 Days AgoR00235419Intern - Engineering ADAS Perception FeatureslocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00235424.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Liberty-Missouri-US/Robotics-Engineer_R00225164?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-robotics-engineer-b-shift-liberty"
-  },
-  {
-    "employer_name": "Workday",
-    "job_title": "Software Development Engineer - AI Platform (US Federal)",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Manager, Software Development Engineeringremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted YesterdayJR-0104153Senior Software Development Engineer - US Federalremote typeOnsitelocationsUSA.\n• Restonposted onPosted 20 Days AgoJR-0104942Manager, Software Development Engineering - US Federalremote typeOnsitelocationsUSA.\n• Restonposted onPosted 20 Days AgoJR-0104887Sr.\n• Software Development Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 5 Days AgoJR-0103679Senior Devops Engineer, Alpaca Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 5 Days AgoJR-0098542Senior Manager, Software Development Engineering (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 5 Days AgoJR-0103683Software Development Engineer - AI Platform (US Federal)remote typeFlexlocations2 Locationsposted onPosted TodayJR-0106247Principal/ Senior Software Development Engineer (Full Stack)remote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 6 Days AgoJR-0106761Software Development Engineer - ML Ops (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 2 Days AgoJR-0105395Sr Manager Core Software (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0103019Agent Development Engineer - Agent Platformremote typeFlexlocations2 Locationsposted onPosted 5 Days AgoJR-0106274Software Development Engineer, DevOps - Lifecycle Platform (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097425Principal Full Stack Engineer - Agent Platformremote typeFlexlocations2 Locationsposted onPosted 5 Days AgoJR-0106270Principal Agent Development Engineer - Agent Platformremote typeFlexlocations2 Locationsposted onPosted 5 Days AgoJR-0106234Full Stack Development Engineer- US Federal (REACT/XO)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted 2 Days AgoJR-0106446Senior Cybersecurity Engineerremote typeFlexlocations2 Locationsposted onPosted 30+ Days AgoJR-0104087Senior Site Reliability Engineerremote typeOnsitelocationsUSA.",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer-MLOps-US-Federal_JR-0106247?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-ai-platform-us-federal-2-locations"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engineer",
-    "job_city": "Escanaba",
-    "job_state": "MI",
-    "job_posted_at": "23h",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Sr Advanced Software Engineer - (DevOps, SRE & AI) Locations Atlanta, GA, United States (Hybrid) Posting Date03/09/2026 Trending We are seeking a highly skilled and experienced Senior Site Reliability Engineer (SRE) to join our team.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/146637/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engineer-escanaba"
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer (SDE II), AWS CX - EC2 Core / Outposts Consoles",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_posted_at": "4h",
+    "job_description": "software engineering job for the role Software Development Engineer (SDE II), AWS CX - EC2 Core / Outposts Consoles",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10407547/software-development-engineer-sde-ii-aws-cx-ec2-core-outposts-consoles",
+    "id": "amazon-software-development-engineer-sde-ii-aws-cx-ec2-core-outposts-consoles-arlington"
   }
 ]
