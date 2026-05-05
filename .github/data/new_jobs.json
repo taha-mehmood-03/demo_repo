@@ -1,72 +1,22 @@
 [
   {
     "employer_name": "Salesforce",
-    "job_title": "Technical Support Engineer - Accessibility",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Lead live customer calls with confidence — at times advocating on behalf of the customer to our product team when a real defect needs to be prioritized, and at other times guiding the customer to a clear understanding of platform capabilities, standards, and roadmap realities.\n• A genuine passion for accessibility and an enthusiasm for tinkering with how experiences work for people with disabilities — this is the most important thing on this list.\n• You don't need to be certified, but you need to have actually used these tools and want to get better at them.\n• Some background in customer support or technical consulting — you've been in a role where you had to solve problems for someone else, explain your thinking clearly, and own the outcome.\n• You must hold a singular U.\n• Citizenship and no dual-citizenship Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Hands-on experience with multiple assistive technologies beyond JAWS — including NVDA, VoiceOver (macOS/iOS), TalkBack (Android), ZoomText, or Dragon NaturallySpeaking.\n• Experience with Salesforce and/or CRM applications.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr334006/technical-support-engineer-accessibility/",
-    "id": "salesforce-technical-support-engineer-accessibility-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Salesforce",
     "job_title": "Business Development Representative – Data Foundation",
-    "job_city": "Georgia - Atlanta",
+    "job_city": "Illinois - Chicago",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 1-2 years of professional experience in sales, consulting, customer success, or another client-facing role — or a demonstrated passion for technology and salesExceptional communication skills: clear, concise, and compelling in writing and on the phoneNatural curiosity about technology and how it works, combined with resilience and a growth mindsetStrong research and organizational skills, with the ability to manage multiple priorities in a fast-paced environment Familiarity with enterprise software concepts such as Application Programming Interfaces (APIs), data integration, Extract, Transform, and Load (ETL), cloud platforms, or software as a service (SaaS)Exposure to data management, MDM, or data governance conceptsExperience with Salesforce CRM, Salesloft, Outreach, LinkedIn Sales Navigator, or similar toolsPrior experience in a business-to-business (B2B) technology environment University Overview Interns New Grads Advanced Degrees Associate Program Manager Execute high-volume, high-quality outbound prospecting across email, phone, LinkedIn, and video — personalized to integration and data management pain points across key verticals including Financial Services, Healthcare and Life Sciences, and ManufacturingPartner with your aligned AE to prioritize accounts, develop territory strategies, and build account maps identifying key decision-makers and AI investment signalsNavigate multi-stakeholder conversations with buyers including Chief Information Officers, Chief Technology Officers, Chief Data Officers, and Enterprise ArchitectsParticipate in structured sales training and product enablement to build fluency across MuleSoft and Informatica, with an accelerated path to promotion for those who demonstrate pipeline quality and business acumen.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr341032/business-development-representative-data-foundation/",
-    "id": "salesforce-business-development-representative-data-foundation-georgia-atlanta"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Prinicipal Emulation Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Sr Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 10 Days Ago2601499Sr Staff Analog Modeling/Verification EngineerlocationsSan Diego, CAposted onPosted 10 Days Ago2601544Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 10 Days Ago2601537Associate VP - Analog Mixed-Signal DesignlocationsSan Diego, CAposted onPosted 10 Days Ago2601548Principal Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 10 Days Ago2601450Sr Director Analog Mixed-Signal DesignlocationsSan Diego, CAposted onPosted 10 Days Ago2601543Sr Principal Analog Mixed Signal Design EngineerlocationsUS-CA - San Diegoposted onPosted 10 Days Ago2601449Senior Director of SoC Design VerificationlocationsUS-CA - San Diegoposted onPosted 19 Days Ago2601017Senior Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 19 Days Ago2601116Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Principal Emulation Engineerlocations2 Locationsposted onPosted Today2601589Prinicipal Emulation Engineerlocations2 Locationsposted onPosted Today2601564Senior Staff Emulation Engineerlocations2 Locationsposted onPosted Today2601627Principle Hardware Design Engineer - Systems EngineeringlocationsSanta Clara, CAposted onPosted Today2601020Principal Validation LeadlocationsSanta Clara, CAposted onPosted Today2600693Senior Staff SoC Design EngineerlocationsSanta Clara, CAposted onPosted Today2601594Senior Staff Engineer, Analog IC DesignlocationsSanta Clara, CAposted onPosted Today2601638Staff DFT EngineerlocationsBurlington, VTposted onPosted Today2600395Hardware and Silicon ValidationlocationsWestlake Village, CAposted onPosted 3 Days Ago2600895Principal, Design Verification Engineer, UAL and PCIe SubsystemslocationsSanta Clara, CAposted onPosted 3 Days Ago2601316.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Prinicipal-Emulation-Engineer_2601564?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-prinicipal-emulation-engineer-2-locations"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Principle Hardware Design Engineer - Systems Engineering",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Sr Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 10 Days Ago2601499Sr Staff Analog Modeling/Verification EngineerlocationsSan Diego, CAposted onPosted 10 Days Ago2601544Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 10 Days Ago2601537Associate VP - Analog Mixed-Signal DesignlocationsSan Diego, CAposted onPosted 10 Days Ago2601548Principal Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 10 Days Ago2601450Sr Director Analog Mixed-Signal DesignlocationsSan Diego, CAposted onPosted 10 Days Ago2601543Sr Principal Analog Mixed Signal Design EngineerlocationsUS-CA - San Diegoposted onPosted 10 Days Ago2601449Senior Director of SoC Design VerificationlocationsUS-CA - San Diegoposted onPosted 19 Days Ago2601017Senior Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 19 Days Ago2601116Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Principal Emulation Engineerlocations2 Locationsposted onPosted Today2601589Prinicipal Emulation Engineerlocations2 Locationsposted onPosted Today2601564Senior Staff Emulation Engineerlocations2 Locationsposted onPosted Today2601627Principle Hardware Design Engineer - Systems EngineeringlocationsSanta Clara, CAposted onPosted Today2601020Principal Validation LeadlocationsSanta Clara, CAposted onPosted Today2600693Senior Staff SoC Design EngineerlocationsSanta Clara, CAposted onPosted Today2601594Senior Staff Engineer, Analog IC DesignlocationsSanta Clara, CAposted onPosted Today2601638Staff DFT EngineerlocationsBurlington, VTposted onPosted Today2600395Hardware and Silicon ValidationlocationsWestlake Village, CAposted onPosted 3 Days Ago2600895Principal, Design Verification Engineer, UAL and PCIe SubsystemslocationsSanta Clara, CAposted onPosted 3 Days Ago2601316.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Signal-Integrity-Engineer---Principle-Hardware-Design-Engineer---PCB-SOC-validation_2601020?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-principle-hardware-design-engineer-systems-engineering-santa-clara"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Development / Tester",
-    "job_city": "Location Oakville",
-    "job_state": "Ontario",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033359/Software-Development-Tester",
-    "id": "abb-software-development-tester-location-oakville"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Software Testing Engineering Internship",
-    "job_city": "Canonsburg",
-    "job_state": "Pennsylvania",
-    "job_posted_at": "2d",
-    "job_description": "• Currently pursuing a BS in Mechanical Engineering, Software Engineering, or a related technical degree.\n• Enrolled full-time in a degree program and planning to return to university after completing the co-op program.\n• Strong, tenacious problem-solving skills.\n• Preferred: Experience with programming (C++, C#, Java, or Python) and/or ANSYS Workbench.\n• Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright Software Testing Engineering Internship Canonsburg, Pennsylvania Channel Global Campaigns Manager Canonsburg, Pennsylvania R&D Engineering, Staff Engineer (C/C++, Data Structures, Algorithm, RTL compiler) Bengaluru, India Director of Sales Account Management Sunnyvale, California About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions.\n• Company About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions Resources Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Learn What is an AI Accelerator.\n• What is AI Chip Design What are Chiplets.\n• What is EDA Agentic AI.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/software-testing-engineering-internship/44408/94712863312",
-    "id": "synopsys-software-testing-engineering-internship-canonsburg"
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr341034/business-development-representative-data-foundation/",
+    "id": "salesforce-business-development-representative-data-foundation-illinois-chicago"
   },
   {
     "employer_name": "Apple",
     "job_title": "Software Development Engineer, Platforms",
-    "job_city": "Cupertino",
+    "job_city": "San Diego",
     "job_state": "US",
-    "job_posted_at": "3h",
+    "job_posted_at": "6h",
     "job_description": "• Minimum QualificationsProficient in Python programming.\n• Experience with software development processes such as compilation, unit testing, code analysis, release process, and code coverage.\n• Experience working on Linux and macOS based platforms and shell scripting.\n• Experience with DevOps tools such as Ansible, Docker, Kubernetes, Terraform.\n• Experience with CI/CD process and platforms.\n• Strong analytical and problem solving skills.\n• Excellent written and oral communication skills and ability to work with large development teams.\n• In Computer Science or equivalent.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200661459-0836/software-development-engineer-platforms?team=SFTWR",
-    "id": "apple-software-development-engineer-platforms-cupertino"
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200661459-3543/software-development-engineer-platforms?team=SFTWR",
+    "id": "apple-software-development-engineer-platforms-san-diego"
   }
 ]
