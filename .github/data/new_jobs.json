@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "HVM Area Manufacturing Engineer - Dry Etch",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/41248138",
+    "id": "micron-technology-hvm-area-manufacturing-engineer-dry-etch-boise"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "Software Development Engineer in Test (SDET)",
+    "job_city": "CZE-Praha 11 V Parku 2343/24",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Systems Applications & AI Tooling Engineer (Ethernet NIC, PCIe Switch)locationsCanada-Richmond-International Placetime typeFull timeposted onPosted 4 Days AgoR025934 Principal AI Development EngineerlocationsUSA-California-San Jose-1320 Ridder Park Drivetime typeFull timeposted onPosted 13 Days AgoR025622 Principal AI Development EngineerlocationsUSA-California-San Jose-1320 Ridder Park Drivetime typeFull timeposted onPosted 13 Days AgoR025623 Software Engineering ManagerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 15 Days AgoR025780 Principal EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 8 Days AgoR025895 Agile LeaderlocationsUSA-PA Pittsburgh Holiday Drivetime typeFull timeposted onPosted 6 Days AgoR025907.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/CZE-Praha-11-V-Parku-234324/Software-Development-Engineer-in-Test--SDET-_R025902-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-software-development-engineer-in-test-sdet-cze-praha-11-v-parku-2343-24"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Security, Chrome Product Security",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Security, Chrome Product Security",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/92701240483291846-software-engineer-security-chrome-product-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-security-chrome-product-security-kirkland"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Customer Solutions",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Customer Solutions",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/126954875979211462-software-engineer-iii-infrastructure-google-customer-solutions?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-iii-infrastructure-google-customer-solutions-seattle"
+  }
+]
