@@ -1,32 +1,72 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Generative AI, Geo Consumer",
-    "job_city": "Mountain View",
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, NVIDIA OpenShell",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Generative AI, Geo Consumer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80834366103528134-software-engineer-generative-ai-geo-consumer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-generative-ai-geo-consumer-mountain-view"
+    "job_posted_at": "1d",
+    "job_description": "• Director, Software EngineeringlocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2012771System Software Engineer, GeForce SoftwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2015749Senior Software Engineer, Networking Softwarelocations4 Locationsposted onPosted 30+ Days AgoJR1998106Senior Software Engineer, Networking Softwarelocations5 Locationsposted onPosted 30+ Days AgoJR2001671Senior Software Engineer - HPClocations3 Locationsposted onPosted 30+ Days AgoJR2013372Embedded Software Engineer - RISCVlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2012326Senior Software Engineer, FirmwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2014879Tegra System Software Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR2015299Software Engineer - DPU PlatformlocationsUS, MA, Westfordposted onPosted 25 Days AgoJR2015949Senior Staff Software EngineerlocationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2016765Senior System Software Engineerlocations2 Locationsposted onPosted 4 Days AgoJR2017567System Software Engineer - Omniverselocations6 Locationsposted onPosted 3 Days AgoJR2017560Software Engineer, NVIDIA OpenShelllocationsUS, CA, Remoteposted onPosted TodayJR2017604Senior Software Engineer, NCCLlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR1997186Senior Software Engineer, JAXlocations2 Locationsposted onPosted 28 Days AgoJR2004629Senior Software Engineer - NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2006779System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR2007081Senior Software Engineer, NetworkinglocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2010039Principal Software Engineer - Dynamolocations2 Locationsposted onPosted 30+ Days AgoJR2010290Software Engineer - Ethernet Switchinglocations2 Locationsposted onPosted 9 Days AgoJR2010826.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-nvidia-openshell-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SMTS Quality Engineer",
+    "job_city": "US",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85794/login",
+    "id": "amd-smts-quality-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SMTS Systems Design Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85588/login",
+    "id": "amd-smts-systems-design-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SMTS Firmware Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Experience within the semiconductor industry.\n• Design and debugging firmware, Coreboot, UEFI BIOS, Linux kernel and/or OS issues in SoC and Platform.\n• X86 CPU/APU architectures and associated compile tools.\n• Industry standard IO interfaces, storage, memory, PCIe Gen3/4/5, 1/2.\n• AndCommunicating technical issues and solutions with the customer and internal teams.\n• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85579/login",
+    "id": "amd-smts-firmware-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "MTS Hardware Development Engineer",
+    "job_city": "US",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85628/login",
+    "id": "amd-mts-hardware-development-engineer-us"
+  },
+  {
+    "employer_name": "Synopsys",
+    "job_title": "HPC Software Engineer",
+    "job_city": "Canonsburg",
+    "job_state": "Pennsylvania",
+    "job_posted_at": "1d",
+    "job_description": "• Authors Blogs Profile solver performance across CPU and GPU architectures using tools like IntelVTune, NVIDIA Nsight, or similar, and translate findings into actionable performance improvementsBuild andmaintaincode benchmarking suites that track solver performance across releases and catch regressions before they shipDrive adoption of modular, hardware-agnostic HPC programming models across multiple solver codebases, working with development teams to ensure consistency and reusabilityCollaborate with numerical methods experts to translate complex algorithmic requirements into performant, maintainable software designsSupport procurement, configuration, and management of HPC development and testing platforms, includingon-premiseclusters and cloud-based environmentsOwn packaging, build system work, and DevOps tooling usingCMake, Azure DevOps, Conan, Docker, or CI/CD pipelines to streamline deployment and testing workflows Reduce solve times for engineering simulations used by leading companies across automotive, aerospace, energy, and electronics industriesEnable customers to run larger, more complex models by making solvers scale efficiently across hundreds or thousands of coresAccelerate the adoption of GPU computing in production simulation workflows, unlocking new performance tiers for users with modern hardwareImprove developer productivity across multiple solver teams by building reusable HPC frameworks and shared toolingEnsure performance consistency and reliability across solver releases through rigorous benchmarking and regression testingHelp shape the technical direction of Synopsys simulation products as HPC architectures and customer workloads continue to evolveSupport faster iteration cycles for product development teams by streamlining build, test, and deployment infrastructure You can look at a profiler trace andidentifythe bottleneck without needing three meetings to discuss itYou write code that other engineers can pick up six months later without needing you to explain every design choiceYou ask clarifying questions when a requirement is vague rather than guessing and building the wrong thingYou are comfortable managing your own time across multiple priorities and know when to escalate blockers versus solve them yourselfYou can explain a technical tradeoff between two HPC approaches to a domain expert in terms they care about, not just what the benchmark saysYou stay current with HPC architecture trends and programming models without needing to be told, because you care about building software that will still perform well two hardware generations from now MinimumRequirements:Bachelor's degree inMechanical Engineering,Computational Science,Applied Mathematics, Physics, or related field with 2+ years of experience, orMaster'sdegree in a related field.\n• Strong hands-on experience with HPC software design, testing, and deployment in production or research environmentsSolid understanding of data structures, algorithms, and performance considerations in parallel computing contextsProficiencywith Git and collaborative development workflows across distributed teamsProficiencyin Fortran and C/C++ for performance-critical code development Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Experience with MPI and distributed memory programming modelsExperience with GPU hardware and at least one GPU programming model such as CUDA, HIP, SYCL/oneAPI, OpenMP,OpenACC, orKokkosis a strong plus Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright Benefits Specialist Lisbon, Portugal HPC Software Engineer Canonsburg, Pennsylvania Senior Software Engineer, R&D (Simulation/Physics) Florianópolis, Brazil ASIC Digital Design Architect Austin, Texas About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions.\n• Company About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions Resources Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Learn What is an AI Accelerator.\n• What is AI Chip Design What are Chiplets.\n• What is EDA Agentic AI.\n• What is an Integrated Circuit.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/hpc-software-engineer/44408/87085299616",
+    "id": "synopsys-hpc-software-engineer-canonsburg"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, BigQuery Trusted Platform",
-    "job_city": "Kirkland",
+    "job_title": "Software Engineer, Future of Git",
+    "job_city": "Seattle",
     "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, BigQuery Trusted Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97300652241101510-software-engineer-iii-bigquery-trusted-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-iii-bigquery-trusted-platform-kirkland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer I, Mobile (Android), Gmail",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer I, Mobile (Android), Gmail",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/124572938656457414-software-engineer-i-mobile-android-gmail?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
-    "id": "google-software-engineer-i-mobile-android-gmail-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Future of Git",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96112286329905862-software-engineer-future-of-git?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-future-of-git-seattle"
   }
 ]
