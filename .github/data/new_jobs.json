@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Solutions & Applications Engineer, Autonomous Manipulative Mobile Robotics (AMMR)",
-    "job_city": "Available in one of 12 locations",
+    "employer_name": "IBM",
+    "job_title": "Quantum Lab Engineer",
+    "job_city": "Yorktown Heights",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028232/Solutions-Applications-Engineer-Autonomous-Manipulative-Mobile-Robotics-AMMR",
-    "id": "abb-solutions-applications-engineer-autonomous-manipulative-mobile-robotics-ammr-available-in-one-of-12-locations"
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Quantum Lab Engineer",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113715&source=WEB_Search_NA",
+    "id": "ibm-quantum-lab-engineer-yorktown-heights"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Commerce Content Safety",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Salesforce",
+    "job_title": "Account SE",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Commerce Content Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81763633817625286-software-engineer-commerce-content-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-commerce-content-safety-mountain-view"
+    "job_description": "• Provide customer feedback to the product management and engineering teams to capture new customer requirements and improvements.\n• Strong leadership, presentation and collaboration skills.\n• Solid verbal, written, presentation and interpersonal communication skills.\n• Proven time management & prioritization skills in a dynamic sales environment.\n• Technical expertise in any of the following industries (CRM, AI, Analytics, Business Intelligence, Digital Marketing, Community Engagement) Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences The ideal candidate has a background in either non-profit management and operational roles, and/or Salesforce technology.\n• Salesforce Admin 201 and Nonprofit Cloud Consultant certifications 2+ years of professional work experience, preferably in the non-profit sector or software industry.\n• Experience working in a fast-paced, agile company.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr341023/account-se/",
+    "id": "salesforce-account-se-illinois-chicago"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Engr III-Security Engrg",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Engr III-Security Engrglocations2 Locationstime typeFull timeposted onPosted TodayR-1094024Analyst-MarketinglocationsHyderabad, Indiatime typeFull timeposted onPosted YesterdayR-1094911Principal Wi-Fi Engineering Architect (Venues & Stadiums) ConsultantlocationsLivingston, New Jerseytime typeFull timeposted onPosted 4 Days AgoR-1090601Senior Engineering Consultant-Cloud & AIlocations3 Locationstime typeFull timeposted onPosted 6 Days AgoR-1094042Principal Security Engineer 4G/5G Cloud Networkslocations4 Locationstime typeFull timeposted onPosted 7 Days AgoR-1092540Sr Director - Software Development (Platform Engineering and Modernization)locations3 Locationstime typeFull timeposted onPosted 7 Days AgoR-1094535Engr III Spec - Network Performance (vRAN)locations2 Locationstime typeFull timeposted onPosted 8 Days AgoR-1094294Senior Engineer, Data Center OperationslocationsSouthlake, Texastime typeFull timeposted onPosted 12 Days AgoR-1094396Senior Network Security EngineerlocationsSouthlake, Texastime typeFull timeposted onPosted 25 Days AgoR-1093033Engineering III Specialist-Network Engineerlocations2 Locationstime typeFull timeposted onPosted 25 Days AgoR-1093584Engineering III Specialist-Network Engineerlocations2 Locationstime typeFull timeposted onPosted 27 Days AgoR-1093571Engineering II-Network Engineerlocations2 Locationstime typeFull timeposted onPosted 27 Days AgoR-1093382Engineering III Consultant-Network Engineeringlocations2 Locationstime typeFull timeposted onPosted 27 Days AgoR-1093379Engr III Cslt-Ntwk Engringlocations2 Locationstime typeFull timeposted onPosted 27 Days AgoR-1093330.",
+    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Hyderabad-India/Engr-III-Security-Engrg_R-1094024-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "verizon-engr-iii-security-engrg-2-locations"
   }
 ]
