@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "BAE Systems",
+    "job_title": "C# Software Engineer",
+    "job_city": "Albuquerque",
+    "job_state": "NM",
+    "job_posted_at": "1d",
+    "job_description": "• Embedded Software Engineer, LeadlocationsLexington Park, MDposted onPosted 30+ Days AgoR0234374 UAS Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 6 Days AgoR0234848 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 26 Days AgoR0234279 Software Engineer, Seniorlocations2 Locationsposted onPosted 6 Days AgoR0239655.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/C--Software-Engineer_R0240008?q=software+engineering",
+    "id": "bae-systems-c-software-engineer-albuquerque"
+  },
+  {
     "employer_name": "Apple",
-    "job_title": "AR/VR Software Engineer - Capture, Vision Products Software",
+    "job_title": "Software Engineer - Capture, Vision Products Software",
     "job_city": "",
     "job_state": "US",
-    "job_posted_at": "18h",
+    "job_posted_at": "20h",
     "job_description": "• Minimum Qualifications3+ years experience in software developmentProficiency in an application programming language, such as C/C++, Objective-C, Swift, etc.\n• Experience using Apple development tools and APIsBS in Computer Science or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200663107-3401/ar-vr-software-engineer-capture-vision-products-software?team=SFTWR",
-    "id": "apple-ar-vr-software-engineer-capture-vision-products-software-"
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200663107-3401/software-engineer-capture-vision-products-software?team=SFTWR",
+    "id": "apple-software-engineer-capture-vision-products-software-"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Mobile (iOS), Geo",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile (iOS), Geo",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/129992405699961542-software-engineer-iii-mobile-ios-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-iii-mobile-ios-geo-seattle"
   }
 ]
