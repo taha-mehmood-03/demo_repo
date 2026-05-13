@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Analytical Applications Full-Stack Developer",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
-    "job_posted_at": "1d",
-    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 28 Days AgoR0237863 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 20 Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 26 Days AgoR0238021 Application Developer, Seniorlocations2 Locationsposted onPosted 14 Days AgoR0238512 Front End Developer, SeniorlocationsChantilly, VAposted onPosted 14 Days AgoR0238672 Multi-Cloud Developer, Seniorlocations2 Locationsposted onPosted 12 Days AgoR0239135 Full Stack Developer, JuniorlocationsMcLean, VAposted onPosted 9 Days AgoR0237571 Full Stack Developer, JuniorlocationsMcLean, VAposted onPosted 9 Days AgoR0238345.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Analytical-Applications-Full-Stack-Developer_R0239973?q=software+engineering",
-    "id": "bae-systems-analytical-applications-full-stack-developer-albuquerque"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "MTS Product Application Eng.",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• In‑depth system‑level understanding of embedded and x86‑based processing systemsStrong expertise in x86 CPU architecture and system operationDeep understanding of: Compilers and toolchainsOperating systems and hypervisorsDebuggersSystem requirements and performance behaviorSolid understanding of hardware design, including schematics and hardware analysisBoard bring‑up experience, including hands‑on hardware‑level debuggingExperience with Linux, BIOS, UEFI, and bootloadersWorking knowledge of industry‑standard interfaces and technologies: DDR4 / DDR5PCIe Gen3 / Gen4 / Gen5Ethernet (1G, 2.\n• 5G, 10G)Fully self‑sufficient in software development, including coding and debuggingStrong programming skills with Python, Perl, C/C++, and assemblyProven ability to write application notes, white papers, and customer‑facing technical documentationExcellent written and verbal communication skills with the ability to explain complex technical concepts to diverse audiencesStrong interpersonal skills and the ability to work effectively with engineering, marketing, customers, FAEs, and sales teamsAbility to thrive in a fast‑paced, highly collaborative, multi‑geography environment Define, develop, and demonstrate customer reference designs, demos, and example x86 platformsProvide technical support to customers deploying x86‑based systemsRun industry‑standard benchmarks and present results to customers, field engineering, and internal stakeholdersDevelop and execute tests to measure system‑level performance, including bandwidth and latency, across multiple workloadsBuild, configure, and test systems using LinuxDebug and resolve customer issues across industry‑standard protocols and interfaces including PCIe, USB, SATA, and EthernetWork hands‑on with AMD tools to support hardware design, system bring‑up, and low‑level software developmentDocument best design practices, application notes, and technical guidance for both internal stakeholders and external customersDevelop training and technical marketing materials for AMD field and customer‑facing teamsAct as a technical liaison between customers, field teams, and engineering to drive customer requirements back into EngineeringCollaborate with engineering, marketing, FAEs, and sales teams across multiple geographies to deliver timely, customer‑ready solutions Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Prior experience in technical marketing, systems engineering, or customer‑facing engineering rolesExperience supporting enterprise or embedded x86 platformsBackground working directly with customers or field engineering organizationsFamiliarity with performance analysis, benchmarking methodologies, and system optimization Compilers and toolchainsOperating systems and hypervisorsDebuggersSystem requirements and performance behavior AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/85759/login",
-    "id": "amd-mts-product-application-eng-us"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, OAuth",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, OAuth",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/87646742580732614-software-engineer-iii-infrastructure-oauth?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-infrastructure-oauth-san-jose"
+    "employer_name": "Apple",
+    "job_title": "AR/VR Software Engineer - Capture, Vision Products Software",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "18h",
+    "job_description": "• Minimum Qualifications3+ years experience in software developmentProficiency in an application programming language, such as C/C++, Objective-C, Swift, etc.\n• Experience using Apple development tools and APIsBS in Computer Science or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200663107-3401/ar-vr-software-engineer-capture-vision-products-software?team=SFTWR",
+    "id": "apple-ar-vr-software-engineer-capture-vision-products-software-"
   }
 ]
