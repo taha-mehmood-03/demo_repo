@@ -1,32 +1,62 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "C# Software Engineer",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
+    "employer_name": "IBM",
+    "job_title": "AI Foundations - Research Engineer",
+    "job_city": "Cambridge",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Embedded Software Engineer, LeadlocationsLexington Park, MDposted onPosted 30+ Days AgoR0234374 UAS Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 6 Days AgoR0234848 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 26 Days AgoR0234279 Software Engineer, Seniorlocations2 Locationsposted onPosted 6 Days AgoR0239655.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/C--Software-Engineer_R0240008?q=software+engineering",
-    "id": "bae-systems-c-software-engineer-albuquerque"
+    "job_description": "software engineering job for the role AI Foundations - Research Engineer",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113762&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-research-engineer-cambridge"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "SRE Systems Engineer",
+    "job_city": "Virginia - Washington DC Metro -",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Bachelor's degree in Computer Science, Information Systems, or a related technical field, or equivalent work experience.\n• Experience in enterprise-scale internet service engineering or support, with strong Command Line Interface (CLI) knowledge of Unix variants including Red Hat Enterprise Linux.\n• Demonstrated experience with incident management and a solid understanding of IT Infrastructure Library (ITIL) service operations in a 24/7 environment.\n• Proficiency writing scripts in Python, Go, or similar languages, with experience provisioning and operating Amazon Web Services (AWS) infrastructure.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Experience with configuration management tools such as Chef or Puppet, and pipeline tools such as Jenkins, Bamboo, or Spinnaker.\n• Hands-on experience supporting and managing Kubernetes-based applications and services.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager Monitor customer-facing services and respond to Severity 0 (Sev0) and Severity 1 (Sev1) incidents, leading technical reviews and contributing to Root Cause Analyses (RCAs) handed off to the Global Solutions team.\n• Expertise in Transmission Control Protocol/Internet Protocol (TCP/IP) networking technologies and protocols.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr341343/sre-systems-engineer/",
+    "id": "salesforce-sre-systems-engineer-virginia-washington-dc-metro"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Junior Cloud DevOps Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Palantir Data EngineerlocationsUS - VA, Arlingtonposted onPosted 12 Days Ago39001Senior Platform Engineerlocations2 Locationsposted onPosted Today38249Associate Director – Cloud and Application DevelopmentlocationsIN - Chennaiposted onPosted 27 Days Ago38419Junior Data Engineerlocations2 Locationsposted onPosted 21 Days Ago38141AI Engineerlocations2 Locationsposted onPosted 21 Days Ago38812Data Engineerlocations2 Locationsposted onPosted 8 Days Ago34501Data EngineerlocationsUS - Remote (Any location)posted onPosted 12 Days Ago38787Data EngineerlocationsUS - MD, Aberdeenposted onPosted 7 Days Ago39095Industrial Engineering Leadlocations2 Locationsposted onPosted 8 Days Ago39142AI / Machine Learning Engineerlocations2 Locationsposted onPosted 6 Days Ago38348Palantir Application DeveloperlocationsUS - Remote (Any location)posted onPosted Today38400Sr.\n• Azure DevOps EngineerlocationsUS - Remote (Any location)posted onPosted Today37981Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948AI/ML Solutions Architect (Agentic Systems)locationsUS - Remote (Any location)posted onPosted Today37697Palantir Data Pipeline & Metadata Leadlocations2 Locationsposted onPosted 21 Days Ago38574Junior Cloud DevOps Engineerlocations2 Locationsposted onPosted Today39338Mid Cloud Application Developerlocations2 Locationsposted onPosted Today39335Senior Data Scientist, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 30+ Days Ago37879DHS Financial Transformation JPMO Program ManagerlocationsUS - VA, McLeanposted onPosted 26 Days Ago37855Technical Celonis Developerlocations2 Locationsposted onPosted 5 Days Ago39276.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Junior-Cloud-DevOps-Engineer_39338?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-junior-cloud-devops-engineer-2-locations"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Mid Cloud Application Developer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Palantir Data EngineerlocationsUS - VA, Arlingtonposted onPosted 12 Days Ago39001Senior Platform Engineerlocations2 Locationsposted onPosted Today38249Associate Director – Cloud and Application DevelopmentlocationsIN - Chennaiposted onPosted 27 Days Ago38419Junior Data Engineerlocations2 Locationsposted onPosted 21 Days Ago38141AI Engineerlocations2 Locationsposted onPosted 21 Days Ago38812Data Engineerlocations2 Locationsposted onPosted 8 Days Ago34501Data EngineerlocationsUS - Remote (Any location)posted onPosted 12 Days Ago38787Data EngineerlocationsUS - MD, Aberdeenposted onPosted 7 Days Ago39095Industrial Engineering Leadlocations2 Locationsposted onPosted 8 Days Ago39142AI / Machine Learning Engineerlocations2 Locationsposted onPosted 6 Days Ago38348Palantir Application DeveloperlocationsUS - Remote (Any location)posted onPosted Today38400Sr.\n• Azure DevOps EngineerlocationsUS - Remote (Any location)posted onPosted Today37981Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948AI/ML Solutions Architect (Agentic Systems)locationsUS - Remote (Any location)posted onPosted Today37697Palantir Data Pipeline & Metadata Leadlocations2 Locationsposted onPosted 21 Days Ago38574Junior Cloud DevOps Engineerlocations2 Locationsposted onPosted Today39338Mid Cloud Application Developerlocations2 Locationsposted onPosted Today39335Senior Data Scientist, Life Sciences Technology SolutionslocationsUS - Remote (Any location)posted onPosted 30+ Days Ago37879DHS Financial Transformation JPMO Program ManagerlocationsUS - VA, McLeanposted onPosted 26 Days Ago37855Technical Celonis Developerlocations2 Locationsposted onPosted 5 Days Ago39276.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Mid-Cloud-Application-Developer_39335?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-mid-cloud-application-developer-2-locations"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "DCG Engineering Finance Analyst",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• CPU Validation EngineerlocationsUS, Texas, Austinposted onPosted 14 Days AgoJR0283495CPU Validation EngineerlocationsUS, Texas, Austinposted onPosted 14 Days AgoJR0283494CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0278559IP Design Verification EngineerlocationsUS, Oregon, Hillsboroposted onPosted 21 Days AgoJR0281444IP Design Verification EngineerlocationsUS, Oregon, Hillsboroposted onPosted 23 Days AgoJR0281953Systems and Solutions EngineerlocationsUS, Oregon, Hillsboroposted onPosted 26 Days AgoJR0282993Physical Design Engineer - Neuromorphic Computinglocations4 Locationsposted onPosted 30+ Days AgoJR0282554Senior PCB/CAD Layout EngineerlocationsUS, Oregon, Hillsboroposted onPosted 21 Days AgoJR0283059Systems Research Engineer/ScientistlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0282558GPU Performance Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281331Director, Data Center Strategy and Capacity Planninglocations4 Locationsposted onPosted 27 Days AgoJR0282934Senior Design Verification Engineer - Neuromorphic Computinglocations5 Locationsposted onPosted 30+ Days AgoJR0282548CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0281846CPU Verification Engineerlocations2 Locationsposted onPosted 27 Days AgoJR0282921Facilities Power Distribution Electrical EngineerlocationsUS, California, Santa Claraposted onPosted 16 Days AgoJR0282731CPU Verification Engineerlocations2 Locationsposted onPosted 8 Days AgoJR0283608DCG Engineering Finance Analystlocations2 Locationsposted onPosted TodayJR0283746Silicon Packaging Engineer - Wireless Communications SolutionslocationsUS, Oregon, Hillsboroposted onPosted 27 Days AgoJR0282295CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted 30 Days AgoJR0282670Senior CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281123.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/DCG-Engineering-Finance-Analyst_JR0283746?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-dcg-engineering-finance-analyst-2-locations"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer - Capture, Vision Products Software",
-    "job_city": "",
+    "job_title": "Software Quality Engineer",
+    "job_city": "Sunnyvale",
     "job_state": "US",
-    "job_posted_at": "20h",
-    "job_description": "• Minimum Qualifications3+ years experience in software developmentProficiency in an application programming language, such as C/C++, Objective-C, Swift, etc.\n• Experience using Apple development tools and APIsBS in Computer Science or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200663107-3401/software-engineer-capture-vision-products-software?team=SFTWR",
-    "id": "apple-software-engineer-capture-vision-products-software-"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Mobile (iOS), Geo",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Mobile (iOS), Geo",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/129992405699961542-software-engineer-iii-mobile-ios-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-iii-mobile-ios-geo-seattle"
+    "job_posted_at": "23h",
+    "job_description": "• Minimum QualificationsBS and a minimum of 3 years relevant industry experienceExperience programming in Python and one other object-oriented programming language (Objective C, Swift, Java)Experience in testing & debugging UI frameworksSkilled in bug hunting and identifying regressionsFamiliarity with continuous integration and scheduling systemsFamiliarity with cloud services and data processing.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200663097-3956/software-quality-engineer?team=HRDWR",
+    "id": "apple-software-quality-engineer-sunnyvale"
   }
 ]
