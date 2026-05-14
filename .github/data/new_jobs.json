@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Agentic Validation of Global Correctness",
-    "job_city": "San Jose",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Modem Power/Thermal, Pixel",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Agentic Validation of Global Correctness",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/90960814508253894-software-engineer-agentic-validation-of-global-correctness?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-agentic-validation-of-global-correctness-san-jose"
+    "job_description": "software engineering job for the role Software Engineer, Modem Power/Thermal, Pixel",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/73072310080152262-software-engineer-modem-powerthermal-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-modem-power-thermal-pixel-kirkland"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Managed Service for Apache Spark",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Managed Service for Apache Spark",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97455629693526726-software-engineer-managed-service-for-apache-spark?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
+    "id": "google-software-engineer-managed-service-for-apache-spark-kirkland"
   }
 ]
