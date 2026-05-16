@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Scientist 2026 - Artificial Intelligence",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Associate Data Scientist 2026 - Artificial Intelligence",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=55957&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-2026-artificial-intelligence-new-york"
+  },
+  {
+    "employer_name": "Marvel Technology",
+    "job_title": "Hardware & Silicon Validation Engineer - Early Career",
+    "job_city": "Westlake Village",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 21 Days Ago2601545Sr Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 21 Days Ago2601499Sr Staff Analog Modeling/Verification EngineerlocationsSan Diego, CAposted onPosted 21 Days Ago2601544Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 21 Days Ago2601537Associate VP - Analog Mixed-Signal DesignlocationsSan Diego, CAposted onPosted 21 Days Ago2601548Principal Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 21 Days Ago2601450Sr Director Analog Mixed-Signal DesignlocationsSan Diego, CAposted onPosted 21 Days Ago2601543Sr Principal Analog Mixed Signal Design EngineerlocationsUS-CA - San Diegoposted onPosted 21 Days Ago2601449Senior Director of SoC Design VerificationlocationsUS-CA - San Diegoposted onPosted 30 Days Ago2601017Senior Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 30 Days Ago2601116Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Hardware & Silicon Validation Engineer - Early CareerlocationsWestlake Village, CAposted onPosted Today2601748Senior / Principal Applications Engineer – Advance Packaged Optics (CPO)locationsSanta Clara, CAposted onPosted Today2601797Director, Design VerificationlocationsSanta Clara, CAposted onPosted Today2601590Advanced Packaging SI/PI Staff Engineer - Early Careerlocations2 Locationsposted onPosted Today2600808Front End CAD Principal Engineerlocations5 Locationsposted onPosted Yesterday2601907Senior Staff Hardware Engineer - Board‑level system design - infrastructure/storage/network/PCIe Gen 5+/DDR4/5/EthernetlocationsIrvine, CAposted onPosted Yesterday2600008Senior Principal Engineer, Chip Lead, Photonic Fabric ChipletlocationsSanta Clara, CAposted onPosted 2 Days Ago2601796Senior Staff Design Engineer - Memory Subsystem COElocationsSanta Clara, CAposted onPosted 2 Days Ago2601753Senior Staff Design Engineer - Memory Subsystem COElocationsSanta Clara, CAposted onPosted 2 Days Ago2601754.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Hardware---Silicon-Validation-Engineer---Early-Career_2601748?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-hardware-silicon-validation-engineer-early-career-westlake-village"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Calls Security",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsBS in Computer Science or equivalentSolid software development and system design skills with a focus on secure system design.\n• Experience developing for the Apple ecosystem, and proficiency in object-oriented programming in Swift or Objective-C.\n• Clear communication and collaboration skills.\n• You can explain complex ideas and work effectively across teamsSelf-directed problem-solving abilities.\n• You can dig into ambiguous problems and find a path forward.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200663651-3543/software-engineer-calls-security?team=SFTWR",
+    "id": "apple-software-engineer-calls-security-san-diego"
+  }
+]
