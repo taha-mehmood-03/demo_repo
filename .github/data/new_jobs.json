@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Guidehouse",
-    "job_title": "AI Software Engineer",
-    "job_city": "2 Locations",
+    "employer_name": "Apple",
+    "job_title": "Software Engineer iCloud- Apple Services Engineering",
+    "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 30+ Days Ago33026Junior Software EngineerlocationsUS - LA, New Orleansposted onPosted 30+ Days Ago37454Senior Software EngineerlocationsUS - LA, New Orleansposted onPosted 30+ Days Ago37470AI Software Engineerlocations2 Locationsposted onPosted Today39522Computer ProgrammerlocationsUS - LA, New Orleansposted onPosted 30+ Days Ago37611DevOps EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago37733SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago35849Team Lead / Senior AI Engineer – AI StudiolocationsIN - Chennaiposted onPosted 7 Days Ago39194Palantir AIP EngineerlocationsUS - VA, Arlingtonposted onPosted 14 Days Ago39000IDOS Aerospace Professionalslocations7 Locationsposted onPosted 30+ Days Ago38210Microsoft Biz Apps Developer - Power Apps and MS Dynamics Architectlocations27 Locationsposted onPosted 30+ Days Ago37238Microsoft Biz Apps Developer - Power Apps and MS Dynamics Architectlocations28 Locationsposted onPosted 14 Days Ago39103Palantir Data EngineerlocationsUS - VA, Arlingtonposted onPosted 24 Days Ago38127Palantir Data EngineerlocationsUS - VA, Arlingtonposted onPosted 17 Days Ago39001IT Senior Software Developer - Full Stack (Python and JavaScript)locations9 Locationsposted onPosted 5 Days Ago37646AI Engineerlocations2 Locationsposted onPosted 26 Days Ago38812Data Engineerlocations2 Locationsposted onPosted 13 Days Ago34501Data Engineerlocations2 Locationsposted onPosted 4 Days Ago39493Data EngineerlocationsUS - Remote (Any location)posted onPosted 17 Days Ago38787Associate Director – Cloud and Application DevelopmentlocationsIN - Chennaiposted onPosted 30+ Days Ago38419.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/IN---Chennai/AI-Software-Engineer_39522?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-ai-software-engineer-2-locations"
+    "job_posted_at": "13h",
+    "job_description": "• Minimum Qualifications4+ years experience in developing and maintaining high-performance, scalable backend systems using Java, with a strong understanding of design patterns and data structures.\n• Experience with designing and implementing efficient APIs and micro-services.\n• Experience with relational databases like Oracle, PostgreSQL, and NoSQL databases like Cassandra for efficient data storage and retrieval.\n• Strong written and verbal communication skills to collaborate optimally with cross-functional teams.\n• Expertise in building robust, high-performance, responsive, and accessible user interfaces with a focus on usability and cross-platform compatibility.\n• Proficient in TypeScript and ES6, with expertise in modern JavaScript frameworks such as ReactJS, AngularJS, and VueJS.\n• Proficient in applying best practices for clean, maintainable code.\n• Excellent analytical and problem-solving abilities with strong attention to detail.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200663794-0157/software-engineer-icloud-apple-services-engineering?team=SFTWR",
+    "id": "apple-software-engineer-icloud-apple-services-engineering-austin"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Generative AI, Workspace",
-    "job_city": "Boulder",
-    "job_state": "CO",
+    "job_title": "Software Engineer III, Embedded Systems/Firmware, AI and Infrastructure",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Generative AI, Workspace",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/84975811941016262-software-engineer-generative-ai-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-generative-ai-workspace-boulder"
+    "job_description": "software engineering job for the role Software Engineer III, Embedded Systems/Firmware, AI and Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/74623136871391942-software-engineer-iii-embedded-systemsfirmware-ai-and-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-embedded-systems-firmware-ai-and-infrastructure-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, AI/ML Agentic AI Systems, Cloud Security",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, AI/ML Agentic AI Systems, Cloud Security",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138036920247558854-software-engineer-aiml-agentic-ai-systems-cloud-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-ai-ml-agentic-ai-systems-cloud-security-san-francisco"
   }
 ]
