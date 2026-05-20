@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Product Engineering Intern",
-    "job_city": "McLean",
-    "job_state": "VA",
+    "employer_name": "IBM",
+    "job_title": "Automation Customer Success Engineer - IT Automation & FinOps",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Software Development Testing and Documentation Specialistlocations2 Locationsposted onPosted 6 Days AgoR0239968 Data and Visualization Engineer, LeadlocationsMonterey, CAposted onPosted 30+ Days AgoR0235754 Enterprise Integration Architect, LeadlocationsMcLean, VAposted onPosted 30+ Days AgoR0236335 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 26 Days AgoR0232705 Software Architect, LeadlocationsLexington Park, MDposted onPosted 30+ Days AgoR0235783 Software Developer, JuniorlocationsDahlgren, VAposted onPosted YesterdayR0240338 Product Engineering InternlocationsMcLean, VAposted onPosted TodayR0240660.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0240660?q=software+engineering",
-    "id": "bae-systems-product-engineering-intern-mclean"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "ServiceNow Business Analyst",
-    "job_city": "US - FL",
-    "job_state": "Tampa",
-    "job_posted_at": "1d",
-    "job_description": "• Microsoft Dynamics 365 Developerlocations28 Locationsposted onPosted 30+ Days Ago35441Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted 20 Days Ago37546Microsoft Dynamics DeveloperlocationsUS - Remote (Any location)posted onPosted 20 Days Ago37559Senior Microsoft Dynamics Developerlocations30 Locationsposted onPosted Yesterday38965Senior Microsoft Dynamics Developerlocations28 Locationsposted onPosted 5 Days Ago38970AI Solution Architect - AI StudiolocationsIN - Chennaiposted onPosted 8 Days Ago39189Datacenter Facilities & Equipment SpecialistlocationsUS - MO, Kansas Cityposted onPosted Today39465Power Apps DeveloperlocationsUS - Remote (Any location)posted onPosted Yesterday37549Technical Associate - Platforms, Technology - Campus 2026locations4 Locationsposted onPosted Yesterday37860Technical SETA SME - SensinglocationsUS - MD, Bethesdaposted onPosted Today39644Technical SETA SME - CommunicationslocationsUS - MD, Bethesdaposted onPosted Today39643Salesforce DeveloperlocationsUS - TX, San Antonioposted onPosted 30+ Days Ago36980Lead DeveloperlocationsUS - VA, McLeanposted onPosted Yesterday39035Logistics IT Technical LeadlocationsUS - Remote (Any location)posted onPosted Today38680ServiceNow Developerlocations29 Locationsposted onPosted 5 Days Ago38814Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 6 Days Ago32512Account Director - Energy Providers Westlocations6 Locationsposted onPosted 8 Days Ago39064ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted Today38980Data ScientistlocationsUS - VA, Arlingtonposted onPosted Yesterday38181Senior IS Security DeveloperlocationsUS - VA, McLeanposted onPosted Yesterday39375.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---FL-Tampa/ServiceNow-Business-Analyst_38980?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-servicenow-business-analyst-us-fl"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Physical Verification Engineer",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Senior AI Software Architect - Runtimelocations3 Locationsposted onPosted 20 Days AgoJR0283399SW Solutions Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0283802Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 30+ Days AgoJR0281966End to End GPU AI Software Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0281455Software TechnicianlocationsUS, Arizona, Phoenixposted onPosted 6 Days AgoSpotlight JobJR0283735Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0282277Software Application Development Engineerlocations2 Locationsposted onPosted 19 Days AgoJR0283376Senior C/C++ Engineer - Media Optimization & Codecslocations3 Locationsposted onPosted 30+ Days AgoJR0281205Software Application Development Engineer GradelocationsUS, Arizona, Phoenixposted onPosted 13 Days AgoSpotlight JobJR0283627Physical Verification Engineerlocations3 Locationsposted onPosted TodaySpotlight JobJR0284076Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281207Compiler Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0282385AMHS Shift Group LeaderlocationsUS, Oregon, Hillsboroposted onPosted 7 Days AgoJR0283875Senior Compiler EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoSpotlight JobJR0282654Sr.\n• EDA Tools Engineer - ESDlocations4 Locationsposted onPosted 30+ Days AgoJR0280046Density Fill PDK Development Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0282533Design Technology Tool Enablement Engineerlocations3 Locationsposted onPosted 15 Days AgoJR0283551Director-Foundry Customer PlanninglocationsUS, California, Santa Claraposted onPosted 11 Days AgoJR0282293GPU IP Engineering Program Managerlocations2 Locationsposted onPosted 30+ Days AgoJR0282177Foundry Services Advanced Packaging Account Technical Solutions Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR0283006.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Physical-Verification-Engineer_JR0284076?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-physical-verification-engineer-3-locations"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Compiler Performance Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Some travel may be involved as you visit our partners at their locations as needed for co-engineering efforts and education AMD Partner Hub Authorized Distributors AMD University Program Experience using CPU profilers such as vTune, WPA, MSVS Performance Profiler Excellent communication skills and able to work with partners effectively Familiarity with modern source version control such as Git, Mercurial Experience developing highly parallel applications and algorithms Knowledge of interpreted languages such as Python and JavaScript Knowledge of x86/x64 assembly language and special instructions Experience identifying performance bottlenecks on any platform.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/86163/login",
-    "id": "amd-compiler-performance-engineer-us"
+    "job_description": "software engineering job for the role Automation Customer Success Engineer - IT Automation & FinOps",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115589&source=WEB_Search_NA",
+    "id": "ibm-automation-customer-success-engineer-it-automation-finops-"
   }
 ]
