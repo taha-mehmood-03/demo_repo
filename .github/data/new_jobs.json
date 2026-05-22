@@ -1,52 +1,62 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Computer Engineer, Central CAD",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "17h",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/41980066",
-    "id": "micron-technology-computer-engineer-central-cad-richardson"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "CWMD Computer Programming SME",
-    "job_city": "Arlington",
-    "job_state": "VA",
+    "employer_name": "Magna International",
+    "job_title": "Engineering Technician (11am - 7:30pm)",
+    "job_city": "Mesa",
+    "job_state": "Arizona",
     "job_posted_at": "1d",
-    "job_description": "• Enterprise Integration Architect, LeadlocationsMcLean, VAposted onPosted 30+ Days AgoR0236335 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 29 Days AgoR0232705 Software Architect, LeadlocationsLexington Park, MDposted onPosted 30+ Days AgoR0235783 Palantir Mission Integration Leadlocations2 Locationsposted onPosted YesterdayR0240652 Software Developer, JuniorlocationsDahlgren, VAposted onPosted 4 Days AgoR0240338 Product Engineering InternlocationsMcLean, VAposted onPosted 3 Days AgoR0240660.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/CWMD-Computer-Programming-SME_R0240753?q=software+engineering",
-    "id": "bae-systems-cwmd-computer-programming-sme-arlington"
+    "job_description": "• Engineer II - Systems TestlocationsRochester Hills, Michigan, USposted onPosted 30+ Days AgoR00237945Engineer II - Applications, RadarlocationsSouthfield, Michigan, USposted onPosted 8 Days AgoR00240958Robotics Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted 23 Days AgoR00225164Controls Engineer - B ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00237992Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Intern - Engineering ADAS Vehicle IntegrationlocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00238341Engineering Technician (11am - 7:30pm)locationsMesa, Arizona, USposted onPosted TodayR00243638Warranty & Customer Liaison Engineer (Mechanical)locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00237633Senior Reactive Black Belt EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00237634Trim Product Engineer (seat cover)locationsNovi, Michigan, USposted onPosted 28 Days AgoR00240385Warranty & Customer Liaison Engineer (Electrical/Controls)locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00237635Robotics Engineering Intern- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00237111Magna Engineered Glass: 2nd Shift Production SupervisorlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00238471Magna Engineered Glass: 2nd Shift Maintenance / Controls TechlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00221810Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232837User Experience Summer InternlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00238235Industrial Paint Process Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 24 Days AgoR00240649Industrial Paint Process Technician - A ShiftlocationsLiberty, Missouri, USposted onPosted 24 Days AgoR00240648Senior Manager Product Development ADAS & In-Vehicle Infotainment (IVI)locationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00236329Controls SupervisorlocationsHighland Park, Michigan, USposted onPosted 21 Days AgoR00240638.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Mesa-Arizona-US/Engineering-Technician--11am---7-30pm-_R00243638-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-engineering-technician-11am-7-30pm-mesa"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Internationalization Software Engineer, Input Experience",
-    "job_city": "Cupertino",
+    "employer_name": "NVIDIA",
+    "job_title": "Frontend Web Software Engineer, NGC",
+    "job_city": "6 Locations",
     "job_state": "US",
-    "job_posted_at": "3w",
-    "job_description": "• Minimum Qualifications3+ years of experience in software engineeringBS or MS in Computer Science or a related field.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200659860-0836/internationalization-software-engineer-input-experience?team=SFTWR",
-    "id": "apple-internationalization-software-engineer-input-experience-cupertino"
+    "job_posted_at": "1d",
+    "job_description": "• Lead Software Engineer – Robotics PlatformlocationsUS, CA, Santa Claraposted onPosted 22 Days AgoJR2017269Principal Software Engineer – GT DatalocationsUS, CA, Santa Claraposted onPosted 18 Days AgoJR2017472Senior System Software Engineer, Holoscanlocations3 Locationsposted onPosted 18 Days AgoJR2017463Senior Software Engineer— Robotics PlatformlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2017267Senior Software Engineer - Datacenter Systemslocations3 Locationsposted onPosted 2 Days AgoJR2017468Senior Software Engineer, Agentic AIlocations6 Locationsposted onPosted 16 Days AgoJR2017340Senior Software Engineer, DPU - NetworkinglocationsUS, MA, Westfordposted onPosted 12 Days AgoJR2017846Senior Software Engineer, AI Resiliencylocations2 Locationsposted onPosted 10 Days AgoJR2018027Principal Software Engineer - Compute Infrastructurelocations2 Locationsposted onPosted 9 Days AgoJR2015865Frontend Web Software Engineer, NGClocations6 Locationsposted onPosted TodayJR2018074Principal Software Engineer – CSP EngagementslocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR1998405Senior System Software Engineer - Performancelocations6 Locationsposted onPosted 30+ Days AgoJR2001796Senior Software Engineer, Humanoid RoboticslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2005063Senior Systems Software Engineer - NVLinklocationsUS, CA, Santa Claraposted onPosted YesterdayJR2007807Senior Debugger Software Engineer - IDElocations6 Locationsposted onPosted 8 Days AgoJR2008269Senior System Software Engineer, FirmwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2008659Principal Software Engineer, Profiling Serviceslocations2 Locationsposted onPosted 30+ Days AgoJR2009909Embedded Software Engineer - Ethernet Switchinglocations2 Locationsposted onPosted 14 Days AgoJR2010826Senior System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2011805Senior System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR2011616.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Frontend-Web-Software-Engineer--NGC_JR2018074?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-frontend-web-software-engineer-ngc-6-locations"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer - GPU Debugger",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Implement new features and APIs to enhance debugging capabilities for AI and HPC workloadsOptimize profiling tools for accuracy, scalability, and minimal overheadDebug and resolve issues in profiling workflows and improve tool reliabilityParticipate in hardware bring-up and ensure profiling support for new ASICsStay current with GPU architecture advancements and integrate them into ROCm profiling toolsContribute to documentation and developer resources for ROCm Debugger Strong proficiency in C++ and object-oriented programmingExperience with GDB, LLDB and other debug toolsFamiliarity with GPU programming models (HIP, OpenCL, or CUDA)Understanding of GPU architecture and system-level performance conceptsExperience with multithreading and concurrency in modern C++Knowledge of Linux development environments.\n• Windows experience is a plusFamiliarity with ROCm ecosystem and tools is highly desirableExperience with Git-based workflows and debugging toolsStrong problem-solving skills and ability to work independently and in a team Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Design, develop, and maintain ROCm Debugger components for GPU debuggingCollaborate with architecture, driver, and runtime teams to enable profiling for next-generation AMD GPUs involved in Pre Silicon and Post Silicon activities.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/86516/login",
+    "id": "amd-software-development-engineer-gpu-debugger-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Performance Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Some travel may be involved as you visit our partners at their locations as needed for co-engineering efforts and education AMD Partner Hub Authorized Distributors AMD University Program Experience using CPU profilers such as vTune, WPA, MSVS Performance Profiler Excellent communication skills and able to work with partners effectively Familiarity with modern source version control such as Git, Mercurial Experience developing highly parallel applications and algorithms Knowledge of interpreted languages such as Python and JavaScript Knowledge of x86/x64 assembly language and special instructions Experience identifying performance bottlenecks on any platform.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/86164/login",
+    "id": "amd-software-performance-engineer-us"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Data Engineer, App Store",
-    "job_city": "San Francisco",
+    "job_title": "Software Engineer in Test, Cocoa",
+    "job_city": "Cupertino",
     "job_state": "US",
     "job_posted_at": "2w",
-    "job_description": "• Minimum Qualifications3+ years of experience building production data pipelines on distributed systemsSolid programming skills in Scala or Java or Python and proficiency in SQLHands-on experience in big data technologies, such as: Hadoop, Spark/Flink, Kafka, Airflow, Iceberg, Trino and KubernetesWorking knowledge of data modeling fundamentals, structured and unstructured data analysis, predictive modeling techniques to identify patterns, translating domain requirements into engineering specificationsActive use of AI coding assistant, actively learning LLM-augmented workflowsExcellent communication.\n• )Bachelor's Degree in Computer Science, Engineering or a Quantitative discipline (e.\n• Proven success partnering with cross‑functional stakeholders (Product, Engineering, Legal, Privacy etc.\n• , Statistics, Economics, Mathematics).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200661956-3577/software-data-engineer-app-store?team=SFTWR",
-    "id": "apple-software-data-engineer-app-store-san-francisco"
+    "job_description": "• Minimum QualificationsExperience in building test applications, automated UI and non-UI tests using Xcode, Swift/ObjectiveC, XCTest/XCUITestsStrong passion for QA in software, including developing, extending and maintaining test plans, automation libraries, and methodologiesStrong triaging and debugging skills and a solid grasp of OS fundamentalsAbility to work in a diverse group, including interpersonal skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200662197-0836/software-engineer-in-test-cocoa?team=SFTWR",
+    "id": "apple-software-engineer-in-test-cocoa-cupertino"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, watchOS Widgets & Live Activities - Watch Software",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum Qualifications4+ years of software development experience.\n• A specific degree or concentration is not required.\n• Solid computer science fundamentals.\n• Proficiency with Swift and SwiftUI.\n• Ability to work collaboratively and explain complex ideas clearly.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200663072-0836/software-engineer-watchos-widgets-live-activities-watch-software?team=SFTWR",
-    "id": "apple-software-engineer-watchos-widgets-live-activities-watch-software-cupertino"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Mobile (Android), Google Photos",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile (Android), Google Photos",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/120296051025289926-software-engineer-iii-mobile-android-google-photos?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-iii-mobile-android-google-photos-mountain-view"
   }
 ]
