@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "Magna International",
-    "job_title": "production operator",
-    "job_city": "Williamsburg",
-    "job_state": "Iowa",
+    "employer_name": "Micron Technology",
+    "job_title": "Computer Engineer, Central CAD",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "17h",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/41980066",
+    "id": "micron-technology-computer-engineer-central-cad-richardson"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "CWMD Computer Programming SME",
+    "job_city": "Arlington",
+    "job_state": "VA",
     "job_posted_at": "1d",
-    "job_description": "• Materials ManagerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00206366production operatorlocationsWilliamsburg, Iowa, USposted onPosted TodayR00239562New Business Finance ManagerlocationsTroy, Michigan, USposted onPosted 13 Days AgoR00241290Maintenance Supervisor, 2nd shiftlocationsSpring Hill, Tennessee, USposted onPosted 4 Days AgoR00242935Network AdministratorlocationsHighland Park, Michigan, USposted onPosted 23 Days AgoR00240946Robotic TechnicianlocationsTroy, Michigan, USposted onPosted 9 Days AgoR00238101IT ManagerlocationsMesa, Arizona, USposted onPosted 10 Days AgoR00231467Tooling Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00237996Lead Robotic TechnicianlocationsTroy, Michigan, USposted onPosted 9 Days AgoR00238100Maintenance Technician - A ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00237998Maintenance Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00237999Controls TechnicianlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00200519Production Associate / 2nd or 3rd Shiftlocations54725 GRAND RIVER AVENUE,48165,NEW HUDSON,USposted onPosted 30+ Days AgoR00224746Production Supervisor- Monte 2nd ShiftlocationsMontezuma, Iowa, USposted onPosted 30+ Days AgoR00225702Receiving ClerklocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00218964IOT DeveloperlocationsHighland Park, Michigan, USposted onPosted 4 Days AgoR00243135Maintenance TechnicianlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00234441Tooling TechnicianlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00227944Production SupervisorlocationsHighland Park, Michigan, USposted onPosted 8 Days AgoR00242903Sr.\n• Technician, MaintenancelocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00233580.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Williamsburg-Iowa-US/production-operator_R00239562?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-production-operator-williamsburg"
+    "job_description": "• Enterprise Integration Architect, LeadlocationsMcLean, VAposted onPosted 30+ Days AgoR0236335 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 29 Days AgoR0232705 Software Architect, LeadlocationsLexington Park, MDposted onPosted 30+ Days AgoR0235783 Palantir Mission Integration Leadlocations2 Locationsposted onPosted YesterdayR0240652 Software Developer, JuniorlocationsDahlgren, VAposted onPosted 4 Days AgoR0240338 Product Engineering InternlocationsMcLean, VAposted onPosted 3 Days AgoR0240660.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/CWMD-Computer-Programming-SME_R0240753?q=software+engineering",
+    "id": "bae-systems-cwmd-computer-programming-sme-arlington"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Internationalization Software Engineer, Input Experience",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum Qualifications3+ years of experience in software engineeringBS or MS in Computer Science or a related field.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200659860-0836/internationalization-software-engineer-input-experience?team=SFTWR",
+    "id": "apple-internationalization-software-engineer-input-experience-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Data Engineer, App Store",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum Qualifications3+ years of experience building production data pipelines on distributed systemsSolid programming skills in Scala or Java or Python and proficiency in SQLHands-on experience in big data technologies, such as: Hadoop, Spark/Flink, Kafka, Airflow, Iceberg, Trino and KubernetesWorking knowledge of data modeling fundamentals, structured and unstructured data analysis, predictive modeling techniques to identify patterns, translating domain requirements into engineering specificationsActive use of AI coding assistant, actively learning LLM-augmented workflowsExcellent communication.\n• )Bachelor's Degree in Computer Science, Engineering or a Quantitative discipline (e.\n• Proven success partnering with cross‑functional stakeholders (Product, Engineering, Legal, Privacy etc.\n• , Statistics, Economics, Mathematics).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200661956-3577/software-data-engineer-app-store?team=SFTWR",
+    "id": "apple-software-data-engineer-app-store-san-francisco"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, watchOS Widgets & Live Activities - Watch Software",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum Qualifications4+ years of software development experience.\n• A specific degree or concentration is not required.\n• Solid computer science fundamentals.\n• Proficiency with Swift and SwiftUI.\n• Ability to work collaboratively and explain complex ideas clearly.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200663072-0836/software-engineer-watchos-widgets-live-activities-watch-software?team=SFTWR",
+    "id": "apple-software-engineer-watchos-widgets-live-activities-watch-software-cupertino"
   }
 ]
