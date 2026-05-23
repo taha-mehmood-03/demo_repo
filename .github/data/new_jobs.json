@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, G&A Solutions Engineering (GSE)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "5d",
+    "job_description": "• Minimum Qualifications4+ years of software development experience in Java, with strong object-oriented design skillsExperience in both frontend and backend development, including building and maintaining large-scale, scalable systemsHands-on experience with relational and non-relational databases and proficiency with Unix operating systemsSolid knowledge of application performance optimization techniques and caching solutionsBachelor's degree in Computer Science/Engineering or equivalent work related experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200655905-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+    "id": "apple-software-engineer-g-a-solutions-engineering-gse-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Device Management, CoreOS",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsExperience with professional software development in a C-like programming language (Swift, Objective-C, Java, C++, C#, etc.\n• )Familiarity with concurrent programming concepts and design patterns, such as multi-threading, serialization, and lockingDemonstrated ability to quickly learn and apply new technologies while working collaboratively with othersExcellent communication and interpersonal skillsBachelor's Degree in Computer Science, an engineering-related field, or equivalent related experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200663201-0836/software-engineer-device-management-coreos?team=SFTWR",
+    "id": "apple-software-engineer-device-management-coreos-cupertino"
+  }
+]
