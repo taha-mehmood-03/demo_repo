@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Security Software Engineer, OS Security",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBS in Computer Science or equivalent experience/skills in systems programming and security.\n• Strong C and low-level systems programming skills.\n• Excellent partnership and communication skills to collaborate with a broad range of engineering teams.\n• Understanding of operating system internals (macOS, iOS, BSD, or Linux).\n• Ability to navigate and understand code up and down the software stack (comfortable diving into kernel, low-level userland, framework, and application code).\n• Familiarity with past, current, and emerging security exploits and mitigation techniques.\n• Demonstrated readiness to balance concurrent priorities, manage technical debt, and deliver on tight schedules.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200661581-0836/security-software-engineer-os-security?team=SFTWR",
+    "id": "apple-security-software-engineer-os-security-cupertino"
+  }
+]
