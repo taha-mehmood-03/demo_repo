@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Embedded Software Algorithm Developer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Staff Robotic Software EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR257971Staff Robotic Simulation Software EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258507Staff Software Engineer, Embedded ToolslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261415Development Manager, Cloud Technologies – Regulated Software (MedTech)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261937ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Embedded Software Algorithm Developerlocations2 Locationsposted onPosted TodayR255533Senior Technical Writer (Medical/Software)locationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR262555Embedded AI Tooling EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261712Product Manager, SW Enablement Brandslocations19 Locationsposted onPosted 30+ Days AgoR262101Android Mobile DeveloperlocationsUS, MA, Wilmingtonposted onPosted 14 Days AgoR262556Principal Engineer, AI/ML Softwarelocations2 Locationsposted onPosted 30+ Days AgoR260373Principal Engineer, AI/ML Softwarelocations2 Locationsposted onPosted 30+ Days AgoR260367Staff Cloud Engineer (AWS)locations4 Locationsposted onPosted 30+ Days AgoR261620Principal AI Infrastructure EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262018Senior AI Infrastructure EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262019Senior AI Application Engineer locationsUS, MA, Wilmingtonposted onPosted 14 Days AgoR262328Senior Algorithms EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261975Principal Audio/DSP Systems EngineerlocationsUS, MA, Bostonposted onPosted 13 Days AgoR262446Deep Agentic Reasoning Engineer (Lorenz Labs)locations2 Locationsposted onPosted 30+ Days AgoR257950Deep Agentic Reasoning Engineer (Lorenz Labs)locations2 Locationsposted onPosted 30+ Days AgoR257953.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Algorithm-Development-Engineer_R255533-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-embedded-software-algorithm-developer-2-locations"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Knowledge Catalog For AI",
+    "job_title": "Software Engineer, Cloud CISO Security Engineering",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Knowledge Catalog For AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/74124847650611910-software-engineer-iii-knowledge-catalog-for-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
-    "id": "google-software-engineer-iii-knowledge-catalog-for-ai-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Cloud CISO Security Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/119262273871979206-software-engineer-cloud-ciso-security-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-cloud-ciso-security-engineering-sunnyvale"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Cloud Networking, Andromeda",
-    "job_city": "Sunnyvale",
+    "job_title": "Software Engineer, Silicon Systems Software or Mountain View",
+    "job_city": "San Diego",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Cloud Networking, Andromeda",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79628590542398150-software-engineer-cloud-networking-andromeda?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-cloud-networking-andromeda-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, Silicon Systems Software or Mountain View",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/130983342701978310-software-engineer-silicon-systems-software-or-mountain-view?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-silicon-systems-software-or-mountain-view-san-diego"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Embedded Systems Security, Silicon",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Embedded Systems Security, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/134419316538778310-software-engineer-embedded-systems-security-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-embedded-systems-security-silicon-mountain-view"
   }
 ]
