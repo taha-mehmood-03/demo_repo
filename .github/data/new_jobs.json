@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer II / SRE",
+    "job_city": "Ciudad Autónoma de Buenos Aires",
+    "job_state": "Argentina",
+    "job_posted_at": "1d",
+    "job_description": "• Lead Software Engineer - Application Developer Houston, TX, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Developer [Multiple Positions Available] Wilmington, DE, United States TechnologySoftware Engineering Collaborate with product team to gather requirements and translate them into technical solutions.\n• Lead Software Engineer - Python / Java LONDON, LONDON, United Kingdom TechnologySoftware Engineering Lead software engineering to design and deliver secure, stable, scalable solutions that promote key business goals Manager of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards Lead / Senior C++ Software Engineer Athens, Attica, Greece TechnologySoftware Engineering Lead Software Engineer for the Cash Equities Liquidity team, Electronic Trading Technology.\n• Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.\n• Software Engineer III- Front End Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III - Java Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team iOS Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer II - Java Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer III - SRE BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Middleware New York, NY, United States TechnologySoftware Engineering Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top-notch technology product Lead Software Engineer - Middleware New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java Jersey City, NJ, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - MLOps LONDON, LONDON, United Kingdom TechnologySoftware Engineering Drive innovation in digital banking by building scalable AI/ML solutions that enhance customer experiences.\n• Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Distributed Computing and Compute Optimization Engineer Android Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Senior Manager of Software Engineering -Front office trading Jersey City, NJ, United States TechnologySoftware Engineering Bring your Senior Manager of Software Engineering experience to lead the Front office Trading execution technology team.\n• Software Engineer III - Agentic AI, Java/Python Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Design, develop, and implement innovative software applications tailored to the dynamic needs of the Trading Platform.\n• Software Engineer III - AI/ML, Java/Python Plano, TX, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Java, Springboot Plano, TX, United States TechnologySoftware Engineering Serve as an experienced member of an agile team to design and deliver market-leading technology products in a secure and scalable way Brazil Payments Technology - Software Engineer III Sao Paulo, SP, Brazil TechnologySoftware Engineering As an Software Engineer focused on real-time payments (PIX), you will be a senior member of an agile, cross-functional technology team responsible for designing, building, and operating secure, resilient, scalable, and highly available software and infrastructure that supports 24/7/365 mission-critical payment processing.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753443/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-sre-ciudad-aut-noma-de-buenos-aires"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Silicon Systems Software",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Silicon Systems Software",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/130983342701978310-software-engineer-silicon-systems-software?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-silicon-systems-software-san-diego"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Mobile (Android), Platforms and Devices",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile (Android), Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/128656191982052038-software-engineer-iii-mobile-android-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-iii-mobile-android-platforms-and-devices-san-jose"
+  }
+]
