@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "NVIDIA",
-    "job_title": "GPU Simulation System Software Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineer— Robotics PlatformlocationsUS, CA, Santa Claraposted onPosted 22 Days AgoJR2017267Senior Software Engineer - Datacenter Systemslocations3 Locationsposted onPosted 2 Days AgoJR2017468Senior Software Engineer, Agentic AIlocations6 Locationsposted onPosted 23 Days AgoJR2017340Senior Software Engineer, DPU - NetworkinglocationsUS, MA, Westfordposted onPosted 19 Days AgoJR2017846Senior Software Engineer, AI Resiliencylocations2 Locationsposted onPosted 17 Days AgoJR2018027Principal Software Engineer - Compute Infrastructurelocations2 Locationsposted onPosted 16 Days AgoJR2015865Frontend Web Software Engineer, NGClocations6 Locationsposted onPosted YesterdayJR2018074Senior System Software Engineer - Performancelocations6 Locationsposted onPosted 5 Days AgoJR2018642Senior Systems Software Engineer - Omniverselocations6 Locationsposted onPosted 3 Days AgoJR2018165Senior Software Engineer, AI Networkinglocations2 Locationsposted onPosted 2 Days AgoJR2018812Senior System Software Engineer, NvScilocations2 Locationsposted onPosted 2 Days AgoJR2018688Senior Software Engineer, Agentic Systemslocations5 Locationsposted onPosted YesterdayJR2018875GPU Simulation System Software EngineerlocationsUS, CA, Santa Claraposted onPosted TodayJR2018237Senior Software Engineer - Agentic AIlocationsUS, CA, Santa Claraposted onPosted TodayJR1989138Principal Software Engineer – CSP EngagementslocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1998405Senior System Software Engineer - Performancelocations6 Locationsposted onPosted 30+ Days AgoJR2001796Senior Software Engineer, Humanoid RoboticslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2005063Senior Systems Software Engineer - NVLinklocations2 Locationsposted onPosted 2 Days AgoJR2007807Senior System Software Engineer, FirmwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2008659Principal Software Engineer, Profiling Serviceslocations2 Locationsposted onPosted 30+ Days AgoJR2009909.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Simulation-System-Software-Engineer_JR2018237?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-gpu-simulation-system-software-engineer-us"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer (JAVA Software Administrator), IS&T Enterprise Systems",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "• Minimum Qualifications4 years of experience in Java and Java Enterprise technology applications architecture, design, development and support.\n• 4 years of experience in designing and developing scalable enterprise level back end solutions.\n• 4 years of experience in hands-on programming experience in Java, Spring, multi-threading, REST, Data Caching Services, DB schema design and data access technologies.\n• 4 years of experience in rolling out distributed, large-scale, low latency web applications.\n• 4 years of experience with automated CI/CD pipelines to facilitate rapid and reliable software releases.\n• 4 years of experience in creating and managing infrastructure using tools like Terraform or Ansible to ensure consistent and scalable environments4 years of experience in web service tools as such Apache Tomcat, Kafka.\n• Bachelor’s degree in Computer Science, Information Systems, Engineering, or related field (or equivalent practical experience).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200664845-0240/software-engineer-java-software-administrator-is-t-enterprise-systems?team=SFTWR",
-    "id": "apple-software-engineer-java-software-administrator-is-t-enterprise-systems-"
+    "employer_name": "Micron Technology",
+    "job_title": "SMTS Physical Design Engineer",
+    "job_city": "Minneapolis",
+    "job_state": "Minnesota",
+    "job_posted_at": "2w",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/41709383",
+    "id": "micron-technology-smts-physical-design-engineer-minneapolis"
   }
 ]
