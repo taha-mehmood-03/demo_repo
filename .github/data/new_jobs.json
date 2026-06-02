@@ -1,32 +1,22 @@
 [
   {
+    "employer_name": "Salesforce",
+    "job_title": "Product Security",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• 5+ years in offensive or defensive security roles with a proven track record of securing enterprise-level cloud platforms, including expertise in OWASP Top 10 (Open Web Application Security Project) and SANS Top 25 (SysAdmin, Audit, Network, and Security).\n• Strong communication skills with the ability to translate complex vulnerabilities such as heap-buffer overflows or Insecure Direct Object References (IDOR) into business risk that stakeholders can understand.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Offensive security certifications such as Offensive Security Certified Professional (OSCP), Offensive Security Web Expert (OSWE), or GIAC Web Application Pentester (GWAPT).\n• Experience with the Salesforce ecosystem and applying AI tools such as Claude, Cursor, or Gemini to security assessments.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Embed security controls throughout the entire Software Development Life Cycle (SDLC), lead deep-dive threat modeling sessions for complex Salesforce Marketing Cloud (SFMC) integrations, and perform manual, agentic, and automated secure code reviews across Java, C#, PHP, and Python.\n• Conduct and coordinate penetration tests for high-risk features on internal and external-facing assets, and design and evaluate robust authentication and authorization (AuthN/AuthZ) frameworks including modern identity protocols such as Security Assertion Markup Language (SAML), OAuth 2.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr342572/product-security/",
+    "id": "salesforce-product-security-california-san-francisco"
+  },
+  {
     "employer_name": "Intel",
-    "job_title": "IA Core Post Silicon Validation Engineer",
-    "job_city": "US",
-    "job_state": "Texas",
+    "job_title": "I Software Engineer – Agentic AI System",
+    "job_city": "4 Locations",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Facilities Power Distribution Electrical EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0282731CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0282921Engineering Planning AnalystlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0284314Supply Chain EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0284410Standard Cell Library Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0283004Identity Security - PKI Engineerlocations2 Locationsposted onPosted 9 Days AgoJR0284294CPU Verification Engineerlocations2 Locationsposted onPosted 27 Days AgoJR0283608Senior CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281123GPU Design Verification EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0283116GPU Design Verification Engineerlocations2 Locationsposted onPosted 27 Days AgoJR0281327Atom CPU Architecture EngineerlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0282747GPU Validation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283107Identity Architectlocations2 Locationsposted onPosted 3 Days AgoJR0284293GPU Logic Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281318GPU Logic Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283113CPU Design Verification Engineer locations2 Locationsposted onPosted 12 Days AgoJR0283987IA Core Post Silicon Validation EngineerlocationsUS, Texas, Austinposted onPosted TodayJR0284403Mechanical Design Engineer – Semiconductor PackaginglocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoJR0284244Memory Electrical Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 20 Days AgoJR0283840Power and Performance Design Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0284362.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/IA-Core-Post-Silicon-Validation-Engineer_JR0284403?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-ia-core-post-silicon-validation-engineer-us"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Systems Integration Engineer II, Automated Drive Integration",
-    "job_city": "Palo Alto",
-    "job_state": "California US",
-    "job_posted_at": "1d",
-    "job_description": "• Deep-dive into vehicle log data and source code if required to root-cause system-level issues and facilitate rapid issue resolution in collaboration with domain experts Ability to work in a fast-paced development environment - proactively collaborate cross-functionally with other teams to solve vehicle-level integration problems Clean driving record with professional experience driving prototype test-vehicles in test-tracks Familiarize system and component level requirements for features as well as hardware components Experience in chassis control or vehicle dynamics development preferred Prior experience and passion for ADAS system control development Review vehicle data and correlate data with requirements Experience building dashboards and scripting in Python.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/31263/login",
-    "id": "rivian-systems-integration-engineer-ii-automated-drive-integration-palo-alto"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "System Development Engineer, AWS Mainstream Compute",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "23h",
-    "job_description": "software engineering job for the role System Development Engineer, AWS Mainstream Compute",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10435423/system-development-engineer-aws-mainstream-compute",
-    "id": "amazon-system-development-engineer-aws-mainstream-compute-austin"
+    "job_description": "• Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoSpotlight JobJR0283729AI Software Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoJR0282639Hardware DevOps/AI Engineer Fall 2026 InternshiplocationsUS, California, Folsomposted onPosted 3 Days AgoJR0283839EDA Tools Software Engineerlocations3 Locationsposted onPosted 26 Days AgoJR0280762LTD Frame Automation Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0284284I Software Engineer – Agentic AI System locations4 Locationsposted onPosted TodayJR0282814GPU Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0282186GPU Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0282189GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0283073GPU Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 17 Days AgoJR0283800GPU Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 17 Days AgoJR0283801GPU Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 17 Days AgoJR0283799GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 4 Days AgoJR0284406Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280028Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280029Senior AI Software Architect - Runtimelocations3 Locationsposted onPosted 30+ Days AgoJR0283399Software Product Managerlocations4 Locationsposted onPosted 30+ Days AgoJR0282911Software Enabling and Optimization Engineerlocations2 Locationsposted onPosted TodayJR0282409Neuromorphic/AI Research Scientistlocations5 Locationsposted onPosted 4 Days AgoJR0284193Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 30+ Days AgoJR0281966.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/I-Software-Engineer---Agentic-AI-System-_JR0282814?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-i-software-engineer-agentic-ai-system-4-locations"
   }
 ]
