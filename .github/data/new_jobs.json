@@ -1,72 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "zHW Technical Support Professional",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role zHW Technical Support Professional",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=117781&source=WEB_Search_NA",
-    "id": "ibm-zhw-technical-support-professional-poughkeepsie"
-  },
-  {
     "employer_name": "Micron Technology",
-    "job_title": "Engineer, SIG Equip Software Design",
+    "job_title": "Global Planning Modeling Engineer",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "21h",
+    "job_posted_at": "2d",
     "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/42198036",
-    "id": "micron-technology-engineer-sig-equip-software-design-boise"
+    "job_apply_link": "https://careers.micron.com/careers/job/42120466",
+    "id": "micron-technology-global-planning-modeling-engineer-boise"
   },
   {
     "employer_name": "Analog Devices",
-    "job_title": "AI Technology Strategist",
+    "job_title": "Engineer, Field Applications",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Senior Robot Learning EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR260280Principal ML Engineer (Robotics)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR260279Staff Robotics System EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261725Senior Robot Learning Engineerlocations2 Locationsposted onPosted 14 Days AgoR262308Senior Engineer, Machine LearninglocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR262583AI Operations Lead locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261277Sr.\n• Director, Responsible AI – Compliance & Risklocations3 Locationsposted onPosted 30+ Days AgoR261846AI Governance Analystlocations3 Locationsposted onPosted 13 Days AgoR262486Senior Sensor Engineer (Tactile Sensing)locationsUS, MA, Bostonposted onPosted 30+ Days AgoR260281Senior Algorithm Development (Embedded)locations2 Locationsposted onPosted 30+ Days AgoR253054Staff Research Scientist, Artificial IntelligencelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255394Senior Research Scientist, Machine LearninglocationsUS, MA, Wilmingtonposted onPosted 22 Days AgoR262487Senior Research Scientist, Machine LearninglocationsUS, MA, Bostonposted onPosted 22 Days AgoR262485Edge Compute Architect for Optical SystemslocationsUS, MA, Bostonposted onPosted 19 Days AgoR262049AI Technology StrategistlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR262658Lead Software ArchitectlocationsUS, TX, Austin, Plaza on the Lakeposted onPosted 30+ Days AgoR261350Senior Engineer, Software InfrastructurelocationsUS, MA, Wilmingtonposted onPosted TodayR262720Staff Engineer, Systems Application - Aerospace and Defenselocations52 Locationsposted onPosted 30+ Days AgoR257908Agile Delivery & SDLC Lead – Regulated Software (MedTech)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260672Director, Software and Digital Platforms Program ManagementlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR262730.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/AI-Technology-Strategist_R262658?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ai-technology-strategist-us"
+    "job_description": "• Senior Engineer Design Verification EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR262669Senior Engineer, Automotive Product and Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 22 Days AgoR262483Staff Engineer, Digital Design Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR261443Industrial EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR262159Staff Systems Engineer – Analog GaragelocationsUS, MA, Bostonposted onPosted 21 Days AgoR261737Senior Principal Engineer, Systems Design/Architecture Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR262200Principal Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257277Principal Engineer, Mixed-Signal Design Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR262201Staff Engineer Analog IC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260158Senior Engineer, Mixed Signal Design EngineeringlocationsUS, CA, Grass Valleyposted onPosted 22 Days AgoR262482Staff Mechanical Engineer, Advanced RoboticslocationsUS, MA, Bostonposted onPosted 11 Days AgoR262611Staff Engineer - Digital ASIC and Signal Processing Chip Architect/Systems Engineerlocations2 Locationsposted onPosted 6 Days AgoR261551Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261276Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR263074Staff Engineer - Digital ASIC and Signal Processing Chip Architect/Systems Engineerlocations2 Locationsposted onPosted 12 Days AgoR260551RF Product EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255417Systems Design/Architecture Engineering, InstrumentationlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR262434Principal Motion System Engineer - RoboticslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260584Senior Engineer, Product ApplicationslocationsUS, MA, Norwood Southposted onPosted 21 Days AgoR262586Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Engineer--Field-Applications_R263074?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-field-applications-us"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Linux Software Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "Magna International",
+    "job_title": "Technician, Engineering",
+    "job_city": "Mesa",
+    "job_state": "Arizona",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer, SeniorlocationsFort Belvoir, VAposted onPosted 5 Days AgoR0241135 Software Engineer, SeniorlocationsNellis AFB, NVposted onPosted 19 Days AgoR0240110 Software Engineer, SeniorlocationsNellis AFB, NVposted onPosted 14 Days AgoR0240108 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 5 Days AgoR0240982 Software Engineer, LeadlocationsMcLean, VAposted onPosted 26 Days AgoR0239294.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Linux-Software-Engineer_R0241375?q=software+engineering",
-    "id": "bae-systems-linux-software-engineer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Application Administrator",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "1d",
-    "job_description": "• Software Test Automation and QA Developer, Seniorlocations2 Locationsposted onPosted 13 Days AgoR0240586 High Side Operations Software Engineer, JuniorlocationsAlexandria, VAposted onPosted 6 Days AgoR0240986 Full Stack Cloud Developer, Seniorlocations2 Locationsposted onPosted 6 Days AgoR0240765 Front End Developer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0238672 Multi-Cloud Developer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0239135 Application Developer, Seniorlocations27 Locationsposted onPosted 20 Days AgoR0240024 Application Developer, Seniorlocations27 Locationsposted onPosted 14 Days AgoR0240277 Full Stack Developer, SeniorlocationsDoral, FLposted onPosted 4 Days AgoR0241320.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Application-Administrator_R0241378?q=software+engineering",
-    "id": "bae-systems-application-administrator-washington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Developer, Mid",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Knowledge ManagerlocationsWashington, DCposted onPosted 12 Days AgoR0240607 Knowledge ManagerlocationsWashington, DCposted onPosted YesterdayR0241262 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0239031 Software Integration Engineer, SeniorlocationsCalifornia, MDposted onPosted 30+ Days AgoR0237819 Power Platform Developer, SeniorlocationsRockville, MDposted onPosted 7 Days AgoR0240817 Software Architect, LeadlocationsLexington Park, MDposted onPosted 30+ Days AgoR0235783 DevOps Engineer, SeniorlocationsMoorestown, NJposted onPosted 30+ Days AgoR0236058 Software Developer, JuniorlocationsDahlgren, VAposted onPosted 15 Days AgoR0240338.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Software-Developer--Mid_R0241483?q=software+engineering",
-    "id": "bae-systems-software-developer-mid-dahlgren"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Technical SETA SME - Microelectronics",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
-    "job_posted_at": "1d",
-    "job_description": "• Peoplesoft HCM Solution Architectlocations2 Locationsposted onPosted 14 Days Ago39582Graphic DesignerlocationsUS - MD, Bethesdaposted onPosted 7 Days Ago39898Datacenter Facilities & Equipment SpecialistlocationsUS - MO, Kansas Cityposted onPosted 14 Days Ago39465Technical SETA SME - CommunicationslocationsUS - MD, Bethesdaposted onPosted 11 Days Ago39710Technical SETA SME - SensinglocationsUS - MD, Bethesdaposted onPosted 11 Days Ago39711Power Apps DeveloperlocationsUS - Remote (Any location)posted onPosted 15 Days Ago37549Microsoft Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 7 Days Ago37550Technical Associate - Platforms, Technology - Campus 2026locations4 Locationsposted onPosted 15 Days Ago37860Salesforce DeveloperlocationsUS - TX, San Antonioposted onPosted 30+ Days Ago36980Technical SETA SME - MicroelectronicslocationsUS - MD, Bethesdaposted onPosted Today39712Lead DeveloperlocationsUS - VA, McLeanposted onPosted 15 Days Ago39035Logistics IT Technical LeadlocationsUS - Remote (Any location)posted onPosted 14 Days Ago38680ServiceNow Developerlocations29 Locationsposted onPosted 19 Days Ago38814Palantir DeveloperlocationsUS - CA, Los Angelesposted onPosted 12 Days Ago39613AWS Application Architect - Leadlocations3 Locationsposted onPosted 6 Days Ago39791Account Director - CE&I Energy Providerslocations16 Locationsposted onPosted 7 Days Ago32512Account Director - Energy Providers Westlocations6 Locationsposted onPosted Today39064Senior IS Security DeveloperlocationsUS - VA, McLeanposted onPosted 15 Days Ago39375ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted 14 Days Ago38980Sr.\n• ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted 14 Days Ago38981.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Technical-SETA-SME---Microelectronics_39712-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-technical-seta-sme-microelectronics-us-md"
+    "job_description": "• Controls EngineerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00239804Industrial EngineerlocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00231578Automation EngineerlocationsNorthwood, Ohio, USposted onPosted 30+ Days AgoR00237626Magna Engineered Glass: Manufacturing EngineerlocationsHolland, Michigan, USposted onPosted 21 Days AgoR00242507Engineer, ManufacturinglocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00233394Manufacturing EngineerlocationsShepherdsville, Kentucky, USposted onPosted 19 Days AgoR00241956Robotics EngineerlocationsHighland Park, Michigan, USposted onPosted 19 Days AgoR00235540Packaging EngineerlocationsNorthwood, Ohio, USposted onPosted 30+ Days AgoR00235637Technician, EngineeringlocationsMesa, Arizona, USposted onPosted TodayR00241776Weld EngineerlocationsLancaster, Ohio, USposted onPosted 6 Days AgoR00244553Controls EngineerlocationsDuncan, South Carolina, USposted onPosted TodayR00245562Lead Engineer, HardwarelocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00234324System Engineering AdminlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00240242Solutions Engineering ManagerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00221303Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00203332Intern - Engineering OpticslocationsSouthfield, Michigan, USposted onPosted 13 Days AgoR00243622Intern - Electrical EngineeringlocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00235436Controls Engineer - CastinglocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00240233Senior Packaging EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00239101Magna Engineered Glass: Senior Design Engineer (DE 3)locationsHolland, Michigan, USposted onPosted 25 Days AgoR00242281.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Mesa-Arizona-US/Engineering-Technician_R00241776?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-technician-engineering-mesa"
   }
 ]
