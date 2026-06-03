@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Parallel File Systems, AI/ML Storage",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Parallel File Systems, AI/ML Storage",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81021783544603334-software-engineer-parallel-file-systems-aiml-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-parallel-file-systems-ai-ml-storage-seattle"
+    "employer_name": "Broadcom",
+    "job_title": "AI Software Engineer",
+    "job_city": "BGR-Sofia-Garitage Park - Bldg 2",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Systems Applications & AI Tooling Engineer (Ethernet NIC, PCIe Switch)locationsCanada-Richmond-International Placetime typeFull timeposted onPosted 8 Days AgoR025934 Principal Engineer - vSphere Kubernetes ServicelocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 14 Days AgoR026092 Senior Software Engineer - Cloud Native StoragelocationsUSA-CA - Promontory Ctime typeFull timeposted onPosted 14 Days AgoR026068 Senior-level Technical WriterlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 6 Days AgoR026096 Principal Software EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 2 Days AgoR026152 Senior Software EngineerlocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 14 Days AgoR026051 Senior Project Managerlocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR025706 Agile Program Managerlocations2 Locationstime typeFull timeposted onPosted 5 Days AgoR025167.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/BGR-Sofia-Garitage-Park---Bldg-2/AI-Software-Engineer_R025523-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-ai-software-engineer-bgr-sofia-garitage-park-bldg-2"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, AI/ML, Chronicle Security",
-    "job_city": "Sunnyvale",
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer - AI/ML, AWS Neuron Distributed Training - Multimodal",
+    "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, AI/ML, Chronicle Security",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/90968790363185862-software-engineer-aiml-chronicle-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-ai-ml-chronicle-security-sunnyvale"
+    "job_posted_at": "15h",
+    "job_description": "software engineering job for the role Software Engineer - AI/ML, AWS Neuron Distributed Training - Multimodal",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10438461/software-engineer-ai-ml-aws-neuron-distributed-training-multimodal",
+    "id": "amazon-software-engineer-ai-ml-aws-neuron-distributed-training-multimodal-cupertino"
   }
 ]
