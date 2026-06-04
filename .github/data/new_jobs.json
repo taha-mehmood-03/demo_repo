@@ -1,12 +1,42 @@
 [
   {
+    "employer_name": "Intel",
+    "job_title": "Sales Operations Analyst",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Staff Mixed Signal IP Enablement and Debug Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0284335Health and Life Sciences Systems and Solutions Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0283499Senior Product Manager - Server CPUlocations3 Locationsposted onPosted 30+ Days AgoJR0282876Fab Equipment Maintenance Commodity Managerlocations4 Locationsposted onPosted 30+ Days AgoJR0283470Materials Program ManagerlocationsUS, Arizona, Phoenixposted onPosted 23 Days AgoJR0283865Materials Program ManagerlocationsUS, New Mexico, Albuquerqueposted onPosted 22 Days AgoJR0283686Consumer Industries Solution Leadlocations4 Locationsposted onPosted 16 Days AgoJR0283833Director-Analog Design & Infrastructure Design Automationlocations4 Locationsposted onPosted 30+ Days AgoJR0281184Senior CPU Power Management Architectlocations2 Locationsposted onPosted 30+ Days AgoJR0282671eCOTS Product Ownerlocations6 Locationsposted onPosted 8 Days AgoJR0284222Intel Products Supply Chain Business Architectlocations4 Locationsposted onPosted 8 Days AgoJR0284190Process Roadmap Specialistlocations2 Locationsposted onPosted 9 Days AgoJR0284176Sr.\n• Security Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0282220Qubit Control IC Designerlocations2 Locationsposted onPosted YesterdayJR0281067Client Computing Group Demand Planning Leadlocations5 Locationsposted onPosted YesterdayJR0284508Sales Operations Analystlocations3 Locationsposted onPosted TodayJR0283771SoC Power and Performance ArchitectlocationsUS, Oregon, Hillsboroposted onPosted 6 Days AgoJR0284416CPU Performance ArchitectlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0281596General Manager, Intel Wireless Solutionslocations3 Locationsposted onPosted 24 Days AgoJR0283899Senior CPU Performance Architectlocations5 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0282127.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Sales-Operations-Analyst_JR0283771?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-sales-operations-analyst-3-locations"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Field Service Engr I -QCS Montgomery, AL",
+    "job_city": "Montgomery",
+    "job_state": "AL",
+    "job_posted_at": "16h",
+    "job_description": "• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Software Support Engineer Locations Raleigh, NC, United States (Hybrid) Posting Date04/21/2026 Trending As an Software Support Engineer here at Honeywell, you will provide technical expertise, lead a team of engineers, and deliver high-quality solutions to enhance customer experience and drive business growth.\n• Software Support Engineer Locations Raleigh, NC, United States (Hybrid) Posting Date04/21/2026 Trending As a Software Support Engineer here at Honeywell, you will provide technical expertise, lead a team of engineers, and deliver high-quality solutions to enhance customer experience and drive business growth.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/149297/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-field-service-engr-i-qcs-montgomery-al-montgomery"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, AI/ML Computer Vision",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_title": "Software Engineer III, AI Answers Quality",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, AI/ML Computer Vision",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108512357377811142-software-engineer-aiml-computer-vision?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-ai-ml-computer-vision-seattle"
+    "job_description": "software engineering job for the role Software Engineer III, AI Answers Quality",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137166936067711686-software-engineer-iii-ai-answers-quality?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-ai-answers-quality-mountain-view"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer, Prime Video Global Brand & Marketing Insights",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_posted_at": "16h",
+    "job_description": "software engineering job for the role Data Engineer, Prime Video Global Brand & Marketing Insights",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10439765/data-engineer-prime-video-global-brand-marketing-insights",
+    "id": "amazon-data-engineer-prime-video-global-brand-marketing-insights-culver-city"
   }
 ]
