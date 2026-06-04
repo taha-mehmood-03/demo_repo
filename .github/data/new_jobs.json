@@ -1,92 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "GRC Tooling Solution Developer",
-    "job_city": "RESEARCH TRIANGLE PARK",
+    "employer_name": "Analog Devices",
+    "job_title": "Design Evaluation Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• Verification SW EngineerlocationsUS, NC, Durhamposted onPosted 22 Days AgoR262432Director, Software and Digital Platforms Program ManagementlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR262730Senior Engineer, Design Evaluation EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR262582Senior Engineer, Design Evaluation EngineeringlocationsUS, MA, Wilmingtonposted onPosted 16 Days AgoR262763Senior Engineer, Design Evaluation EngineeringlocationsUS, NC, Durhamposted onPosted 6 Days AgoR263107Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR262731Staff Design Evaluation EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 5 Days AgoR262008IMU Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255774Principal Design Evaluation EngineerlocationsUS, CO, Colorado Springs, Centennialposted onPosted 23 Days AgoR262330Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 5 Days AgoR262512Senior Embedded SW EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR258736Associate Consumer System Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261544Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 22 Days AgoR262333Staff Engineer, RF EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR260144Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258887Staff Engineer, Digital Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR261739Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted YesterdayR262292Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR261549Senior Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR262672Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 26 Days AgoR258575.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Design-Evaluation-Engineer_R262731?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-design-evaluation-engineer-us"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "Experienced Mainframe Software Development Engineer",
+    "job_city": "USA-IL Lisle Warrenville Road",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role GRC Tooling Solution Developer",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118323&source=WEB_Search_NA",
-    "id": "ibm-grc-tooling-solution-developer-research-triangle-park"
+    "job_description": "• Experienced Mainframe Software Development EngineerlocationsUSA-IL Lisle Warrenville Roadtime typeFull timeposted onPosted TodayR025083 Systems Applications & AI Tooling Engineer (Ethernet NIC, PCIe Switch)locationsCanada-Richmond-International Placetime typeFull timeposted onPosted 8 Days AgoR025934 Principal Engineer - vSphere Kubernetes ServicelocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 14 Days AgoR026092 Senior-level Technical WriterlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 6 Days AgoR026096 Principal Software EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 2 Days AgoR026152 Senior Software EngineerlocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 14 Days AgoR026051 Workload Automation Product Managerlocations3 Locationstime typeFull timeposted onPosted TodayR025738 Senior Project Managerlocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR025706 Agile Program Managerlocations2 Locationstime typeFull timeposted onPosted 5 Days AgoR025167.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Experienced-Mainframe-Software-Development-Engineer_R025083-2?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-experienced-mainframe-software-development-engineer-usa-il-lisle-warrenville-road"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "zOS Technical Support Professional",
-    "job_city": "POUGHKEEPSIE",
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, GPU Performance Tools",
+    "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role zOS Technical Support Professional",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118327&source=WEB_Search_NA",
-    "id": "ibm-zos-technical-support-professional-poughkeepsie"
+    "job_description": "• Senior Software Engineer, CUTLASS Platform locations5 Locationsposted onPosted 2 Days AgoJR2018985Senior Software Engineer, CUTLASS Performancelocations5 Locationsposted onPosted 2 Days AgoJR2018987Senior Software Engineer, CUTLASS Kernels locations5 Locationsposted onPosted 2 Days AgoJR2018988Software Engineer, GPU Performance Toolslocations3 Locationsposted onPosted TodayJR2017424Senior Software Engineer - Agentic AIlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR1989138Principal Software Engineer – CSP EngagementslocationsUS, CA, Santa Claraposted onPosted 20 Days AgoJR1998405Senior System Software Engineer - Performancelocations6 Locationsposted onPosted 30+ Days AgoJR2001796Senior Software Engineer, Humanoid RoboticslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2005063Senior Systems Software Engineer - NVLinklocations2 Locationsposted onPosted 7 Days AgoJR2007807Senior System Software Engineer, FirmwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2008659Principal Software Engineer, Profiling Serviceslocations2 Locationsposted onPosted 30+ Days AgoJR2009909Embedded Software Engineer - Ethernet Switchinglocations2 Locationsposted onPosted 26 Days AgoJR2010826Senior System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2011805Senior System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 22 Days AgoJR2011616 Principal Platform Software Engineer - RASlocations2 Locationsposted onPosted 6 Days AgoJR2011909Senior Platform Software Engineer – Factorylocations2 Locationsposted onPosted 6 Days AgoJR2012307Senior Deep Learning Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR2012411Senior Software Engineer - DPU PlatformlocationsUS, MA, Westfordposted onPosted 29 Days AgoJR2011761Senior System Software Engineer, TegralocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2011818Senior Software Engineer, Graphics Performancelocations4 Locationsposted onPosted 30+ Days AgoJR2012523.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--GPU-Performance-Tools_JR2017424?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-gpu-performance-tools-3-locations"
   },
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineer - AI Focus",
-    "job_city": "Mexico - Mexico City",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr336667/software-engineer-ai-focus/",
-    "id": "salesforce-software-engineer-ai-focus-mexico-mexico-city"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Photo Equipment Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "1d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/42226162",
-    "id": "micron-technology-photo-equipment-engineer-boise"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "API Engineer",
-    "job_city": "Scott AFB",
-    "job_state": "IL",
-    "job_posted_at": "1d",
-    "job_description": "• C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 16 Days AgoR0240412 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsAlbuquerque, NMposted onPosted 13 Days AgoR0240670 UAS Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 6 Days AgoR0241044 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 27 Days AgoR0226855 Software Developer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226754 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 7 Days AgoR0235336 Software Developer, SeniorlocationsMcLean, VAposted onPosted YesterdayR0241334 Software Developer, SeniorlocationsMcLean, VAposted onPosted YesterdayR0241339.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/API-Engineer_R0241463?q=software+engineering",
-    "id": "bae-systems-api-engineer-scott-afb"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "University - Software Developer",
-    "job_city": "Chantilly",
+    "employer_name": "Honeywell",
+    "job_title": "Software Engineer",
+    "job_city": "Henrico",
     "job_state": "VA",
     "job_posted_at": "1d",
-    "job_description": "• University - Software DeveloperlocationsChantilly, VAposted onPosted TodayR0241407 Knowledge ManagerlocationsWashington, DCposted onPosted 13 Days AgoR0240607 Knowledge ManagerlocationsWashington, DCposted onPosted 2 Days AgoR0241262 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0239031 Software Integration Engineer, SeniorlocationsCalifornia, MDposted onPosted 30+ Days AgoR0237819 Software Architect, LeadlocationsLexington Park, MDposted onPosted 30+ Days AgoR0235783 DevOps Engineer, SeniorlocationsMoorestown, NJposted onPosted 30+ Days AgoR0236058 Software Developer, JuniorlocationsDahlgren, VAposted onPosted TodayR0240338.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/University---Software-Developer_R0241407?q=software+engineering",
-    "id": "bae-systems-university-software-developer-chantilly"
-  },
-  {
-    "employer_name": "Workday",
-    "job_title": "Software Development Engineer--Pipedream Connect",
-    "job_city": "USA",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer and Senior Software Engineer - AI Platformremote typeFlexlocations5 Locationsposted onPosted 2 Days AgoJR-0106467Sr Software Engineer, DevOpsremote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0104808Sr Software Engineer (US Federal)remote typeFlexlocationsUSA.\n• Restonposted onPosted 30+ Days AgoJR-0103020Sr Software Engineer Analytics (US Federal)remote typeFlexlocationsUSA.\n• Restonposted onPosted 30+ Days AgoJR-0103017Analytics Sr Software Engineer (US Federal)remote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoJR-0105496Analytics Sr Software Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted TodayJR-0105489Senior Software Engineer, DBaas - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted 30+ Days AgoJR-0102749Sr.\n• Full Stack Software Engineer- (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 22 Days AgoJR-0105396Senior Software Development Engineerremote typeOnsitelocationsUSA.\n• Restonposted onPosted 30+ Days AgoJR-0104081Sr Software Development Engineerremote typeOnsitelocationsUSA.",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Software-Development-Engineer--Pipedream-Connect_JR-0107821?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-pipedream-connect-usa"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Morgan Money (AWM)",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_posted_at": "1d",
-    "job_description": "• Create a profile so we can help Join the Network Software Developer [Multiple Positions Available] Wilmington, DE, United States TechnologySoftware Engineering Collaborate with product team to gather requirements and translate them into technical solutions.\n• Lead Software Engineer Palo Alto, CA, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III New York, NY, United States TechnologySoftware Engineering We are seeking a skilled and collaborative Java Back-End Engineer (Level III) to join an exciting and innovative team.\n• Manager of Software Engineering - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards Software Engineer [Multiple Positions Available] New York, NY, United States TechnologySoftware Engineering Design, develop and implement software solutions.\n• Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.\n• Lead Software Engineer - Java & AWS Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer [Multiple Positions Available] Jersey City, NJ, United States TechnologySoftware Engineering Oversee the entire software development life cycle, from requirements gathering to deployment and maintenance.\n• Software Engineer [Multiple Positions Available] Jersey City, NJ, United States TechnologySoftware Engineering Design, develop, and implement software solutions to meet business requirements.\n• Participate in all phases of the Software Development Lifecycle, including analyzing requirements, creating design specifications, and translating technical requirements into application modules.\n• Software Engineer III - Cloud Platform Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to help build the future of mobile banking, creating seamless cloud-native experiences for millions of customers.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711673/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-morgan-money-awm-columbus"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "Early Career: IT Infrastructure - Network Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "22h",
-    "job_description": "• (3) Dallas, North Campus - Kilby East (2) Dallas, North Campus - Security (2) Sherman, Sherman - SM1 Fab (2) Dallas, North Campus - Kilby Center (1) Categories 0 Engineering - Product Dev (23) Information Technology (7) Manufacturing (7) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (26) Recent College Grads (13) Work Locations 0 Dallas, South Campus (9) Richardson, Richardson Fab, Renner Rd (6) Lehi, Lehi, UT (4) Dallas, North Campus - DMOS V South (3) Knoxville, Knoxville, TN (3) Santa Clara, Santa Clara, Great America.\n• (3) Dallas, North Campus - Kilby East (2) Dallas, North Campus - Security (2) Sherman, Sherman - SM1 Fab (2) Dallas, North Campus - Kilby Center (1) Categories 0 Engineering - Product Dev (23) Information Technology (7) Manufacturing (7) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (26) Recent College Grads (13) Ability to establish strong relationships with key stakeholders critical to success, both internally and externally.\n• Engineering and architecture skills necessary to interpret business requirements and needs to deliver new network solutions.\n• Strong verbal and written communication skills.\n• Demonstrated strong interpersonal, conflict management, analytical and problem-solving skills.\n• Strong technical background in network operations and business engagements in a highly complex global enterprise.\n• Strong prioritization, time management and negotiation skills that enable on-time project delivery.\n• Experience in working effectively with globally diverse cross-functional teams.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25011069/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-early-career-it-infrastructure-network-engineer-dallas"
+    "job_description": "• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Software Support Engineer Locations Raleigh, NC, United States (Hybrid) Posting Date04/21/2026 Trending As an Software Support Engineer here at Honeywell, you will provide technical expertise, lead a team of engineers, and deliver high-quality solutions to enhance customer experience and drive business growth.\n• Software Support Engineer Locations Raleigh, NC, United States (Hybrid) Posting Date04/21/2026 Trending As a Software Support Engineer here at Honeywell, you will provide technical expertise, lead a team of engineers, and deliver high-quality solutions to enhance customer experience and drive business growth.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/147018/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-software-engineer-henrico"
   }
 ]
