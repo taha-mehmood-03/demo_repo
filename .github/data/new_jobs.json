@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Rust Software Developer",
-    "job_city": "12 Locations",
+    "employer_name": "Intel",
+    "job_title": "Design Automation Engineer (TFM/EDA)",
+    "job_city": "4 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsAlbuquerque, NMposted onPosted 14 Days AgoR0240670 UAS Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 7 Days AgoR0241044 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 28 Days AgoR0226855 Software Developer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226754 Software Developer, SeniorlocationsMcLean, VAposted onPosted 2 Days AgoR0241334 Software Developer, SeniorlocationsMcLean, VAposted onPosted 2 Days AgoR0241339 Software Developer, SeniorlocationsHuntsville, ALposted onPosted TodayR0235336.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Rust-Software-Developer_R0241584?q=software+engineering",
-    "id": "bae-systems-rust-software-developer-12-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Systems Integration Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Modeling and Simulations SpecialistlocationsFayetteville, NCposted onPosted 8 Days AgoR0241090 Data and Visualization Engineer, LeadlocationsMonterey, CAposted onPosted 30+ Days AgoR0235754 Enterprise Integration Architect, LeadlocationsMcLean, VAposted onPosted 30+ Days AgoR0236335 Palantir Mission Integration Leadlocations2 Locationsposted onPosted 14 Days AgoR0240652.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Integration-Engineer_R0241581?q=software+engineering",
-    "id": "bae-systems-systems-integration-engineer-2-locations"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Software Engineer, CAD Automation",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• System Software Engineer, GeForce SoftwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2015749Senior Software Engineer - HPClocations3 Locationsposted onPosted 30+ Days AgoJR2013372Senior Software Engineer, FirmwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2014879Tegra System Software Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR2015299Software Engineer - DPU PlatformlocationsUS, MA, Westfordposted onPosted 30+ Days AgoJR2015949Senior Systems Software Engineerlocations5 Locationsposted onPosted 22 Days AgoJR2016619System Software Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2016824System Software Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 23 Days AgoJR2017734Senior Methodology Software EngineerlocationsUS, CA, Santa Claraposted onPosted 23 Days AgoJR2017886Senior Methodology Software EngineerlocationsUS, CA, Santa Claraposted onPosted 23 Days AgoJR2017885Senior Software Engineer, Securitylocations2 Locationsposted onPosted 2 Days AgoJR2018245Senior Software Engineer - SimulationlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2018096Senior Software Engineer - SimulationlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2018093Senior Software Engineer — cuEquivariancelocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2018334Senior Software Engineer - BaseOSlocations2 Locationsposted onPosted YesterdayJR2018594Senior System Software Engineerlocations2 Locationsposted onPosted 7 Days AgoJR2018913Software Engineer, CAD AutomationlocationsUS, CA, Santa Claraposted onPosted TodayJR2019252Senior Software Engineer, NCCLlocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR1997186System Software Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2002051Senior Software Engineer, JAXlocations2 Locationsposted onPosted 30+ Days AgoJR2004629.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation_JR2019252?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-software-engineer-cad-automation-us"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Engineering Productivity, Pixel",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity, Pixel",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111909092393394886-software-engineer-iii-engineering-productivity-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-iii-engineering-productivity-pixel-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Dev Engineer II, AWS STS",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Dev Engineer II, AWS STS",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10438701/software-dev-engineer-ii-aws-sts",
-    "id": "amazon-software-dev-engineer-ii-aws-sts-seattle"
+    "job_description": "• Foundry Customer Yield Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0282891Foundry Customer Device Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0282892Product Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 2 Days AgoJR0284027Network Security EngineerlocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0283763Silicon Performance Validation and Characterization InternlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0284310Process Integration and Yield TechnicianlocationsUS, Oregon, Hillsboroposted onPosted 17 Days AgoJR0283892Senior Yield Engineer – Substrate & Advanced PackaginglocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0283439WLA Yield Defect Metrology EngineerlocationsUS, Oregon, Hillsboroposted onPosted 10 Days AgoJR0284078WLA Yield Defect Metrology EngineerlocationsUS, Oregon, Hillsboroposted onPosted 10 Days AgoJR0284079WLA Yield Defect Metrology EngineerlocationsUS, Oregon, Hillsboroposted onPosted 2 Days AgoJR0283241Package Assembly Low Yield Analysis Engineer on ShiftlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0284580Yield Development EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0284489SOC Performance Architectlocations3 Locationsposted onPosted 30+ Days AgoJR0283354Middleware Development Engineerlocations3 Locationsposted onPosted 24 Days AgoJR0283580Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0279083Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281986Infrastructure Engineer – Compute and ClientlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0282728Design Automation Engineer (TFM/EDA)locations4 Locationsposted onPosted TodayJR0284459Network Systems and Solutions Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283130Load Balancer Network Engineerlocations2 Locationsposted onPosted 12 Days AgoJR0284296.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Design-Automation-Engineer--TFM-EDA-_JR0284459?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-design-automation-engineer-tfm-eda-4-locations"
   }
 ]
