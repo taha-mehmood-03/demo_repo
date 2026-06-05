@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Returning Intern: Software Developer",
-    "job_city": "shipLOWELL",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Returning Intern: Software Developer",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113755&source=WEB_Search_NA",
-    "id": "ibm-returning-intern-software-developer-shiplowell"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Returning Intern: Software Developer",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Returning Intern: Software Developer",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115594&source=WEB_Search_NA",
-    "id": "ibm-returning-intern-software-developer-ship"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III – Java - Asset Management Trading Technology",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Create a profile so we can help Join the Network Software Developer [Multiple Positions Available] Wilmington, DE, United States TechnologySoftware Engineering Collaborate with product team to gather requirements and translate them into technical solutions.\n• Lead Software Engineer Palo Alto, CA, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III New York, NY, United States TechnologySoftware Engineering We are seeking a skilled and collaborative Java Back-End Engineer (Level III) to join an exciting and innovative team.\n• Manager of Software Engineering - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards Lead Software Engineer - Markets Plano, TX, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Design, develop and implement software solutions.\n• Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.\n• Software Engineer [Multiple Positions Available] Jersey City, NJ, United States TechnologySoftware Engineering Design, develop, and implement software solutions to meet business requirements.\n• Participate in all phases of the Software Development Lifecycle, including analyzing requirements, creating design specifications, and translating technical requirements into application modules.\n• Senior Manager of Software Engineering Columbus, OH, United States TechnologySoftware Engineering Serve in a leadership role by providing technical coaching and advisory for multiple technical teams Software Engineer [Multiple Positions Available] Jersey City, NJ, United States TechnologySoftware Engineering Oversee the entire software development life cycle, from requirements gathering to deployment and maintenance.\n• Software Engineer III - Cloud Platform Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to help build the future of mobile banking, creating seamless cloud-native experiences for millions of customers.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751252/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-java-asset-management-trading-technology-"
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Crypta, Cloud Infrastructure",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Crypta, Cloud Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83511644805571270-software-engineer-crypta-cloud-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-crypta-cloud-infrastructure-kirkland"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Data, Global Sustainability",
+    "job_title": "Software Engineer, Beam Starcam",
     "job_city": "San Francisco",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Data, Global Sustainability",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/119452755772220102-software-engineer-data-global-sustainability?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-data-global-sustainability-san-francisco"
+    "job_description": "software engineering job for the role Software Engineer, Beam Starcam",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/143516667257725638-software-engineer-beam-starcam?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-beam-starcam-san-francisco"
   }
 ]
