@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Applied Research Engineer",
-    "job_city": "California - San Francisco",
+    "employer_name": "Apple",
+    "job_title": "Core Audio System Software Engineer",
+    "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Strong abilities with Python and Linux, and some with React.\n• Experience with production cloud deployments like AWS or GCP.\n• Experience field-debugging full-stack deployments.\n• Help with end-user requirements gathering and executive presentations.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Solid understanding of security principles and best practices.\n• UI and graphic design sensibilities are a plus.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr345355/applied-research-engineer/",
-    "id": "salesforce-applied-research-engineer-california-san-francisco"
+    "job_posted_at": "6d",
+    "job_description": "• Minimum QualificationsStrong C++ programming skills.\n• Experience with digital audio systems.\n• Proven debugging skills across complex software stacks.\n• Familiarity with Swift.\n• Solid understanding of multi-threaded programming and operating systems concepts.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200666534-0836/core-audio-system-software-engineer?team=SFTWR",
+    "id": "apple-core-audio-system-software-engineer-cupertino"
   }
 ]
