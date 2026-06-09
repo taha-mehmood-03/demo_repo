@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Computer Programmer",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_posted_at": "1d",
-    "job_description": "• University - Software DeveloperlocationsChantilly, VAposted onPosted 6 Days AgoR0241407 Knowledge ManagerlocationsWashington, DCposted onPosted 8 Days AgoR0241262 Software Integration Engineer, SeniorlocationsCalifornia, MDposted onPosted 30+ Days AgoR0237819 Software Architect, LeadlocationsLexington Park, MDposted onPosted TodayR0235783.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Computer-Programmer_R0241766?q=software+engineering",
-    "id": "bae-systems-computer-programmer-fayetteville"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "HSIP Application Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Mainframe Software Development EngineerlocationsUSA-IL Lisle Warrenville Roadtime typeFull timeposted onPosted 6 Days AgoR025083 Senior-level Technical WriterlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 12 Days AgoR026096 Principal Software EngineerlocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 8 Days AgoR026152 Workload Automation Product Managerlocations3 Locationstime typeFull timeposted onPosted 5 Days AgoR025738 Senior Project Managerlocations2 Locationstime typeFull timeposted onPosted 8 Days AgoR025706 Agile Program Managerlocations2 Locationstime typeFull timeposted onPosted 11 Days AgoR025167.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/PHY-Application-Engineer_R025363?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-hsip-application-engineer-2-locations"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Maintenance Technician-1",
-    "job_city": "Lancaster",
-    "job_state": "Ohio",
-    "job_posted_at": "1d",
-    "job_description": "• Materials PlannerlocationsSpring Hill, Tennessee, USposted onPosted 21 Days AgoR00243302Maintenance Technician-1locationsLancaster, Ohio, USposted onPosted TodayR00246773Sr.\n• Projects & Capital AnalystlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00241489IT Operations TechnicianlocationsMesa, Arizona, USposted onPosted 4 Days AgoR00238337Assistant Maintenance ManagerlocationsNew Hudson, Michigan, USposted onPosted 30+ Days AgoR00232540CMM TechinicianlocationsPiedmont, South Carolina, USposted onPosted 22 Days AgoR00240423Sr.\n• Analyst, FinanciallocationsBowling Green, Kentucky, USposted onPosted 13 Days AgoR00243662Maintenance Technician - 2nd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00166686Materials ManagerlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00206366UI/UX Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229135Production SupervisorlocationsSpring Hill, Tennessee, USposted onPosted 13 Days AgoR00244486production operatorlocationsWilliamsburg, Iowa, USposted onPosted 18 Days AgoR00239562Production OperatorlocationsWilliamsburg, Iowa, USposted onPosted 14 Days AgoR00243982production OperatorlocationsWilliamsburg, Iowa, USposted onPosted 14 Days AgoR00243979Project ManagerlocationsLancaster, Ohio, USposted onPosted 13 Days AgoR00244578Maintenance Supervisor, 2nd shiftlocationsSpring Hill, Tennessee, USposted onPosted 22 Days AgoR00242935Robotic TechnicianlocationsTroy, Michigan, USposted onPosted 27 Days AgoR00238101Shipping/Receiving Material Handler-2nd Shift-VictorlocationsVictor, Iowa, USposted onPosted 13 Days AgoR00244739IT ManagerlocationsMesa, Arizona, USposted onPosted 28 Days AgoR00231467Lead Robotic TechnicianlocationsTroy, Michigan, USposted onPosted 27 Days AgoR00238100.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Maintenance-Technician-1_R00246773?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-maintenance-technician-1-lancaster"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Developer Engineer - Applications",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum QualificationsMaster’s degree or foreign equivalent in Software Engineering, Computer Science, or related field and 2 years of experience in the job offered or related occupation.\n• 2 years of experience with each of the following skills is required:Building robust data pipelines & data models to design and implement optimum data structures in the appropriate data management system including Teradata, Redshift, Oracle, Big Data Technologies and Hadoop Ecosystem.\n• Utilizing Python and Unix shell scripting to build data pipelines, Automation, and Scheduling.\n• Designing and developing dashboards using Tableau to have analytics insights of the data.\n• Developing reusable modules to create reausable data-set processes for data discovery, modeling and mining.\n• Using SQL to build ETL solutions for a large volumes of dataDesigning, Developing, Deploying solutions following the SDLC coding standardsDeveloping ETL solutions which would adhere to data security and standards of the company in order to maintain Enterprise Data security.\n• Using Dremio or other tools for ad hoc data analyticsUsing Tableau for data visualizations and reportingUsing Business Objects or other tools for detailed excel based reporting.\n• Using SQL & developing scripts in python for data analysis & data profiling.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200664671-0836/software-developer-engineer-applications?team=CORSV",
-    "id": "apple-software-developer-engineer-applications-cupertino"
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer II , Amazon Autos",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_posted_at": "21h",
+    "job_description": "software engineering job for the role Software Development Engineer II , Amazon Autos",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10444086/software-development-engineer-ii-amazon-autos",
+    "id": "amazon-software-development-engineer-ii-amazon-autos-arlington"
   }
 ]
