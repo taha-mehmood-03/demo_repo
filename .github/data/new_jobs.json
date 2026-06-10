@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Intel",
+    "job_title": "Logic Design Engineer",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Engineering Planning AnalystlocationsUS, Oregon, Hillsboroposted onPosted 13 Days AgoJR0284314Principal Engineer, AI Systems and SolutionslocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0284689Supply Chain EngineerlocationsUS, Oregon, Hillsboroposted onPosted 8 Days AgoJR0284410Supply Chain EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0284409Standard Cell Library Engineerlocations2 Locationsposted onPosted 12 Days AgoJR0283004CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283608Logic Design EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0277174Identity Security - PKI Engineerlocations2 Locationsposted onPosted 17 Days AgoJR0284294Senior CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281123GPU Design Verification EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0283116Atom CPU Architecture EngineerlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0282747GPU Validation Engineerlocations2 Locationsposted onPosted 5 Days AgoJR0283107GPU Logic Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283113CPU Design Verification Engineer locations2 Locationsposted onPosted 20 Days AgoJR0283987IA Core Post Silicon Validation EngineerlocationsUS, Texas, Austinposted onPosted 8 Days AgoJR0284403Mechanical Design Engineer – Semiconductor PackaginglocationsUS, Arizona, Phoenixposted onPosted 13 Days AgoJR0284244Identity Architectlocations2 Locationsposted onPosted 11 Days AgoJR0284293Memory Electrical Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 28 Days AgoJR0283840Senior CPU Physical Design EngineerlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0283460Power and Performance Design Engineerlocations2 Locationsposted onPosted 11 Days AgoJR0284362.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Logic-Design-Engineer_JR0277174-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-logic-design-engineer-us"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrical Design Engineer",
+    "job_city": "Location Nashik",
+    "job_state": "Mahārāshtra",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036780/Electrical-Design-Engineer",
+    "id": "abb-electrical-design-engineer-location-nashik"
+  }
+]
