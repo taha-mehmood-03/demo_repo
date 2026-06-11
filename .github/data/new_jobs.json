@@ -1,42 +1,82 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Reliability Operations Technician",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "IBM",
+    "job_title": "Intern Conversion: Designer",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Principal Robotics Application Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262326Senior Product Applications Engineer - RF/MicrowavelocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257795Principal Field Robotic System Engineer/Architectlocations5 Locationsposted onPosted 9 Days AgoR262004Staff Applications Engineer - Sustainable Automation Business Unitlocations2 Locationsposted onPosted 12 Days AgoR263006Cybersecurity Product Lead – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262190Staff Applications Engineer, Power ProductslocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261736Associate Applications Engineer (Power Electronics)locationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR256049Lead Analog IC Layout Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262143Field Applications Engineer (FAE) – Aerospace, Defense & Communicationslocations3 Locationsposted onPosted 21 Days AgoR260541Strategic Technology AnalystlocationsUS, MA, Bostonposted onPosted 8 Days AgoR262659Failure Analysis TechnicianlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261515Reliability Operations Technician 2locationsUS, MA, Wilmingtonposted onPosted TodayR263167Senior Project ManagerlocationsUS, OR, Beavertonposted onPosted 8 Days AgoR262894Staff Field Applications Engineer – Power SolutionslocationsUS, CA, San Jose, Rio Roblesposted onPosted 7 Days AgoR262764Staff Product Applications Engineer - Systems Power ManagementlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR255783Staff Analyst (Patch Management Lead Engineer)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258698Project ManagerlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR263005Staff Project Mgr.\n• Infrastructure and CybersecuritylocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR260743Senior Manager, Product ApplicationslocationsUS, TX, Dallas, Tollwayposted onPosted 2 Days AgoR263076Product Marketing Manager (PMM) – Automotive Power ProductslocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262034.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Reliability-Operations-Technician-2_R263167?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-reliability-operations-technician-us"
+    "job_description": "software engineering job for the role Intern Conversion: Designer",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=114620&source=WEB_Search_NA",
+    "id": "ibm-intern-conversion-designer-austin"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering LMTS",
+    "job_city": "California - Palo Alto",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Own and execute hands-on work across the full model development lifecycle, including data preparation, model training, fine-tuning, evaluation, iteration, and deployment readiness.\n• Translate research prototypes into production-grade models that meet latency, scalability, reliability, and safety requirements.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Demonstrated hands-on experience owning the full model development lifecycle, not limited to research or design.\n• Strong background in reinforcement learning, preference learning, or human-in-the-loop learning.\n• Experience building and maintaining continuous learning systems using real-world feedback signals.\n• Advanced proficiency in Python, with significant hands-on coding experience.\n• Deep experience with PyTorch, TensorFlow or similar deep learning packages.\n• Practical experience with modern LLM tooling, such as:Hugging Face (Transformers, Accelerate, PEFT)Distributed training frameworks (DeepSpeed, FSDP, etc.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr345624/software-engineering-lmts/",
+    "id": "salesforce-software-engineering-lmts-california-palo-alto"
   },
   {
     "employer_name": "Intel",
-    "job_title": "CAD/EDA Tools Automation Engineer",
-    "job_city": "US",
-    "job_state": "Oregon",
-    "job_posted_at": "1d",
-    "job_description": "• Software Application Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283376Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoSpotlight JobJR0283627Compiler Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0282385Compiler Engineerlocations2 Locationsposted onPosted TodayJR0281207Physical Verification Engineerlocations3 Locationsposted onPosted 22 Days AgoSpotlight JobJR0284076Senior Compiler EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoSpotlight JobJR0282654OTF IFA AMHS - S6 Group LeaderlocationsUS, Arizona, Phoenixposted onPosted 21 Days AgoJR0284148Sr.\n• EDA Tools Engineer - ESDlocations4 Locationsposted onPosted 30+ Days AgoJR0280046Design Technology Tool Enablement Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0283551CAD/EDA Tools Automation EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0284432Director-Foundry Customer PlanninglocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0282293GPU IP Engineering Program Managerlocations2 Locationsposted onPosted 30+ Days AgoJR0282177Foundry Services Advanced Packaging Account Technical Solutions Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR0283006Senior C/C++ Engineer - Media Optimization & Codecslocations3 Locationsposted onPosted 30+ Days AgoJR0281205Path Tracing/ML Research EngineerlocationsUS, Oregon, Hillsboroposted onPosted 20 Days AgoJR0284039Sr.\n• Director of Platform Program Managementlocations4 Locationsposted onPosted 30 Days AgoJR0280869Linux Kernel EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0278075Edge AI Software Product Managerlocations3 Locationsposted onPosted YesterdayJR0284698Yield and Process Control Automation EngineerlocationsUS, Arizona, Phoenixposted onPosted 26 Days AgoJR0284118Segment Product Manager - Computers for Agentslocations4 Locationsposted onPosted 14 Days AgoJR0284329.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0284432-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-cad-eda-tools-automation-engineer-us"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Software Engineer, Engineering Applications",
-    "job_city": "Palo Alto",
-    "job_state": "California US",
-    "job_posted_at": "1d",
-    "job_description": "• , Grafana, Datadog, Splunk) Experience using AI-assisted coding tools (e.\n• , GitHub Copilot, Cursor) effectively Experience working with data pipelines, APIs, or engineering workflows is a plus Bachelor’s degree in Computer Science, Software Engineering, or related field Build and enhance backend APIs and services for scalability and performance Experience building web applications using modern frameworks (e.\n• , React) Experience with containerization (Docker) and familiarity with Kubernetes Help improve observability, monitoring, and reliability of applications Hands-on experience with cloud platforms such as AWS, Azure, or GCP Experience with backend frameworks (e.\n• Familiarity with observability and monitoring tools (e.\n• , FastAPI, Flask, Django).",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/31546/login",
-    "id": "rivian-software-engineer-engineering-applications-palo-alto"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Development Build Engineer, Apps Engineering",
-    "job_city": "Culver City",
+    "job_title": "PERC ESD EDA Engineer",
+    "job_city": "4 Locations",
     "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum Qualifications3+ years with Xcode and Xcode project structure.\n• Experience with Unix shell scripting.\n• Experience with Continuous Integration platforms.\n• Strong analytical and problem solving skills.\n• 3+ with the full software development lifecycle including compilation, unit testing, code analysis, release process, and coverage.\n• In Computer Science, Engineering, or other related fields.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200665586-0670/software-development-build-engineer-apps-engineering?team=SFTWR",
-    "id": "apple-software-development-build-engineer-apps-engineering-culver-city"
+    "job_posted_at": "1d",
+    "job_description": "• Compiler Engineerlocations2 Locationsposted onPosted TodayJR0281207Physical Verification Engineerlocations3 Locationsposted onPosted 22 Days AgoSpotlight JobJR0284076Senior Compiler EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoSpotlight JobJR0282654OTF IFA AMHS - S6 Group LeaderlocationsUS, Arizona, Phoenixposted onPosted 21 Days AgoJR0284148Design Technology Tool Enablement Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0283551CAD/EDA Tools Automation EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0284432PERC ESD EDA Engineerlocations4 Locationsposted onPosted TodayJR0284742Director-Foundry Customer PlanninglocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0282293GPU IP Engineering Program Managerlocations2 Locationsposted onPosted 30+ Days AgoJR0282177Foundry Services Advanced Packaging Account Technical Solutions Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR0283006Senior C/C++ Engineer - Media Optimization & Codecslocations3 Locationsposted onPosted 30+ Days AgoJR0281205Path Tracing/ML Research EngineerlocationsUS, Oregon, Hillsboroposted onPosted 20 Days AgoJR0284039Sr.\n• Director of Platform Program Managementlocations4 Locationsposted onPosted 30 Days AgoJR0280869Linux Kernel EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0278075Edge AI Software Product Managerlocations3 Locationsposted onPosted YesterdayJR0284698Yield and Process Control Automation EngineerlocationsUS, Arizona, Phoenixposted onPosted 26 Days AgoJR0284118Segment Product Manager - Computers for Agentslocations4 Locationsposted onPosted 14 Days AgoJR0284329Senior Director, Data & IntelligencelocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0281811Silicon Photonics Foundry PDK Design EngineerlocationsUS, New Mexico, Albuquerqueposted onPosted 6 Days AgoJR0282756Senior SoC ArchitectlocationsUS, California, Santa Claraposted onPosted 2 Days AgoJR0284558.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/PERC-ESD-EDA-Engineer_JR0284742?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-perc-esd-eda-engineer-4-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship (m/f/d) Industrial Optimization",
+    "job_city": "Location Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030735/Internship-m-f-d-Industrial-Optimization",
+    "id": "abb-internship-m-f-d-industrial-optimization-location-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Working student (m/f/d) Power BI / Power Apps Implementation",
+    "job_city": "Location Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028623/Working-student-m-f-d-Power-BI-Power-Apps-Implementation",
+    "id": "abb-working-student-m-f-d-power-bi-power-apps-implementation-location-heidelberg"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Analytical Measurement Engineering (m/w/d)",
+    "job_city": "Location Graz",
+    "job_state": "Styria",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036535/Analytical-Measurement-Engineering-m-w-d",
+    "id": "abb-analytical-measurement-engineering-m-w-d-location-graz"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Location Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036320/R-D-Engineer",
+    "id": "abb-r-d-engineer-location-vaesteras"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, AI/ML, Google Workspace",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, AI/ML, Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/136948558455546566-software-engineer-aiml-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
+    "id": "google-software-engineer-ai-ml-google-workspace-sunnyvale"
   }
 ]
