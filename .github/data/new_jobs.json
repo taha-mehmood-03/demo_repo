@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
+    "employer_name": "Google",
+    "job_title": "Software Engineer II, AI/ML, Defense and Consulting Engineering",
+    "job_city": "Reston",
+    "job_state": "VA",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+    "job_description": "software engineering job for the role Software Engineer II, AI/ML, Defense and Consulting Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/89628661782586054-software-engineer-ii-aiml-defense-and-consulting-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-ii-ai-ml-defense-and-consulting-engineering-reston"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Search Platforms Infrastructure",
+    "job_title": "Software Engineer III, AI/ML, YouTube Ads Bidding",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Search Platforms Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/90332349224362694-software-engineer-iii-search-platforms-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
-    "id": "google-software-engineer-iii-search-platforms-infrastructure-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, YouTube Ads Bidding",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77294202903241414-software-engineer-iii-aiml-youtube-ads-bidding?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-iii-ai-ml-youtube-ads-bidding-mountain-view"
   }
 ]
