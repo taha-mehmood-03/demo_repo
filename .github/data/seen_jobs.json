@@ -1,6 +1,4 @@
 [
-  "abb-associate-field-service-technician-location-cleveland",
-  "abb-associate-mechanical-design-engineer-location-mebane",
   "abb-associate-product-support-engineer-location-alpharetta",
   "abb-associate-product-support-engineer-location-not-location-specific",
   "abb-associate-project-engineer-location-mebane",
@@ -604,6 +602,7 @@
   "amazon-professional-services-ii-amz17578-5-jersey-city",
   "amazon-professional-services-ii-amz18813-5-seattle",
   "amazon-research-scientist-special-projects-seattle",
+  "amazon-robotics-sde-safe-autonomy-saf-lab-pasadena",
   "amazon-robotics-systems-engineer-amazon-robotics-deployment-engineering-austin",
   "amazon-salesforce-developer-hub-tech-tooling-austin",
   "amazon-sap-abap-analytics-developer-amazon-leo-arlington",
@@ -2515,6 +2514,7 @@
   "broadcom-chip-fabrication-process-engineer-malaysia-penang-b-1-2",
   "broadcom-customer-engineering-vcf-networking-engineer-level-usa-ca-promontory-d",
   "broadcom-customer-experience-engineer-usa-ca-promontory-e",
+  "broadcom-defect-engineer-usa-colorado-fort-collins-4380-ziegler-road",
   "broadcom-design-automation-dft-engineer-usa-colorado-fort-collins-4380-ziegler-road",
   "broadcom-design-automation-engineer-3-locations",
   "broadcom-design-automation-software-engineer-usa-california-san-jose-1730-fox-drive",
