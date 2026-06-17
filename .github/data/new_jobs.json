@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "IBM Red Hat Sales Development Representative",
-    "job_city": "Austin",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer MTS — Automation & MuleSoft Agentic Cloud Services",
+    "job_city": "Washington - Bellevue",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role IBM Red Hat Sales Development Representative",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120728&source=WEB_Search_NA",
-    "id": "ibm-ibm-red-hat-sales-development-representative-austin"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "OCI Developer, Mid",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Backend Infrastructure & Agentic AI Platforms Software Development Engineer, Seniorlocations2 Locationsposted onPosted 6 Days AgoR0241917 Agentic AI & LLM Applications Software Development Engineer, Seniorlocations2 Locationsposted onPosted 6 Days AgoR0241916 Embedded Development Technical LeadlocationsAberdeen Proving Ground, MDposted onPosted TodayR0241886 Full Stack Developer, SeniorlocationsDoral, FLposted onPosted 18 Days AgoR0241320 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 5 Days AgoR0241334 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 5 Days AgoR0241339.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/OCI-Developer--Mid_R0242433?q=software+engineering",
-    "id": "bae-systems-oci-developer-mid-2-locations"
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows BS or MS in Computer Science, a related field, or equivalent practical experience3+ years of experience in software developmentDeep knowledge of object-oriented programming languages such as Java, Go, or Python (Node.\n• Experience with Spring, gRPC, REST, and HTTP protocolsExperience with Agile development methodologiesExperience with application/data integration and connectivityExperience with distributed systems concepts such as scalability, fault tolerance, and load balancingExperience with cloud-native architectures on AWS or GCPAbility to identify limitations and offer solutions to challenging engineering problems Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Design and deliver scalable software solutions for Automation & MuleSoft agentic cloud servicesGather and transform product requirements into an actionable engineering planUnderstand and practice Agile methodologies for software developmentInfluence and collaborate with cross-functional teams to deliver projects end-to-endDesign, implement, and tune robust APIs and features that scale in a multi-tenant environment University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Js or JavaScript a plus)Broad knowledge of web standards and API protocols: REST, SOAP, XML, WSDL, HTTP, JSON, etc.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr345537/software-engineer-mts-automation-mulesoft-agentic-cloud-services/",
+    "id": "salesforce-software-engineer-mts-automation-mulesoft-agentic-cloud-services-washington-bellevue"
   },
   {
     "employer_name": "10x Genomics",
@@ -25,39 +15,19 @@
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "6d",
-    "job_description": "• Scientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoChannel Sales Account ExecutiveBeijing, China (Remote)SalesPosted 4 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted a month agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 6 days agoSr.\n• Program ManagerPleasanton, California, USA HQPosted 3 months agoDistrict Sales Manager, Gulf CoastTexas, USA (Remote)SalesPosted a month agoSenior Manufacturing Engineering TechnicianPleasanton, California, USA HQScientificPosted 7 days ago.",
+    "job_description": "• Scientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoSenior Research Associate II, Assay Productization (P-5128)Pleasanton, California, USA HQPosted an hour agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoChannel Sales Account ExecutiveBeijing, China (Remote)SalesPosted 4 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted a month agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 6 days agoSr.\n• Program ManagerPleasanton, California, USA HQPosted 3 months agoDistrict Sales Manager, Gulf CoastTexas, USA (Remote)SalesPosted a month ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841015903",
     "id": "10x-genomics-view-job-field-application-scientist-bay-area-ca-pleasanton"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "System and Software Optimization Engineer",
-    "job_city": "US",
-    "job_state": "Oregon",
-    "job_posted_at": "1d",
-    "job_description": "• AI Software Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoJR0282639AI Software Engineering InternlocationsUS, Arizona, Phoenixposted onPosted 5 Days AgoJR0282641Infra and DevOps Internlocations2 Locationsposted onPosted 13 Days AgoJR0284425Software Engineering ManagerlocationsUS, California, Santa Claraposted onPosted 5 Days AgoJR0284770EDA Tools Software Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280762Software Engineer - Agent Harnesslocations4 Locationsposted onPosted YesterdayJR0284869LTD Frame Automation Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 20 Days AgoJR0284284Senior EDA Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 8 Days AgoJR0284496Quantum Error Correction Software Engineerlocations2 Locationsposted onPosted TodayJR0284777Software Research Engineer/ScientistlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0284820GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0283073GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 19 Days AgoJR0284406System and Software Optimization EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0284771Operations Research Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0284429Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280028Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280029SW Solutions Engineerlocations2 Locationsposted onPosted TodayJR0283802Senior AI Software Architect - Runtimelocations3 Locationsposted onPosted 30+ Days AgoJR0283399Software Enabling and Optimization Engineerlocations2 Locationsposted onPosted 15 Days AgoJR0282409Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 30+ Days AgoJR0281966.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-and-Software-Optimization-Engineer_JR0284771?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-system-and-software-optimization-engineer-us"
-  },
-  {
-    "employer_name": "Workday",
-    "job_title": "(Sr) Site Reliability Engineer (US Federal)",
-    "job_city": "USA.VA.Reston",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Product Manager, Developer Platform Experienceremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted TodayJR-0107646Senior Machine Learning Engineer/Machine Learning Engineer IIIremote typeFlexlocationsUSA, WA, Seattleposted onPosted 5 Days AgoJR-0107996Cloud Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Sr Cloud Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 4 Days AgoJR-0097206Senior or Principal Software Development Engineer (Full Stack) - Agent Factoryremote typeFlexlocations3 Locationsposted onPosted 8 Days AgoJR-0106537(Sr) Site Reliability Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted TodayJR-0108251Senior Manager, AI Platformremote typeFlexlocationsUSA, CO, Boulderposted onPosted YesterdayJR-0107825Principal API Architect, Product Engineering – Agent‑Ready APIs & Dataremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted YesterdayJR-0108218Enterprise Solutions Architect, Engineering Platform Servicesremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted TodayJR-0108034Principal Cybersecurity Engineerremote typeFlexlocationsUSA.\n• Restonposted onPosted 29 Days AgoJR-0106961Machine Learning Engineer - Document Intelligenceremote typeFlexlocations2 Locationsposted onPosted 9 Days AgoJR-0107515Principal Cybersecurity Engineer - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted 12 Days AgoJR-0106965Senior Cybersecurity Engineerremote typeOnsitelocationsUSA.\n• Restonposted onPosted 11 Days AgoJR-0104087Sr.\n• Restonposted onPosted 11 Days AgoJR-0093733JR-0106147Principal Machine Learning Engineerremote typeFlexlocations3 Locationsposted onPosted 11 Days AgoJR-0107128Principal Cloud IAM Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted TodayJR-0104997Senior/Principal Machine Learning Engineerremote typeFlexlocations2 Locationsposted onPosted 4 Days AgoJR-0102782Principal Cloud IAM Engineerremote typeFlexlocationsUSA.",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/XMLNAME--Sr--Site-Reliability-Engineer--US-Federal-_JR-0108251?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-sr-site-reliability-engineer-us-federal-usa-va-reston"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
   },
   {
     "employer_name": "ABB",
@@ -81,22 +51,12 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-location-mebane"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Java Fullstack / AWS",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer III New York, NY, United States TechnologySoftware Engineering We are seeking a skilled and collaborative Java Back-End Engineer (Level III) to join an exciting and innovative team.\n• Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Wilmington, DE, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Principal Software Engineer New York, NY, United States and 1 more TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III - Frontend Developer, React, TypeScript OH, United States TechnologySoftware Engineering As an experienced member of our Software Engineering Group, you'll apply your expertise to solving business problems through innovation and engineering practices.\n• Principal Software Engineer - Card Technology Wilmington, DE, United States TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Design, develop, and implement robust software solutions to meet business needs and specifications, with a primary focus on Identity and Access Management (IAM) platforms and integrations.\n• Senior Lead Software Engineer - Mobile iOS Bengaluru, Karnataka, India TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Lead Software Engineer ServiceNow platform Hyderabad, Telangana, India TechnologySoftware Engineering Collaborate with product team to gather requirements and translate them into technical solutions.\n• Integrate ServiceNow with other systems and platforms as needed.\n• Customize and configure journey modules to align with organizational goals and employee needs.\n• Software Engineer III- Front End Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751972/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-java-fullstack-aws-austin"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
   }
 ]
