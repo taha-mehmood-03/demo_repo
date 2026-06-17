@@ -1,20 +1,20 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "AI Builder Partner Solutions",
-    "job_city": "Washington - Seattle",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Hands-on experience building on Salesforce platform: Agentforce, Flow, Apex, Lightning Web Components, APIs, permissions, metadata, packaging, and deployment patterns.\n• Practical experience building LLM-powered applications: prompt design, context engineering, retrieval and RAG, tool calling and actions, evaluation, and debugging agent behavior.\n• Hands-on experience with agentic coding tools as a core part of your daily engineering workflow: Claude Code, Cursor, GitHub Copilot, Windsurf, Codex, or equivalent.\n• Experience with Agentforce in real customer or partner implementations.\n• Experience with Data Cloud, MuleSoft, Slack platform, Heroku, or Salesforce CLI-based development.\n• Experience building or using MCP servers, agent skills, sub-agents, external tools, or multi-agent workflows.\n• Experience with GitHub, CI/CD, testing frameworks, evaluation harnesses, packaging, or developer workflow automation.\n• Experience as a Forward Deployed Engineer, Applied AI Engineer, Solutions Engineer, technical founder, or hands-on AI implementation lead.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr342218/ai-builder-partner-solutions/",
-    "id": "salesforce-ai-builder-partner-solutions-washington-seattle"
+    "employer_name": "BAE Systems",
+    "job_title": "Data Flow Engineer",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_posted_at": "1d",
+    "job_description": "• University, Software Developer InternlocationsFayetteville, NCposted onPosted 30+ Days AgoR0240000 University, Software Developer InternlocationsFayetteville, NCposted onPosted 30+ Days AgoR0239999 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 15 Days AgoR0234879 Platform Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted TodayR0242474.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Flow-Engineer_R0242288?q=software+engineering",
+    "id": "bae-systems-data-flow-engineer-fort-meade"
   },
   {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
     "job_state": "California",
-    "job_posted_at": "20h",
+    "job_posted_at": "1d",
     "job_description": "• 3+ years of relevant experience in situ hybridization, imaging and spatial techniques, preferably in the Biotechnology industry.\n• Strong analytical background Strong organizational skills.\n• Strong written and oral communication skills.\n• Strong troubleshooting and problem solving skills.\n• Experience with the 10x Genomics Xenium platform is a plus.\n• Skills in image analysis are a plus.\n• PhD in Molecular Biology, Biophysics, Physical Chemistry or related field.\n• Proven ability to design novel molecular biology assay schemes, as evidenced by peer-reviewed publications or published patents.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841169445",
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
@@ -25,168 +25,68 @@
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "1w",
-    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 20 hours agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoSenior Research Associate II, Assay Productization (P-5128)Pleasanton, California, USA HQPosted 19 hours agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoChannel Sales Account ExecutiveBeijing, China (Remote)SalesPosted 4 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted a month agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 7 days agoSr.\n• Program ManagerPleasanton, California, USA HQPosted 3 months ago.",
+    "job_description": "• Why 10x Jobs Join talent network.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841015903",
     "id": "10x-genomics-view-job-field-application-scientist-bay-area-ca-pleasanton"
   },
   {
-    "employer_name": "Illumina",
-    "job_title": "Scientist",
-    "job_city": "US - California - San Diego",
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commissioning Engineer",
+    "job_city": "Available in one of 3 locations",
     "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
+    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Construction Sales Engineer",
+    "job_city": "Location Columbus",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032405/Construction-Sales-Engineer",
+    "id": "abb-construction-sales-engineer-location-columbus"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Coherent Fabric Design",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "1d",
-    "job_description": "• Senior Compute HW EngineerlocationsUS - California - San Diegoposted onPosted 16 Days Ago42749-JOBSr.\n• Director Software QualitylocationsUS - California - San Diegoposted onPosted 16 Days Ago42718-JOBSr Software Technical Product Manager - ArrayslocationsUS - California - San Diegoposted onPosted 16 Days Ago42554-JOBStaff Software Technical Product Manager — DRAGENlocationsUS - California - San Diegoposted onPosted 16 Days Ago42581-JOBSenior Staff Software Outbound Technical Product ManagerlocationsUS - California - San Diegoposted onPosted 16 Days Ago42328-JOBAdministrative Partner, Software Development Product Management and AI/ML grouplocationsUS - California - San Diegoposted onPosted 7 Days Ago42916-JOBEngineer 1 - Fluidic SystemslocationsUS - California - San Diegoposted onPosted 16 Days Ago42275-JOBSenior Bioinformatics ScientistlocationsUS - California - San Diegoposted onPosted 16 Days Ago42244-JOBEHS SpecialistlocationsUS - California - San Diegoposted onPosted 16 Days Ago42754-JOBDirector of Industrial DesignlocationsUS - California - San Diegoposted onPosted 16 Days Ago42803-JOBScientist 1locationsUS - California - San Diegoposted onPosted Today42824-JOB.",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Scientist-1_42824-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-scientist-us-california-san-diego"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Integration Engineer - Perception and Platform",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Strong software development experience in C++, Python, and Linux environments.\n• Experience deploying and optimizing machine learning or deep learning models for edge devices.\n• Experience with computer vision, perception systems, or sensor processing applications.\n• Experience profiling and optimizing software performance across CPU, GPU, NPU, FPGA, or accelerator-based systems.\n• Strong debugging, problem-solving, and system integration skills.\n• Excellent written and verbal communication skills.\n• Experience with AMD Vitis AI or equivalent AI deployment frameworks.\n• Experience with AMD Versal AI Edge, Zynq UltraScale+, Kria, or other adaptive computing platforms.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/86994/login",
-    "id": "amd-integration-engineer-perception-and-platform-us"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "(80 -100%) Service Test Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
-    "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Intern software engineer / mathematics",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
-    "id": "abb-intern-software-engineer-mathematics-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Product owner",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037497/R-D-Product-owner",
-    "id": "abb-r-d-product-owner-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Owner - Automation Extended OS",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037235/Product-Owner-Automation-Extended-OS",
-    "id": "abb-product-owner-automation-extended-os-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Support Engineer (80-100 %)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037142/Technical-Support-Engineer-80-100",
-    "id": "abb-technical-support-engineer-80-100-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation SW Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025609/Automation-SW-Engineer",
-    "id": "abb-automation-sw-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation HW Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
-    "id": "abb-automation-hw-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Internship – Building Information Modeling content",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037448/Internship-Building-Information-Modeling-content",
-    "id": "abb-internship-building-information-modeling-content-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Analytical Measurement Engineering (m/w/d)",
-    "job_city": "Location Graz",
-    "job_state": "Styria",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036535/Analytical-Measurement-Engineering-m-w-d",
-    "id": "abb-analytical-measurement-engineering-m-w-d-location-graz"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development - Logistics (Eastern European Cluster)",
-    "job_city": "Available in one of 7 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034840/Business-Development-Logistics-Eastern-European-Cluster",
-    "id": "abb-business-development-logistics-eastern-european-cluster-available-in-one-of-7-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Applications Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037569/Robotics-Applications-Engineer",
-    "id": "abb-robotics-applications-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Classification Engineer",
-    "job_city": "Location Frosinone",
-    "job_state": "Frosinone",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
-    "id": "abb-product-classification-engineer-location-frosinone"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Embedded Systems/Firmware, Platforms and Devices",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Embedded Systems/Firmware, Platforms and Devices",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/125971427353338566-software-engineer-embedded-systemsfirmware-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-embedded-systems-firmware-platforms-and-devices-san-jose"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, AWS Throttling",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "19h",
-    "job_description": "software engineering job for the role Software Development Engineer II, AWS Throttling",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10451778/software-development-engineer-ii-aws-throttling",
-    "id": "amazon-software-development-engineer-ii-aws-throttling-seattle"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/coherent-fabric-design/33099/96569126768",
+    "id": "arm-coherent-fabric-design-austin"
   }
 ]
