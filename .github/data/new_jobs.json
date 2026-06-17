@@ -1,10 +1,20 @@
 [
   {
+    "employer_name": "Salesforce",
+    "job_title": "AI Builder Partner Solutions",
+    "job_city": "Washington - Seattle",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Hands-on experience building on Salesforce platform: Agentforce, Flow, Apex, Lightning Web Components, APIs, permissions, metadata, packaging, and deployment patterns.\n• Practical experience building LLM-powered applications: prompt design, context engineering, retrieval and RAG, tool calling and actions, evaluation, and debugging agent behavior.\n• Hands-on experience with agentic coding tools as a core part of your daily engineering workflow: Claude Code, Cursor, GitHub Copilot, Windsurf, Codex, or equivalent.\n• Experience with Agentforce in real customer or partner implementations.\n• Experience with Data Cloud, MuleSoft, Slack platform, Heroku, or Salesforce CLI-based development.\n• Experience building or using MCP servers, agent skills, sub-agents, external tools, or multi-agent workflows.\n• Experience with GitHub, CI/CD, testing frameworks, evaluation harnesses, packaging, or developer workflow automation.\n• Experience as a Forward Deployed Engineer, Applied AI Engineer, Solutions Engineer, technical founder, or hands-on AI implementation lead.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr342218/ai-builder-partner-solutions/",
+    "id": "salesforce-ai-builder-partner-solutions-washington-seattle"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
     "job_state": "California",
-    "job_posted_at": "17h",
+    "job_posted_at": "20h",
     "job_description": "• 3+ years of relevant experience in situ hybridization, imaging and spatial techniques, preferably in the Biotechnology industry.\n• Strong analytical background Strong organizational skills.\n• Strong written and oral communication skills.\n• Strong troubleshooting and problem solving skills.\n• Experience with the 10x Genomics Xenium platform is a plus.\n• Skills in image analysis are a plus.\n• PhD in Molecular Biology, Biophysics, Physical Chemistry or related field.\n• Proven ability to design novel molecular biology assay schemes, as evidenced by peer-reviewed publications or published patents.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841169445",
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
@@ -15,108 +25,168 @@
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "1w",
-    "job_description": "• Why 10x Jobs Join talent network.",
+    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 20 hours agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoSenior Research Associate II, Assay Productization (P-5128)Pleasanton, California, USA HQPosted 19 hours agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoChannel Sales Account ExecutiveBeijing, China (Remote)SalesPosted 4 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted a month agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 7 days agoSr.\n• Program ManagerPleasanton, California, USA HQPosted 3 months ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841015903",
     "id": "10x-genomics-view-job-field-application-scientist-bay-area-ca-pleasanton"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Cloud Platforms Infrastructure Engineer",
-    "job_city": "2 Locations",
+    "employer_name": "Illumina",
+    "job_title": "Scientist",
+    "job_city": "US - California - San Diego",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• AWS DevOps EngineerlocationsUS - VA, McLeanposted onPosted Yesterday40607MLOps Engineerlocations2 Locationsposted onPosted 29 Days Ago38349Palantir Data EngineerlocationsUS - VA, Arlingtonposted onPosted 15 Days Ago39001Senior Platform Engineerlocations2 Locationsposted onPosted 20 Days Ago38249AWS Cloud Platform EngineerlocationsUS - VA, McLeanposted onPosted Yesterday40602CyberArk Engineerlocations2 Locationsposted onPosted 15 Days Ago38918Data Engineerlocations2 Locationsposted onPosted 30+ Days Ago39493Data Engineerlocations2 Locationsposted onPosted 22 Days Ago39308Data EngineerlocationsUS - MD, Aberdeenposted onPosted 16 Days Ago40095Junior Data Engineerlocations2 Locationsposted onPosted Yesterday38141Senior Cloud DevOps EngineerlocationsUS - DC, Washingtonposted onPosted 9 Days Ago40227Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Solutions Operations LeadlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago38599AI/ML Solutions Architect (Agentic Systems)locationsUS - Remote (Any location)posted onPosted 30+ Days Ago37697Industrial Engineering ConsultantlocationsUS - AL, Huntsvilleposted onPosted 20 Days Ago39734Industrial Engineering LeadlocationsUS - AL, Huntsvilleposted onPosted 20 Days Ago39732Cloud Platforms Infrastructure Engineerlocations2 Locationsposted onPosted Today39424Cloud Platform Engineer (Mid-Level)locationsUS - DC, Washingtonposted onPosted 9 Days Ago40175Border Security DevOps EngineerlocationsUS - VA, Sterlingposted onPosted 20 Days Ago40004Scientific 3D Project EngineerlocationsUS - MD, Rockvilleposted onPosted 15 Days Ago39691.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/IN---Trivandrum/Cloud-Platforms-Infrastructure-Engineer_39424?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-cloud-platforms-infrastructure-engineer-2-locations"
+    "job_description": "• Senior Compute HW EngineerlocationsUS - California - San Diegoposted onPosted 16 Days Ago42749-JOBSr.\n• Director Software QualitylocationsUS - California - San Diegoposted onPosted 16 Days Ago42718-JOBSr Software Technical Product Manager - ArrayslocationsUS - California - San Diegoposted onPosted 16 Days Ago42554-JOBStaff Software Technical Product Manager — DRAGENlocationsUS - California - San Diegoposted onPosted 16 Days Ago42581-JOBSenior Staff Software Outbound Technical Product ManagerlocationsUS - California - San Diegoposted onPosted 16 Days Ago42328-JOBAdministrative Partner, Software Development Product Management and AI/ML grouplocationsUS - California - San Diegoposted onPosted 7 Days Ago42916-JOBEngineer 1 - Fluidic SystemslocationsUS - California - San Diegoposted onPosted 16 Days Ago42275-JOBSenior Bioinformatics ScientistlocationsUS - California - San Diegoposted onPosted 16 Days Ago42244-JOBEHS SpecialistlocationsUS - California - San Diegoposted onPosted 16 Days Ago42754-JOBDirector of Industrial DesignlocationsUS - California - San Diegoposted onPosted 16 Days Ago42803-JOBScientist 1locationsUS - California - San Diegoposted onPosted Today42824-JOB.",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Scientist-1_42824-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-scientist-us-california-san-diego"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Security Software Engineer",
+    "job_title": "Integration Engineer - Perception and Platform",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• , vulnerability mitigation, attack surfaces, secure design)Experience applying cryptography in software systems (e.\n• , using libraries such as OpenSSL)Familiarity with reverse engineering techniques and common attack methodsSolid C++ development experience (modern C++ preferred)Experience working in large, complex codebases or mature productsKnowledge of multithreading, concurrency, and performance optimizationExposure to software protection, DRM, or licensing systems is a plus (nice to have, not required)Familiarity with Linux (preferred) or Windows environments Work within an existing in-house security framework to maintain and extend capabilitiesRefactor and enhance existing security components for performance and reliabilityCollaborate with internal security experts to validate and strengthen protections Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Strong understanding of application security concepts (e.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/86806/login",
-    "id": "amd-security-software-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Hardware System Level Test (SLT) Product Development Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Must have extensive experience with direct SLT Test patterns, calibration test flows/method development, debug, test and characterization experience working in an NPI Product Engineering team.\n• Collaborate with various engineering teams to determine System Level Test (SLT) coverage, content, characterization requirements, and root cause resolution for SLT device failuresEarly engagement in pre and post silicon phases, including test flow planning, test coverage bring-up, test flow integration, and test hardware checkout.\n• Mastery of principles of test experience in System Level Test or x86 System ArchitectureExtensive experience as a SLT technical leader with a successful track record of bringing up test patterns, debug low yield, test flow integration and characterization experience working in an NPI Product Engineering team.\n• Proficient in Windows, Unix, and Linux operating systemsExperience in platform test and debugExperience with IC test experience and assist in ASIC bring up and support activitiesTechnical knowledge in OS kernel, driver, BIOS firmwareDemonstrated programming and scripting experience using various programming languages (C, C++, Java, Ruby, Perl, Python)Knowledgeable in version control tools (Git)Electrical/Electronics, Computer Engineering, or comparable disciplines AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Accountable for driving test solution/coverage development, optimization to meet business milestones: schedule, test time, yield, cost and quality.\n• Validate new product features, test conditions, test methodologies, and test contentsPerform silicon characterization across process, voltage, and temperatureConducts engineering evaluation, test program correlation, releases for high volume production and engineering enhancement or improvement projectsDrive Key Performance Indicators such as test time reduction, yield debug, quality improvement across products and drive innovation on test strategyProvides overall Test Engineering support for AMD’s S3 products tested at global facilitiesWorking with regional teams, including Product development group and Manufacturing group in the early stage bring up for product cycles at the AMD high volume sitesRepresents test team on any test excursions and issue escalations to the respective owner to identify resolution or containment action for the issueInterface between AMD and OSAT for test program implementation and resolution for operation issuesStrong understanding of test program, good communication and capability to drive/deliver critical business milestonesProvide technical supervision or mentoring junior engineersFamiliar with RMA debug is a plus.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/79945/login",
-    "id": "amd-hardware-system-level-test-slt-product-development-engineer-us"
+    "job_description": "• Strong software development experience in C++, Python, and Linux environments.\n• Experience deploying and optimizing machine learning or deep learning models for edge devices.\n• Experience with computer vision, perception systems, or sensor processing applications.\n• Experience profiling and optimizing software performance across CPU, GPU, NPU, FPGA, or accelerator-based systems.\n• Strong debugging, problem-solving, and system integration skills.\n• Excellent written and verbal communication skills.\n• Experience with AMD Vitis AI or equivalent AI deployment frameworks.\n• Experience with AMD Versal AI Edge, Zynq UltraScale+, Kria, or other adaptive computing platforms.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/86994/login",
+    "id": "amd-integration-engineer-perception-and-platform-us"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Construction Sales Engineer",
-    "job_city": "Location Columbus",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032405/Construction-Sales-Engineer",
-    "id": "abb-construction-sales-engineer-location-columbus"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commissioning Engineer",
-    "job_city": "Available in one of 3 locations",
+    "job_title": "(80 -100%) Service Test Engineer",
+    "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
-    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
+    "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Intern software engineer / mathematics",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-location-mebane"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
+    "id": "abb-intern-software-engineer-mathematics-available-in-one-of-2-locations"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Manufacturing Engineer",
-    "job_city": "Woonsocket",
-    "job_state": "RI",
-    "job_posted_at": "16h",
-    "job_description": "• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Develops infrastructure solutions based on customer requirements and documents technical knowledge through notes and procedures.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Software Support Engineer Locations Raleigh, NC, United States (Hybrid) Posting Date04/21/2026 Trending As an Software Support Engineer here at Honeywell, you will provide technical expertise, lead a team of engineers, and deliver high-quality solutions to enhance customer experience and drive business growth.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/140752/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-manufacturing-engineer-woonsocket"
+    "employer_name": "ABB",
+    "job_title": "R&D Product owner",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037497/R-D-Product-owner",
+    "id": "abb-r-d-product-owner-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Owner - Automation Extended OS",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037235/Product-Owner-Automation-Extended-OS",
+    "id": "abb-product-owner-automation-extended-os-available-in-one-of-4-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Support Engineer (80-100 %)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037142/Technical-Support-Engineer-80-100",
+    "id": "abb-technical-support-engineer-80-100-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation SW Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025609/Automation-SW-Engineer",
+    "id": "abb-automation-sw-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation HW Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
+    "id": "abb-automation-hw-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship – Building Information Modeling content",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037448/Internship-Building-Information-Modeling-content",
+    "id": "abb-internship-building-information-modeling-content-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Analytical Measurement Engineering (m/w/d)",
+    "job_city": "Location Graz",
+    "job_state": "Styria",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036535/Analytical-Measurement-Engineering-m-w-d",
+    "id": "abb-analytical-measurement-engineering-m-w-d-location-graz"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development - Logistics (Eastern European Cluster)",
+    "job_city": "Available in one of 7 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034840/Business-Development-Logistics-Eastern-European-Cluster",
+    "id": "abb-business-development-logistics-eastern-european-cluster-available-in-one-of-7-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Applications Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037569/Robotics-Applications-Engineer",
+    "id": "abb-robotics-applications-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Classification Engineer",
+    "job_city": "Location Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
+    "id": "abb-product-classification-engineer-location-frosinone"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Generative AI, Agentic Ecosystem Platform",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer, Embedded Systems/Firmware, Platforms and Devices",
+    "job_city": "San Jose",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Generative AI, Agentic Ecosystem Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111416367302746822-software-engineer-iii-generative-ai-agentic-ecosystem-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-iii-generative-ai-agentic-ecosystem-platform-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Embedded Systems/Firmware, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/125971427353338566-software-engineer-embedded-systemsfirmware-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-embedded-systems-firmware-platforms-and-devices-san-jose"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer II, AWS Throttling",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "19h",
+    "job_description": "software engineering job for the role Software Development Engineer II, AWS Throttling",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10451778/software-development-engineer-ii-aws-throttling",
+    "id": "amazon-software-development-engineer-ii-aws-throttling-seattle"
   }
 ]
