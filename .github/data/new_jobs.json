@@ -1,13 +1,23 @@
 [
   {
-    "employer_name": "Broadcom",
-    "job_title": "Product Owner",
-    "job_city": "USA-NC-Durham-Swabia Court-Suite 400",
+    "employer_name": "BAE Systems",
+    "job_title": "Special Missions Software Engineer",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Senior Firmware Engineer - Fibre Channel/NVME Networked-StoragelocationsUSA-CA Irvine Alton Parkway Bldg 1time typeFull timeposted onPosted 2 Days AgoR025913 Staff Program Manager - Advanced Packaging TechnologylocationsUSA-CA Irvine Alton Parkway Bldg 2time typeFull timeposted onPosted 3 Days AgoR026235 Senior Mainframe Software EngineerlocationsUSA-California-San Jose-1320 Ridder Park Drivetime typeFull timeposted onPosted 7 Days AgoR026234 Technical Consulting Database Mainframe Expertlocations2 Locationstime typeFull timeposted onPosted 7 Days AgoR026240 Software Engineering ManagerlocationsCZE-Praha 11 V Parku 2308/8time typeFull timeposted onPosted 6 Days AgoR026186 R&D Principal Software Engineerlocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR026143.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Durham-Swabia-Court-Suite-400/Product-Owner_R026191-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-product-owner-usa-nc-durham-swabia-court-suite-400"
+    "job_description": "• C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 9 Days AgoR0241788 UAS Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 21 Days AgoR0241044 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0226855 Software Developer, SeniorlocationsAlbuquerque, NMposted onPosted 28 Days AgoR0240670 Software Developer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226754.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Benning-GA/Special-Missions-Software-Engineer_R0242585?q=software+engineering",
+    "id": "bae-systems-special-missions-software-engineer-2-locations"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Test Automation Software Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 9 Days AgoR0241788 UAS Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 21 Days AgoR0241044 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0226855 Software Developer, SeniorlocationsAlbuquerque, NMposted onPosted 28 Days AgoR0240670 Software Developer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226754.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Test-Automation-Software-Engineer_R0242609?q=software+engineering",
+    "id": "bae-systems-test-automation-software-engineer-2-locations"
   },
   {
     "employer_name": "10x Genomics",
@@ -25,19 +35,39 @@
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "1w",
-    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 2 days agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted 15 hours agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoSenior Research Associate II, Assay Productization (P-5128)Pleasanton, California, USA HQPosted 2 days agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoChannel Sales Account ExecutiveBeijing, China (Remote)SalesPosted 4 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted a month agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 8 days ago.",
+    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 2 days agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted 18 hours agoSenior Research Associate II, Assay Productization (P-5128)Pleasanton, California, USA HQPosted 2 days agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoChannel Sales Account ExecutiveBeijing, China (Remote)SalesPosted 4 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted a month agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 8 days ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841015903",
     "id": "10x-genomics-view-job-field-application-scientist-bay-area-ca-pleasanton"
   },
   {
     "employer_name": "Intel",
-    "job_title": "ORAP Module Equipment Technician",
+    "job_title": "Module Development Engineer - RF Test",
     "job_city": "US",
-    "job_state": "Oregon",
+    "job_state": "Arizona",
     "job_posted_at": "1d",
-    "job_description": "• Senior Product Manager - Server CPUlocations3 Locationsposted onPosted 9 Days AgoJR0282876Senior Staff Mixed Signal IP Enablement and Debug Engineerlocations2 Locationsposted onPosted 17 Days AgoJR0284335Fab Equipment Maintenance Commodity Managerlocations4 Locationsposted onPosted 30+ Days AgoJR0283470Development Commodity ManagerlocationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0284801Assembly and Test Commodity ManagerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0284805Health and Life Sciences Systems and Solutions Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0283499Neuromorphic/AI Research ScientistlocationsUS, California, Santa Claraposted onPosted 2 Days AgoJR0284776Materials Program ManagerlocationsUS, New Mexico, Albuquerqueposted onPosted 30+ Days AgoJR0283686Supplier Program ManagerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0284812Director-Analog Design & Infrastructure Design Automationlocations4 Locationsposted onPosted 30+ Days AgoJR0281184Consumer Industries Solution Leadlocations4 Locationsposted onPosted 30 Days AgoJR0283833Senior CPU Power Management Architectlocations2 Locationsposted onPosted 30+ Days AgoJR0282671eCOTS Product Ownerlocations6 Locationsposted onPosted 22 Days AgoJR0284222Senior Technology Project / Program Managerlocations3 Locationsposted onPosted 7 Days AgoJR0283394Process Roadmap Specialistlocations2 Locationsposted onPosted 23 Days AgoJR0284176Sr.\n• Security Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0282220Senior SoC Power Management ArchitectlocationsUS, Oregon, Hillsboroposted onPosted 13 Days AgoJR0284606Senior SoC Chiplet Architectlocations6 Locationsposted onPosted 8 Days AgoJR0284564Sales Operations Analystlocations3 Locationsposted onPosted 14 Days AgoJR0283771ORAP Module Equipment TechnicianlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0284903.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/ORAP-Module-Equipment-Technician_JR0284903-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-orap-module-equipment-technician-us"
+    "job_description": "• Module Development Engineer - RF TestlocationsUS, Arizona, Phoenixposted onPosted TodayJR0284605Intel Foundry Process TD Frame CellSet EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0283890Senior Customer Technical Enablement and Debug Engineerlocations2 Locationsposted onPosted 10 Days AgoJR0283906Silicon Architecture Graduate Internlocations4 Locationsposted onPosted 2 Days AgoJR0283607Senior IP Development Engineerlocations3 Locationsposted onPosted 9 Days AgoJR0284653Senior Foundry Device EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0280822Foundry Customer Device Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0282892Product Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 16 Days AgoJR0284027APTM Yield Analysis Senior Engineer / Team Leaderlocations2 Locationsposted onPosted 2 Days AgoJR0284519Product Development Engineer - Scan Diagnosticslocations3 Locationsposted onPosted 3 Days AgoJR0284762Network Security EngineerlocationsUS, Arizona, Phoenixposted onPosted 29 Days AgoJR0283763Silicon Performance Validation and Characterization InternlocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0284310Process Integration and Yield TechnicianlocationsUS, Oregon, Hillsboroposted onPosted 2 Days AgoJR0283892Yield Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 14 Days AgoJR0284489Senior Yield Development Engineer - Intel Foundrylocations2 Locationsposted onPosted 8 Days AgoJR0284726Middleware Development Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0283580Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0279083Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281986Design Automation Engineer (TFM/EDA)locations4 Locationsposted onPosted 14 Days AgoJR0284459Analytics and AI Solution Architectlocations4 Locationsposted onPosted 22 Days AgoJR0284301.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Module-Development-Engineer----RF-Test_JR0284605-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-module-development-engineer-rf-test-us"
+  },
+  {
+    "employer_name": "Marvel Technology",
+    "job_title": "Digital IC Design Engineer - Early Career",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601637Principal SoC VerificationlocationsSan Diego, CAposted onPosted 30+ Days Ago2601617Senior SoC Design Verification ManagerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601579Staff SoC Verification EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601636Distinguished Engineer - SoC VerificationlocationsSan Diego, CAposted onPosted 30+ Days Ago2601614Senior Analog Layout ManagerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601648Senior Director, Physical DesignlocationsSan Diego, CAposted onPosted 30+ Days Ago2601613Senior Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601545Sr Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601499Sr Staff Analog Modeling/Verification EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601544Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601537Principal Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601450Sr Director Analog Mixed-Signal DesignlocationsSan Diego, CAposted onPosted 30+ Days Ago2601543Sr Principal Analog Mixed Signal Design EngineerlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601449Senior Director of SoC Design VerificationlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601017Senior Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601116Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Digital IC Design Engineer - Early CareerlocationsWestborough, MAposted onPosted Today2602557Digital Logic + Design Verification Graduate Co-Op Program (US - Fall 2026)locationsSanta Clara, CAposted onPosted Today2602858Program Inventory Ops/Analystlocations2 Locationsposted onPosted Yesterday2602618.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Digital-IC-Design-Engineer---Early-Career_2602557-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-digital-ic-design-engineer-early-career-westborough"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
   },
   {
     "employer_name": "ABB",
@@ -61,16 +91,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
     "job_city": "Location Auburn Hills",
     "job_state": "Michigan",
@@ -78,5 +98,15 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
     "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon Cryptographic Libraries",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "22h",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon Cryptographic Libraries",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10453244/software-development-engineer-amazon-cryptographic-libraries",
+    "id": "amazon-software-development-engineer-amazon-cryptographic-libraries-seattle"
   }
 ]
