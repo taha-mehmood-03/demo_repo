@@ -21,6 +21,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Commissioning Engineer",
     "job_city": "Available in one of 3 locations",
     "job_state": "US",
@@ -31,32 +51,22 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "(80 -100%) Service Test Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
-    "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Location Minden",
-    "job_state": "North Rhine-Westphalia",
+    "job_title": "Field Service Engineer - Propulsion",
+    "job_city": "Location Miramar",
+    "job_state": "Florida",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-location-minden"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Full Stack Developer - Product Configuration Solutions (f/m/d)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015303/Full-Stack-Developer-Product-Configuration-Solutions-f-m-d",
-    "id": "abb-full-stack-developer-product-configuration-solutions-f-m-d-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026170/Field-Service-Engineer-Propulsion",
+    "id": "abb-field-service-engineer-propulsion-location-miramar"
   }
 ]
