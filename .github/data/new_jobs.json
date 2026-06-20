@@ -1,35 +1,5 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Data Engineer (SMTS/LMTS) - Knowledge Graph & AI",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Experience: 10+ years of hands-on experience in software engineering, data engineering, distributed systems, or enterprise data platforms.\n• Education: A related technical degree required.\n• Ontology & Graph Expertise: Solid, hands-on experience designing and building Knowledge Graph platforms, formal ontologies, semantic models, taxonomies, or enterprise metadata management systems.\n• Tooling & Ecosystems: Strong hands-on experience with graph technologies and ontology engineering tools (e.\n• AI & Retrieval: Proven experience implementing graph-powered AI solutions, vector search platforms, Retrieval-Augmented Generation (RAG) architectures, and orchestrating agentic workflows.\n• Semantic Routing Mastery: Demonstrated hands-on experience designing, optimizing, and productionizing custom semantic routers using Python (leveraging native embeddings, LangChain, semantic-router, or specialized mathematical logic like cosine similarity) to decouple intent handling from expensive LLM calls.\n• Developer Automation: Experience deploying and integrating AI-assisted engineering tools or automation workflows using ecosystems like Claude, Cursor, Windsurf, GitHub Copilot, or MCP frameworks.\n• Backend & Cloud: Strong experience with cloud-native system designs (AWS, GCP, or Azure), distributed systems, microservices, and high-throughput event-driven systems.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr347480/data-engineer-smtslmts-knowledge-graph-ai/",
-    "id": "salesforce-data-engineer-smts-lmts-knowledge-graph-ai-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "SRE Systems Engineer (TS/SCI Clearance)",
-    "job_city": "Virginia - Herndon",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Bachelor's degree in Computer Science, Information Systems, or a related technical field, or equivalent work experience.\n• Experience in enterprise-scale internet service engineering or support, with strong Command Line Interface (CLI) knowledge of Unix variants including Red Hat Enterprise Linux.\n• Demonstrated experience with incident management and a solid understanding of IT Infrastructure Library (ITIL) service operations in a 24/7 environment.\n• Proficiency writing scripts in Python, Go, or similar languages, with experience provisioning and operating Amazon Web Services (AWS) infrastructure.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Experience with configuration management tools such as Chef or Puppet, and pipeline tools such as Jenkins, Bamboo, or Spinnaker.\n• Hands-on experience supporting and managing Kubernetes-based applications and services.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager Monitor customer-facing services and respond to Severity 0 (Sev0) and Severity 1 (Sev1) incidents, leading technical reviews and contributing to Root Cause Analyses (RCAs) handed off to the Global Solutions team.\n• Expertise in Transmission Control Protocol/Internet Protocol (TCP/IP) networking technologies and protocols.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr344731/sre-systems-engineer-tssci-clearance/",
-    "id": "salesforce-sre-systems-engineer-ts-sci-clearance-virginia-herndon"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Engineer - HIG HBM PSE - Design Validation",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Purpose for Which It Is Used: The Eightfold AI recruiting software is used to: (a) identify skills from your resume and career history.\n• (b) match your qualifications against role requirements.\n• The Platform will use AI to inform the human recruiter of skills you may have that are not listed on your resume, based on your career history and work experience listed in your resume or other application materials.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-engineer-hig-hbm-pse-design-validation-richardson"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
