@@ -1,25 +1,5 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "AI Operations Engineer",
-    "job_city": "Virginia -",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Identify, evaluate, and implement AI-driven solutions that improve operational efficiency, productivity, and business outcomes.\n• Org Sustainability Investors Give us your Feedback Bachelor's degree in Business, Information Systems, Computer Science, Engineering, Data Analytics, or a related field, or equivalent experience.\n• Experience supporting operational systems, business process improvement, workflow automation, or technology enablement initiatives.\n• Experience managing cross-functional projects and collaborating with both technical and business stakeholders.\n• Strong analytical, problem-solving, and process optimization skills.\n• Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Experience supporting bid management, proposal operations, framework management, procurement, sales operations, contract operations, or knowledge management functions.\n• Experience with CRM platforms, knowledge management systems, document repositories, business intelligence tools, and enterprise collaboration platforms.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr346023/ai-operations-engineer/",
-    "id": "salesforce-ai-operations-engineer-virginia"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Solution Engineer",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Degree in Computer Science, Information Systems, Engineering, Data Science, or a related field1–3 years of work or internship experience in technical roles such as data analytics, engineering, or technical supportProven ability to work directly with customers to solve problems and communicate technical concepts clearlyHands-on experience with prompt engineering, vibe-coding tools, or LLMsStrong analytical skills with the ability to interpret outcome models and prove the value of AIClear understanding of how AI systems and large language models function in a business setting Design and execute success plans to measure whether AI agents are meeting their goals and matching the original business caseRun four-week sprints to diagnose and resolve performance issues when AI results are laggingLead business reviews with customer teams, demonstrating tangible value through outcome data rather than simple usage reportsTrack AI agent deployment and adoption weekly to ensure stability in production Experience diagnosing unexpected AI model behavior or model drift over timeAbility to craft compelling data narratives that support executive decision-makingA GitHub portfolio showcasing AI experiments or projects University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr339277/solution-engineer/",
-    "id": "salesforce-solution-engineer-georgia-atlanta"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -40,14 +20,24 @@
     "id": "10x-genomics-view-job-field-application-scientist-bay-area-ca-pleasanton"
   },
   {
-    "employer_name": "Workday",
-    "job_title": "People Analytics Data Scientist",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Engagement Managerremote typeFlexlocationsUSA, NY, New York Cityposted onPosted 7 Days AgoJR-0106917Principal Product Managerremote typeFlexlocations2 Locationsposted onPosted 4 Days AgoJR-0107980Senior Technical Consultant - Paradoxremote typeFlexlocations72 Locationsposted onPosted 12 Days AgoJR-0108065Technical Consultant for Workday CLM Evisortremote typeRemotelocations3 Locationsposted onPosted 11 Days AgoJR-0106966Category Strategy Managerremote typeFlexlocations2 Locationsposted onPosted 30+ Days AgoJR-0106743Engagement Manager, AI Practiceremote typeFlexlocations61 Locationsposted onPosted TodayJR-0106562Sr Product Manager - Development Toolsremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 10 Days AgoJR-0107813People Analytics Data Scientistremote typeFlexlocations2 Locationsposted onPosted TodayJR-0108258Principal Product Manager - Activation & Deployment, Evisort AIremote typeFlexlocations4 Locationsposted onPosted 12 Days AgoJR-0103398.",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/People-Analytics-Data-Scientist_JR-0108258?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-people-analytics-data-scientist-2-locations"
+    "employer_name": "ABB",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -61,42 +51,22 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer_Omani Talents",
-    "job_city": "Location Al Hamriya",
-    "job_state": "Masqaţ",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
-    "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "(80 -100%) Service Test Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Field Service Engineer - Propulsion",
+    "job_city": "Location Miramar",
+    "job_state": "Florida",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
-    "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Location Minden",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "1h",
-    "job_description": "• Completed degree in Electrical Engineering or a comparable field of studyAt least 3+ years of relevant professional experience in hardware development.\n• Good knowledge in FPGA design (AMD/Xilinx, Altera, VHDL)Confident handling of common FPGA development tools (Vivado, ModelSim)Experience in embedded software development (e.\n• , PIC, ATMEGA, STM32, MicroBlaze)Good knowledge in classical hardware development as well as in handling hardware design toolsBasic knowledge in handling bus systems such as Ethernet, PROFIBUS, or similar fieldbus systemsStrong communication and teamwork skills combined with an independent, analytical, and structured working styleEnglish: business-fluent (written and spoken).\n• German: fluent (written and spoken) Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) R&D Engineer (f/m/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development Senior R&D Engineer Softwareentwicklung (m/f/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development R&D Senior Engineer Location Schaffhausen, Schaffhausen, Switzerland Category Research & Development Cyber Security Engineer (f/m/d) Available in one of 4 locations Category Research & Development R&D Senior Configuration Manager and DevOps Engineer Available in one of 2 locations Category Research & Development (Senior) Scientist (f/m/d) – Automation Technologies (80 – 100%) Location Mannheim, Baden-Wurttemberg, Germany Category Research & Development Senior Computer Vision AI & ML Engineer Location Beersel, Flemish Brabant, Belgium Category Research & Development Senior Robotic Middleware Software Engineer Location Zurich, Zurich, Switzerland Category Research & Development R&D Senior Engineer - Electronics Hardware Location Heidelberg, Baden-Wurttemberg, Germany Category Research & Development Development, implementation, and testing of complex FPGA and SoC architecturesDesign of VHDL-based systems and development of verification environmentsExecution of simulations, timing analysis, and hardware validationDevelopment of embedded software for microcontrollersSupport of the hardware design team (schematic and layout reviews, testing, documentation)Maintenance and continuous improvement of existing systemsCollaboration with internal and external stakeholders and close coordination with hardware and software teams.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-location-minden"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Full Stack Developer - Product Configuration Solutions (f/m/d)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Serve as an internal IS consultant, aligning innovative solutions with business needs while collaborating with stakeholders, solution consultants, and partners to deliver high-quality outcomes.\n• Degree in Software Engineering, IT, or related field (HTL, FH, University) or equivalent practical experience.\n• Ability to demonstrate your experience in software engineering and IT, with established skills in designing and implementing robust solutions.\n• Develop and customize product configurators within IQ, ensuring robust functionality and user-friendly design.\n• Integrate IQ with enterprise systems to enable end-to-end process automation.\n• Manage the full configurator lifecycle—from architecture and implementation to maintenance, troubleshooting, and continuous improvement.\n• Interest and affinity for automation products and the drive to create user-friendly configurators that simplify complex processes.\n• Teamplayer and open-minded personYou are at ease communicating in German and English (spoken and written).",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015303/Full-Stack-Developer-Product-Configuration-Solutions-f-m-d",
-    "id": "abb-full-stack-developer-product-configuration-solutions-f-m-d-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026170/Field-Service-Engineer-Propulsion",
+    "id": "abb-field-service-engineer-propulsion-location-miramar"
   }
 ]
