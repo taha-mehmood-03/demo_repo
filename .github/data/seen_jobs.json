@@ -1,6 +1,4 @@
 [
-  "abb-manufacturing-engineering-location-not-location-specific",
-  "abb-manufacturing-process-engineer-location-senatobia",
   "abb-manufacturing-quality-tester-1-location-mebane",
   "abb-manufacturing-quality-tester-2-location-mebane",
   "abb-manufacturing-quality-tester-location-mebane",
@@ -2317,6 +2315,7 @@
   "bae-systems-software-reverse-engineer-quantico",
   "bae-systems-software-security-engineer-aberdeen-proving-ground",
   "bae-systems-software-signals-engineer-2-locations",
+  "bae-systems-software-system-safety-engineer-arlington",
   "bae-systems-software-system-safety-practitioner-arlington",
   "bae-systems-software-systems-engineer-2-locations",
   "bae-systems-software-systems-engineer-and-analyst-2-locations",
@@ -6844,6 +6843,7 @@
   "jpmorgan-chase-software-engineer-i-pyspark-aws-regulatory-reporting-tampa",
   "jpmorgan-chase-software-engineer-ii-ai-ml-engineer-",
   "jpmorgan-chase-software-engineer-ii-android-",
+  "jpmorgan-chase-software-engineer-ii-android-engineer-new-york",
   "jpmorgan-chase-software-engineer-ii-android-new-york",
   "jpmorgan-chase-software-engineer-ii-api-development-python-plano",
   "jpmorgan-chase-software-engineer-ii-asset-management-",
