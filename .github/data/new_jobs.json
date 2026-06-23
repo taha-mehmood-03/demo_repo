@@ -1,20 +1,10 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern Conversion: Data Analyst",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Conversion: Data Analyst",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=122525&source=WEB_Search_NA",
-    "id": "ibm-intern-conversion-data-analyst-austin"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
     "job_state": "California",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "• 3+ years of relevant experience in situ hybridization, imaging and spatial techniques, preferably in the Biotechnology industry.\n• Strong analytical background Strong organizational skills.\n• Strong written and oral communication skills.\n• Strong troubleshooting and problem solving skills.\n• Experience with the 10x Genomics Xenium platform is a plus.\n• Skills in image analysis are a plus.\n• PhD in Molecular Biology, Biophysics, Physical Chemistry or related field.\n• Proven ability to design novel molecular biology assay schemes, as evidenced by peer-reviewed publications or published patents.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841169445",
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
@@ -25,7 +15,7 @@
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "1w",
-    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 6 days agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted 5 days agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 4 months agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoChannel Sales Account ExecutiveBeijing, China (Remote)SalesPosted 4 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted 2 months agoSpatial Sales ExecutiveJapan (Remote)SalesRemotePosted 2 months agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 13 days ago.",
+    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 7 days agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted 5 days agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 4 months agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted 2 months agoSpatial Sales ExecutiveJapan (Remote)SalesRemotePosted 2 months agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 13 days agoSr.\n• Program ManagerPleasanton, California, USA HQPosted 3 months ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841015903",
     "id": "10x-genomics-view-job-field-application-scientist-bay-area-ca-pleasanton"
   },
@@ -91,12 +81,12 @@
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Core",
-    "job_city": "San Jose",
+    "job_title": "Software Engineer, AI/ML, Google Research",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/99897265014874822-software-engineer-iii-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-core-san-jose"
+    "job_description": "software engineering job for the role Software Engineer, AI/ML, Google Research",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/143427265365975750-software-engineer-aiml-google-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-ai-ml-google-research-mountain-view"
   }
 ]
