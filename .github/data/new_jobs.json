@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Salesforce",
+    "job_title": "Cloud Infrastructure Engineer",
+    "job_city": "California - Redwood City",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Partner with SRE, security, and product engineering teams to understand their needs and help deliver self-service platform capabilities that reduce toil.\n• 2 - 4 years of professional experience in cloud infrastructure engineering and continuous deployment.\n• Hands-on Kubernetes experience — deploying, troubleshooting, and automating workloads or clusters (networking, scaling, upgrades).\n• Good programming skills in Golang and/or Python, with experience building services, CLIs, or automation tooling.\n• Strong communication and collaboration skills, and an eagerness to learn and grow within a fast-moving platform team.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Hands-on experience with Claude Code or other agentic coding tools — building agentic workflows, custom commands, or MCP integrations is a strong plus.\n• Experience with GCP, OCI, or Azure beyond AWS, especially managing Kubernetes (GKE, OKE, AKS) across providers.\n• Exposure to internal developer platforms (IDPs), platform APIs, or developer experience tooling.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr346259/cloud-infrastructure-engineer/",
+    "id": "salesforce-cloud-infrastructure-engineer-california-redwood-city"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -21,26 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Commissioning Engineer",
     "job_city": "Available in one of 3 locations",
     "job_state": "US",
@@ -51,22 +41,62 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Field Service Engineer_Omani Talents",
+    "job_city": "Location Al Hamriya",
+    "job_state": "Masqaţ",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-location-mebane"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
+    "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Propulsion",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
+    "job_title": "(80 -100%) Service Test Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026170/Field-Service-Engineer-Propulsion",
-    "id": "abb-field-service-engineer-propulsion-location-miramar"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
+    "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Location Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Full Stack Developer - Product Configuration Solutions (f/m/d)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Serve as an internal IS consultant, aligning innovative solutions with business needs while collaborating with stakeholders, solution consultants, and partners to deliver high-quality outcomes.\n• Degree in Software Engineering, IT, or related field (HTL, FH, University) or equivalent practical experience.\n• Ability to demonstrate your experience in software engineering and IT, with established skills in designing and implementing robust solutions.\n• Develop and customize product configurators within IQ, ensuring robust functionality and user-friendly design.\n• Integrate IQ with enterprise systems to enable end-to-end process automation.\n• Manage the full configurator lifecycle—from architecture and implementation to maintenance, troubleshooting, and continuous improvement.\n• Interest and affinity for automation products and the drive to create user-friendly configurators that simplify complex processes.\n• Teamplayer and open-minded personYou are at ease communicating in German and English (spoken and written).",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015303/Full-Stack-Developer-Product-Configuration-Solutions-f-m-d",
+    "id": "abb-full-stack-developer-product-configuration-solutions-f-m-d-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Rendering Engine Software Engineer",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsBA/BS plus 3 years of hands-on experience building real-time 3D rendering applicationsProficiency writing C++ that is safe, performant, readable, and built to lastExperience with one or more modern graphics APIs (e.\n• , Metal, Vulkan, Direct3D 12, WebGPU) and shading languages (e.\n• , MSL, HLSL, GLSL, WGSL)Ability to use 3D geometry and linear algebra to solve graphics problemsMethodical debugging mindset and tenacious problem-solving instinctsSense of ownership of the features you ship.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200669499-3337/rendering-engine-software-engineer?team=SFTWR",
+    "id": "apple-rendering-engine-software-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Rendering Engine Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsBA/BS plus 3 years of hands-on experience building real-time 3D rendering applicationsProficiency writing C++ that is safe, performant, readable, and built to lastExperience with one or more modern graphics APIs (e.\n• , Metal, Vulkan, Direct3D 12, WebGPU) and shading languages (e.\n• , MSL, HLSL, GLSL, WGSL)Ability to use 3D geometry and linear algebra to solve graphics problemsMethodical debugging mindset and tenacious problem-solving instinctsSense of ownership of the features you ship.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200669499-0836/rendering-engine-software-engineer?team=SFTWR",
+    "id": "apple-rendering-engine-software-engineer-cupertino"
   }
 ]
