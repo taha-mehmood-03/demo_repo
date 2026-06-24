@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Analog Devices",
+    "job_title": "Analog / Mixed Signal Layout Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "2d",
+    "job_description": "• Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Field Robotic System Engineer/Architectlocations5 Locationsposted onPosted 23 Days AgoR262004Engineer, Product Line ManagementlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262481Staff Engineer, Product Line ManagementlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR260631Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR263063Principal IC Layout EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262142Staff Engineer, Product Marketinglocations3 Locationsposted onPosted 6 Days AgoR263188Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 7 Days AgoR262836Cybersecurity Product Lead – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262190Senior Robotic System Applications Engineerlocations2 Locationsposted onPosted 30+ Days AgoR261536Senior Product Applications Engineer - RF/MicrowavelocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257795Senior Applications Engineer- Ultra Low Power AudiolocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR262292Field Applications Engineer (FAE) – Aerospace, Defense & Communicationslocations3 Locationsposted onPosted 30+ Days AgoR260541Staff Robotics & AI Applications Engineer (Tactile Sensing / Advanced Systems)locations2 Locationsposted onPosted 5 Days AgoR263006Staff Applications Engineer, Power ProductslocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261736Strategic Technology AnalystlocationsUS, MA, Bostonposted onPosted 22 Days AgoR262659Failure Analysis TechnicianlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261515Associate Applications Engineer (Power Electronics)locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR256049Lead Analog IC Layout Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262143Analog / Mixed Signal Layout EngineerlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR263058.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/MEMS-Layout-Engineer-P2_R263058?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-mixed-signal-layout-engineer-us"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -108,5 +118,15 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025687/Intern",
     "id": "abb-intern-location-vega-baja"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Security/Privacy, Threat Intelligence",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Security/Privacy, Threat Intelligence",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83656267091845830-software-engineer-iii-securityprivacy-threat-intelligence?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-iii-security-privacy-threat-intelligence-new-york"
   }
 ]
