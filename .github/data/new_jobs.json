@@ -14,8 +14,8 @@
     "job_title": "View job: Field Application Scientist- Bay Area, CA",
     "job_city": "Pleasanton",
     "job_state": "California",
-    "job_posted_at": "1w",
-    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 7 days agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted 6 days agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 4 months agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted 2 months agoSpatial Sales ExecutiveJapan (Remote)SalesRemotePosted 2 months agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 13 days ago.",
+    "job_posted_at": "2w",
+    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 7 days agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted 6 days agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 4 months agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoClinical Laboratory Scientist, (Technical Supervisor)Pleasanton, California, USA HQPosted 2 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted 2 months agoSpatial Sales ExecutiveJapan (Remote)SalesRemotePosted 2 months agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 14 days ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841015903",
     "id": "10x-genomics-view-job-field-application-scientist-bay-area-ca-pleasanton"
   },
@@ -98,5 +98,25 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
     "id": "abb-field-service-engineer-propulsion-location-miramar"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Performance, Platforms Infrastructure Engineering",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Performance, Platforms Infrastructure Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138986171924390598-software-engineer-iii-performance-platforms-infrastructure-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-performance-platforms-infrastructure-engineering-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "PLM Systems Development Engineer, Tech Enab & Sol (7001)",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role PLM Systems Development Engineer, Tech Enab & Sol (7001)",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10448155/plm-systems-development-engineer-tech-enab-sol-7001",
+    "id": "amazon-plm-systems-development-engineer-tech-enab-sol-7001-austin"
   }
 ]
