@@ -1,33 +1,83 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Machine Learning Engineer, Robotics",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "AI & Software Developer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Staff Engineer, Advanced Cores Design Evaluation Engineeringlocations3 Locationsposted onPosted 16 Days AgoR262371MEMS Mechanical EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR261850Staff Design Evaluation EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 27 Days AgoR262008IMU Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255774Principal Design Evaluation EngineerlocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR262330Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 27 Days AgoR262512Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 22 Days AgoR262731Senior Embedded SW EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR258736Machine Learning Engineer, RoboticslocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR263341Sales Data & Analytics Product ManagerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR262818Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262722Senior Engineer, Test EngineeringlocationsUS, NC, Durhamposted onPosted 13 Days AgoR263316Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262333Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR258887Principal Engineer, Foundry EngineeringlocationsUS, TX, Austin, Plaza on the Lakeposted onPosted 3 Days AgoR263130Senior Engineer, Manufacturing EngineeringlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR263307Senior Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262672Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR263306Senior Engineer, Digital Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 28 Days AgoR263111Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Machine-Learning-Engineer--Robotics_R263341?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-machine-learning-engineer-robotics-us"
+    "job_description": "software engineering job for the role AI & Software Developer",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=122827&source=WEB_Search_NA",
+    "id": "ibm-ai-software-developer-"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Packaging Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted TodayR263238Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Senior Engineer, Design Verification EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262670Senior Engineer, Design Verification EngineeringlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR263430Principal Engineer, Digital Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 7 Days AgoR262402Senior Engineer Design Verification EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262669Staff Systems Engineer – Analog GaragelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR261737Senior Test EngineerlocationsUS, MA, Wilmingtonposted onPosted 23 Days AgoR262114Staff Engineer, Digital Design Engineeringlocations5 Locationsposted onPosted 16 Days AgoR261443Senior Engineer, Automotive Product and Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262483Staff Mechanical Engineer, Advanced RoboticslocationsUS, MA, Bostonposted onPosted 30+ Days AgoR262611Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR263608Senior Engineer, Research Science and EngineeringlocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR262561Staff Engineer - Digital ASIC and Signal Processing Chip Architect/Systems Engineerlocations2 Locationsposted onPosted 29 Days AgoR261551Principal Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257277Staff Engineer - Digital ASIC and Signal Processing Chip Architect/Systems Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260551Senior Principal Engineer, Systems Design/Architecture Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR262200Principal Robotics Systems Architect (Motion Control, Sensor Fusion & Power Electronics)locationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR260584Principal Engineer, Mixed-Signal Design Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR262201Senior Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 17 Days AgoR263319.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Packaging-Engineer_R263608?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-packaging-engineer-us"
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering MTS, Salesforce Engineer",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR318246/software-engineering-mts-salesforce-engineer/",
+    "id": "salesforce-software-engineering-mts-salesforce-engineer-indiana-indianapolis"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Biomedical Lab Technician",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "Salesforce",
+    "job_title": "Production Support Engineering LMTS",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR340158/production-support-engineering-lmts/",
+    "id": "salesforce-production-support-engineering-lmts-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Data Engineer (SMTS / LMTS) - MDM",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR347388/data-engineer-smts-lmts-mdm/",
+    "id": "salesforce-data-engineer-smts-lmts-mdm-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "LMTS, Salesforce",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR341970/lmts-salesforce/",
+    "id": "salesforce-lmts-salesforce-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Solution Engineer, MuleSoft - Salesforce National Security",
+    "job_city": "Virginia - Mclean",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR340390/solution-engineer-mulesoft-salesforce-national-security/",
+    "id": "salesforce-solution-engineer-mulesoft-salesforce-national-security-virginia-mclean"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Solution Engineer, Apromore",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR344594/solution-engineer-apromore/",
+    "id": "salesforce-solution-engineer-apromore-california-san-francisco"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Software Engineer",
+    "job_city": "Columbia",
+    "job_state": "MD",
     "job_posted_at": "1d",
-    "job_description": "• Staff Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 7 Days AgoR263053Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Biomedical Lab TechnicianlocationsUS, MA, Wilmingtonposted onPosted TodayR263204Biomedical Lab TechnicianlocationsUS, MA, Wilmingtonposted onPosted TodayR263203Staff Level Product Engineer - SDRlocationsUS, NJ, Somersetposted onPosted 30+ Days AgoR258247Staff Engineer Analog IC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260158Senior Engineer, Mixed Signal Design EngineeringlocationsUS, CA, Grass Valleyposted onPosted 30+ Days AgoR262482Photolithography Technician 5, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted 23 Days AgoR262896Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 27 Days AgoR262243Equipment Technician 3, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR260381Equipment Technician 3, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262560Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted YesterdayR263314Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261276Principal Algorithm Engineer / Robotics Algorithm LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258879Manager, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 22 Days AgoR261971CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 13 Days AgoR262976Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 23 Days AgoR263074Systems Integration Engineer – RoboticlocationsUS, MA, Wilmingtonposted onPosted 28 Days AgoR262224Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Digital Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260273.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Biomedical-Lab-Technician_R263204?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-biomedical-lab-technician-us"
+    "job_description": "• Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0237633 Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0231191 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 9 Days AgoR0236102 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 3 Days AgoR0236761 Software Engineer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0237634.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Columbia-MD/Software-Engineer_R0243033?q=software+engineering",
+    "id": "bae-systems-software-engineer-columbia"
   },
   {
     "employer_name": "10x Genomics",
@@ -45,7 +95,7 @@
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "2w",
-    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 9 days agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted 7 days agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 4 months agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoClinical Laboratory Scientist, (General Supervisor)Pleasanton, California, USA HQPosted 2 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted 2 months agoSpatial Sales ExecutiveJapan (Remote)SalesRemotePosted 2 months agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 15 days ago.",
+    "job_description": "• Scientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQPosted 9 days agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted 8 days agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 4 months agoScientist II, Clinical BioinformaticsPleasanton, California, USA HQPosted 5 months agoP-5010 Scientist II, Reagents Sustaining and ApplicationsPleasanton, California, USA HQPosted 4 months agoClinical Laboratory Scientist, (General Supervisor)Pleasanton, California, USA HQPosted 2 months agoStaff Data Scientist, Sales AnalyticsPleasanton, California, USA HQMarketingPosted a month agoDirector of Sales TrainingPleasanton, California, USA HQMarketingPosted 2 months agoSpatial Sales ExecutiveJapan (Remote)SalesRemotePosted 2 months agoStaff Mechanical EngineerPleasanton, California, USA HQEngineering - HardwarePosted 15 days ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841015903",
     "id": "10x-genomics-view-job-field-application-scientist-bay-area-ca-pleasanton"
   },
@@ -60,94 +110,24 @@
     "id": "10x-genomics-view-job-production-test-technician-instrument-assembly-pleasanton"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Full Stack Engineer",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerlocations2 Locationsposted onPosted 30+ Days Ago33026Junior Software EngineerlocationsUS - LA, New Orleansposted onPosted 30+ Days Ago37454AI Software Engineerlocations2 Locationsposted onPosted 17 Days Ago39522Computer ProgrammerlocationsUS - LA, New Orleansposted onPosted 30+ Days Ago37611Site Reliability Engineerlocations3 Locationsposted onPosted 8 Days Ago40619Full Stack EngineerlocationsUS - MD, Bethesdaposted onPosted Today40373Software Developer - Senior ConsultantlocationsUS - VA, McLeanposted onPosted Today41107Software Developer - Managing ConsultantlocationsUS - VA, McLeanposted onPosted Today41106SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 15 Days Ago35849Junior Cloud DevOps EngineerlocationsUS - DC, Washingtonposted onPosted 17 Days Ago40228Sr.\n• Software DeveloperlocationsUS - DC, Washingtonposted onPosted 8 Days Ago40303Cloud Infrastructure & Automation EngineerlocationsUS - Remote (Any location)posted onPosted Today37772Data Engineer (Senior Consultant)locations2 Locationsposted onPosted 8 Days Ago40469Sr.\n• Software Operations Team LeadlocationsUS - DC, Washingtonposted onPosted 8 Days Ago40304IDOS Aerospace Professionalslocations7 Locationsposted onPosted 30+ Days Ago38210Data Engineer – Healthcare Analytics Platformlocations2 Locationsposted onPosted 13 Days Ago40481Palantir Data Engineerlocations2 Locationsposted onPosted 9 Days Ago38627Palantir AIP EngineerlocationsUS - VA, Arlingtonposted onPosted 23 Days Ago39000AWS DevOps EngineerlocationsUS - VA, McLeanposted onPosted 9 Days Ago40607MLOps Engineerlocations2 Locationsposted onPosted 30+ Days Ago38349.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Full-Stack-Engineer_40373?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-full-stack-engineer-us-md"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "QA Automation Engineer",
+    "employer_name": "Intel",
+    "job_title": "Software Engineer - Compute Infrastructure and Security",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Microsoft Biz Apps Developer - Power Apps and MS Dynamics Architectlocations27 Locationsposted onPosted 30+ Days Ago37238Senior Full Stack Developerlocations2 Locationsposted onPosted 15 Days Ago40426Senior Full Stack Developerlocations2 Locationsposted onPosted 9 Days Ago40340Senior Python/Java Script Full Stack Developerlocations2 Locationsposted onPosted 20 Days Ago37297Senior Full Stack Python/JavaScript Developerlocations2 Locationsposted onPosted 20 Days Ago37301Palantir Data EngineerlocationsUS - VA, Arlingtonposted onPosted 23 Days Ago39001Senior Platform Engineerlocations2 Locationsposted onPosted 28 Days Ago38249AWS Cloud Platform EngineerlocationsUS - VA, McLeanposted onPosted 9 Days Ago40602CyberArk Engineerlocations2 Locationsposted onPosted 23 Days Ago38918Data Engineerlocations2 Locationsposted onPosted 30+ Days Ago39493Data Engineerlocations2 Locationsposted onPosted 3 Days Ago39308AI/ML Solutions Architect (Agentic Systems)locationsUS - Remote (Any location)posted onPosted 30+ Days Ago37697Senior Cloud DevOps EngineerlocationsUS - DC, Washingtonposted onPosted 17 Days Ago40227Solutions Operations LeadlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago38599Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Industrial Engineering ConsultantlocationsUS - AL, Huntsvilleposted onPosted 28 Days Ago39734Industrial Engineering LeadlocationsUS - AL, Huntsvilleposted onPosted 28 Days Ago39732QA Automation Engineerlocations2 Locationsposted onPosted Today40681Cloud Platforms Infrastructure Engineerlocations2 Locationsposted onPosted 8 Days Ago39424Border Security DevOps EngineerlocationsUS - VA, Sterlingposted onPosted 28 Days Ago40004.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/QA-Automation-Engineer_40681?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-qa-automation-engineer-2-locations"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Maint. Tech-1st shift",
-    "job_city": "Montezuma",
-    "job_state": "Iowa",
-    "job_posted_at": "1d",
-    "job_description": "• Magna Engineered Glass: 2nd Shift Production SupervisorlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00238471Magna Engineered Glass: 2nd Shift Maintenance / Controls TechlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00221810Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232837User Experience Summer InternlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00238235Industrial Paint Process Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00240649Industrial Paint Process Technician - A ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00240648Intern - SystemslocationsSouthfield, Michigan, USposted onPosted 13 Days AgoR00235414Soft Trim Product Developer (seat cover)locationsNovi, Michigan, USposted onPosted 30+ Days AgoR00238973Senior Designer- LightinglocationsNovi, Michigan, USposted onPosted 3 Days AgoR00235074Designer- LightinglocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00235134IT Industry 4.\n• 0 Lead DeveloperlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222196Layout Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00241346Developer, IoTlocationsNewaygo, Michigan, USposted onPosted 17 Days AgoR00246501Cloud Solutions Architect, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00239856Cloud Solutions Architect, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00187092CNC MachinistlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222195Press Team LeadlocationsWilliamsburg, Iowa, USposted onPosted 7 Days AgoR00247455Shipper/ReceiverlocationsWilliamsburg, Iowa, USposted onPosted YesterdayR00246797Maint.\n• Tech-1st shiftlocationsMontezuma, Iowa, USposted onPosted TodayR00209126Eng, Supplier QualitylocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00242573.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Montezuma-Iowa-US/Maint-Tech-1st-shift_R00209126?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-maint-tech-1st-shift-montezuma"
+    "job_description": "• Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoSpotlight JobJR0283729AI Security Engineering Internlocations2 Locationsposted onPosted YesterdayJR0285140Software Engineering ManagerlocationsUS, California, Santa Claraposted onPosted 14 Days AgoJR0284770EDA Tools Software Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280762Software Engineer - Agent Harnesslocations4 Locationsposted onPosted 8 Days AgoJR0284869LTD Frame Automation Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 29 Days AgoJR0284284Senior EDA Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0284496Quantum Error Correction Software Engineerlocations2 Locationsposted onPosted 9 Days AgoJR0284777Software Engineer - Compute Infrastructure and Securitylocations2 Locationsposted onPosted TodayJR0285006Software Research Engineer/ScientistlocationsUS, Oregon, Hillsboroposted onPosted 9 Days AgoJR0284820GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 28 Days AgoJR0284406System and Software Optimization EngineerlocationsUS, Oregon, Hillsboroposted onPosted 9 Days AgoJR0284771Operations Research Engineerlocations3 Locationsposted onPosted 16 Days AgoJR0284429Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280028Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280029Senior AI Software Architect - Runtimelocations3 Locationsposted onPosted 30+ Days AgoJR0283399Principal Engineer, AI Software Solutionslocations2 Locationsposted onPosted TodayJR0285164Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 30+ Days AgoJR0281966End to End GPU AI Software Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0281455AI Developer Evangelistlocations3 Locationsposted onPosted 15 Days AgoJR0284330.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Engineer---Compute-Infrastructure-and-Security_JR0285006?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-software-engineer-compute-infrastructure-and-security-2-locations"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Software Engineer – NPU Firmware & AI Acceleration",
+    "job_title": "Software Engineer - Systems & Hardware (GPU)",
     "job_city": "US",
-    "job_state": "CA",
+    "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Experience working as an Embedded Software EngineerExperience working on Embedded Linux and Embedded firmware projectsExpert knowledge and hands-on experience in C, C++ Solid understanding of object-oriented-design principles Solid understanding of Software Engineering principles, Data structure, algorithms, Operating Systems concepts and multithread programming Excellent design and code development skills, familiarity with Linux and modern software tools and techniques for development Good analytical and problem-solving skills Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master’s degree in Computer/Software Engineering, Computer Science, or related technical discipline AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Develop and drive execution of comprehensive, highly effective software for sophisticated new technology and new product introduction projects Validate new SW features before releasing them to customers Implementing the features in software to enable inferencing ML workload on NPUDebug and fix the application, firmware and the driver for ML applications running on NPUCollaborate closely with multiple teams to deliver key planning solutions and the technology to support them Help contribute to the design and implementation of future architecture for a highly scalable, durable, and innovative system Work very closely with dev teams and Project Managers to drive results Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/86017/login",
-    "id": "amd-software-engineer-npu-firmware-ai-acceleration-us"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Power Electronics Scientist",
-    "job_city": "Location Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036221/Power-Electronics-Scientist",
-    "id": "abb-power-electronics-scientist-location-raleigh"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
+    "job_description": "• Modern C++ programming Experience working with or close to hardware (GPU, CPU, or embedded systems)GPU programming (CUDA, HIP, OpenCL) — strong plusUnderstanding of GPU or CPU architecture — plusParallel programming, concurrency, and memory modelsLow-level or firmware developmentLinux systems programming (kernel or userspace)Debugging complex issues across software and hardware boundariesExperience in validation, bring-up, or stress testing environments Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Develop new applications utilizing knowledge of the underlying microarchitecture to discover issues in hardware and software Participate in debugging to root cause critical issues Contribute to in-house stress application frameworks Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/87348/login",
+    "id": "amd-software-engineer-systems-hardware-gpu-us"
   },
   {
     "employer_name": "ABB",
@@ -161,16 +141,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Marine Field Service Engineer (Automation)",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
@@ -178,16 +148,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
     "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Propulsion",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
-    "id": "abb-field-service-engineer-propulsion-location-miramar"
   },
   {
     "employer_name": "ABB",
@@ -201,52 +161,72 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Intern",
-    "job_city": "Location Vega Baja",
-    "job_state": "Puerto Rico",
+    "job_title": "Field Service Engineer_Omani Talents",
+    "job_city": "Location Al Hamriya",
+    "job_state": "Masqaţ",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025687/Intern",
-    "id": "abb-intern-location-vega-baja"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
+    "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "(80 -100%) Service Test Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
+    "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Location Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation, Condition Monitoring & Digital Solutions Engineer",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
+    "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Full Stack Developer - Product Configuration Solutions (f/m/d)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015303/Full-Stack-Developer-Product-Configuration-Solutions-f-m-d",
+    "id": "abb-full-stack-developer-product-configuration-solutions-f-m-d-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Classification Engineer",
+    "job_city": "Location Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
+    "id": "abb-product-classification-engineer-location-frosinone"
   },
   {
     "employer_name": "Apple",
-    "job_title": "AR/VR Software Engineer",
-    "job_city": "Seattle",
+    "job_title": "Software Development Engineering",
+    "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "16h",
-    "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Computer Science, Computer Engineering or related field and 2 years of experience in the job offered or related occupation.\n• 2 years of experience with each of the following skills is required:Utilizing programming languages and UI frameworks to develop real time applications, with a high demand of responsiveness, data throughput, and UI flow fluency metrics.\n• Building, testing, and automating software pipelines that can scale with field-deployed software solutions to accommodate large user bases, withstand demanding data traffic influx, or ultra-high reliability requirements with low failure rate.\n• Designing, developing, and shipping novel software solutions by utilizing emerging technologies, cloud computing, and live event data streams.\n• Developing, iterating, and shipping user facing features and use cases in domains such as web or mobile applications, with a high demand of compute and power consumption optimizations.\n• Representing and articulating complex design and engineering tradeoffs to project and design leadership.\n• Utilizing and aggregating functionalities provided by different software frameworks and system stack to ship new user-facing software solutions on Apple, Android, or Web platforms.\n• Developing and debugging software solutions across multiple layers of complex software stack.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200668902-3337/ar-vr-software-engineer?team=HRDWR",
-    "id": "apple-ar-vr-software-engineer-seattle"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Graphics Software Content Engineer",
-    "job_city": "Orlando",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Minimum QualificationsExperience with GPU APIs like Metal, OpenGL, DirectX, Vulkan, CUDA, or shading languages.\n• Excellent C/C++ programming skills.\n• Degree and 0 years of experience.\n• Knowledge of key graphics rendering algorithms.\n• Relevant coursework/projects in Computer Graphics or Computer Architecture.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200669452-2907/graphics-software-content-engineer?team=HRDWR",
-    "id": "apple-graphics-software-content-engineer-orlando"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Applications",
-    "job_city": "Seattle",
-    "job_state": "US",
-    "job_posted_at": "16h",
-    "job_description": "• Minimum QualificationsMaster’s degree or foreign equivalent in Computer Science or related field and 5 years of experience in the job offered or related occupation.\n• Experience and/or education must include:Designing and implementing distributed systems for large-scale network servicesUtilizing Java and related tooling to build softwareUtilizing Bazel, Gradle, or Maven build tools to compile, test, package, and deploy Java software and servicesUtilizing Git and Github for version control and change managementUtilizing Kubernetes and other containerization technologies, and related tooling (Helm, Kompose, or similar), to deploy and manage servicesUtilizing JUnit or similar Java tools to rigorously test built softwareUtilizing NoSQL and SQL databases, including Cassandra, Oracle, MySQL, or DynamoDB to create data models and database table structuresUtilizing SHA-256/512 HMACs, mTLS, or bearer tokens for system authenticationUtilizing access control lists, role-based access control, and attribute-based access control to control security authorization to services and dataUtilizing JSON and HTTP to implement REST-style APIs.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200669180-3337/software-engineer-applications?team=SFTWR",
-    "id": "apple-software-engineer-applications-seattle"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "QCS Field Service Engineer I - Ricon, GA",
-    "job_city": "Savannah",
-    "job_state": "GA",
-    "job_posted_at": "16h",
-    "job_description": "• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• The position requires collaborating with cross-functional teams to ensure solutions meet scalability, security, and compliance standards, while providing technical leadership to align integrations with organizational goals.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/151411/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-qcs-field-service-engineer-i-ricon-ga-savannah"
+    "job_posted_at": "19h",
+    "job_description": "• Minimum QualificationsMaster’s degree or foreign equivalent in Computer Science or related field and 2 years of experience in the job offered or related occupation.\n• 1 year of experience with each of the following skills is required:Delivering new technologies and platforms in a services-oriented architecture using Java, Dropwizard, JUnit, web services, REST, XML, Oracle, Kafka, AVRO, Spark, Airflow, JavaScript, CSS, and AWS technologies for compute and storage, messaging, and data storage.\n• Service integration patterns via REST and SOAP based Webservices.\n• Java-based web services using RESTful interface interfaces to implement data integrations.\n• Message and event based integration patterns for cross system communication of data changes.\n• Java, relational databases, and data modelling to understand databases, including data modelling, and interacting with data from those databases for services and application development.\n• Cloud based software including AWS products (EC2, S3), Kubernetes, Docker.\n• Complex business systems integration: develop integrations between different tools, databases, and systems.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200668856-0157/software-development-engineering?team=SFTWR",
+    "id": "apple-software-development-engineering-austin"
   }
 ]
