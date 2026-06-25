@@ -1,85 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "AI & Software Developer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role AI & Software Developer",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=122827&source=WEB_Search_NA",
-    "id": "ibm-ai-software-developer-"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering MTS, Salesforce Engineer",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR318246/software-engineering-mts-salesforce-engineer/",
-    "id": "salesforce-software-engineering-mts-salesforce-engineer-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Production Support Engineering LMTS",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR340158/production-support-engineering-lmts/",
-    "id": "salesforce-production-support-engineering-lmts-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Data Engineer (SMTS / LMTS) - MDM",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR347388/data-engineer-smts-lmts-mdm/",
-    "id": "salesforce-data-engineer-smts-lmts-mdm-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "LMTS, Salesforce",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR341970/lmts-salesforce/",
-    "id": "salesforce-lmts-salesforce-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Solution Engineer, MuleSoft - Salesforce National Security",
-    "job_city": "Virginia - Mclean",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR340390/solution-engineer-mulesoft-salesforce-national-security/",
-    "id": "salesforce-solution-engineer-mulesoft-salesforce-national-security-virginia-mclean"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Solution Engineer, Apromore",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR344594/solution-engineer-apromore/",
-    "id": "salesforce-solution-engineer-apromore-california-san-francisco"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Engineer",
-    "job_city": "Columbia",
-    "job_state": "MD",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0237633 Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0231191 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 9 Days AgoR0236102 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 3 Days AgoR0236761 Software Engineer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0237634.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Columbia-MD/Software-Engineer_R0243033?q=software+engineering",
-    "id": "bae-systems-software-engineer-columbia"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -110,26 +30,6 @@
     "id": "10x-genomics-view-job-production-test-technician-instrument-assembly-pleasanton"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Software Engineer - Compute Infrastructure and Security",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoSpotlight JobJR0283729AI Security Engineering Internlocations2 Locationsposted onPosted YesterdayJR0285140Software Engineering ManagerlocationsUS, California, Santa Claraposted onPosted 14 Days AgoJR0284770EDA Tools Software Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280762Software Engineer - Agent Harnesslocations4 Locationsposted onPosted 8 Days AgoJR0284869LTD Frame Automation Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 29 Days AgoJR0284284Senior EDA Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0284496Quantum Error Correction Software Engineerlocations2 Locationsposted onPosted 9 Days AgoJR0284777Software Engineer - Compute Infrastructure and Securitylocations2 Locationsposted onPosted TodayJR0285006Software Research Engineer/ScientistlocationsUS, Oregon, Hillsboroposted onPosted 9 Days AgoJR0284820GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 28 Days AgoJR0284406System and Software Optimization EngineerlocationsUS, Oregon, Hillsboroposted onPosted 9 Days AgoJR0284771Operations Research Engineerlocations3 Locationsposted onPosted 16 Days AgoJR0284429Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280028Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280029Senior AI Software Architect - Runtimelocations3 Locationsposted onPosted 30+ Days AgoJR0283399Principal Engineer, AI Software Solutionslocations2 Locationsposted onPosted TodayJR0285164Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 30+ Days AgoJR0281966End to End GPU AI Software Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0281455AI Developer Evangelistlocations3 Locationsposted onPosted 15 Days AgoJR0284330.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Engineer---Compute-Infrastructure-and-Security_JR0285006?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-software-engineer-compute-infrastructure-and-security-2-locations"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Software Engineer - Systems & Hardware (GPU)",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Modern C++ programming Experience working with or close to hardware (GPU, CPU, or embedded systems)GPU programming (CUDA, HIP, OpenCL) — strong plusUnderstanding of GPU or CPU architecture — plusParallel programming, concurrency, and memory modelsLow-level or firmware developmentLinux systems programming (kernel or userspace)Debugging complex issues across software and hardware boundariesExperience in validation, bring-up, or stress testing environments Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Develop new applications utilizing knowledge of the underlying microarchitecture to discover issues in hardware and software Participate in debugging to root cause critical issues Contribute to in-house stress application frameworks Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/87348/login",
-    "id": "amd-software-engineer-systems-hardware-gpu-us"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Commissioning Engineer",
     "job_city": "Available in one of 3 locations",
@@ -158,6 +58,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
     "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Auckland",
+    "job_state": "Auckland",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014773/Project-Engineer",
+    "id": "abb-project-engineer-location-auckland"
   },
   {
     "employer_name": "ABB",
@@ -220,13 +130,13 @@
     "id": "abb-product-classification-engineer-location-frosinone"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Development Engineering",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "19h",
-    "job_description": "• Minimum QualificationsMaster’s degree or foreign equivalent in Computer Science or related field and 2 years of experience in the job offered or related occupation.\n• 1 year of experience with each of the following skills is required:Delivering new technologies and platforms in a services-oriented architecture using Java, Dropwizard, JUnit, web services, REST, XML, Oracle, Kafka, AVRO, Spark, Airflow, JavaScript, CSS, and AWS technologies for compute and storage, messaging, and data storage.\n• Service integration patterns via REST and SOAP based Webservices.\n• Java-based web services using RESTful interface interfaces to implement data integrations.\n• Message and event based integration patterns for cross system communication of data changes.\n• Java, relational databases, and data modelling to understand databases, including data modelling, and interacting with data from those databases for services and application development.\n• Cloud based software including AWS products (EC2, S3), Kubernetes, Docker.\n• Complex business systems integration: develop integrations between different tools, databases, and systems.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200668856-0157/software-development-engineering?team=SFTWR",
-    "id": "apple-software-development-engineering-austin"
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer II - AI Automation Engineer",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "1d",
+    "job_description": "• Net, C# Chicago, IL, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• You will build new payment flows end to end, from understanding business requirements to coding and supporting solutions in production.\n• Lead software Engineer - Full Stack Jersey City, NJ, United States TechnologySoftware Engineering Lead Full Stack AI Software Engineer with strong React expertise, experienced in building enterprise AI applications using AI agents, REACT, RAG, APIs, databases, and real-time processing technologies.\n• Oversee the entire Software Development Lifecycle (SDLC), from requirement analysis to deployment, ensuring adherence to architectural standards and best practices.\n• Software Engineer III - AWS Plano, TX, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - DevOps Plano, TX, United States and 3 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Manager of Software Engineering - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards Lead Software Engineer - Java Jersey City, NJ, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Linux Infrastructure Platform San Francisco, CA, United States TechnologySoftware Engineering Lead Software Engineer - Linux Senior Manager of Software Engineering -Front office trading Jersey City, NJ, United States TechnologySoftware Engineering Bring your Senior Manager of Software Engineering experience to lead the Front office Trading execution technology team.\n• Lead Software Engineer AWS/Java Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• Software Engineer III - IOS Developer New York, NY, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer [Multiple Positions Available] Plano, TX, United States TechnologySoftware Engineering Design solutions for mobile applications by creating architecture diagrams based on business requirements and flow charts.\n• Lead Software Engineer - iOS Engineer New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Principal Software Engineer - AI Engineer Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Lead Software Engineer: Identity & Trust New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III - Python & Databricks Plano, TX, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team AI Engineer - Lead Software Engineer Jersey City, NJ, United States and 2 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729164/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-ai-automation-engineer-chicago"
   }
 ]
