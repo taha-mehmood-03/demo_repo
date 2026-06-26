@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Micron Technology",
+    "job_title": "DMTS Design Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/42478829",
+    "id": "micron-technology-dmts-design-engineer-boise"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -30,14 +40,64 @@
     "id": "10x-genomics-view-job-production-test-technician-instrument-assembly-pleasanton"
   },
   {
-    "employer_name": "Workday",
-    "job_title": "Software Development Engineer, AI Platform",
-    "job_city": "USA",
-    "job_state": "CO",
-    "job_posted_at": "1d",
-    "job_description": "• Sr Software Development Engineer - Distributed Systemsremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 16 Days AgoJR-0107882Principal Software Development Engineer - Developer Platformremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 9 Days AgoJR-0107781Senior Software Development Engineer - Developer Platformremote typeFlexlocationsUSA, CO, Boulderposted onPosted 9 Days AgoJR-0108221Software Development Engineer - US Federalremote typeOnsitelocationsUSA.\n• Restonposted onPosted 17 Days AgoJR-0105759Software Development Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 20 Days AgoJR-0105496Software Development Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 20 Days AgoJR-0105421Software Development Engineer--Pipedream Connectremote typeFlexlocationsUSA, CA, San Franciscoposted onPosted 22 Days AgoJR-0107821Software Application Engineer (US Federal)remote typeFlexlocationsUSA.\n• Restonposted onPosted 13 Days AgoJR-0107995Software Development Engineer - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0108025Software Development Engineer, AI Platformremote typeFlexlocationsUSA, CO, Boulderposted onPosted TodayJR-0107870Sr.\n• Software Development Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 20 Days AgoJR-0103679Software Development Engineer, SRE (US Federal)remote typeOnsitelocationsUSA.",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer--AI-Platform_JR-0107870?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-ai-platform-usa"
+    "employer_name": "ABB",
+    "job_title": "Commissioning Engineer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
+    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Automation)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
+    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -91,46 +151,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commissioning Engineer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
-    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Automation)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
-    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Field Service Engineer - Propulsion",
     "job_city": "Location Miramar",
     "job_state": "Florida",
@@ -138,26 +158,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
     "id": "abb-field-service-engineer-propulsion-location-miramar"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Intern",
-    "job_city": "Location Vega Baja",
-    "job_state": "Puerto Rico",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025687/Intern",
-    "id": "abb-intern-location-vega-baja"
   },
   {
     "employer_name": "ABB",
@@ -175,38 +175,18 @@
     "job_city": "Location Al Hamriya",
     "job_state": "Masqaţ",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
     "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Application Engineer",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_posted_at": "23h",
-    "job_description": "• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• The position requires collaborating with cross-functional teams to ensure solutions meet scalability, security, and compliance standards, while providing technical leadership to align integrations with organizational goals.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/151142/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-application-engineer-cincinnati"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "Product Marketing Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "23h",
-    "job_description": "• (2) NOVI, NOVI, MI (2) Dallas, North Campus - DMOS V North (1) Categories 0 Engineering - Product Dev (27) Manufacturing (9) Information Technology (7) Sales (2) Facilities (1) Experience Level 0 Experienced Professional (33) Recent College Grads (13) Work Locations 0 Dallas, South Campus (16) Richardson, Richardson Fab, Renner Rd (6) Lehi, Lehi, UT (4) Sherman, Sherman - SM1 Fab (4) Santa Clara, Santa Clara, Great America.\n• (2) NOVI, NOVI, MI (2) Dallas, North Campus - DMOS V North (1) Categories 0 Engineering - Product Dev (27) Manufacturing (9) Information Technology (7) Sales (2) Facilities (1) Experience Level 0 Experienced Professional (33) Recent College Grads (13) Create warboards (strategic planning tools) for New Product Growth Initiatives (NPGI) and End Equipment Growth Initiatives (EEGI), collaborating with field sales and Systems Engineering & Marketing (SEM) teams to develop targeted attack plans.\n• Job Identification 25011219 Job Category Engineering - Product Dev Posting Date 06/25/2026, 10:34 PM Apply Before 07/02/2026, 05:00 AM Degree Level Bachelor's Degree Locations FORE 12500 T I Blvd, Dallas, TX, 75243, US ECL/GTC Required Yes Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Bachelor’s degree (or foreign equivalent) in Electrical Engineering or a related field, and 3 years of experience as an engineer working on automotive applications.\n• 3 years of experience to include hardware components including wireless RF technology & microcontrollers.\n• Up to 20% domestic & international travel required.\n• Experienced Professional (33) Recent College Grads (13) Experienced Professional (33) Recent College Grads (13).",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25011219/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-product-marketing-engineer-dallas"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "System Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "23h",
-    "job_description": "• (2) NOVI, NOVI, MI (2) Dallas, North Campus - DMOS V North (1) Categories 0 Engineering - Product Dev (27) Manufacturing (9) Information Technology (7) Sales (2) Facilities (1) Experience Level 0 Experienced Professional (33) Recent College Grads (13) Work Locations 0 Dallas, South Campus (16) Richardson, Richardson Fab, Renner Rd (6) Lehi, Lehi, UT (4) Sherman, Sherman - SM1 Fab (4) Santa Clara, Santa Clara, Great America.\n• (2) NOVI, NOVI, MI (2) Dallas, North Campus - DMOS V North (1) Categories 0 Engineering - Product Dev (27) Manufacturing (9) Information Technology (7) Sales (2) Facilities (1) Experience Level 0 Experienced Professional (33) Recent College Grads (13) Leverage TI sales and industry relationships to collect, analyze, document, and communicate customer and industry requirements, conduct technical research, and consider the business development implications of platform decisions.\n• Gather and analyze customer requirements through direct engagement, including on-site visits and technical workshops.\n• Decompose high-level requirements into detailed technical specifications for platform software components, interfaces, and integration points.\n• Ensure platform software meets relevant industry standards and security requirements, particularly in automotive domains.\n• Job Identification 25011148 Job Category Engineering - Product Dev Posting Date 06/25/2026, 10:23 PM Apply Before 07/02/2026, 05:00 AM Degree Level Bachelor's Degree Locations FORE 12500 T I Blvd, Dallas, TX, 75243, US ECL/GTC Required Yes Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Bachelor’s degree in Industrial Engineering and Management, Electrical Engineering or Computer Engineering and 4 years of experience as a Field Applications Engineer, Product Marketing Engineer, and/or Sales Engineering in semiconductor industry.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25011148/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-system-engineer-dallas"
+    "employer_name": "ABB",
+    "job_title": "(80 -100%) Service Test Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• A bachelor’s degree, diploma, or higher academic qualification in Electrical or Electronic EngineeringSeveral years of hands-on experience in commissioning, after-sales technical support, and advanced diagnostics of UPS, PCS, or energy storage solutions are beneficialExperience in commissioning and troubleshooting mission-critical applications such as data centers, high-volume industrial facilities, and critical infrastructure installations would be a plusProficiency in both verbal and written English communication (B2 level or higher) Knowledge of any other language is a welcome assetThe ability to write clear and concise technical documents, reports, and field support proceduresA willingness to engage directly with clients and teams worldwide, with a travel commitment of up to 50% Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
+    "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
   }
 ]
