@@ -21,26 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Commissioning Engineer",
     "job_city": "Available in one of 3 locations",
     "job_state": "US",
@@ -71,53 +51,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Power Electronics Scientist",
-    "job_city": "Location Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036221/Power-Electronics-Scientist",
-    "id": "abb-power-electronics-scientist-location-raleigh"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Propulsion",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
-    "id": "abb-field-service-engineer-propulsion-location-miramar"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -171,12 +111,22 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Automation, Condition Monitoring & Digital Solutions Engineer",
-    "job_city": "Available in one of 4 locations",
+    "job_title": "Full Stack Developer - Product Configuration Solutions (f/m/d)",
+    "job_city": "Available in one of 3 locations",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
-    "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
+    "job_description": "• Serve as an internal IS consultant, aligning innovative solutions with business needs while collaborating with stakeholders, solution consultants, and partners to deliver high-quality outcomes.\n• Degree in Software Engineering, IT, or related field (HTL, FH, University) or equivalent practical experience.\n• Ability to demonstrate your experience in software engineering and IT, with established skills in designing and implementing robust solutions.\n• Develop and customize product configurators within IQ, ensuring robust functionality and user-friendly design.\n• Integrate IQ with enterprise systems to enable end-to-end process automation.\n• Manage the full configurator lifecycle—from architecture and implementation to maintenance, troubleshooting, and continuous improvement.\n• Interest and affinity for automation products and the drive to create user-friendly configurators that simplify complex processes.\n• Teamplayer and open-minded personYou are at ease communicating in German and English (spoken and written).",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015303/Full-Stack-Developer-Product-Configuration-Solutions-f-m-d",
+    "id": "abb-full-stack-developer-product-configuration-solutions-f-m-d-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Classification Engineer",
+    "job_city": "Location Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "1h",
+    "job_description": "• Providing Export Control (ECCN/ECN) and Customs (HTS/HS tariff code, Preferential/Non Preferential Origin) classification of products, software, and/or technologies as part of new product introduction cycleManaging and updating master data for products, technologies, and software, including product description, and/or supporting customs declarants with product information required for master data management and entriesSupporting relevant teams (Procurement, Order Handling, R&D, Customs, Sales etc…) regarding product classification-related inquiries or issuesReviewing and applying relevant changes in the regulatory framework related to product classificationWhen working in a local Business, the PCE has a functional reporting line to the Local Trade Compliance Officer, and occasionally may be approached by the country trade compliance officer to support the classification of an item on ad hoc basis You have good knowledge or a strong willingness to learn about ELSP products, software, technologies, and classification processes.\n• You have solid skills in MS Office and SAP, and you are well organized, precise, and diligent in data management and documentation.\n• You have good knowledge about customs and export control regulations.\n• You are business-oriented, proactive, flexible, and able to work independently while remaining a strong team player.\n• You are at ease communicating in Italian and English.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Line Product Engineer Location Frosinone, Frosinone, Italy Category Quality & Operational Excellence Transport Planner - Temporary Location Dalmine, Bergamo, Italy Category Quality & Operational Excellence Quality Specialist Location Frosinone, Frosinone, Italy Category Quality & Operational Excellence Procurement Specialist Available in one of 2 locations Category Quality & Operational Excellence IPU Production Engineering Specialist Location Frosinone, Frosinone, Italy Category Quality & Operational Excellence Production Engineering Specialist - Temporary Location Frosinone, Frosinone, Italy Category Quality & Operational Excellence Production Development Specialist - Temporary Location Dalmine, Bergamo, Italy Category Quality & Operational Excellence Order Handling - Invoicing Specialist Location Sesto San Giovanni, Milano, Italy Category Quality & Operational Excellence Process Engineer - Temporary Location Garbagnate Monastero, Lecco, Italy Category Quality & Operational Excellence.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
+    "id": "abb-product-classification-engineer-location-frosinone"
   }
 ]
