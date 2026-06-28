@@ -21,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Associate Demand Field Service Technician",
     "job_city": "Location Cleveland",
     "job_state": "Ohio",
@@ -51,23 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Automation)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
-    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -91,6 +71,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Power Electronics Scientist",
     "job_city": "Location Raleigh",
     "job_state": "North Carolina",
@@ -101,13 +91,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
+    "job_title": "Marine Field Service Engineer (Automation)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
+    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -135,7 +135,7 @@
     "job_city": "Location Al Hamriya",
     "job_state": "Masqaţ",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
     "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
   },
@@ -145,7 +145,7 @@
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_description": "• Collect inputs from all manufacturing locations and merge them into common requirements for ETP related development tasks and projectsFollow-up performance of current global engineering tools.\n• Mechanics, electronics, thermal, software), from concepts and requirements through design, implementation, integration, and testing, to technology transfer or maintenance and operations.\n• Tech degree in Mechanical Engineering or Electrical Engineering.\n• With minimum 5 or more years of experience in rotating machines background.\n• Experience with PLM software - Teamcenter Experience with 3D design including use of NX, Solid works, or equivalent design platforms.\n• Familiar and have practical experience with MS Word, MS Excel, MS Project, PowerPoint, SAP, and other applicable software.\n• Adept, OMS, PDM, CAD tools Make development proposals accordingly.\n• Ensure New product development projects and Product transfer projects provide efficient engineering tools and processes for all manufacturing locations Follow-up and develop ETP competence globally- Documentation, training materials, trainingsWorks as an independent and reliable contributor in R&D projects, requiring only limited supervision.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030614/R-D-Associate-Engineer",
     "id": "abb-r-d-associate-engineer-available-in-one-of-2-locations"
   },
@@ -165,7 +165,7 @@
     "job_city": "Location Minden",
     "job_state": "North Rhine-Westphalia",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_description": "• Completed degree in Electrical Engineering or a comparable field of studyAt least 3+ years of relevant professional experience in hardware development.\n• Good knowledge in FPGA design (AMD/Xilinx, Altera, VHDL)Confident handling of common FPGA development tools (Vivado, ModelSim)Experience in embedded software development (e.\n• , PIC, ATMEGA, STM32, MicroBlaze)Good knowledge in classical hardware development as well as in handling hardware design toolsBasic knowledge in handling bus systems such as Ethernet, PROFIBUS, or similar fieldbus systemsStrong communication and teamwork skills combined with an independent, analytical, and structured working styleEnglish: business-fluent (written and spoken).\n• German: fluent (written and spoken) Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action R&D Engineer KNX (m/f/d) Available in one of 2 locations Category Research & Development R&D Engineer (f/m/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development Senior R&D Engineer Softwareentwicklung (m/f/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development (Senior) Research Scientist in Software Systems Engineering (80-100%) Location Baden-Daettwil, Aargau, Switzerland Category Research & Development (Senior) Research Scientist – Industrial Sensing for Electrification (f/m/d) Location Mannheim, Baden-Wurttemberg, Germany Category Research & Development Senior Embedded Platform Engineer (80-100%) Location Zurich, Zurich, Switzerland Category Research & Development R&D Senior Configuration Manager and DevOps Engineer Available in one of 2 locations Category Research & Development (Senior) Scientist (f/m/d) – Automation Technologies (80 – 100%) Location Mannheim, Baden-Wurttemberg, Germany Category Research & Development Senior Computer Vision AI & ML Engineer Location Beersel, Flemish Brabant, Belgium Category Research & Development Development, implementation, and testing of complex FPGA and SoC architecturesDesign of VHDL-based systems and development of verification environmentsExecution of simulations, timing analysis, and hardware validationDevelopment of embedded software for microcontrollersSupport of the hardware design team (schematic and layout reviews, testing, documentation)Maintenance and continuous improvement of existing systemsCollaboration with internal and external stakeholders and close coordination with hardware and software teams.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
     "id": "abb-fpga-engineer-m-f-d-location-minden"
   },
@@ -178,15 +178,5 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
     "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Traveling Field Service Programmer - HVAC Controls & Commissioning",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_posted_at": "17h",
-    "job_description": "• You will use your experience and judgment to plan and accomplish goals, as well as generate innovative solutions by applying creative and effective approaches to complex problems and opportunities.\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• The position requires collaborating with cross-functional teams to ensure solutions meet scalability, security, and compliance standards, while providing technical leadership to align integrations with organizational goals.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/151766/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-traveling-field-service-programmer-hvac-controls-commissioning-chicago"
   }
 ]
