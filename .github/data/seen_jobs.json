@@ -1,6 +1,4 @@
 [
-  "abb-r-d-engineer-location-not-location-specific",
-  "abb-r-d-engineer-location-richmond",
   "abb-r-d-engineer-location-sharkia",
   "abb-r-d-engineer-location-vaesteras",
   "abb-r-d-engineer-location-vittuone",
@@ -4496,6 +4494,7 @@
   "google-software-engineer-iii-rcs-business-messaging-san-jose",
   "google-software-engineer-iii-rcs-video-android-san-jose",
   "google-software-engineer-iii-recommendation-quality-google-play-mountain-view",
+  "google-software-engineer-iii-recommendations-rankings-predictions-discover-ranking-mountain-view",
   "google-software-engineer-iii-search-ads-quality-personalization-mountain-view",
   "google-software-engineer-iii-search-ai-growth-mountain-view",
   "google-software-engineer-iii-search-ai-ml-mountain-view",
@@ -9273,6 +9272,7 @@
   "salesforce-operations-analyst-fy26-q4-4-mexico-mexico-city",
   "salesforce-performance-engineer-california-san-francisco",
   "salesforce-performance-engineer-lmts-california-san-francisco",
+  "salesforce-platform-engineer-cloud-infrastructure-smts-california-redwood-city",
   "salesforce-platform-security-ae-new-york-new-york",
   "salesforce-platform-security-ae-new-york-new-york-city-metro",
   "salesforce-platform-solution-engineer-mulesoft-belgium-brussels",
