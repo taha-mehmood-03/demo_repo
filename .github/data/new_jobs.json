@@ -1,13 +1,13 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineer II, Datastores",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR349661/software-engineer-ii-datastores/",
-    "id": "salesforce-software-engineer-ii-datastores-georgia-atlanta"
+    "employer_name": "BAE Systems",
+    "job_title": "Unmanned Systems Software Developer",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Engineering Manager and Software Engineer, SeniorlocationsBeavercreek, OHposted onPosted 7 Days AgoR0242839 Full Stack Software Engineer, SeniorlocationsLangley AFB, VAposted onPosted 28 Days AgoR0234879 Full Stack Software Engineer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0237850 Computer Vision Software Engineer, SeniorlocationsDayton, OHposted onPosted TodayR0242681 Modern Software Developer, SeniorlocationsArlington, VAposted onPosted YesterdayR0243186 Automation Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0242393.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Unmanned-Systems-Software-Developer_R0243439?q=software+engineering",
+    "id": "bae-systems-unmanned-systems-software-developer-san-diego"
   },
   {
     "employer_name": "10x Genomics",
@@ -25,59 +25,19 @@
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "1w",
-    "job_description": "• 2 years associate degree or 1+ years of technician experience in capital equipment production field.\n• Hands on experience on assembly and/or testing of complex electromechanical/optic systems.\n• Hands on experience using basic hand tools to assemble and disassemble equipment, including screwdrivers, wrenches, torque-wrenches, soldering equipment, wiring tools, etc.\n• Basic trouble shooting skills on electrical/electronic/mechanical/laser/optic system.\n• Strong team collaboration skills, detail-oriented and excellent organization and prioritization skills.\n• Strong communication skills: listening, speaking, writing, and interacting.\n• Must be flexible, forward-thinking, motivated, and have the ability to act independently while balancing a broad range of organizational needs Proficient computer skills using Windows, MS-Office, and other PC based software.\n• Relevant experience in life sciences/laboratory instrumentation production, GMP, GLP, QC, IQ/OQ/PQ, 5S, lean manufacturing, ISO 9001 environment and tools – ERP, Work Order, Batch Record, Arena, Oracle, QMS etc.",
+    "job_description": "• 2 years associate degree or 1+ years of technician experience in capital equipment production field.\n• Electromechanical/Optical alignment experience.\n• Hands on experience on assembly and/or testing of complex electromechanical/optic systems.\n• Hands on experience using basic hand tools to assemble and disassemble equipment, including screwdrivers, wrenches, torque-wrenches, soldering equipment, wiring tools, etc.\n• Basic trouble shooting skills on electrical/electronic/mechanical/laser/optic system.\n• Strong team collaboration skills, detail-oriented and excellent organization and prioritization skills.\n• Strong communication skills: listening, speaking, writing, and interacting.\n• Must be flexible, forward-thinking, motivated, and have the ability to act independently while balancing a broad range of organizational needs Proficient computer skills using Windows, MS-Office, and other PC based software.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841184959",
     "id": "10x-genomics-view-job-production-test-technician-instrument-assembly-pleasanton"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "AI Frameworks Engineer",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• APTM Yield Analysis Senior Engineer / Team Leaderlocations2 Locationsposted onPosted 14 Days AgoJR0284519Product Development Engineer - Scan Diagnosticslocations3 Locationsposted onPosted 15 Days AgoJR0284762Senior IP Development Engineerlocations3 Locationsposted onPosted 21 Days AgoJR0284653Network Security EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0283763Silicon Performance Validation and Characterization InternlocationsUS, Arizona, Phoenixposted onPosted 27 Days AgoJR0284310Yield Engineer On ShiftlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0282008Yield Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 26 Days AgoJR0284489Intel Foundry Yield Development Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0285157AI Frameworks Engineerlocations3 Locationsposted onPosted TodayJR0285206Middleware Development Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0283580Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0279083Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281986Principal Engineer, EmulationlocationsUS, Texas, Austinposted onPosted 6 Days AgoJR0285097Load Balancer Network Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0284296AI Systems and Solutions Engineering ManagerlocationsUS, California, Santa Claraposted onPosted 21 Days AgoJR0284710Network Systems and Solutions Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283130Design Automation Engineer (TFM/EDA)locations4 Locationsposted onPosted 26 Days AgoJR0284459Analytics and AI Solution Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0284301Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 6 Days AgoJR0284880Senior Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 22 Days AgoJR0284688.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Frameworks-Engineer_JR0285206-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-ai-frameworks-engineer-3-locations"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
   },
   {
     "employer_name": "ABB",
@@ -121,16 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Electrical Engineer",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -151,13 +101,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -181,6 +141,36 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Marine Field Service Engineer (Automation)",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
@@ -188,6 +178,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
     "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Propulsion",
+    "job_city": "Location Miramar",
+    "job_state": "Florida",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
+    "id": "abb-field-service-engineer-propulsion-location-miramar"
   },
   {
     "employer_name": "ABB",
@@ -211,13 +211,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Propulsion",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
+    "job_title": "Intern",
+    "job_city": "Location Vega Baja",
+    "job_state": "Puerto Rico",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
-    "id": "abb-field-service-engineer-propulsion-location-miramar"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025687/Intern",
+    "id": "abb-intern-location-vega-baja"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Engineer",
+    "job_city": "Location Vega Baja",
+    "job_state": "Puerto Rico",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037965/Quality-Engineer",
+    "id": "abb-quality-engineer-location-vega-baja"
   },
   {
     "employer_name": "ABB",
@@ -235,7 +245,7 @@
     "job_city": "Location Auckland",
     "job_state": "Auckland",
     "job_posted_at": "1h",
-    "job_description": "• ABB Automation system experience is mandatory.\n• Electrical or Electronic Engineering qualificationSound knowledge of industrial control systems.\n• Experience with fieldbus communication protocols, such as: ProfiBus, ModBusTCP/IP, and ModbusRTU.\n• Experience with OPC SMNPTertiary qualification in Electrical Engineering.\n• Advanced computer skills including MS Office & MS Project, Outlook, AutoCAD.\n• Designing and implementing DCS/PLC control systems, including concept development, configuration, validation, installation, and commissioning in line with ABB’s engineering execution and quality standards.\n• Developing and modifying IEC 61131-based control software, ensuring seamless integration with system architecture and alignment with functional design specifications.\n• Configuring and verifying industrial communication networks (including domain architecture), applying engineering guidelines and performing rigorous verification and validation activities.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014773/Project-Engineer",
     "id": "abb-project-engineer-location-auckland"
   },
@@ -250,13 +260,33 @@
     "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
   },
   {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Java / AI Software Engineer",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• You will build new payment flows end to end, from understanding business requirements to coding and supporting solutions in production.\n• Lead software Engineer - Full Stack Jersey City, NJ, United States TechnologySoftware Engineering Lead Full Stack AI Software Engineer with strong React expertise, experienced in building enterprise AI applications using AI agents, REACT, RAG, APIs, databases, and real-time processing technologies.\n• Oversee the entire Software Development Lifecycle (SDLC), from requirement analysis to deployment, ensuring adherence to architectural standards and best practices.\n• Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Senior Manager of Software Engineering -Front office trading Jersey City, NJ, United States TechnologySoftware Engineering Bring your Senior Manager of Software Engineering experience to lead the Front office Trading execution technology team.\n• Java AWS Lead Software Engineering Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Principal Software Engineer - Java & Cloud Hyderabad, Telangana, India TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Java / AI Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Looking for an experienced Java or Python Engineer with AI / ML experience Software Engineer III - Test Automation Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n• Lead Software Engineer - iOS Engineer New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III - iOS Engineer New York, NY, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Sr Lead Software Engineer- VPC Seattle, WA, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.\n• AI Sr Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer I Tokyo-To, Japan TechnologySoftware Engineering Join Japan Payments Technology team that designs and delivers market-leading technology products in a secure and scalable way to contribute to business growth Lead Software Engineer - Data Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Build and operate scalable, governed, and observable data pipelines and curated datasets powering analytics and AI-enabled experiences.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718650/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-java-ai-software-engineer-jersey-city"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, AI/ML, Ads Data",
-    "job_city": "Los Angeles",
+    "job_title": "Software Engineer, Foundational ML Research",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Foundational ML Research",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/95219437891658438-software-engineer-foundational-ml-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-foundational-ml-research-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Android, Chrome OS",
+    "job_city": "San Jose",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, AI/ML, Ads Data",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/94923443778003654-software-engineer-aiml-ads-data?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-ai-ml-ads-data-los-angeles"
+    "job_description": "software engineering job for the role Software Engineer III, Android, Chrome OS",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/104443971081511622-software-engineer-iii-android-chrome-os?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-android-chrome-os-san-jose"
   }
 ]
