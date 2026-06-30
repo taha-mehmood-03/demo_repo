@@ -21,6 +21,66 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Commissioning Engineer",
     "job_city": "Available in one of 3 locations",
     "job_state": "US",
@@ -28,6 +88,36 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
     "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035580/R-D-Engineer",
+    "id": "abb-r-d-engineer-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -41,6 +131,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Propulsion",
+    "job_city": "Location Miramar",
+    "job_state": "Florida",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
+    "id": "abb-field-service-engineer-propulsion-location-miramar"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Marine Field Service Engineer (Power)",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
@@ -51,13 +151,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
+    "job_title": "Intern",
+    "job_city": "Location Vega Baja",
+    "job_state": "Puerto Rico",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025687/Intern",
+    "id": "abb-intern-location-vega-baja"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Engineer",
+    "job_city": "Location Vega Baja",
+    "job_state": "Puerto Rico",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037965/Quality-Engineer",
+    "id": "abb-quality-engineer-location-vega-baja"
   },
   {
     "employer_name": "ABB",
@@ -75,9 +185,19 @@
     "job_city": "Location Auckland",
     "job_state": "Auckland",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014773/Project-Engineer",
     "id": "abb-project-engineer-location-auckland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer_Omani Talents",
+    "job_city": "Location Al Hamriya",
+    "job_state": "Masqaţ",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
+    "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
   },
   {
     "employer_name": "ABB",
@@ -85,7 +205,7 @@
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• A bachelor’s degree, diploma, or higher academic qualification in Electrical or Electronic EngineeringSeveral years of hands-on experience in commissioning, after-sales technical support, and advanced diagnostics of UPS, PCS, or energy storage solutions are beneficialExperience in commissioning and troubleshooting mission-critical applications such as data centers, high-volume industrial facilities, and critical infrastructure installations would be a plusProficiency in both verbal and written English communication (B2 level or higher) Knowledge of any other language is a welcome assetThe ability to write clear and concise technical documents, reports, and field support proceduresA willingness to engage directly with clients and teams worldwide, with a travel commitment of up to 50% Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Field Service Engineer Location Turgi, Aargau, Switzerland Category Service Field Service Engineer Available in one of 2 locations Category Service Service technician / service engineer (f/m/d) – automation technology Location Frankfurt am Main, Germany Category Service Technical Support Engineer (80-100 %) Available in one of 2 locations Category Service (80 - 100%) Engineering Change Manager Service Location Quartino, Ticino, Switzerland Category Service Service Projects Team leader Location Machelen, Flemish Brabant, Belgium Category Service Power Systems Engineer Available in one of 11 locations Category Service Global Service Manager, Workshops and Field Services - Motion Services Division (Location: Europe) Available in one of 4 locations Category Service.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
     "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
   },
@@ -95,38 +215,18 @@
     "job_city": "Location Minden",
     "job_state": "North Rhine-Westphalia",
     "job_posted_at": "1h",
-    "job_description": "• Completed degree in Electrical Engineering or a comparable field of studyAt least 3+ years of relevant professional experience in hardware development.\n• Good knowledge in FPGA design (AMD/Xilinx, Altera, VHDL)Confident handling of common FPGA development tools (Vivado, ModelSim)Experience in embedded software development (e.\n• , PIC, ATMEGA, STM32, MicroBlaze)Good knowledge in classical hardware development as well as in handling hardware design toolsBasic knowledge in handling bus systems such as Ethernet, PROFIBUS, or similar fieldbus systemsStrong communication and teamwork skills combined with an independent, analytical, and structured working styleEnglish: business-fluent (written and spoken).\n• German: fluent (written and spoken) Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Development, implementation, and testing of complex FPGA and SoC architecturesDesign of VHDL-based systems and development of verification environmentsExecution of simulations, timing analysis, and hardware validationDevelopment of embedded software for microcontrollersSupport of the hardware design team (schematic and layout reviews, testing, documentation)Maintenance and continuous improvement of existing systemsCollaboration with internal and external stakeholders and close coordination with hardware and software teams.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
     "id": "abb-fpga-engineer-m-f-d-location-minden"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Automation, Condition Monitoring & Digital Solutions Engineer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
-    "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Classification Engineer",
-    "job_city": "Location Frosinone",
-    "job_state": "Frosinone",
-    "job_posted_at": "1h",
-    "job_description": "• Providing Export Control (ECCN/ECN) and Customs (HTS/HS tariff code, Preferential/Non Preferential Origin) classification of products, software, and/or technologies as part of new product introduction cycleManaging and updating master data for products, technologies, and software, including product description, and/or supporting customs declarants with product information required for master data management and entriesSupporting relevant teams (Procurement, Order Handling, R&D, Customs, Sales etc…) regarding product classification-related inquiries or issuesReviewing and applying relevant changes in the regulatory framework related to product classificationWhen working in a local Business, the PCE has a functional reporting line to the Local Trade Compliance Officer, and occasionally may be approached by the country trade compliance officer to support the classification of an item on ad hoc basis You have good knowledge or a strong willingness to learn about ELSP products, software, technologies, and classification processes.\n• You have solid skills in MS Office and SAP, and you are well organized, precise, and diligent in data management and documentation.\n• You have good knowledge about customs and export control regulations.\n• You are business-oriented, proactive, flexible, and able to work independently while remaining a strong team player.\n• You are at ease communicating in Italian and English.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Line Product Engineer Location Frosinone, Frosinone, Italy Category Quality & Operational Excellence Quality Specialist Location Frosinone, Frosinone, Italy Category Quality & Operational Excellence Procurement Specialist Available in one of 2 locations Category Quality & Operational Excellence IPU Production Engineering Specialist Location Frosinone, Frosinone, Italy Category Quality & Operational Excellence Production Engineering Specialist - Temporary Location Frosinone, Frosinone, Italy Category Quality & Operational Excellence Process Engineer - Temporary Location Garbagnate Monastero, Lecco, Italy Category Quality & Operational Excellence.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
-    "id": "abb-product-classification-engineer-location-frosinone"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Internship – Building Information Modeling content",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Education: A Master’s degree in Civil Engineering or Architecture.\n• Technical Skills: proficiency in the Microsoft Office Suite.\n• Soft Skills: A proactive mindset with strong interpersonal and communication skills.\n• Good knowledge of Building Information Modeling tools.\n• Languages: Ability to communicate fluently in both Italian and English.\n• Analyze and interpret technical content for electrical products and automation components.\n• Input and structure technical data within the design software.\n• Organize complete product families, including main items and accessories.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037448/Internship-Building-Information-Modeling-content",
-    "id": "abb-internship-building-information-modeling-content-available-in-one-of-2-locations"
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/applications-engineer/33099/97112476448",
+    "id": "arm-applications-engineer-austin"
   }
 ]
