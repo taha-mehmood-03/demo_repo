@@ -1,13 +1,13 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Product Yield & Analytics PYAi Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "18h",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/41575953",
-    "id": "micron-technology-product-yield-analytics-pyai-engineer-boise"
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer II, Datastores",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR349661/software-engineer-ii-datastores/",
+    "id": "salesforce-software-engineer-ii-datastores-georgia-atlanta"
   },
   {
     "employer_name": "10x Genomics",
@@ -30,64 +30,14 @@
     "id": "10x-genomics-view-job-production-test-technician-instrument-assembly-pleasanton"
   },
   {
-    "employer_name": "Workday",
-    "job_title": "DevOps Engineer",
-    "job_city": "USA",
-    "job_state": "CO",
+    "employer_name": "Intel",
+    "job_title": "AI Frameworks Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Sr Software Development Engineer - Core Platform Integrationremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 21 Days AgoJR-0108019Software Development Engineer, DevOps - Lifecycle Platform (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097425Senior or Principal Software Development Engineer (Full Stack) - Agent Factoryremote typeFlexlocations3 Locationsposted onPosted 22 Days AgoJR-0106537Sr Cloud Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 18 Days AgoJR-0097206Principal API Architect, Product Engineering – Agent‑Ready APIs & Dataremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 15 Days AgoJR-0108218(Sr) Site Reliability Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted YesterdayJR-0108251Enterprise Solutions Architect, Engineering Platform Servicesremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 7 Days AgoJR-0108034Principal Cybersecurity Engineerremote typeFlexlocationsUSA.\n• Restonposted onPosted 30+ Days AgoJR-0106961Principal Cloud Engineer - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted 4 Days AgoJR-0108260Principal Analytics Engineerremote typeFlexlocations2 Locationsposted onPosted YesterdayJR-0107883Principal Cybersecurity Engineer - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted 3 Days AgoJR-0106965Senior Cybersecurity Engineerremote typeOnsitelocationsUSA.\n• Restonposted onPosted 25 Days AgoJR-0104087DevOps Engineerremote typeFlexlocationsUSA, CO, Boulderposted onPosted TodayJR-0108209Senior Machine Learning Engineer/Machine Learning Engineer IIIremote typeFlexlocationsUSA, WA, Seattleposted onPosted 4 Days AgoJR-0107996Principal Cloud IAM Engineer (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 14 Days AgoJR-0104997Senior Cloud Engineer - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted 4 Days AgoJR-0108207Senior Site Reliability Engineerremote typeOnsitelocationsUSA.",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/DevOps-Engineer_JR-0108209?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-devops-engineer-usa"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Automation)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
-    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Drives",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
-    "id": "abb-field-service-engineer-drives-location-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
+    "job_description": "• APTM Yield Analysis Senior Engineer / Team Leaderlocations2 Locationsposted onPosted 14 Days AgoJR0284519Product Development Engineer - Scan Diagnosticslocations3 Locationsposted onPosted 15 Days AgoJR0284762Senior IP Development Engineerlocations3 Locationsposted onPosted 21 Days AgoJR0284653Network Security EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0283763Silicon Performance Validation and Characterization InternlocationsUS, Arizona, Phoenixposted onPosted 27 Days AgoJR0284310Yield Engineer On ShiftlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0282008Yield Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 26 Days AgoJR0284489Intel Foundry Yield Development Engineerlocations2 Locationsposted onPosted 6 Days AgoJR0285157AI Frameworks Engineerlocations3 Locationsposted onPosted TodayJR0285206Middleware Development Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0283580Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0279083Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281986Principal Engineer, EmulationlocationsUS, Texas, Austinposted onPosted 6 Days AgoJR0285097Load Balancer Network Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0284296AI Systems and Solutions Engineering ManagerlocationsUS, California, Santa Claraposted onPosted 21 Days AgoJR0284710Network Systems and Solutions Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283130Design Automation Engineer (TFM/EDA)locations4 Locationsposted onPosted 26 Days AgoJR0284459Analytics and AI Solution Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0284301Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 6 Days AgoJR0284880Senior Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 22 Days AgoJR0284688.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Frameworks-Engineer_JR0285206-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-ai-frameworks-engineer-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -108,6 +58,26 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
     "id": "abb-associate-demand-field-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -151,6 +121,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Electrical Engineer",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -171,13 +151,63 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035580/R-D-Engineer",
+    "id": "abb-r-d-engineer-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Automation)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
+    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Drives",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
+    "id": "abb-field-service-engineer-drives-location-houston"
   },
   {
     "employer_name": "ABB",
@@ -205,38 +235,28 @@
     "job_city": "Location Auckland",
     "job_state": "Auckland",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• ABB Automation system experience is mandatory.\n• Electrical or Electronic Engineering qualificationSound knowledge of industrial control systems.\n• Experience with fieldbus communication protocols, such as: ProfiBus, ModBusTCP/IP, and ModbusRTU.\n• Experience with OPC SMNPTertiary qualification in Electrical Engineering.\n• Advanced computer skills including MS Office & MS Project, Outlook, AutoCAD.\n• Designing and implementing DCS/PLC control systems, including concept development, configuration, validation, installation, and commissioning in line with ABB’s engineering execution and quality standards.\n• Developing and modifying IEC 61131-based control software, ensuring seamless integration with system architecture and alignment with functional design specifications.\n• Configuring and verifying industrial communication networks (including domain architecture), applying engineering guidelines and performing rigorous verification and validation activities.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014773/Project-Engineer",
     "id": "abb-project-engineer-location-auckland"
   },
   {
     "employer_name": "ABB",
-    "job_title": "(80 -100%) Service Test Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Field Service Engineer_Omani Talents",
+    "job_city": "Location Al Hamriya",
+    "job_state": "Masqaţ",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
-    "id": "abb-80-100-service-test-engineer-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
+    "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Location Minden",
-    "job_state": "North Rhine-Westphalia",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, AI/ML, Ads Data",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-location-minden"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation, Condition Monitoring & Digital Solutions Engineer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
-    "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
+    "job_description": "software engineering job for the role Software Engineer, AI/ML, Ads Data",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/94923443778003654-software-engineer-aiml-ads-data?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-ai-ml-ads-data-los-angeles"
   }
 ]
