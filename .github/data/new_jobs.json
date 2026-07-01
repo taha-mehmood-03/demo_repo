@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Infrastructure/Service Mesh Software Engineer",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR345252/infrastructureservice-mesh-software-engineer/",
-    "id": "salesforce-infrastructure-service-mesh-software-engineer-california-san-francisco"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -31,13 +21,13 @@
   },
   {
     "employer_name": "Workday",
-    "job_title": "Software Development Engineer",
-    "job_city": "USA.VA.Reston",
-    "job_state": "US",
+    "job_title": "Software Engineer/Software Development Engineer (P3)",
+    "job_city": "USA",
+    "job_state": "GA",
     "job_posted_at": "1d",
-    "job_description": "• Senior Software Engineerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 8 Days AgoJR-0107919Software Engineer - DevOps (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 25 Days AgoJR-0105502Sr.\n• Software Engineer, Security (Pipedream)remote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 25 Days AgoJR-0107129Sr.\n• Software Engineer (Distributed Systems)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted 20 Days AgoJR-0108061Principal, Software Engineer (Distributed Systems)remote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 14 Days AgoJR-0107752Principal, Software Engineer (Distributed Systems)remote typeFlexlocations4 Locationsposted onPosted 6 Days AgoJR-0108184Senior Software Engineer - AI Toolsremote typeFlexlocations2 Locationsposted onPosted 5 Days AgoJR-0108404Analytics Sr Software Engineer (US Federal)remote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0108035Software Development Engineerremote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0108422Senior Software Engineer, DBaas - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted 30+ Days AgoJR-0102749Software Engineer Integration Platform (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 22 Days AgoJR-0105501Principal Software Engineer - Core Platform Integrationremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 21 Days AgoJR-0107839Sr.",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer_JR-0108422?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-usa-va-reston"
+    "job_description": "• Software Engineer/Software Development Engineer (P3)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted TodayJR-0108515Senior Software Engineerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 8 Days AgoJR-0107919Software Engineer - DevOps (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 25 Days AgoJR-0105502Sr.\n• Software Engineer, Security (Pipedream)remote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 25 Days AgoJR-0107129Sr.\n• Software Engineer (Distributed Systems)remote typeFlexlocationsUSA, GA, Atlantaposted onPosted TodayJR-0108061Principal, Software Engineer (Distributed Systems)remote typeFlexlocationsUSA, CA, Pleasantonposted onPosted TodayJR-0107752Principal, Software Engineer (Distributed Systems)remote typeFlexlocations4 Locationsposted onPosted 6 Days AgoJR-0108184Senior Software Engineer - AI Toolsremote typeFlexlocations2 Locationsposted onPosted 5 Days AgoJR-0108404Analytics Sr Software Engineer (US Federal)remote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0108035Software Development Engineerremote typeFlexlocationsUSA.\n• Restonposted onPosted TodayJR-0108422Senior Software Engineer, DBaas - US Federalremote typeFlexlocationsUSA.\n• Restonposted onPosted 30+ Days AgoJR-0102749Software Engineer Integration Platform (US Federal)remote typeOnsitelocationsUSA.\n• Restonposted onPosted 22 Days AgoJR-0105501Principal Software Engineer - Core Platform Integrationremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 21 Days AgoJR-0107839Sr.",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Engineer-Software-Development-Engineer--P3-_JR-0108515-2?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-software-engineer-software-development-engineer-p3-usa"
   },
   {
     "employer_name": "ABB",
@@ -71,6 +61,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038997/R-D-Engineer",
+    "id": "abb-r-d-engineer-location-memphis"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Manufacturing Process Engineer",
     "job_city": "Location Senatobia",
     "job_state": "Mississippi",
@@ -78,116 +78,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
     "id": "abb-manufacturing-process-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Production Engineering Technician - 3rd shift",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036099/Production-Engineering-Technician-3rd-shift",
-    "id": "abb-production-engineering-technician-3rd-shift-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Propulsion",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
-    "id": "abb-field-service-engineer-propulsion-location-miramar"
   },
   {
     "employer_name": "ABB",
@@ -248,5 +138,25 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
     "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Classification Engineer",
+    "job_city": "Location Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
+    "id": "abb-product-classification-engineer-location-frosinone"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Supplemental benefits – 100% employee paid (Accident insurance, hospital indemnity, critical illness, pet insuranceParental Leave – up to 6 weeksEmployee Assistance ProgramHealth Advocate support resources for mental/behavioral health, general health navigation and virtual health, and infertility/adoptionEmployee discount program BS degree in Computer Engineering, Electrical Engineering, or related engineering field required.\n• 2+ years of experience in Software Engineering.\n• Sound knowledge of the C++, C# or Java programming languages is needed.\n• Also experience with Visual Studio and Source Control (Azure DevOPS or Git) is required.\n• Experience with DCOM, OPC, WinDbg, and InstallShield is preferred.\n• A collaborative, solution focused approach and strong written and spoken communication skills.\n• Choice between two medical plan options: A PPO plan called the Copay Plan OR a High Deductible Health Plan (with a Health Savings Account) called the High Deductible Plan.\n• Choice between two dental plan options: Core and Core PlusVision benefitCompany paid life insurance (2X base pay)Company paid AD&D (1X base pay)Voluntary life and AD&D – 100% employee paid up to maximumsShort Term Disability – up to 26 weeks – Company paidLong Term Disability – 60% of pay – Company paid.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
   }
 ]
