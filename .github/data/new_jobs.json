@@ -20,6 +20,16 @@
     "id": "10x-genomics-view-job-production-test-technician-instrument-assembly-pleasanton"
   },
   {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, GPU Design Automation",
+    "job_city": "5 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Software Engineer, DPU - NetworkinglocationsUS, MA, Westfordposted onPosted 30+ Days AgoJR2017846Senior Software Engineer, AI Resiliencylocations2 Locationsposted onPosted 30+ Days AgoJR2018027Principal Software Engineer - Compute Infrastructurelocations2 Locationsposted onPosted 30+ Days AgoJR2015865Senior System Software Engineer - Performancelocations6 Locationsposted onPosted 30+ Days AgoJR2018642Senior Software Engineer, AI Networkinglocations2 Locationsposted onPosted 30+ Days AgoJR2018812Senior System Software Engineer, NvScilocations2 Locationsposted onPosted 30 Days AgoJR2018688Senior Software Engineer, Agentic Systemslocations5 Locationsposted onPosted 10 Days AgoJR2018875GPU Simulation System Software EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2018237Manager, Software Engineering - Cumulus LinuxlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2018585Senior Software Engineer, CUTLASS Platform locations5 Locationsposted onPosted 30+ Days AgoJR2018985Senior Software Engineer, CUTLASS Performancelocations5 Locationsposted onPosted 30+ Days AgoJR2018987Senior Software Engineer, CUTLASS Kernels locations5 Locationsposted onPosted 30+ Days AgoJR2018988System Software Engineer - CUDA ChipslocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR2020020Senior Software Engineer - Autonomous DrivinglocationsUS, CA, Santa Claraposted onPosted 6 Days AgoJR2019388Senior Financial Analyst - Software EngineeringlocationsUS, CA, Santa Claraposted onPosted 6 Days AgoJR2020287System Software Engineer - Performance LablocationsUS, CA, Santa Claraposted onPosted 3 Days AgoJR2019929Principal Systems Software Engineer, LPUlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2020546Software Engineer, GPU Design Automationlocations5 Locationsposted onPosted TodayJR2017504Senior Software Engineer - Agentic AIlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR1989138Principal Software Engineer – CSP EngagementslocationsUS, CA, Santa Claraposted onPosted 7 Days AgoJR1998405.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--GPU-Design-Automation_JR2017504?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-gpu-design-automation-5-locations"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "SAP Developer",
     "job_city": "Available in one of 4 locations",
@@ -168,55 +178,5 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00038305/R-D-Engineer",
     "id": "abb-r-d-engineer-location-sharkia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Colab",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Colab",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/120865497217409734-software-engineer-colab?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-colab-kirkland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, AI/ML GenAI, Geo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, AI/ML GenAI, Geo",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/88900495174705862-software-engineer-aiml-genai-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-ai-ml-genai-geo-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Pixel Performance, SoC",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Pixel Performance, SoC",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133936491448410822-software-engineer-iii-pixel-performance-soc?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-iii-pixel-performance-soc-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "SDE II, Neuron Infra Services",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "8h",
-    "job_description": "software engineering job for the role SDE II, Neuron Infra Services",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10464473/sde-ii-neuron-infra-services",
-    "id": "amazon-sde-ii-neuron-infra-services-cupertino"
   }
 ]
