@@ -81,16 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Software Developer, ABB Robotics",
-    "job_city": "Location Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
-    "id": "abb-software-developer-abb-robotics-location-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Field Service Engineer_Omani Talents",
     "job_city": "Location Al Hamriya",
     "job_state": "Masqaţ",
@@ -98,6 +88,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
     "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Developer, ABB Robotics",
+    "job_city": "Location Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
+    "id": "abb-software-developer-abb-robotics-location-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -145,7 +145,7 @@
     "job_city": "Location Cleveland",
     "job_state": "Ohio",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Supplemental benefits – 100% employee paid (Accident insurance, hospital indemnity, critical illness, pet insuranceParental Leave – up to 6 weeksEmployee Assistance ProgramHealth Advocate support resources for mental/behavioral health, general health navigation and virtual health, and infertility/adoptionEmployee discount program BS degree in Computer Engineering, Electrical Engineering, or related engineering field required.\n• 2+ years of experience in Software Engineering.\n• Sound knowledge of the C++, C# or Java programming languages is needed.\n• Also experience with Visual Studio and Source Control (Azure DevOPS or Git) is required.\n• Experience with DCOM, OPC, WinDbg, and InstallShield is preferred.\n• A collaborative, solution focused approach and strong written and spoken communication skills.\n• Choice between two medical plan options: A PPO plan called the Copay Plan OR a High Deductible Health Plan (with a Health Savings Account) called the High Deductible Plan.\n• Choice between two dental plan options: Core and Core PlusVision benefitCompany paid life insurance (2X base pay)Company paid AD&D (1X base pay)Voluntary life and AD&D – 100% employee paid up to maximumsShort Term Disability – up to 26 weeks – Company paidLong Term Disability – 60% of pay – Company paid.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
     "id": "abb-r-d-associate-engineer-location-cleveland"
   },
@@ -155,7 +155,7 @@
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Internship (m/f/d) Industrial Optimization Location Mannheim, Baden-Wurttemberg, Germany Category Administration & Support Internship (m/f/d) - Highly Dynamic Electromagnetic Actuators Location Mannheim, Baden-Wurttemberg, Germany Category Administration & Support Internship (m/f/d) - AI-Assisted Multibody Dynamic Simulation Location Mannheim, Baden-Wurttemberg, Germany Category Administration & Support Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms Location Mannheim, Baden-Wurttemberg, Germany Category Administration & Support Alternance - Contrôle de Gestion Industriel F/H Location Chassieu, Rhone, France Category Administration & Support Alternant - Analyste Fonctionnel SAP et Support BI F/H - Septembre 2026 Location Beynost, Ain, France Category Administration & Support Alternance - Achats F/H - Septembre 2026 Location Marseille, Bouches-du-Rhone, France Category Administration & Support Internship - strategischer Einkauf (80-100%) Location Schaffhausen, Schaffhausen, Switzerland Category Administration & Support One-Year Internship (m/f/d) - Fachoberschule Location Frankfurt am Main, Germany Category Administration & Support Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Education: A Master’s degree in Civil Engineering or Architecture.\n• Technical Skills: proficiency in the Microsoft Office Suite.\n• Soft Skills: A proactive mindset with strong interpersonal and communication skills.\n• Good knowledge of Building Information Modeling tools.\n• Languages: Ability to communicate fluently in both Italian and English.\n• Analyze and interpret technical content for electrical products and automation components.\n• Input and structure technical data within the design software.\n• Organize complete product families, including main items and accessories.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037448/Internship-Building-Information-Modeling-content",
     "id": "abb-internship-building-information-modeling-content-available-in-one-of-2-locations"
   },
@@ -165,8 +165,38 @@
     "job_city": "Location Sharkia",
     "job_state": "Sharkia",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• You have a degree in Mechanical Engineering, preferably in Mechanical Design or Mechatronics.\n• You demonstrate knowledge of sheet metal and plastic manufacturing processes and have 4–6 years of experience in mechanical design.\n• You possess strong knowledge of CAD (SolidWorks, Creo), CAE (ANSYS), and PLM systems (preferably Windchill).\n• , mechanics, electronics, thermal, software), from building concepts, gathering requirements to designing, implementing, integrating, testing, technology transfer or maintenance, and operations.\n• Understanding and applying applicable processes, standards, guidelines, and requirements, including architectural and design constraints.\n• You enjoy working in mechanical design, especially in the field of sheet metal and plastic designYou are passionate about solving complex technical problems and are able to communicate effectively.\n• You are at ease communicating in both Arabic and English Working as an independent and reliable contributor in R&D projects with limited supervision.\n• Performing various tasks in the assigned area (e.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00038305/R-D-Engineer",
     "id": "abb-r-d-engineer-location-sharkia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Design, development, and manufacturing implementation of engineering programs that meet business standards and program / product requirements, including functional, cost, reliability, manufacturability, and safety requirements.\n• Understanding and applying relevant processes, standards, guidelines, and requirements, including architectural and design constraints.\n• Contributing to the continuous improvement of the chapter, including to the improvement or development of new capabilities, skills, technical knowledge, performance, and/or culture.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action BS Mechanical Engineering or similar educational background2+ years of experience in R&D or a related fieldYou have experience in mechanical design (including 3D modeling and 2D drawing creation using PTC Creo or similar tools) and engineering analysisAble to travel domestically & internationally on an occasional basisYou have valid US work authorization and must not require sponsorship for an employment visa by ABB at any time in the future R&D Engineer - Panelboards Location Bloomfield, Connecticut, United States of America Category Research & Development OEM R&D Senior Engineer Location Bloomfield, Connecticut, United States of America Category Research & Development Senior Power Electronics Engineer Location Richmond, Virginia, United States of America Category Research & Development R&D PMO Coordinator Location Saint-Jean-sur-Richelieu, Quebec, Canada Category Research & Development R&D Associate Electrical Test Engineer - 2nd shift Location Bloomfield, Connecticut, United States of America Category Research & Development R&D Mechanical Engineer - Product Support Location Saint-Jean-sur-Richelieu, Quebec, Canada Category Research & Development.\n• Execute designs with solid modeling software (PTC Creo / Windchill) to create models, assemblies, detailed drawings, and BOMs for designs which may include plastic, stamped metal, and electrically conductive parts.\n• Driving the achievement of assigned targets (quality, time, scope, cost) and raising and addressing risks.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer KNX (m/f/d)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Enhanced programming skills in C/C++ for embedded systems, with several years of experience in low-level development and hardware interactionProficiency in embedded development tools (e.\n• , cross-compilers, debuggers, IDEs such as VS Code, and build systems like DevOps)Experience with version control systems, particularly Git, including branching, merging, and collaborative workflowTeam-oriented mindset with experience working in agile development environments and cross-functional teamsGood problem-solving abilities and communication skills, with an organized approach to software developmentBachelor’s or master's degree in electrical engineering or related fieldFluent in German and conversational in English Contributing to innovation projects, ensuring quality, time, and performance targets are metBuilding and maintaining expertise in home and building automation, continuously integrating new technologies, tools, and methodologies into your workEncouraging problem-solving and innovation by developing ideas, forming hypotheses, and validating them through structured approachesCreating and maintaining high-quality technical documentation (e.\n• , designs, code, and findings) to ensure long-term maintainability and knowledge sharingSupporting intellectual property (IP) creation, identifying patent opportunities and contributing to IP strategy within your area of expertise Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Senior R&D Engineer Softwareentwicklung (m/f/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development Senior Software Engineer Location Plzen, Plzeňský kraj, Czechia Category Research & Development FPGA Software Engineer R&D – Power Electronics/Traction Applications Location Untersiggenthal, Aargau, Switzerland Category Research & Development R&D Associate Engineer Location Quartino, Ticino, Switzerland Category Research & Development FPGA Engineer (m/f/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development R&D Senior Engineer Firmware (80 -100%) Location Quartino, Ticino, Switzerland Category Research & Development R&D Associate Engineer Location Vittuone, Milano, Italy Category Research & Development R&D Engineer (f/m/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development (Senior) Research Scientist (f/m/d) – Industrial Sensing for Electrification (80-100%) Location Mannheim, Baden-Wurttemberg, Germany Category Research & Development.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038102/R-D-Engineer-KNX-m-f-d",
+    "id": "abb-r-d-engineer-knx-m-f-d-available-in-one-of-2-locations"
   }
 ]
