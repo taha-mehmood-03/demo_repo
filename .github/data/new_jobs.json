@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern Conversion: Software Developer",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role 2026 Intern Conversion: Software Developer",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=51494&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-conversion-software-developer-san-jose"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -30,76 +20,6 @@
     "id": "10x-genomics-view-job-production-test-technician-instrument-assembly-pleasanton"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Mfg Systems Software Development Engineer",
-    "job_city": "US",
-    "job_state": "Oregon",
-    "job_posted_at": "1d",
-    "job_description": "• AI Software Engineering Internlocations2 Locationsposted onPosted 7 Days AgoJR0282639AI Software Engineering InternlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0282641Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoSpotlight JobJR0283729Software Engineering ManagerlocationsUS, California, Santa Claraposted onPosted 21 Days AgoJR0284770EDA Tools Software Engineerlocations3 Locationsposted onPosted 2 Days AgoJR0280762Software Engineer - Agent Harnesslocations4 Locationsposted onPosted TodayJR0284869LTD Frame Automation Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0284284Senior EDA Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 24 Days AgoJR0284496Quantum Error Correction Software Engineerlocations2 Locationsposted onPosted 16 Days AgoJR0284777Software Engineer - Compute Infrastructure and Securitylocations2 Locationsposted onPosted 7 Days AgoJR0285006Software Research Engineer/ScientistlocationsUS, Oregon, Hillsboroposted onPosted 16 Days AgoJR0284820GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0284406Mfg Systems Software Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0284837Software Development Engineer - Intel Contract Employeelocations3 Locationsposted onPosted 6 Days AgoJR0284449Operations Research Engineerlocations3 Locationsposted onPosted 23 Days AgoJR0284429Automation Software Development Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277568Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0280029Senior AI Software Architect - Runtimelocations3 Locationsposted onPosted 30+ Days AgoJR0283399Principal Engineer, AI Software Solutionslocations2 Locationsposted onPosted 7 Days AgoJR0285164Principal Engineer – Cloud and Datacenter Softwarelocations3 Locationsposted onPosted 30+ Days AgoJR0281966.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Development-Engineer_JR0284837?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-mfg-systems-software-development-engineer-us"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Co-Packaged Optics Packaging Process Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Sr Staff SoC Verification EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601623Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601637Principal SoC VerificationlocationsSan Diego, CAposted onPosted 30+ Days Ago2601617Senior SoC Design Verification ManagerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601579Staff SoC Verification EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601636Distinguished Engineer - SoC VerificationlocationsSan Diego, CAposted onPosted 30+ Days Ago2601614Senior Analog Layout ManagerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601648Senior Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601545Sr Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601499Sr Staff Analog Modeling/Verification EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601544Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601537Principal Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601450Sr Principal Analog Mixed Signal Design EngineerlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601449Senior Director of SoC Design VerificationlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601017Senior Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601116Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Staff Design Verification Engineer – PCIE/CXL Subsystem COElocationsSanta Clara, CAposted onPosted Today2602008Principal Product Engineer - AI Cloud & Data Center.\n• Platform Transformation LeadlocationsSanta Clara, CAposted onPosted Today2602655Head of Physical SecuritylocationsSanta Clara, CAposted onPosted Today2602733Co-Packaged Optics Packaging Process Development EngineerlocationsSanta Clara, CAposted onPosted Today2602769.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Co-Packaged-Optics-Packaging-Process-Development-Engineer_2602769?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-co-packaged-optics-packaging-process-development-engineer-santa-clara"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Robotics Software Engineer - Robot Simulation and Benchmarking",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Systems Software Engineer - Autonomous Vehicles PlatformlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2018686Senior Software Engineer, DGX Cloud AI Infrastructurelocations5 Locationsposted onPosted 28 Days AgoJR2019246Senior Systems Software Engineer, Semiconductor Systems InspectionlocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR2019816Senior Infrastructure Software Engineer, Deep Learning LibrarieslocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2020105Senior Software Engineer – Autonomous Vehicle Replay SystemslocationsUS, CA, Santa Claraposted onPosted 6 Days AgoJR2019240Robotics Software Engineer - Robot Simulation and BenchmarkinglocationsUS, CA, Santa Claraposted onPosted TodayJR2020637Senior Software Engineer, At Scale Compute Analysislocations5 Locationsposted onPosted 4 Days AgoJR1999730Senior C++ Software Engineer - Chip Design Toolslocations4 Locationsposted onPosted 30+ Days AgoJR2009389Senior Software Engineer, Deep Learning - MLIR TRTlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2009329Senior System Software Engineer, Performance - CUDA DriverlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2009423Senior Systems Software Engineer - Rust, Go, C++locations2 Locationsposted onPosted 13 Days AgoJR2011410Senior Full-Stack Software Engineer - VLSI Toolslocations4 Locationsposted onPosted 24 Days AgoJR2012368Senior System Software Engineer - Neural Graphics SDKslocations2 Locationsposted onPosted 30+ Days AgoJR2012086Senior System Software Engineer - Neural Graphics PerformancelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2012085Senior Applications Software Engineer, Planning and ControllocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2012603Senior DGX Cloud AI Infrastructure Software Engineerlocations5 Locationsposted onPosted 30+ Days AgoJR2012361Senior Software Engineer, Deep Learning Inference - TensorRTlocationsUS, CA, Santa Claraposted onPosted 23 Days AgoJR2013020Senior System Software Engineer, GPU Performance Profilinglocations2 Locationsposted onPosted 30+ Days AgoJR2013302Senior System Software Engineer - Data Platform Observabilitylocations3 Locationsposted onPosted 30+ Days AgoJR2012588Principal Software Engineer, Rack-Scale System Software — CSP Engagementslocations4 Locationsposted onPosted 6 Days AgoJR2020316.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-robotics-software-engineer-robot-simulation-and-benchmarking-us"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "SAP Developer",
     "job_city": "Available in one of 4 locations",
@@ -111,43 +31,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Production Engineering Technician - 3rd shift",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036099/Production-Engineering-Technician-3rd-shift",
-    "id": "abb-production-engineering-technician-3rd-shift-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
   },
   {
     "employer_name": "ABB",
@@ -171,53 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035580/R-D-Engineer",
-    "id": "abb-r-d-engineer-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
   },
   {
     "employer_name": "ABB",
@@ -228,16 +88,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
     "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Propulsion",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
-    "id": "abb-field-service-engineer-propulsion-location-miramar"
   },
   {
     "employer_name": "ABB",
@@ -261,23 +111,113 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Intern",
-    "job_city": "Location Vega Baja",
-    "job_state": "Puerto Rico",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025687/Intern",
-    "id": "abb-intern-location-vega-baja"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Engineer",
-    "job_city": "Location Vega Baja",
-    "job_state": "Puerto Rico",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037965/Quality-Engineer",
-    "id": "abb-quality-engineer-location-vega-baja"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Engineering Technician - 3rd shift",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036099/Production-Engineering-Technician-3rd-shift",
+    "id": "abb-production-engineering-technician-3rd-shift-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035580/R-D-Engineer",
+    "id": "abb-r-d-engineer-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Propulsion",
+    "job_city": "Location Miramar",
+    "job_state": "Florida",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
+    "id": "abb-field-service-engineer-propulsion-location-miramar"
   },
   {
     "employer_name": "ABB",
@@ -288,16 +228,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039532/FPGA-Software-Engineer-R-D-Power-Electronics-Traction-Applications",
     "id": "abb-fpga-software-engineer-r-d-power-electronics-traction-applications-location-untersiggenthal"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Calibration Software Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
-    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
   },
   {
     "employer_name": "ABB",
@@ -325,18 +255,8 @@
     "job_city": "Location Minden",
     "job_state": "North Rhine-Westphalia",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
     "id": "abb-fpga-engineer-m-f-d-location-minden"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Front-End Engineer, AWS Holmes, AWS Holmes",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "22h",
-    "job_description": "software engineering job for the role Front-End Engineer, AWS Holmes, AWS Holmes",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10465232/front-end-engineer-aws-holmes-aws-holmes",
-    "id": "amazon-front-end-engineer-aws-holmes-aws-holmes-austin"
   }
 ]
