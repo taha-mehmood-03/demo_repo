@@ -21,63 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "SAP Developer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
-    "id": "abb-sap-developer-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
   },
   {
     "employer_name": "ABB",
@@ -121,16 +71,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026589/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Electrical Engineer",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -151,13 +91,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
-    "job_city": "Available in one of 2 locations",
+    "job_title": "SAP Developer",
+    "job_city": "Available in one of 4 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
+    "id": "abb-sap-developer-available-in-one-of-4-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -181,6 +141,46 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Marine Field Service Engineer (Automation)",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
@@ -188,26 +188,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
     "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Drives",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
-    "id": "abb-field-service-engineer-drives-location-houston"
   },
   {
     "employer_name": "ABB",
@@ -221,6 +201,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Marine Service Technician",
     "job_city": "Location Miramar",
     "job_state": "Florida",
@@ -231,6 +221,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Drives",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
+    "id": "abb-field-service-engineer-drives-location-houston"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "FPGA Software Engineer R&D – Power Electronics/Traction Applications",
     "job_city": "Location Untersiggenthal",
     "job_state": "Aargau",
@@ -238,16 +238,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039532/FPGA-Software-Engineer-R-D-Power-Electronics-Traction-Applications",
     "id": "abb-fpga-software-engineer-r-d-power-electronics-traction-applications-location-untersiggenthal"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer_Omani Talents",
-    "job_city": "Location Al Hamriya",
-    "job_state": "Masqaţ",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034478/Field-Service-Engineer-Omani-Talents",
-    "id": "abb-field-service-engineer_omani-talents-location-al-hamriya"
   },
   {
     "employer_name": "ABB",
@@ -278,5 +268,15 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
     "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Owner, CQP driven sales process development",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032493/Product-Owner-CQP-driven-sales-process-development",
+    "id": "abb-product-owner-cqp-driven-sales-process-development-available-in-one-of-3-locations"
   }
 ]
