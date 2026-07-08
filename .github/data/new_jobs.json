@@ -275,7 +275,7 @@
     "job_city": "Location Vaesteras",
     "job_state": "Vastmanland County",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Bachelor's or Master's degree in Computer Science, Electrical Engineering, Robotics, or a related field.\n• Experience with ROS and/or ROS in embedded systems.\n• Strong problem-solving skills and attention to detail.\n• Excellent communication skills.\n• Experience in agile software development methodologies.\n• Maintaining recognized expertise in a specific area by integrating the latest developments in technologies, tools, and methodologies into your work.\n• Finding new ways of solving problems by following your ideas, creating hypotheses, and defining ways to validate them.\n• Documenting work results (like findings, designs, or software), allowing others to maintain and improve them.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
     "id": "abb-software-developer-abb-robotics-location-vaesteras"
   },
@@ -288,5 +288,35 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
     "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Engineering Productivity, Google Cloud Platforms",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/135003118558421702-software-engineer-iii-engineering-productivity-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-iii-engineering-productivity-google-cloud-platforms-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, AI and Infrastructure",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, AI and Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100137036026913478-software-engineer-iii-infrastructure-ai-and-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-infrastructure-ai-and-infrastructure-seattle"
   }
 ]
