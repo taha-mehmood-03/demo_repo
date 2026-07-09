@@ -11,43 +11,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "SAP Developer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Location Phoenix",
+    "job_state": "Arizona",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
-    "id": "abb-sap-developer-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commissioning Engineer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
-    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Publications Technician",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
-    "id": "abb-technical-publications-technician-location-memphis"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-location-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -61,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
+    "job_title": "Commissioning Engineer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
+    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -111,6 +81,36 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "SAP Developer",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
+    "id": "abb-sap-developer-available-in-one-of-4-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Publications Technician",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
+    "id": "abb-technical-publications-technician-location-memphis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Manufacturing Engineer",
     "job_city": "Location",
     "job_state": "United States of America",
@@ -121,13 +121,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
+    "job_title": "Application Engineering Intern - Fall",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
+    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -138,6 +138,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
     "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
   },
   {
     "employer_name": "ABB",
@@ -221,26 +231,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Field Service Engineer - Propulsion",
     "job_city": "Location Miramar",
     "job_state": "Florida",
@@ -288,5 +278,35 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
     "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Developer, ABB Robotics",
+    "job_city": "Location Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
+    "id": "abb-software-developer-abb-robotics-location-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Location Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation, Condition Monitoring & Digital Solutions Engineer",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
+    "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
   }
 ]
