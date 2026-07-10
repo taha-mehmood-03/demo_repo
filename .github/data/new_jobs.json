@@ -1,13 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Hardware Compliance Lab Technician Apprentice",
-    "job_city": "shipROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Hardware Compliance Lab Technician Apprentice",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=125359&source=WEB_Search_NA",
-    "id": "ibm-hardware-compliance-lab-technician-apprentice-shiprochester"
+    "employer_name": "Micron Technology",
+    "job_title": "SSD Hardware Validation & Characterization Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "20h",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/42462063",
+    "id": "micron-technology-ssd-hardware-validation-characterization-engineer-san-jose"
   },
   {
     "employer_name": "10x Genomics",
@@ -20,124 +20,34 @@
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Java Full Stack Engineer",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineerlocations2 Locationsposted onPosted 3 Days Ago41456Senior Software Engineerlocations2 Locationsposted onPosted 30+ Days Ago33026Junior Software EngineerlocationsUS - LA, New Orleansposted onPosted 30+ Days Ago37454Senior Software Engineerlocations2 Locationsposted onPosted 3 Days Ago41458Lead AI Software EngineerlocationsUS - Remote (Any location)posted onPosted 14 Days Ago40061AI/ML Software EngineerlocationsUS - Remote (Any location)posted onPosted 9 Days Ago41132Computer ProgrammerlocationsUS - LA, New Orleansposted onPosted 30+ Days Ago37611Site Reliability Engineerlocations3 Locationsposted onPosted 23 Days Ago40619Full Stack EngineerlocationsUS - MD, Bethesdaposted onPosted 15 Days Ago40373Software Developer - Senior ConsultantlocationsUS - VA, McLeanposted onPosted 15 Days Ago41107Software Developer - Managing ConsultantlocationsUS - VA, McLeanposted onPosted 15 Days Ago41106Java Full Stack EngineerlocationsUS - MD, Bethesdaposted onPosted Today41135SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30 Days Ago35849Data Infrastructure EngineerlocationsUS - Remote (Any location)posted onPosted 11 Days Ago37773Sr.\n• Software DeveloperlocationsUS - DC, Washingtonposted onPosted 23 Days Ago40303Cloud Infrastructure & Automation EngineerlocationsUS - Remote (Any location)posted onPosted 15 Days Ago37772AWS Cloud Data EngineerlocationsUS - TX, San Antonioposted onPosted 14 Days Ago40626AWS Cloud Security EngineerlocationsUS - VA, McLeanposted onPosted 14 Days Ago40618AWS Cloud Network EngineerlocationsUS - VA, McLeanposted onPosted 14 Days Ago40617Data Engineer (Senior Consultant)locations2 Locationsposted onPosted 23 Days Ago40469.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Java-Full-Stack-Engineer_41135?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-java-full-stack-engineer-us-md"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "GenAI Software Development Engineer",
+    "employer_name": "Intel",
+    "job_title": "Electrical Validation Technician",
     "job_city": "US",
-    "job_state": "CA",
+    "job_state": "Oregon",
     "job_posted_at": "1d",
-    "job_description": "• Knowledge graph indexing via LightRAG + Neo4jDeveloper Experience & User Interfaces: Build intuitive web applications and developer experiences enabling engineers to interact with AI agents, knowledge systems, validation workflows, observability dashboards, and operational tooling.\n• Experience building modern web applications using React, Next.\n• AI Services: Design and implement scalable, low-latency AI services powering metadata generation, feature extraction, and knowledge retrieval — ensuring agents have accurate, grounded context at query timeLLM-Powered Tooling: Build LLM-powered developer tooling — automated test plan generation, test case quality auditing, AI-driven failure triage, autonomous knowledge curation after every test run, and intelligent report generationAgentic AI Deployment: Develop and deploy agentic AI solutions — autonomous agents, multi-agent orchestration frameworks, and LLM-powered workflows — that transform validation operations across hardware teamsStakeholder Collaboration: Work closely with validation engineers, hardware teams, and engineering peers to translate business and domain requirements into flexible, well-designed software solutionsSecurity & Compliance: Ensure AI/ML systems comply with security standards and best practices, addressing data privacy and protection concerns across all LLM integrations, RAG pipelines, and credential-handling systemsEnd-to-End Ownership: Own features end-to-end — from project estimation and architecture review through coding, deployment, and post-launch measurementOperational Excellence: Build resilient systems with strong observability.\n• Quality directly affects system reliabilityOnboarding: Collaborate with validation engineers to translate domain knowledge into agent skills and onboard new product teams onto the platform Experience: software development experience, with a strong portfolio of production systemsAI-Native Development: Genuine passion for building AI-native software — you follow the field, have shipped real LLM-powered systems, and care about getting the details right (grounding, evaluation, failure modes, not just prompts)RAG Systems: Hands-on experience building RAG pipelines — embedding models, vector databases, chunking strategies, retrieval evaluation, hybrid search, and rerankingLLM Engineering: Production experience with LLM tool use, multi-agent orchestration, prompt engineering, context management, and hallucination mitigationCore Skills: Strong proficiency in one or more modern programming languages such as Python, TypeScript/Node.\n• Python experience is preferred due to the AI/ML ecosystemEngineering excellence: Async programming, API design, distributed systems, clean code practices.\n• Experience designing for reliability in automated/unattended environments — crash recovery, audit trails, state management, observabilityCloud Infrastructure: Experience with AWS, Azure, or GCP — infrastructure provisioning, managed services, networking, and deploying production workloads at scaleAI Tooling: Active use of AI coding assistants and LLM-powered developer tools (Claude Code, GitHub Copilot, Cursor, etc.\n• Experience with the Model Context Protocol (MCP) or agentic platforms (Claude Code, LangGraph, CrewAI, AutoGen)Familiarity with knowledge graph systems (Neo4j, LightRAG) or graph-augmented RAGBackground in the semiconductor, datacenter, or networking industry — high-level understanding of how hardware validation or firmware development worksExperience with CI/CD systems and automated test infrastructureExposure to Slack API, GitHub API, or Atlassian REST APIsData Engineering & Analytics: Experience with data pipeline design, ETL workflows, data warehousing, or analytics platforms is a plus Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/87927/login",
-    "id": "amd-genai-software-development-engineer-us"
+    "job_description": "• Senior AI Algorithm Engineer in oneDNNlocations2 Locationsposted onPosted 30+ Days AgoJR0283500Firmware HW Integration Validation LeadlocationsUS, Oregon, Hillsboroposted onPosted 23 Days AgoJR0282400Ethernet Product Managerlocations2 Locationsposted onPosted 30+ Days AgoJR0284300eCOTS Solution Architectlocations6 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0284220ASIC and Custom Silicon Sales Account Manager - Americas regionlocationsUS, California, Santa Claraposted onPosted YesterdayJR0285481ASIC and Custom Silicon Sr.\n• Sales Account Manager - Americas regionlocationsUS, California, Santa Claraposted onPosted YesterdayJR0285478Principal Engineer: XeSS and Neural GraphicslocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0283342Systems and Hardware Enabling EngineerlocationsUS, Oregon, Hillsboroposted onPosted 9 Days AgoJR0285322Network Platform Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0284608Image Processing Engineer (C++/Linux)locationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0282835Hardware Platform Applications Engineer - Military & Aerospacelocations4 Locationsposted onPosted 21 Days AgoSpotlight JobJR0284700SAP MM/PP Business Systems Analystlocations4 Locationsposted onPosted 10 Days AgoJR0284864Electrical Validation TechnicianlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0285497TD Media and Collaterals Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0285359Packaging Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0285601Module Development Engineer - RF TestlocationsUS, Arizona, Phoenixposted onPosted 22 Days AgoJR0284605Senior Customer Technical Enablement and Debug Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283906Network Security EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0283763Senior Foundry Device EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0280822Foundry Customer Device Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0282892.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Electrical-Validation-Technician_JR0285497?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-electrical-validation-technician-us"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Hardware Electrical Validation Engineer",
+    "job_city": "US",
+    "job_state": "Oregon",
+    "job_posted_at": "1d",
+    "job_description": "• Product Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0284027APTM Yield Analysis Senior Engineer / Team Leaderlocations2 Locationsposted onPosted 24 Days AgoJR0284519Product Development Engineer - Scan Diagnosticslocations3 Locationsposted onPosted 25 Days AgoJR0284762Package Failure Analysis EngineerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0285288Package Failure Analysis EngineerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0285289Yield Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0284489Intel Foundry Yield Development Engineerlocations2 Locationsposted onPosted 16 Days AgoJR0285157Middleware Development Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0283580Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0279083Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281986Principal Engineer, EmulationlocationsUS, Texas, Austinposted onPosted 16 Days AgoJR0285097Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 2 Days AgoJR0285357Load Balancer Network Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0284296AI Systems and Solutions Engineering ManagerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0284710Network Systems and Solutions Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283130Analytics and AI Solution Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0284301Design Automation Engineer (TFM/EDA)locations4 Locationsposted onPosted 30+ Days AgoJR0284459Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0284880Senior Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0284688Hardware Electrical Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0285498.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Hardware-Electrical-Validation-Engineer_JR0285498?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-hardware-electrical-validation-engineer-us"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELSP Production Planning Technician",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician",
-    "id": "abb-elsp-production-planning-technician-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
+    "job_title": "Supply Chain Engineer",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Production Engineering Technician - 3rd shift",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036099/Production-Engineering-Technician-3rd-shift",
-    "id": "abb-production-engineering-technician-3rd-shift-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "SAP Developer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
-    "id": "abb-sap-developer-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
+    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -151,33 +61,53 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
+    "job_title": "SAP Developer",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
+    "id": "abb-sap-developer-available-in-one-of-4-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
+    "job_title": "Marine Field Service Engineer (Automation)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
-    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
+    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Drives",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
+    "id": "abb-field-service-engineer-drives-location-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Publications Technician",
+    "job_city": "Location Memphis",
     "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
+    "id": "abb-technical-publications-technician-location-memphis"
   },
   {
     "employer_name": "ABB",
@@ -188,16 +118,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
     "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -221,76 +141,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Publications Technician",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
-    "id": "abb-technical-publications-technician-location-memphis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Automation)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
-    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Propulsion",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
-    "id": "abb-field-service-engineer-propulsion-location-miramar"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Service Technician",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037652/Marine-Service-Technician",
-    "id": "abb-marine-service-technician-location-miramar"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Drives",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
-    "id": "abb-field-service-engineer-drives-location-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Supply Chain Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
-    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "FPGA Software Engineer R&D – Power Electronics/Traction Applications",
     "job_city": "Location Untersiggenthal",
     "job_state": "Aargau",
@@ -310,23 +160,93 @@
     "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Java Software Engineer III - Kafka",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_posted_at": "1d",
-    "job_description": "• Experience and certifications preferred.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• The role requires deep experience in high-throughput payment systems and modern engineering capabilities across GemFire, AI-enabled operations, microservices, cloud-native architecture, and AWS.\n• \" Rather than asking Lines of Business to run their own migrations, we take end-to-end ownership - profiling workloads, mapping dependencies, building replacement services, and pushing changes directly into codebases and pipelines - so that multi-year migration programmes become weeks of automated, guardrailed execution.\n• As an AI Software Engineer, you will use agentic coding tools - Claude Code and GitHub Copilot - as fi Lead Software Engineer - Java, AWS, React Hyderabad, Telangana, India TechnologySoftware Engineering Lead design, development, and troubleshooting of complex software while growing your skills and expanding your impact as an engineer Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Director of Software Engineering - Regulatory Capital, Data and Experience Bengaluru, Karnataka, India TechnologySoftware Engineering Lead innovation and deliver solutions as a Director of Software Engineering and primary decision maker for your teams.\n• AI Modernization Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Senior Lead Software Engineer experienced with Distributed Development, Python and AI Modernization Software Engineer II - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering In our Software Engineering Group, we look for people who are passionate around solving business problems through innovation and engineering practices.\n• Senior Lead Software Engineer - Python Full Stack Jersey City, NJ, United States TechnologySoftware Engineering Lead Software Engineer - full stack developer focusing on designing and delivering market-leading technology products Manager of Software Engineering - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Drive innovation and deliver secure, market-leading technology solutions as a Lead Software Engineer on our agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763671/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-java-software-engineer-iii-kafka-tampa"
+    "employer_name": "ABB",
+    "job_title": "Robotics Calibration Software Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
+    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Python",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Experience and certifications preferred.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• The role requires deep experience in high-throughput payment systems and modern engineering capabilities across GemFire, AI-enabled operations, microservices, cloud-native architecture, and AWS.\n• \" Rather than asking Lines of Business to run their own migrations, we take end-to-end ownership - profiling workloads, mapping dependencies, building replacement services, and pushing changes directly into codebases and pipelines - so that multi-year migration programmes become weeks of automated, guardrailed execution.\n• As an AI Software Engineer, you will use agentic coding tools - Claude Code and GitHub Copilot - as fi Lead Software Engineer - Java, AWS, React Hyderabad, Telangana, India TechnologySoftware Engineering Lead design, development, and troubleshooting of complex software while growing your skills and expanding your impact as an engineer Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Director of Software Engineering - Regulatory Capital, Data and Experience Bengaluru, Karnataka, India TechnologySoftware Engineering Lead innovation and deliver solutions as a Director of Software Engineering and primary decision maker for your teams.\n• AI Modernization Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Senior Lead Software Engineer experienced with Distributed Development, Python and AI Modernization Software Engineer II - Python Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering In our Software Engineering Group, we look for people who are passionate around solving business problems through innovation and engineering practices.\n• Senior Lead Software Engineer - Python Full Stack Jersey City, NJ, United States TechnologySoftware Engineering Lead Software Engineer - full stack developer focusing on designing and delivering market-leading technology products Manager of Software Engineering - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Drive innovation and deliver secure, market-leading technology solutions as a Lead Software Engineer on our agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732116/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-python-plano"
+    "employer_name": "ABB",
+    "job_title": "Software Developer, ABB Robotics",
+    "job_city": "Location Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
+    "id": "abb-software-developer-abb-robotics-location-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Location Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation, Condition Monitoring & Digital Solutions Engineer",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
+    "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Applications Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037569/Robotics-Applications-Engineer",
+    "id": "abb-robotics-applications-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Owner, CQP driven sales process development",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032493/Product-Owner-CQP-driven-sales-process-development",
+    "id": "abb-product-owner-cqp-driven-sales-process-development-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Classification Engineer",
+    "job_city": "Location Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
+    "id": "abb-product-classification-engineer-location-frosinone"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Mobile (iOS)",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile (iOS)",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132249031010067142-software-engineer-iii-mobile-ios?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-mobile-ios-mountain-view"
   }
 ]
