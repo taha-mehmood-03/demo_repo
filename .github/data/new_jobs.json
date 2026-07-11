@@ -1,75 +1,5 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "New College Grad - Design Validation Product Engineer, DEG Technology",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "2w",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/41121665",
-    "id": "micron-technology-new-college-grad-design-validation-product-engineer-deg-technology-boise"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Software Developer (Java) - TS/SCI w/Poly",
-    "job_city": "USA VA McLean",
-    "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Software-Developer--Java----TS-SCI-w-Poly_RQ222697-1?q=software+engineering",
-    "id": "general-dynamics-software-developer-java-ts-sci-w-poly-usa-va-mclean"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Full Stack Software Developer - TS/SCI with Polygraph",
-    "job_city": "USA MD Bethesda",
-    "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Bethesda/Full-Stack-Software-Developer---TS-SCI-with-Polygraph_RQ220387-1?q=software+engineering",
-    "id": "general-dynamics-full-stack-software-developer-ts-sci-with-polygraph-usa-md-bethesda"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Front End Software Engineer - TS/SCI with Polygraph",
-    "job_city": "USA VA Chantilly",
-    "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Front-End-Software-Engineer---TS-SCI-with-Polygraph_RQ220934-1?q=software+engineering",
-    "id": "general-dynamics-front-end-software-engineer-ts-sci-with-polygraph-usa-va-chantilly"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "DevOps Engineer",
-    "job_city": "USA MD Annapolis Junction",
-    "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/DevOps-Engineer_RQ222911?q=software+engineering",
-    "id": "general-dynamics-devops-engineer-usa-md-annapolis-junction"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "System Software Engineer (Up to $30,000 sign on bonus available)",
-    "job_city": "USA MD Hanover",
-    "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/System-Software-Engineer_RQ220222?q=software+engineering",
-    "id": "general-dynamics-system-software-engineer-up-to-30-000-sign-on-bonus-available-usa-md-hanover"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Cloud Software Developer (Node.js and React.js required) - State of Louisiana",
-    "job_city": "Any Location /",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer--Nodejs-and-Reactjs-required----State-of-Louisiana_RQ222072-1?q=software+engineering",
-    "id": "general-dynamics-cloud-software-developer-node-js-and-react-js-required-state-of-louisiana-any-location"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -78,46 +8,6 @@
     "job_description": "• 3+ years of relevant experience in situ hybridization, imaging and spatial techniques, preferably in the Biotechnology industry.\n• Strong analytical background Strong organizational skills.\n• Strong written and oral communication skills.\n• Strong troubleshooting and problem solving skills.\n• Experience with the 10x Genomics Xenium platform is a plus.\n• Skills in image analysis are a plus.\n• PhD in Molecular Biology, Biophysics, Physical Chemistry or related field.\n• Proven ability to design novel molecular biology assay schemes, as evidenced by peer-reviewed publications or published patents.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841169445",
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "System Software Engineer",
-    "job_city": "Aguadilla",
-    "job_state": "Puerto Rico",
-    "job_posted_at": "2w",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/System-Software-Engineer_1206645?q=software+engineering",
-    "id": "hewlett-packard-enterprise-system-software-engineer-aguadilla"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Networking Software Engineer",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Bloomington-Minnesota-United-States-of-America/Networking-Software-Engineer_1208231-1?q=software+engineering",
-    "id": "hewlett-packard-enterprise-networking-software-engineer-4-locations"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "OS/Software Engineer",
-    "job_city": "Spring",
-    "job_state": "Texas",
-    "job_posted_at": "1w",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Spring-Texas-United-States-of-America/OS-Software-Engineer_1208827-1?q=software+engineering",
-    "id": "hewlett-packard-enterprise-os-software-engineer-spring"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Software Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1w",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-III_1208570-1?q=software+engineering",
-    "id": "hewlett-packard-enterprise-software-engineer-cupertino"
   },
   {
     "employer_name": "ABB",
@@ -171,6 +61,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "SAP Developer",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
+    "id": "abb-sap-developer-available-in-one-of-4-locations"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Electrical Engineer",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -191,13 +91,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "SAP Developer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
+    "job_title": "Construction Sales Engineer",
+    "job_city": "Location Columbus",
+    "job_state": "Ohio",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
-    "id": "abb-sap-developer-available-in-one-of-4-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032405/Construction-Sales-Engineer",
+    "id": "abb-construction-sales-engineer-location-columbus"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
   },
   {
     "employer_name": "ABB",
@@ -208,6 +118,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
     "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Fall",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
+    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -231,16 +151,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Construction Sales Engineer",
-    "job_city": "Location Columbus",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032405/Construction-Sales-Engineer",
-    "id": "abb-construction-sales-engineer-location-columbus"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Engineer - Panelboards",
     "job_city": "Location Bloomfield",
     "job_state": "Connecticut",
@@ -261,36 +171,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Electrical/Controls Intern - Fall",
     "job_city": "Location Selmer",
     "job_state": "Tennessee",
@@ -308,6 +188,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
     "id": "abb-manufacturing-engineer-location"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -395,7 +285,7 @@
     "job_city": "Location Sant Quirze del Valles",
     "job_state": "Barcelona",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
     "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
   }
