@@ -10,6 +10,16 @@
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
   },
   {
+    "employer_name": "AMD",
+    "job_title": "Systems Application Engineer- (Mandarin)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Solid years’ experience in Data Center system design, board design, validation, or Application Engineering, preferably in external customer facing roles.\n• Strong knowledge in PC/server architecture and interfaces, experience with system level debug.\n• Strong System Level debugging skills with hands-on experiences in system bring-up, HW debug, and performance optimizations on various system architectures.\n• Understanding and experience working with Enterprise Linux environment (Ubuntu, CentOS/RHEL and SLES).\n• Excellent oral and written communication skills to communicate technical results clearly and accurately.\n• Test or design experience in system interconnect technologies (PCIe, XGMI, CXL, USB, I/O Controllers)Familiarity with various deployment models including cloud, virtualization and containers.\n• Experience or knowledge of server firmware/BIOS settings, boot process, server monitoring and management SW.\n• Experience relating to power and thermal management.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/87742/login",
+    "id": "amd-systems-application-engineer-mandarin-us"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Available in one of 183 locations",
@@ -255,7 +265,7 @@
     "job_city": "Location Bloomfield",
     "job_state": "Connecticut",
     "job_posted_at": "1h",
-    "job_description": "• Design, development, and manufacturing implementation of engineering programs that meet business standards and program / product requirements, including functional, cost, reliability, manufacturability, and safety requirements.\n• Understanding and applying relevant processes, standards, guidelines, and requirements, including architectural and design constraints.\n• Contributing to the continuous improvement of the chapter, including to the improvement or development of new capabilities, skills, technical knowledge, performance, and/or culture.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action BS Mechanical Engineering or similar educational background2+ years of experience in R&D or a related fieldYou have experience in mechanical design (including 3D modeling and 2D drawing creation using PTC Creo or similar tools) and engineering analysisAble to travel domestically & internationally on an occasional basisYou have valid US work authorization and must not require sponsorship for an employment visa by ABB at any time in the future R&D Engineer - Panelboards Location Bloomfield, Connecticut, United States of America Category Research & Development OEM R&D Senior Engineer Location Bloomfield, Connecticut, United States of America Category Research & Development Senior Power Electronics Engineer Location Richmond, Virginia, United States of America Category Research & Development Senior Power Electronics Engineer Location Richmond, Virginia, United States of America Category Research & Development.\n• Execute designs with solid modeling software (PTC Creo / Windchill) to create models, assemblies, detailed drawings, and BOMs for designs which may include plastic, stamped metal, and electrically conductive parts.\n• Driving the achievement of assigned targets (quality, time, scope, cost) and raising and addressing risks.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
     "id": "abb-r-d-engineer-panelboards-location-bloomfield"
   },
@@ -275,7 +285,7 @@
     "job_city": "Location Miramar",
     "job_state": "Florida",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037652/Marine-Service-Technician",
     "id": "abb-marine-service-technician-location-miramar"
   },
