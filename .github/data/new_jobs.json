@@ -10,24 +10,64 @@
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Supply Chain Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
-    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
+    "employer_name": "Magna International",
+    "job_title": "Recruiter",
+    "job_city": "Clinton",
+    "job_state": "Tennessee",
+    "job_posted_at": "1d",
+    "job_description": "• Project ManagerlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00244578Production OperatorlocationsWilliamsburg, Iowa, USposted onPosted 30+ Days AgoR00243982production OperatorlocationsWilliamsburg, Iowa, USposted onPosted 30+ Days AgoR00243979Camera & Vision Systems SpecialistlocationsPiedmont, South Carolina, USposted onPosted 19 Days AgoR00248948Adhesive and Sealer SpecialistlocationsPiedmont, South Carolina, USposted onPosted 19 Days AgoR00248957New Business Finance ManagerlocationsTroy, Michigan, USposted onPosted 12 Days AgoR00241290Maintenance Supervisor, 2nd shiftlocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00242935Robotic TechnicianlocationsTroy, Michigan, USposted onPosted 18 Days AgoR00238101Shipping/Receiving Material Handler-2nd Shift-VictorlocationsVictor, Iowa, USposted onPosted 30+ Days AgoR00244739Assembly Maintenance Team LeadlocationsPiedmont, South Carolina, USposted onPosted 6 Days AgoR00245050Lead Robotic TechnicianlocationsTroy, Michigan, USposted onPosted 18 Days AgoR00238100Controls TechnicianlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00200519Production Associate / 2nd or 3rd Shiftlocations54725 GRAND RIVER AVENUE,48165,NEW HUDSON,USposted onPosted 30+ Days AgoR00224746Production Supervisor-Victor 2nd ShiftlocationsVictor, Iowa, USposted onPosted 30+ Days AgoR00244755IOT DeveloperlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00243135Weld Technician 2nd ShiftlocationsNew Hudson, Michigan, USposted onPosted 6 Days AgoR00231635RecruiterlocationsClinton, Tennessee, USposted onPosted TodayR00251824Production Supervisor - CastinglocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00245769Maintenance TechnicianlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00234441Tooling TechnicianlocationsLiberty, Missouri, USposted onPosted 30+ Days AgoR00227944.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Clinton-Tennessee-US/Recruiter_R00251824?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-recruiter-clinton"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commissioning Engineer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
-    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELSP Production Planning Technician",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician",
+    "id": "abb-elsp-production-planning-technician-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Engineering Technician - 3rd shift",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036099/Production-Engineering-Technician-3rd-shift",
+    "id": "abb-production-engineering-technician-3rd-shift-location-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -41,43 +81,73 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Automation)",
-    "job_city": "Available in one of 2 locations",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commissioning Engineer",
+    "job_city": "Available in one of 3 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
-    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
+    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Construction Sales Engineer",
+    "job_city": "Location Columbus",
+    "job_state": "Ohio",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032405/Construction-Sales-Engineer",
+    "id": "abb-construction-sales-engineer-location-columbus"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Drives",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
-    "id": "abb-field-service-engineer-drives-location-houston"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Publications Technician",
-    "job_city": "Location Memphis",
+    "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
+    "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
     "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
-    "id": "abb-technical-publications-technician-location-memphis"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
   },
   {
     "employer_name": "ABB",
@@ -88,6 +158,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
     "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -111,11 +191,81 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Technical Publications Technician",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
+    "id": "abb-technical-publications-technician-location-memphis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Automation)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
+    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Propulsion",
+    "job_city": "Location Miramar",
+    "job_state": "Florida",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
+    "id": "abb-field-service-engineer-propulsion-location-miramar"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Service Technician",
+    "job_city": "Location Miramar",
+    "job_state": "Florida",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037652/Marine-Service-Technician",
+    "id": "abb-marine-service-technician-location-miramar"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Drives",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
+    "id": "abb-field-service-engineer-drives-location-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Supply Chain Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
+    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "FPGA Software Engineer R&D – Power Electronics/Traction Applications",
     "job_city": "Location Untersiggenthal",
     "job_state": "Aargau",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• FPGA Engineer (m/f/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development (Senior) Scientist for EMC in Power Electronics Location Baden-Daettwil, Aargau, Switzerland Category Research & Development R&D Engineer (f/m/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development Working Student (m/f/d) - Electromechanical Design Location Heidelberg, Baden-Wurttemberg, Germany Category Research & Development Global Technology Owner, Power Electronics Available in one of 3 locations Category Research & Development Senior Software Engineer Location Plzen, Plzeňský kraj, Czechia Category Research & Development Power Electronics Quality and Reliability Senior R&D Engineer for SST (f/m/d) 80-100% Location Baden-Daettwil, Aargau, Switzerland Category Research & Development Applied Physicist (80%-100%) Location Baden-Daettwil, Aargau, Switzerland Category Research & Development (Senior) Research Scientist in Software Systems Engineering (80-100%) Location Baden-Daettwil, Aargau, Switzerland Category Research & Development Degree (MSc or equivalent) in Electrical Engineering or a related fieldProven experience in programmable logic design (VHDL) and strong expertise in FPGA architecturesKnowledge of power electronic systems is considered an assetExperience in testing methodologies and software development processes is an advantageFluency in both written and spoken German and English is requiredStructured, analytical work style combined with strong communication skills, enabling effective collaboration in interdisciplinary project teams Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Responsible for the development and the testing of complex FPGA Firmware (VHDL) for traction and auxiliary converters in railway applicationsFeasibility studies, simulation, implementation, testing and documentation according to traction development processesProvide technical support and advisory to internal customersWork in interdisciplinary project teams with engineers from power electronics and control domainsContribute and draft leading-edge development processes to enhance future success of the team.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039532/FPGA-Software-Engineer-R-D-Power-Electronics-Traction-Applications",
     "id": "abb-fpga-software-engineer-r-d-power-electronics-traction-applications-location-untersiggenthal"
   },
@@ -150,103 +300,23 @@
     "id": "abb-software-developer-abb-robotics-location-vaesteras"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Location Minden",
-    "job_state": "North Rhine-Westphalia",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
+    "job_city": "Cambridge",
+    "job_state": "MA",
     "job_posted_at": "1h",
-    "job_description": "• Completed degree in Electrical Engineering or a comparable field of studyAt least 3+ years of relevant professional experience in hardware development.\n• Good knowledge in FPGA design (AMD/Xilinx, Altera, VHDL)Confident handling of common FPGA development tools (Vivado, ModelSim)Experience in embedded software development (e.\n• , PIC, ATMEGA, STM32, MicroBlaze)Good knowledge in classical hardware development as well as in handling hardware design toolsBasic knowledge in handling bus systems such as Ethernet, PROFIBUS, or similar fieldbus systemsStrong communication and teamwork skills combined with an independent, analytical, and structured working styleEnglish: business-fluent (written and spoken).\n• German: fluent (written and spoken) Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action FPGA Software Engineer R&D – Power Electronics/Traction Applications Location Untersiggenthal, Aargau, Switzerland Category Research & Development R&D Engineer KNX (m/f/d) Available in one of 2 locations Category Research & Development R&D Engineer (f/m/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development Senior R&D Engineer Softwareentwicklung (m/f/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development (Senior) Research Scientist in Software Systems Engineering (80-100%) Location Baden-Daettwil, Aargau, Switzerland Category Research & Development (Senior) Research Scientist (f/m/d) – Industrial Sensing for Electrification (80-100%) Location Mannheim, Baden-Wurttemberg, Germany Category Research & Development Senior Embedded Platform Engineer (80-100%) Location Zurich, Zurich, Switzerland Category Research & Development Senior Computer Vision AI & ML Engineer Location Beersel, Flemish Brabant, Belgium Category Research & Development Support Engineer (f/m/d) Location Eggelsberg, Upper Austria, Austria Category Research & Development Development, implementation, and testing of complex FPGA and SoC architecturesDesign of VHDL-based systems and development of verification environmentsExecution of simulations, timing analysis, and hardware validationDevelopment of embedded software for microcontrollersSupport of the hardware design team (schematic and layout reviews, testing, documentation)Maintenance and continuous improvement of existing systemsCollaboration with internal and external stakeholders and close coordination with hardware and software teams.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-location-minden"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation, Condition Monitoring & Digital Solutions Engineer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019121/Automation-Condition-Monitoring-Digital-Solutions-Engineer",
-    "id": "abb-automation-condition-monitoring-digital-solutions-engineer-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Applications Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037569/Robotics-Applications-Engineer",
-    "id": "abb-robotics-applications-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Owner, CQP driven sales process development",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032493/Product-Owner-CQP-driven-sales-process-development",
-    "id": "abb-product-owner-cqp-driven-sales-process-development-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Classification Engineer",
-    "job_city": "Location Frosinone",
-    "job_state": "Frosinone",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
-    "id": "abb-product-classification-engineer-location-frosinone"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Nashik",
-    "job_state": "Mahārāshtra",
-    "job_posted_at": "1h",
-    "job_description": "• , mechanics, electronics, thermal, software), from building concepts, gathering requirements to designing, implementing, integrating, testing, technology transfer or maintenance, and operations.\n• Understanding and applying applicable processes, standards, guidelines, and requirements, including architectural and design constraints.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Degree in Mechanical engineering (should be full-time)Minimum 2 to 4 years of experience in Designing of Mechanical Parts and Assemblies (Sheet-Metal, Casted & Machined Metal and Molded Plastic parts)Hands on experience in Prototyping, Type Testing and Reading of Technical Drawing with SolidWorks or Creo 3D softwarePossess an enhanced technical knowledge of MV Switchgear (GIS)You are at ease communicating in English.\n• Working as an independent and reliable contributor in R&D projects with limited supervision.\n• Performing various tasks in the assigned area (e.\n• Driving the achievement of assigned targets (quality, time, scope, cost) and raising and addressing risks.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040182/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-nashik"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Supplemental benefits – 100% employee paid (Accident insurance, hospital indemnity, critical illness, pet insuranceParental Leave – up to 6 weeksEmployee Assistance ProgramHealth Advocate support resources for mental/behavioral health, general health navigation and virtual health, and infertility/adoptionEmployee discount program BS degree in Computer Engineering, Electrical Engineering, or related engineering field required.\n• 2+ years of experience in Software Engineering.\n• Sound knowledge of the C++, C# or Java programming languages is needed.\n• Also experience with Visual Studio and Source Control (Azure DevOPS or Git) is required.\n• Experience with DCOM, OPC, WinDbg, and InstallShield is preferred.\n• A collaborative, solution focused approach and strong written and spoken communication skills.\n• Choice between two medical plan options: A PPO plan called the Copay Plan OR a High Deductible Health Plan (with a Health Savings Account) called the High Deductible Plan.\n• Choice between two dental plan options: Core and Core PlusVision benefitCompany paid life insurance (2X base pay)Company paid AD&D (1X base pay)Voluntary life and AD&D – 100% employee paid up to maximumsShort Term Disability – up to 26 weeks – Company paidLong Term Disability – 60% of pay – Company paid.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-cleveland"
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79605303951139526-software-engineer-iii-infrastructure-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-platforms-cambridge"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, AI Agents",
+    "job_title": "Software Engineer III, AI/ML Computer Vision, Google Cloud AI",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, AI Agents",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/102213703012623046-software-engineer-iii-ai-agents?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-ai-agents-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Global Networking",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Global Networking",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80928836794884806-software-engineer-iii-infrastructure-google-cloud-global-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-infrastructure-google-cloud-global-networking-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Foundational Lanes",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Foundational Lanes",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/95693255462527686-software-engineer-iii-aiml-foundational-lanes?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-ai-ml-foundational-lanes-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML Computer Vision, Google Cloud AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/117503494528606918-software-engineer-iii-aiml-computer-vision-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ai-ml-computer-vision-google-cloud-ai-sunnyvale"
   }
 ]
