@@ -1,5 +1,25 @@
 [
   {
+    "employer_name": "Salesforce",
+    "job_title": "Workday Software Engineer – MTS",
+    "job_city": "Texas - Dallas",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR344779/workday-software-engineer-mts/",
+    "id": "salesforce-workday-software-engineer-mts-texas-dallas"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Scientific Software Engineer",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer, JuniorlocationsAlbuquerque, NMposted onPosted 24 Days AgoR0242701 Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 16 Days AgoR0243352 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 20 Days AgoR0243024 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0241426 Software Engineer, Seniorlocations2 Locationsposted onPosted 21 Days AgoR0243037 Software Engineer, Seniorlocations2 Locationsposted onPosted 21 Days AgoR0243035 Software Engineer, Seniorlocations2 Locationsposted onPosted 14 Days AgoR0243596 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 23 Days AgoR0242785 Software Engineer, SeniorlocationsMcLean, VAposted onPosted YesterdayR0244489 Software Engineer, LeadlocationsMcLean, VAposted onPosted 9 Days AgoR0243923.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Scientific-Software-Engineer_R0244215?q=software+engineering",
+    "id": "bae-systems-scientific-software-engineer-bethesda"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -10,24 +30,44 @@
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+    "employer_name": "Guidehouse",
+    "job_title": "Palantir Platform Engineer",
+    "job_city": "US - VA",
+    "job_state": "Arlington",
+    "job_posted_at": "1d",
+    "job_description": "• Data Engineer (Senior Consultant)locations2 Locationsposted onPosted 29 Days Ago40469IDOS Aerospace Professionalslocations7 Locationsposted onPosted 30+ Days Ago38210Sr.\n• Software Operations Team LeadlocationsUS - DC, Washingtonposted onPosted 29 Days Ago40304Data Engineer – Healthcare Analytics Platformlocations2 Locationsposted onPosted 30+ Days Ago40481Palantir Data Engineerlocations2 Locationsposted onPosted 30 Days Ago38627Senior Full Stack Developerlocations2 Locationsposted onPosted 30+ Days Ago40426Senior Full Stack Developerlocations2 Locationsposted onPosted 30 Days Ago40340Senior Full Stack DeveloperlocationsUS - VA, McLeanposted onPosted 20 Days Ago40611Senior Python/Java Script Full Stack Developerlocations2 Locationsposted onPosted 30+ Days Ago37297Senior Full Stack Python/JavaScript Developerlocations2 Locationsposted onPosted 30+ Days Ago37301Full Stack DeveloperlocationsUS - VA, McLeanposted onPosted 20 Days Ago40612AWS DevOps EngineerlocationsUS - VA, McLeanposted onPosted 30 Days Ago40607MLOps Engineerlocations2 Locationsposted onPosted 30+ Days Ago38349AWS Cloud Platform EngineerlocationsUS - VA, McLeanposted onPosted 30 Days Ago40602Palantir Data EngineerlocationsUS - Remote (Any location)posted onPosted 20 Days Ago41109Palantir Platform EngineerlocationsUS - VA, Arlingtonposted onPosted Today41898Data Engineerlocations2 Locationsposted onPosted 30+ Days Ago39493AI/ML Solutions Architect (Agentic Systems)locationsUS - Remote (Any location)posted onPosted 30+ Days Ago37697Cybersecurity Operations EngineerlocationsUS - VA, McLeanposted onPosted Yesterday41864Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Palantir-Platform-Engineer_41898?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-palantir-platform-engineer-us-va"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELSP Production Planning Technician",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician",
+    "id": "abb-elsp-production-planning-technician-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
   },
   {
     "employer_name": "ABB",
@@ -38,6 +78,26 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
     "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP Developer",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
+    "id": "abb-sap-developer-available-in-one-of-4-locations"
   },
   {
     "employer_name": "ABB",
@@ -71,56 +131,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELSP Production Planning Technician",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician",
-    "id": "abb-elsp-production-planning-technician-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "SAP Developer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
-    "id": "abb-sap-developer-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Construction Sales Engineer",
     "job_city": "Location Columbus",
     "job_state": "Ohio",
@@ -128,6 +138,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032405/Construction-Sales-Engineer",
     "id": "abb-construction-sales-engineer-location-columbus"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
   },
   {
     "employer_name": "ABB",
@@ -158,6 +178,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
     "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -208,6 +238,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
     "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Propulsion",
+    "job_city": "Location Miramar",
+    "job_state": "Florida",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
+    "id": "abb-field-service-engineer-propulsion-location-miramar"
   },
   {
     "employer_name": "ABB",
@@ -265,7 +305,7 @@
     "job_city": "Location Sant Quirze del Valles",
     "job_state": "Barcelona",
     "job_posted_at": "1h",
-    "job_description": "• 📱 Company Mobile Phone: Stay connected with a corporate phone – no need to mix work and personal calls.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities grow, upskill, and move forward in your career.\n• Degree in Computer Science, Robotics or a related field3+ years of industry experience in software engineering, robotics or computer visionStrong C++ and Python skills with a passion for high‑quality code, performance, and best practicesBonus points for experience working with systems involving SLAM, computer vision, roboticsFamiliarity with profiling tools, performance tuning, and debugging complex systems.\n• 🏡 Home Office Flexibility: Work from wherever suits you best thanks to our flexible remote work options.\n• 💻 Benefits Platform: Enjoy exclusive deals and discounts on everything from tech to travel through our employee benefits portal.\n• 📈 Employee Share Acquisition Plan: Want to invest in your future.\n• Join our share acquisition plan and grow with the company.\n• 🚀 Career Development: Expect plenty of chances to advance your career internally with our Open Job Market, with support to explore new roles and take on exciting challenges.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
     "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
   },
@@ -280,23 +320,13 @@
     "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Software Developer, ABB Robotics",
-    "job_city": "Location Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1h",
-    "job_description": "• Bachelor's or Master's degree in Computer Science, Electrical Engineering, Robotics, or a related field.\n• Experience with ROS and/or ROS in embedded systems.\n• Strong problem-solving skills and attention to detail.\n• Excellent communication skills.\n• Experience in agile software development methodologies.\n• Maintaining recognized expertise in a specific area by integrating the latest developments in technologies, tools, and methodologies into your work.\n• Finding new ways of solving problems by following your ideas, creating hypotheses, and defining ways to validate them.\n• Documenting work results (like findings, designs, or software), allowing others to maintain and improve them.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
-    "id": "abb-software-developer-abb-robotics-location-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Location Minden",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-location-minden"
+    "employer_name": "Synopsys",
+    "job_title": "Full Stack Software Engineer",
+    "job_city": "United States Off-site",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Js, NestJS, and Python across hybrid infrastructure spanning on-premise data centers and public cloud (Azure, AWS, GCP)Use GenAI-based coding tools like Copilot, Claude, or Cursor to accelerate development, improve code quality, and explore new solution patternsDesign and optimize RESTful APIs and database schemas to ensure high performance, data integrity, and scalability under production loadWrite clean, testable, and maintainable code following software engineering best practices, with unit test coverage using Jest, pytest, or similar frameworksTroubleshoot and resolve complex software defects across the full stack, from UI rendering issues to backend service failuresConduct code reviews and provide constructive, specific feedback that helps teammates improve their craftCollaborate with product owners, UX designers, and cross-functional engineering teams to deliver user-centric features on schedule Strong hands-on experience with front-end frameworks (Angular, React) and back-end technologies (Node.\n• Js, NestJS, Python)Proven track record designing, building, and integrating RESTful APIs and managing relational or NoSQL databases in productionUnderstanding of hybrid cloud infrastructure and deployment patterns across Azure, AWS, or GCPPractical experience using GenAI-based coding tools (Copilot, Claude, Cursor, or similar) to enhance development speed and qualityProficiency with unit testing frameworks like Jest or pytest, and a commitment to writing testable, maintainable codeDemonstrated ability to optimize applications for performance, scalability, and reliability under real-world loadExperience working in agile environments with CI/CD pipelines and automated testing, experience with Kubernetes or Docker is a plus Accelerate the delivery of Synopsys web platforms that serve thousands of global customers and internal users dailyImprove the reliability and uptime of mission-critical applications by architecting resilient, scalable infrastructure solutionsDrive adoption of GenAI development tools across the engineering organization, raising productivity and code quality standardsShape technical direction and engineering best practices that influence how teams across Synopsys build softwareMentor engineers at all levels, building a stronger, more capable team that ships better work fasterEnable customers to unlock new capabilities in chip design and verification through high-performance, secure web applicationsReduce operational overhead and manual toil by automating deployment pipelines, testing workflows, and service monitoring You can explain a complex architectural tradeoff to a product manager in two sentences without losing the technical nuanceYou do not just fix bugs, you ask why they happened and what pattern needs to change so they do not happen againYou are comfortable saying \"I don't know, let me find out\" and then actually following throughWhen you review code, you balance critique with coaching, pointing out what could be better and explaining why it mattersYou thrive in ambiguity, turning vague requirements into concrete technical plans without needing someone to hold your handYou value diverse perspectives and actively create space for quieter voices in design discussions and planning sessions Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Sitemap Modify Preferences Privacy Trademark & Brands Security Copyright About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions.\n• Company About Us Careers Corporate Governance & Ethics Ecosystem Partners Investor Relations Leadership Office Locations Responsible Business Strategic Acquisitions Resources Synopsys Academic & Research Alliances (SARA) Contact Us Executive Briefing Center Interoperability Manage Subscriptions News Releases Services Sitemap University Program Learn What is an AI Accelerator.\n• What is AI Chip Design What are Chiplets.\n• What is EDA Agentic AI.\n• What is an Integrated Circuit.\n• Authors Blogs Build and maintain full stack web applications using Angular, React, Node.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/united-states/full-stack-software-engineer/44408/97879035408",
+    "id": "synopsys-full-stack-software-engineer-united-states-off-site"
   }
 ]
