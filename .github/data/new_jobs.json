@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Analog Devices",
+    "job_title": "Robotics System Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262306Principal Engineer, Design Verification EngineeringlocationsUS, TX, Austin, Plaza on the Lakeposted onPosted 30+ Days AgoR263318Principal Engineer, Process Development EngineeringlocationsUS, MA, Wilmingtonposted onPosted 11 Days AgoR263751Principal Engineer, Process Development EngineeringlocationsUS, MA, Wilmingtonposted onPosted 11 Days AgoR263753Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 22 Days AgoR263238Staff Engineer, Customer Quality EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 15 Days AgoR263566Senior Engineer, Design Verification EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262670Senior Engineer, Design Verification EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263430Principal Engineer, Digital Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 29 Days AgoR262402Senior Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 17 Days AgoR263149Staff Engineer, Design Verification EngineeringlocationsUS, MA, Wilmingtonposted onPosted 8 Days AgoR264022Senior Test EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262114Senior Engineer Design Verification EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262669Senior Engineer, Automotive Product and Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262483Staff Engineer, Digital Design Engineeringlocations5 Locationsposted onPosted 30+ Days AgoR261443Senior Engineer, Digital Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR263750Robotics System EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR263946Principal Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 16 Days AgoR257277.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Robotics-System-Engineer_R263946?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-robotics-system-engineer-us"
+  },
+  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -10,104 +20,24 @@
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
+    "employer_name": "Marvel Technology",
+    "job_title": "Co-Packaged Optics Process Development NPI engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601637Principal SoC VerificationlocationsSan Diego, CAposted onPosted 30+ Days Ago2601617Senior SoC Design Verification ManagerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601579Staff SoC Verification EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601636Distinguished Engineer - SoC VerificationlocationsSan Diego, CAposted onPosted 30+ Days Ago2601614Senior Analog Layout ManagerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601648Senior Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601545Sr Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601499Sr Staff Analog Modeling/Verification EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601544Staff Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601537Principal Analog Mixed-Signal Design EngineerlocationsSan Diego, CAposted onPosted 30+ Days Ago2601450Sr Principal Analog Mixed Signal Design EngineerlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601449Senior Director of SoC Design VerificationlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601017Senior Director of SoC DesignlocationsUS-CA - San Diegoposted onPosted 30+ Days Ago2601116Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 30+ Days Ago2501691Co-Packaged Optics Process Development NPI engineerlocationsSanta Clara, CAposted onPosted Today2602770Senior Staff Design Verification Engineer – PCIE/CXL Sub-Systemlocations2 Locationsposted onPosted Yesterday2602003Senior Staff CAD Engineer, Multi-die 3DIC & PowerlocationsSanta Clara, CAposted onPosted Yesterday2600888Hardware & Silicon Validation Senior Staff Engineerlocations2 Locationsposted onPosted Yesterday2602699Director of Sales - Account ManagementlocationsSanta Clara, CAposted onPosted 2 Days Ago2601850.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Co-Packaged-Optics-Process-Development-NPI-engineer_2602770?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-co-packaged-optics-process-development-npi-engineer-santa-clara"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELSP Production Planning Technician",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician",
-    "id": "abb-elsp-production-planning-technician-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
+    "job_title": "Supply Chain Engineer",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Production Engineering Technician (2nd Shift)",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028526/Production-Engineering-Technician-2nd-Shift",
-    "id": "abb-production-engineering-technician-2nd-shift-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "SAP Developer",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
-    "id": "abb-sap-developer-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
+    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -121,73 +51,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
+    "job_title": "SAP Developer",
+    "job_city": "Available in one of 4 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035444/SAP-Developer",
+    "id": "abb-sap-developer-available-in-one-of-4-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
+    "job_title": "Marine Field Service Engineer (Automation)",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
+    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
+    "job_title": "Marine Field Service Engineer (Power)",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Electrical/Controls Intern - Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
+    "job_title": "Field Service Engineer - Drives",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
-    "id": "abb-electrical-controls-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Engineer",
-    "job_city": "Location Columbus",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
-    "id": "abb-manufacturing-engineer-location-columbus"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
+    "id": "abb-field-service-engineer-drives-location-houston"
   },
   {
     "employer_name": "ABB",
@@ -211,63 +111,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Automation)",
+    "job_title": "Application Engineering Intern - Fall",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025645/Marine-Field-Service-Engineer-Automation",
-    "id": "abb-marine-field-service-engineer-automation-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
+    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Propulsion",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039233/Field-Service-Engineer-Propulsion",
-    "id": "abb-field-service-engineer-propulsion-location-miramar"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Service Technician",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
+    "job_title": "Electrical/Controls Intern - Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037652/Marine-Service-Technician",
-    "id": "abb-marine-service-technician-location-miramar"
+    "job_description": "• Currently enrolled in a bachelor’s degree program in Electrical Engineering, Electronic Engineering, Software Engineering, or a related technical discipline at an accredited university in the United States.\n• Intern must have reliable transportation to and from the worksite.\n• Must be legally authorized to work in the United States without company sponsorship now and in the future.\n• Utilize critical thinking skills to analyze complex situations and develop strategic solutions.\n• Effectively organize and prioritize tasks to meet deadlines.\n• Exhibit the capability to manage several tasks at once while maintaining high standards of quality.\n• Collaborate with team members to convey ideas, share information, and provide updates on project progress.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
+    "id": "abb-electrical-controls-intern-fall-location-selmer"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Drives",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
+    "job_title": "Manufacturing Engineer",
+    "job_city": "Location Columbus",
+    "job_state": "Mississippi",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
-    "id": "abb-field-service-engineer-drives-location-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Supply Chain Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
-    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
+    "id": "abb-manufacturing-engineer-location-columbus"
   },
   {
     "employer_name": "ABB",
@@ -285,7 +165,7 @@
     "job_city": "Location Sant Quirze del Valles",
     "job_state": "Barcelona",
     "job_posted_at": "1h",
-    "job_description": "• 📱 Company Mobile Phone: Stay connected with a corporate phone – no need to mix work and personal calls.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities grow, upskill, and move forward in your career.\n• Degree in Computer Science, Robotics or a related field3+ years of industry experience in software engineering, robotics or computer visionStrong C++ and Python skills with a passion for high‑quality code, performance, and best practicesBonus points for experience working with systems involving SLAM, computer vision, roboticsFamiliarity with profiling tools, performance tuning, and debugging complex systems.\n• 🏡 Home Office Flexibility: Work from wherever suits you best thanks to our flexible remote work options.\n• 💻 Benefits Platform: Enjoy exclusive deals and discounts on everything from tech to travel through our employee benefits portal.\n• 📈 Employee Share Acquisition Plan: Want to invest in your future.\n• Join our share acquisition plan and grow with the company.\n• 🚀 Career Development: Expect plenty of chances to advance your career internally with our Open Job Market, with support to explore new roles and take on exciting challenges.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
     "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
   },
@@ -295,18 +175,118 @@
     "job_city": "Location Sant Quirze del Valles",
     "job_state": "Barcelona",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
     "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
   },
   {
+    "employer_name": "ABB",
+    "job_title": "Software Developer, ABB Robotics",
+    "job_city": "Location Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1h",
+    "job_description": "• Bachelor's or Master's degree in Computer Science, Electrical Engineering, Robotics, or a related field.\n• Experience with ROS and/or ROS in embedded systems.\n• Strong problem-solving skills and attention to detail.\n• Excellent communication skills.\n• Experience in agile software development methodologies.\n• Maintaining recognized expertise in a specific area by integrating the latest developments in technologies, tools, and methodologies into your work.\n• Finding new ways of solving problems by following your ideas, creating hypotheses, and defining ways to validate them.\n• Documenting work results (like findings, designs, or software), allowing others to maintain and improve them.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
+    "id": "abb-software-developer-abb-robotics-location-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Location Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Applications Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037569/Robotics-Applications-Engineer",
+    "id": "abb-robotics-applications-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Owner, CQP driven sales process development",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032493/Product-Owner-CQP-driven-sales-process-development",
+    "id": "abb-product-owner-cqp-driven-sales-process-development-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Classification Engineer",
+    "job_city": "Location Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036591/Product-Classification-Engineer",
+    "id": "abb-product-classification-engineer-location-frosinone"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Nashik",
+    "job_state": "Mahārāshtra",
+    "job_posted_at": "1h",
+    "job_description": "• , mechanics, electronics, thermal, software), from building concepts, gathering requirements to designing, implementing, integrating, testing, technology transfer or maintenance, and operations.\n• Understanding and applying applicable processes, standards, guidelines, and requirements, including architectural and design constraints.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Degree in Mechanical engineering (should be full-time)Minimum 2 to 4 years of experience in Designing of Mechanical Parts and Assemblies (Sheet-Metal, Casted & Machined Metal and Molded Plastic parts)Hands on experience in Prototyping, Type Testing and Reading of Technical Drawing with SolidWorks or Creo 3D softwarePossess an enhanced technical knowledge of MV Switchgear (GIS)You are at ease communicating in English Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) R&D Testing & Laboratory Specialist Location Hyderabad, Telangāna, India Category Research & Development.\n• Working as an independent and reliable contributor in R&D projects with limited supervision.\n• Performing various tasks in the assigned area (e.\n• Driving the achievement of assigned targets (quality, time, scope, cost) and raising and addressing risks.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040182/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-nashik"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship (m/f/d) - Mechanical System Design & Analysis",
+    "job_city": "Location Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040358/Internship-m-f-d-Mechanical-System-Design-Analysis",
+    "id": "abb-internship-m-f-d-mechanical-system-design-analysis-location-mannheim"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, AI Infrastructure",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "16h",
+    "job_description": "• Minimum QualificationsBS/MS in Computer Science or 5+ years equivalent experienceAbility to demonstrate strong problem solving and logic in backend programmingExperienced with building cloud services and distributed systems at scaleDemonstrated end-to-end ownership of cross-organizational projects.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200672768-0836/software-engineer-ai-infrastructure?team=SFTWR",
+    "id": "apple-software-engineer-ai-infrastructure-cupertino"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III Java Fullstack/ springboot/ microservices",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer II - Application Developer Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Code For Good - Hackaton 2026 Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Code for Good hackathon 2026 2026 Code For Good_ Singapore Singapore, Singapore Program Analysts & AssociateAnalysts Join the Code for Good hackathon to earn consideration for the 2027 summer internship in the Tech Data and Product segment Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• Experience and certifications preferred.\n• · Partner with product engineering and Site Reliability leaders to feed reliability and supportability requirements back into the product.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• \" Rather than asking Lines of Business to run their own migrations, we take end-to-end ownership - profiling workloads, mapping dependencies, building replacement services, and pushing changes directly into codebases and pipelines - so that multi-year migration programmes become weeks of automated, guardrailed execution.\n• Software Engineer II - Java Ciudad De Mexico, Mexico TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Manager of Software Engineering - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards Software Engineer [Multiple Positions Available] Columbus, OH, United States TechnologySoftware Engineering Design, develop and implement software solutions.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Senior Software Developer - CEBU Metro Manila, National Capital Region, Philippines OperationsAutomation Operations Unleash your potential in a role that transforms raw data and operational needs into innovative automation solutions.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719066/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-java-fullstack-springboot-microservices-houston"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, GDCH Infrastructure",
-    "job_city": "Sunnyvale",
+    "job_title": "Software Engineer, AI/ML, Full Stack, Search Ads",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, GDCH Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105303377931313862-software-engineer-iii-gdch-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-gdch-infrastructure-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer, AI/ML, Full Stack, Search Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/72546727516611270-software-engineer-aiml-full-stack-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=4",
+    "id": "google-software-engineer-ai-ml-full-stack-search-ads-mountain-view"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Data Engineer II, GTPC Tech, Compliance & Assurance, AWS Security",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "16h",
+    "job_description": "software engineering job for the role Data Engineer II, GTPC Tech, Compliance & Assurance, AWS Security",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10477449/data-engineer-ii-gtpc-tech-compliance-assurance-aws-security",
+    "id": "amazon-data-engineer-ii-gtpc-tech-compliance-assurance-aws-security-new-york"
   }
 ]
