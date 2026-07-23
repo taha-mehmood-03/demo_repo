@@ -11,23 +11,133 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 52 locations",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Available in one of 183 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Fall",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
+    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Publications Technician",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
+    "id": "abb-technical-publications-technician-location-memphis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrical/Controls Intern - Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
+    "id": "abb-electrical-controls-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commissioning Engineer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
+    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Engineer",
+    "job_city": "Location Columbus",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
+    "id": "abb-manufacturing-engineer-location-columbus"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Drives",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
+    "id": "abb-field-service-engineer-drives-location-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Supply Chain Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
+    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -81,6 +191,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Production Engineering Technician (2nd Shift)",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -88,56 +208,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028526/Production-Engineering-Technician-2nd-Shift",
     "id": "abb-production-engineering-technician-2nd-shift-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commissioning Engineer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
-    "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -151,81 +221,11 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Electrical/Controls Intern - Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
-    "id": "abb-electrical-controls-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Engineer",
-    "job_city": "Location Columbus",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
-    "id": "abb-manufacturing-engineer-location-columbus"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Publications Technician",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
-    "id": "abb-technical-publications-technician-location-memphis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Drives",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
-    "id": "abb-field-service-engineer-drives-location-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Supply Chain Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
-    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "FPGA Software Engineer R&D – Power Electronics/Traction Applications",
     "job_city": "Location Untersiggenthal",
     "job_state": "Aargau",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Degree (MSc or equivalent) in Electrical Engineering or a related fieldProven experience in programmable logic design (VHDL) and strong expertise in FPGA architecturesKnowledge of power electronic systems is considered an assetExperience in testing methodologies and software development processes is an advantageFluency in both written and spoken German and English is requiredStructured, analytical work style combined with strong communication skills, enabling effective collaboration in interdisciplinary project teams Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) R&D Engineer (f/m/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development Global Technology Owner, Power Electronics Available in one of 3 locations Category Research & Development Senior Software Engineer Location Plzen, Plzeňský kraj, Czechia Category Research & Development R&D (Senior)Testing & Lab Engineer Location Baden-Daettwil, Aargau, Switzerland Category Research & Development R&D Senior Engineer Firmware (80 -100%) Location Quartino, Ticino, Switzerland Category Research & Development Support Engineer (f/m/d) Location Eggelsberg, Upper Austria, Austria Category Research & Development (Senior) Scientist in Converter-Based Distribution Systems (80 - 100%) Location Baden-Daettwil, Aargau, Switzerland Category Research & Development Electrification Business Area Research Manager Available in one of 9 locations Category Research & Development R&D Testing & Lab Specialist Location Vittuone, Milano, Italy Category Research & Development Responsible for the development and the testing of complex FPGA Firmware (VHDL) for traction and auxiliary converters in railway applicationsFeasibility studies, simulation, implementation, testing and documentation according to traction development processesProvide technical support and advisory to internal customersWork in interdisciplinary project teams with engineers from power electronics and control domainsContribute and draft leading-edge development processes to enhance future success of the team.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039532/FPGA-Software-Engineer-R-D-Power-Electronics-Traction-Applications",
     "id": "abb-fpga-software-engineer-r-d-power-electronics-traction-applications-location-untersiggenthal"
   },
@@ -235,29 +235,49 @@
     "job_city": "Location Sant Quirze del Valles",
     "job_state": "Barcelona",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• 📱 Company Mobile Phone: Stay connected with a corporate phone – no need to mix work and personal calls.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities grow, upskill, and move forward in your career.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Experience working hands-on with robotic platforms or other complex hardware-software systems for testing, integration, or troubleshooting.\n• A degree in Robotics, Computer Science, Mechanical Engineering, Electrical Engineering, or related field, with a focus on robotic systems.\n• Industrial experience in software testing, validation engineering, systems engineering, or a related technical field is a plus.\n• Strong communication and collaboration skills, with the ability to work effectively across multidisciplinary engineering teams.\n• Experience with ROS is a plus.\n• 🍽️ Lunch Allowance / Cantine: Enjoy subsidized meals or canteen access depending on your location.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
     "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Robotics Visual SLAM Software Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
-    "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
+    "employer_name": "Apple",
+    "job_title": "Software Quality Engineer, G&A Solutions Engineering (GSE)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum Qualifications3+ years of related hands-on experience in software QA/QE2+ years driving quality focused on automation, building tools, and utilities2+ years of experience in doing QA/QE for ServiceNow is mandatory2+ years of hands-on programming experience in Java/PythonA bachelor's degree in Computer Science or relevant work experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200672967-0157/software-quality-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+    "id": "apple-software-quality-engineer-g-a-solutions-engineering-gse-austin"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Embedded SW Engineer",
-    "job_city": "Location San Fernando de Henares",
-    "job_state": "Madrid",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
-    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
+    "employer_name": "Arm",
+    "job_title": "Modeling Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/modeling-engineer/33099/98170694992",
+    "id": "arm-modeling-engineer-san-jose"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Python Software Engineer",
+    "job_city": "BOURNEMOUTH",
+    "job_state": "DORSET",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Experience and certifications preferred.\n• Software Engineer III - Database Hyderabad, Telangana, India TechnologySoftware Engineering Database Engineer senior individual contributor responsible for designing, implementing, maintaining, and optimizing database systems Lead Software Engineer- Java/ AWS Jersey City, NJ, United States TechnologySoftware Engineering Lead Software Engineer, Java/Spark/AWS Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• \" Rather than asking Lines of Business to run their own migrations, we take end-to-end ownership - profiling workloads, mapping dependencies, building replacement services, and pushing changes directly into codebases and pipelines - so that multi-year migration programmes become weeks of automated, guardrailed execution.\n• Lead Software Engineer -Java/AWS New York, NY, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer III-Java AWS Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering - Java and Kafka New York, NY, United States TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer: Identity & Trust New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java, AWS, React Hyderabad, Telangana, India TechnologySoftware Engineering Lead design, development, and troubleshooting of complex software while growing your skills and expanding your impact as an engineer Lead Software Engineer - Java & AWS OH, United States TechnologySoftware Engineering Build modern, secure software at scale while expanding your engineering impact across a highly collaborative, fast paced team.\n• Lead Software Engineer - Data Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Build and operate scalable, governed, and observable data pipelines and curated datasets powering analytics and AI-enabled experiences.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758392/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-python-software-engineer-bournemouth"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer II - Automation Engineer",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Experience and certifications preferred.\n• Software Engineer III - Database Hyderabad, Telangana, India TechnologySoftware Engineering Database Engineer senior individual contributor responsible for designing, implementing, maintaining, and optimizing database systems Lead Software Engineer- Java/ AWS Jersey City, NJ, United States TechnologySoftware Engineering Lead Software Engineer, Java/Spark/AWS Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• \" Rather than asking Lines of Business to run their own migrations, we take end-to-end ownership - profiling workloads, mapping dependencies, building replacement services, and pushing changes directly into codebases and pipelines - so that multi-year migration programmes become weeks of automated, guardrailed execution.\n• Lead Software Engineer -Java/AWS New York, NY, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer III-Java AWS Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering - Java and Kafka New York, NY, United States TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer: Identity & Trust New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java, AWS, React Hyderabad, Telangana, India TechnologySoftware Engineering Lead design, development, and troubleshooting of complex software while growing your skills and expanding your impact as an engineer Lead Software Engineer - Java & AWS OH, United States TechnologySoftware Engineering Build modern, secure software at scale while expanding your engineering impact across a highly collaborative, fast paced team.\n• Lead Software Engineer - Data Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Build and operate scalable, governed, and observable data pipelines and curated datasets powering analytics and AI-enabled experiences.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760696/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-automation-engineer-new-york"
   },
   {
     "employer_name": "Amazon",
