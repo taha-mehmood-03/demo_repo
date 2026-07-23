@@ -1,45 +1,5 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Full Stack Developer",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_posted_at": "2w",
-    "job_description": "• Gaming Experience Full Stack DeveloperlocationsWashington, DCposted onPosted 20 Days AgoR0243512 Embedded Development Technical LeadlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0241886 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0241334 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0241339.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706?q=software+engineering",
-    "id": "bae-systems-full-stack-developer-san-antonio"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Front End Developer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Gaming Experience Full Stack DeveloperlocationsWashington, DCposted onPosted 20 Days AgoR0243512 Embedded Development Technical LeadlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0241886 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0241334 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0241339.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Front-End-Developer_R0243843?q=software+engineering",
-    "id": "bae-systems-front-end-developer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Back End Developer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Gaming Experience Full Stack DeveloperlocationsWashington, DCposted onPosted 20 Days AgoR0243512 Embedded Development Technical LeadlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0241886 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0241334 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0241339.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Back-End-Developer_R0243844?q=software+engineering",
-    "id": "bae-systems-back-end-developer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Application Developer",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "2w",
-    "job_description": "• Gaming Experience Full Stack DeveloperlocationsWashington, DCposted onPosted 20 Days AgoR0243512 Embedded Development Technical LeadlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0241886 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0241334 TAK Developer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0241339.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Application-Developer_R0243867?q=software+engineering",
-    "id": "bae-systems-application-developer-annapolis-junction"
-  },
-  {
     "employer_name": "10x Genomics",
     "job_title": "View job: Scientist 2-Spatial Biology and Biophysics",
     "job_city": "Pleasanton",
@@ -48,26 +8,6 @@
     "job_description": "• 3+ years of relevant experience in situ hybridization, imaging and spatial techniques, preferably in the Biotechnology industry.\n• Strong analytical background Strong organizational skills.\n• Strong written and oral communication skills.\n• Strong troubleshooting and problem solving skills.\n• Experience with the 10x Genomics Xenium platform is a plus.\n• Skills in image analysis are a plus.\n• PhD in Molecular Biology, Biophysics, Physical Chemistry or related field.\n• Proven ability to design novel molecular biology assay schemes, as evidenced by peer-reviewed publications or published patents.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171841169445",
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 52 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
   },
   {
     "employer_name": "ABB",
@@ -131,6 +71,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 52 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Associate Engineer",
     "job_city": "Location Cleveland",
     "job_state": "Ohio",
@@ -138,6 +98,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
     "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Fall",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
+    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -171,26 +141,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Advisor",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
-    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Electrical/Controls Intern - Fall",
     "job_city": "Location Selmer",
     "job_state": "Tennessee",
@@ -201,16 +151,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Manufacturing Engineer",
     "job_city": "Location Columbus",
     "job_state": "Mississippi",
@@ -218,6 +158,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
     "id": "abb-manufacturing-engineer-location-columbus"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Advisor",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039193/Health-Safety-Environment-Advisor",
+    "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -238,6 +188,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
     "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
   },
   {
     "employer_name": "ABB",
@@ -288,6 +248,26 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
     "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Embedded SW Engineer",
+    "job_city": "Location San Fernando de Henares",
+    "job_state": "Madrid",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
+    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Mobile (Android), Google Workspace",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Mobile (Android), Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80331118443668166-software-engineer-iii-mobile-android-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
+    "id": "google-software-engineer-iii-mobile-android-google-workspace-boulder"
   },
   {
     "employer_name": "Amazon",
