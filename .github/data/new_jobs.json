@@ -21,13 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -41,53 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Publications Technician",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
-    "id": "abb-technical-publications-technician-location-memphis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electrical/Controls Intern - Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
-    "id": "abb-electrical-controls-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
   },
   {
     "employer_name": "ABB",
@@ -121,13 +81,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Engineer",
-    "job_city": "Location Columbus",
-    "job_state": "Mississippi",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
-    "id": "abb-manufacturing-engineer-location-columbus"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrical/Controls Intern - Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
+    "id": "abb-electrical-controls-intern-fall-location-selmer"
   },
   {
     "employer_name": "ABB",
@@ -141,23 +111,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Drives",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
+    "job_title": "Technical Publications Technician",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
-    "id": "abb-field-service-engineer-drives-location-houston"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
+    "id": "abb-technical-publications-technician-location-memphis"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Supply Chain Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
-    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Engineer",
+    "job_city": "Location Columbus",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
+    "id": "abb-manufacturing-engineer-location-columbus"
   },
   {
     "employer_name": "ABB",
@@ -240,44 +220,54 @@
     "id": "abb-health-safety-environment-advisor-available-in-one-of-2-locations"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Security Authorization",
-    "job_city": "Seattle",
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Drives",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
+    "id": "abb-field-service-engineer-drives-location-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Supply Chain Engineer",
+    "job_city": "Available in one of 2 locations",
     "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "• Minimum Qualifications3+ years of software development or production operations experience in a large-scale environmentStrong programming skills in Golang, as you'll be working extensively with Go based applicationsProven experience building and operating large scale, highly available, distributed, and fault tolerant systemsExperience with Kubernetes, Docker, and containerization (CNCF Kubernetes Developer or equivalent)Knowledge of securing APIs, including input validation, authentication, and authorization mechanisms for RESTful and gRPC APIsBS/MS in Computer Science or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200673149-3337/software-engineer-security-authorization?team=SFTWR",
-    "id": "apple-software-engineer-security-authorization-seattle"
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
+    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Quality Software Engineer III - UI Automation",
-    "job_city": "Palo Alto",
+    "employer_name": "Honeywell",
+    "job_title": "Field Service Engineering I- Gas Detection - Bay Area",
+    "job_city": "San Mateo",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Experience and certifications preferred.\n• Manager of Software Engineering Plano, TX, United States TechnologySoftware Engineering Serve in a leadership role by providing technical coaching and advisory for multiple technical teams Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• \" Rather than asking Lines of Business to run their own migrations, we take end-to-end ownership - profiling workloads, mapping dependencies, building replacement services, and pushing changes directly into codebases and pipelines - so that multi-year migration programmes become weeks of automated, guardrailed execution.\n• Lead Software Engineer -Java/AWS New York, NY, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer III-Java AWS Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering - Java and Kafka New York, NY, United States TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer: Identity & Trust New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java, AWS, React Hyderabad, Telangana, India TechnologySoftware Engineering Lead design, development, and troubleshooting of complex software while growing your skills and expanding your impact as an engineer Principal Software Engineer - API Marketplace Seattle, WA, United States and 2 more TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Lead Software Engineer - Java & AWS OH, United States TechnologySoftware Engineering Build modern, secure software at scale while expanding your engineering impact across a highly collaborative, fast paced team.\n• Lead Software Engineer - Data Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Build and operate scalable, governed, and observable data pipelines and curated datasets powering analytics and AI-enabled experiences.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771348/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-quality-software-engineer-iii-ui-automation-palo-alto"
+    "job_posted_at": "3d",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• You will translate business needs into data science solutions and mentor junior data scientists.\n• The engineer may need to lift or move up to 25 pounds occasionally.\n• Your skills will maintain our IT infrastructure and drive excellence in IT support.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/153689/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-field-service-engineering-i-gas-detection-bay-area-san-mateo"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III – Frontend, Monday.com, AWS",
-    "job_city": "Plano",
-    "job_state": "TX",
+    "employer_name": "Honeywell",
+    "job_title": "QCS Field Service Engr I - Resident - IP Pensacola",
+    "job_city": "Pensacola",
+    "job_state": "FL",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Experience and certifications preferred.\n• Manager of Software Engineering Plano, TX, United States TechnologySoftware Engineering Serve in a leadership role by providing technical coaching and advisory for multiple technical teams Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• \" Rather than asking Lines of Business to run their own migrations, we take end-to-end ownership - profiling workloads, mapping dependencies, building replacement services, and pushing changes directly into codebases and pipelines - so that multi-year migration programmes become weeks of automated, guardrailed execution.\n• Lead Software Engineer -Java/AWS New York, NY, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer III-Java AWS Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering - Java and Kafka New York, NY, United States TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer: Identity & Trust New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java, AWS, React Hyderabad, Telangana, India TechnologySoftware Engineering Lead design, development, and troubleshooting of complex software while growing your skills and expanding your impact as an engineer Principal Software Engineer - API Marketplace Seattle, WA, United States and 2 more TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Lead Software Engineer - Java & AWS OH, United States TechnologySoftware Engineering Build modern, secure software at scale while expanding your engineering impact across a highly collaborative, fast paced team.\n• Lead Software Engineer - Data Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Build and operate scalable, governed, and observable data pipelines and curated datasets powering analytics and AI-enabled experiences.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773570/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-frontend-monday-com-aws-plano"
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• You will translate business needs into data science solutions and mentor junior data scientists.\n• The engineer may need to lift or move up to 25 pounds occasionally.\n• Your skills will maintain our IT infrastructure and drive excellence in IT support.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/153104/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-qcs-field-service-engr-i-resident-ip-pensacola-pensacola"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Java Backend Software Engineer II - AI/ React",
-    "job_city": "Chicago",
+    "employer_name": "Honeywell",
+    "job_title": "Machine Setup Operator-Level",
+    "job_city": "Freeport",
     "job_state": "IL",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Experience and certifications preferred.\n• Manager of Software Engineering Plano, TX, United States TechnologySoftware Engineering Serve in a leadership role by providing technical coaching and advisory for multiple technical teams Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• \" Rather than asking Lines of Business to run their own migrations, we take end-to-end ownership - profiling workloads, mapping dependencies, building replacement services, and pushing changes directly into codebases and pipelines - so that multi-year migration programmes become weeks of automated, guardrailed execution.\n• Lead Software Engineer -Java/AWS New York, NY, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer III-Java AWS Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering - Java and Kafka New York, NY, United States TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Lead Software Engineer: Identity & Trust New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java, AWS, React Hyderabad, Telangana, India TechnologySoftware Engineering Lead design, development, and troubleshooting of complex software while growing your skills and expanding your impact as an engineer Principal Software Engineer - API Marketplace Seattle, WA, United States and 2 more TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Lead Software Engineer - Java & AWS OH, United States TechnologySoftware Engineering Build modern, secure software at scale while expanding your engineering impact across a highly collaborative, fast paced team.\n• Lead Software Engineer - Data Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Build and operate scalable, governed, and observable data pipelines and curated datasets powering analytics and AI-enabled experiences.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758513/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-java-backend-software-engineer-ii-ai-react-chicago"
+    "job_posted_at": "2d",
+    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• You will translate business needs into data science solutions and mentor junior data scientists.\n• The engineer may need to lift or move up to 25 pounds occasionally.\n• Your skills will maintain our IT infrastructure and drive excellence in IT support.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/153244/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-machine-setup-operator-level-freeport"
   },
   {
     "employer_name": "Amazon",
@@ -314,7 +304,7 @@
     "job_title": "Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "22h",
+    "job_posted_at": "23h",
     "job_description": "software engineering job for the role Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10482907/front-end-engineer-ii-aws-marketplace-offer-experiences",
     "id": "amazon-front-end-engineer-ii-aws-marketplace-offer-experiences-austin"
