@@ -10,34 +10,44 @@
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "System Design Engineer - AI Cluster Software Engineer",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "Magna International",
+    "job_title": "Automation Technician, B Crew ($32.00/hr)",
+    "job_city": "Warren",
+    "job_state": "Michigan",
     "job_posted_at": "1d",
-    "job_description": "• Partner with engineering peers, domain experts in adjacent teams, and business stakeholders to understand requirements and translate them into flexible, future-proof design solutionsHands on development, iteration, and maintenance of tools and applications that codify various aspects of large-scale AI cluster design stages and cluster deployment activitiesDesign and development of cohesive interface code between disparate third party toolsOwn features from requirements and design through deployment and ongoing maintenanceWork in an iterative software environment, including planning and delivering work in small increments, collaborating with stakeholders, often in different areas of domain expertise (Agile development practices)Participate in code reviews and retros.\n• Adapt to changing requirements and priorities Demonstrated use of AI coding assistants and LLM-powered developer tools: daily user of AI agents and toolsFive or more years of professional software development experience, including substantial experience building and supporting web applicationsProficiency in modern frontend development using JavaScript or TypeScript and a framework such as React, Angular, or VueExperience developing backend services and APIs using a modern server-side language or frameworkExperience deploying and operating applications using Linux, containers, CI/CD, and cloud or on-premises infrastructureExperience with automated testing, source control, code review, debugging, and production supportWorking knowledge of web application security, authentication, authorization, and secure secrets handling AMD ecosystem experience: ROCm, RCCL, Instinct GPUs, EPYC platforms, compiler/toolchain impacts, and performance tuningOrchestration models: Slurm configuration patterns, Kubernetes for HPC/AI (GPU operators, device plugins), Apptainer/SingularityAutomation, IaC , and scripting tools/languages (Ansible, Terraform, Python, bash)Storage/data: knowledge of or familiarity with parallel filesystems (Lustre, BeeGFS), object stores, RDMA, data pipeline throughput and caching strategiesHands-on familiarity with on-premises infrastructure, particularly for AI/ML/HPC workloads would be beneficial Strong Linux fundamentals: Linux operating systems, networking, filesystems, containers, performance tooling (perf, flamegraphs, nvprof/rocprof, basic eBPF).\n• Clear communication: ability to turn complex systems into accessible, structured documentation with diagrams and reproducible steps AMD Partner Hub Authorized Distributors AMD University Program Bachelors or Masters degree in computer science or software/computer engineering Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/88926/login",
-    "id": "amd-system-design-engineer-ai-cluster-software-engineer-us"
+    "job_description": "• Cloud Solutions Architect, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00187092CNC MachinistlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222195Warranty SpecialistlocationsShepherdsville, Kentucky, USposted onPosted 29 Days AgoR00249189Eng, Supplier QualitylocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00242573Tool & Die Journeyman - 2nd & 3rd shiftslocationsBowling Green, Ohio, USposted onPosted 7 Days AgoR00252814Maintenance Technician-3rd Shift- MontelocationsMontezuma, Iowa, USposted onPosted 30+ Days AgoR00244704Maintenance Technician-3rd Shift -MontelocationsMontezuma, Iowa, USposted onPosted 30+ Days AgoR00244708Maintenance Technician-2nd Shift- VictorlocationsVictor, Iowa, USposted onPosted 30+ Days AgoR00244714Maintenance Technician-2nd Shift- VictorlocationsVictor, Iowa, USposted onPosted 30+ Days AgoR00244716Maintenance Technician-2nd Shift- MontelocationsMontezuma, Iowa, USposted onPosted 30+ Days AgoR00244713CNC Technician (Second Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00239207CNC Technician (1st Shift)locationsSterling Heights, Michigan, USposted onPosted TodayR00253450Production SchedulerlocationsLansing, Michigan, USposted onPosted 14 Days AgoR00251723Automation Technician, B Crew ($32.\n• 00/hr)locationsWarren, Michigan, USposted onPosted TodayR00251332Maintenance Technician-1locationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00246773Controls Technician (1st Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00247126Controls Technician (1st Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00247123Controls Technician (2nd Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00247131Controls Technician (2nd Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00247127Assistant Maintenance ManagerlocationsNew Hudson, Michigan, USposted onPosted 30+ Days AgoR00232540.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Warren-Michigan-US/Automation-Technician--B-Crew---3200-hr-_R00251332?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-automation-technician-b-crew-32-00-hr-warren"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, Linux Graphics",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• System Software Engineer, GeForce SoftwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2015749Senior Software Engineer, Networking Softwarelocations4 Locationsposted onPosted 3 Days AgoJR1998106Senior Software Engineer - HPClocations3 Locationsposted onPosted 30+ Days AgoJR2013372Senior Networking Software EngineerlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2015068Tegra System Software Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR2015299Software Engineer - DPU PlatformlocationsUS, MA, Westfordposted onPosted 22 Days AgoJR2015949Software Engineer, NVIDIA OpenShelllocationsUS, CA, Remoteposted onPosted 7 Days AgoJR2017604System Software Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR2017734Senior Software Engineer, Securitylocations2 Locationsposted onPosted 7 Days AgoJR2018245Senior Software Engineer - SimulationlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2018096Senior Software Engineer — cuEquivariancelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2018334Software Engineer, CAD AutomationlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2019252Embedded Software Engineer - RISCVlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2019685Senior Software Engineer - Topographylocations2 Locationsposted onPosted 23 Days AgoJR2020161Principal Systems Software Engineerlocations2 Locationsposted onPosted 9 Days AgoJR2021260Embedded Software Engineer - RISCVlocationsUS, CA, Santa Claraposted onPosted 4 Days AgoJR2021486Senior Software Engineer – Streaminglocations3 Locationsposted onPosted 4 Days AgoJR2021692Software Engineer, Linux Graphicslocations2 Locationsposted onPosted TodayJR2021838System Software Engineering Leadlocations2 Locationsposted onPosted TodayJR2021953Senior Software Engineer, NCCLlocationsUS, CA, Santa Claraposted onPosted 7 Days AgoJR1997186.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Linux-Graphics_JR2021838?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-linux-graphics-2-locations"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "AI Research Infrastructure Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Practical, hands-on experience with the SLURM workload manager—partitions, scheduling policy, accounting, node management, and tuning.\n• Experience operating GPU, HPC, or AI/ML research compute environments.\n• Experience with Docker/containers and Kubernetes, plus automation and system health monitoring.\n• Own day-to-day operations of the SLURM-managed GPU and HPC clusters, ensuring high availability, utilization, and performance across a multi-user research environment.\n• Partner directly with researchers as a technical peer to get demanding multi-GPU and multi-node workloads running and optimized.\n• Operate and improve the broader compute platform—shared storage, networking, containers, and monitoring—and build automation and self-service workflows that reduce friction for researchers.\n• Support GPU platform and hardware bring-up: validation, enablement, debugging, and operational readiness.\n• Manage AMD's university program clusters and support external academic collaborators alongside internal research users, spanning both internal and externally visible compute clusters.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/88943/login",
+    "id": "amd-ai-research-infrastructure-engineer-us"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Available in one of 183 locations",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 52 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +61,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
-    "job_city": "Available in one of 2 locations",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Available in one of 183 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
   },
   {
     "employer_name": "ABB",
@@ -68,6 +78,66 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
     "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Fall",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
+    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Publications Technician",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
+    "id": "abb-technical-publications-technician-location-memphis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrical/Controls Intern - Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
+    "id": "abb-electrical-controls-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -101,23 +171,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
+    "job_title": "Manufacturing Engineer",
+    "job_city": "Location Columbus",
+    "job_state": "Mississippi",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electrical/Controls Intern - Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
-    "id": "abb-electrical-controls-intern-fall-location-selmer"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
+    "id": "abb-manufacturing-engineer-location-columbus"
   },
   {
     "employer_name": "ABB",
@@ -131,33 +191,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Publications Technician",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
+    "job_title": "Field Service Engineer - Drives",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040093/Technical-Publications-Technician",
-    "id": "abb-technical-publications-technician-location-memphis"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
+    "id": "abb-field-service-engineer-drives-location-houston"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
+    "job_title": "Supply Chain Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Engineer",
-    "job_city": "Location Columbus",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034397/Manufacturing-Engineer",
-    "id": "abb-manufacturing-engineer-location-columbus"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
+    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -230,24 +280,14 @@
     "id": "abb-production-engineering-technician-2nd-shift-location-pinetops"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer - Drives",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029343/Field-Service-Engineer-Drives",
-    "id": "abb-field-service-engineer-drives-location-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Supply Chain Engineer",
-    "job_city": "Available in one of 2 locations",
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Storage Infrastructure",
+    "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039546/Supply-Chain-Engineer",
-    "id": "abb-supply-chain-engineer-available-in-one-of-2-locations"
+    "job_posted_at": "1d",
+    "job_description": "• Minimum Qualifications3 years of professional software development experienceStrong analytical and problem-solving skills, with meticulous attention to detail.\n• Experience in building storage systems2+ years of coding in one or more of these programming languages: Rust, C++, Java or C#Experience with scripting languages (Bash, Python, Perl)Bachelor’s Degree in Computer Science, an engineering-related field, or equivalent related experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200674011-0836/software-engineer-storage-infrastructure?team=SFTWR",
+    "id": "apple-software-engineer-storage-infrastructure-cupertino"
   },
   {
     "employer_name": "Amazon",
@@ -284,7 +324,7 @@
     "job_title": "Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10482907/front-end-engineer-ii-aws-marketplace-offer-experiences",
     "id": "amazon-front-end-engineer-ii-aws-marketplace-offer-experiences-austin"
