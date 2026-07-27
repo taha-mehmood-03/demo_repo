@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Software Signals Engineer",
-    "job_city": "McLean",
+    "job_title": "Model and Simulation Software Engineer",
+    "job_city": "Suffolk",
     "job_state": "VA",
-    "job_posted_at": "3d",
-    "job_description": "• Gaming Experience Full Stack DeveloperlocationsWashington, DCposted onPosted 25 Days AgoR0243512 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 11 Days AgoR0244420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Signals-Engineer_R0244250-1?q=software+engineering",
-    "id": "bae-systems-software-signals-engineer-mclean"
+    "job_posted_at": "1d",
+    "job_description": "• Cyber Platforms Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 18 Days AgoR0243454 Cyber Platforms Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 7 Days AgoR0244822 Cyber Platforms Software Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 18 Days AgoR0243467 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 28 Days AgoR0243290 Full-Stack Software Engineer, SeniorlocationsFayetteville, NCposted onPosted TodayR0244184 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 12 Days AgoR0234072 Full Stack Engineer, LeadlocationsMcLean, VAposted onPosted 7 Days AgoR0243593 Cloud Developer, Seniorlocations2 Locationsposted onPosted 26 Days AgoR0229652.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Model-and-Simulation-Software-Engineer_R0245332?q=software+engineering",
+    "id": "bae-systems-model-and-simulation-software-engineer-suffolk"
   },
   {
     "employer_name": "10x Genomics",
@@ -20,34 +20,64 @@
     "id": "10x-genomics-view-job-scientist-2-spatial-biology-and-biophysics-pleasanton"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 52 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
+    "employer_name": "Guidehouse",
+    "job_title": "DoD Financial Management Business Analytics",
+    "job_city": "US - FL",
+    "job_state": "Tampa",
+    "job_posted_at": "1d",
+    "job_description": "• Data AnalystlocationsUS - VA, Arlingtonposted onPosted 6 Days Ago42202Full Stack Developer with Cloud and DevOps ExperiencelocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago39094Lead Developerlocations2 Locationsposted onPosted 5 Days Ago41854Senior Developerlocations2 Locationsposted onPosted 5 Days Ago41865API Developer/Data Engineer Managing Consultant-Fraud/AIlocations4 Locationsposted onPosted 13 Days Ago41642AWS Application Architect - Leadlocations3 Locationsposted onPosted 30+ Days Ago39791Account Director- Energy Providerslocations14 Locationsposted onPosted Today40836Data ScientistlocationsUS - VA, Arlingtonposted onPosted 26 Days Ago38181ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38980DoD Financial Management Business AnalyticslocationsUS - FL, Tampaposted onPosted Today42393Data ScientistlocationsUS - VA, Norfolkposted onPosted 19 Days Ago41677Sr.\n• ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38981AWS Cloud Platform ArchitectlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40591Palantir DeveloperlocationsUS - Remote (Any location)posted onPosted 20 Days Ago41650Kubernetes AdministratorlocationsUS - DC, Washingtonposted onPosted 17 Days Ago40775Senior Data ScientistlocationsUS - VA, Chantillyposted onPosted 30+ Days Ago37322ServiceNow Developerlocations2 Locationsposted onPosted 30+ Days Ago40364Technical SETA SME – Machine Learning, Modeling & SimulationlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago38258Molecular BiologistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago41209ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 17 Days Ago40361.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---FL-Tampa/DoD-Financial-Management-Business-Analytics_42393?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-dod-financial-management-business-analytics-us-fl"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 51 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-51-locations"
+    "employer_name": "Guidehouse",
+    "job_title": "Technical SETA SME – Financial Intelligence",
+    "job_city": "US - MD",
+    "job_state": "Bethesda",
+    "job_posted_at": "1d",
+    "job_description": "• Data AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39905Operations Research AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39904Senior Salesforce Developerlocations2 Locationsposted onPosted 30+ Days Ago40565Laboratory TechnicianlocationsUS - MD, Rockvilleposted onPosted 28 Days Ago41265Technical Writer - SeniorlocationsUS - DC, Washingtonposted onPosted 3 Days Ago42291Construction Project Manager - Senior LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago40140Construction Cost EstimatorlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago40155Project SchedulerlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago40154Palantir Foundry DeveloperlocationsUS - VA, Norfolkposted onPosted 18 Days Ago41679Scrum Masterlocations2 Locationsposted onPosted 30+ Days Ago40688Technical SETA SME – Financial IntelligencelocationsUS - MD, Bethesdaposted onPosted Today42297Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago37095ServiceNow Senior Developerlocations2 Locationsposted onPosted 13 Days Ago41352Life-Cycle Cost Analysis Functional SMElocations2 Locationsposted onPosted 30+ Days Ago39229Cybersecurity Transition ManagerlocationsUS - MD, Hanoverposted onPosted 30+ Days Ago38451Lead Developerlocations2 Locationsposted onPosted 30+ Days Ago37698ServiceNow DeveloperlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38977Proposal Coordination, Senior Associatelocations3 Locationsposted onPosted 30+ Days Ago39370Professional Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago38800Sr.\n• ServiceNow DeveloperlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38983.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Technical-SETA-SME---Financial-Intelligence_42297?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-technical-seta-sme-financial-intelligence-us-md"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
+    "employer_name": "Intel",
+    "job_title": "Silicon Product Engineer",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Silicon Product EngineerlocationsUS, California, Folsomposted onPosted TodayJR0285037Silicon Product EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0285046Silicon Product EngineerlocationsUS, Texas, Austinposted onPosted TodayJR0284977TEM TechnicianlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0285760Ocotillo Technology Fabrication Yield Device Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 10 Days AgoJR0285563Package Failure Analysis EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0285288Package Failure Analysis EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0285289Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281986Intel Foundry Yield Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0285157Process Integration and Yield EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0285026Yield Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 10 Days AgoJR0285677Process Integration and Yield EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0285029Principal Engineer, EmulationlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0285097Load Balancer Network Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0284296Senior Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 11 Days AgoJR0284688Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0284880Firewall Network Security EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0284032Cloud Application Development Engineerlocations4 Locationsposted onPosted 5 Days AgoJR0282956Junior CPU Verification Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0285875Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0284192.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Silicon-Product-Engineer_JR0285037?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-silicon-product-engineer-us"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Process Integration and Yield Engineer",
+    "job_city": "US",
+    "job_state": "Arizona",
+    "job_posted_at": "1d",
+    "job_description": "• Silicon Product EngineerlocationsUS, California, Folsomposted onPosted TodayJR0285037Silicon Product EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0285046Silicon Product EngineerlocationsUS, Texas, Austinposted onPosted TodayJR0284977TEM TechnicianlocationsUS, Oregon, Hillsboroposted onPosted 5 Days AgoJR0285760Ocotillo Technology Fabrication Yield Device Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 10 Days AgoJR0285563Package Failure Analysis EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0285288Package Failure Analysis EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0285289Senior Middleware Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281986Intel Foundry Yield Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0285157Process Integration and Yield EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0285026Yield Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 10 Days AgoJR0285677Process Integration and Yield EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0285029Principal Engineer, EmulationlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0285097Load Balancer Network Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0284296Senior Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 11 Days AgoJR0284688Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0284880Firewall Network Security EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0284032Cloud Application Development Engineerlocations4 Locationsposted onPosted 5 Days AgoJR0282956Junior CPU Verification Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0285875Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0284192.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Process-Integration-and-Yield-Engineer_JR0285026-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-process-integration-and-yield-engineer-us"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Silicon Validation Engineer",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• CPU Core Pre-Si Validation/Verification EngineerlocationsUS, California, Folsomposted onPosted TodayJR0285857Silicon Validation EngineerlocationsUS, California, Folsomposted onPosted TodayJR0285040Facilities Power Distribution Electrical EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0282731CPU Verification Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0282921Enterprise Systems Analystlocations3 Locationsposted onPosted 17 Days AgoJR0284274CPU Verification Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0283608Senior CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281123Director of Data Governance and Operationslocations3 Locationsposted onPosted 11 Days AgoJR0284841EDA Tools Hardware Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0284645EDA Tools Hardware Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0284646Silicon/Electrical Validation Engineerlocations2 Locationsposted onPosted 13 Days AgoJR0285546IA Core Post Silicon Validation EngineerlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0284403Supply Chain Engineering Commodity Managerlocations4 Locationsposted onPosted 6 Days AgoJR0285000Supply Chain EngineerlocationsUS, New Mexico, Albuquerqueposted onPosted 24 Days AgoJR0285416Industrial Engineer - Foundry Strategic Capacitylocations2 Locationsposted onPosted 4 Days AgoJR0285709EDA Design Flow Development Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0284647Supply Chain Engineer (SCE)locations2 Locationsposted onPosted 13 Days AgoJR0284800Global Operations Supply Chain Engineer - OregonlocationsUS, Oregon, Hillsboroposted onPosted 26 Days AgoJR0284955Senior CPU Pre-Silicon Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281371CPU Pre-Silicon Verification EngineerlocationsUS, California, Folsomposted onPosted 7 Days AgoJR0285652.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Silicon-Validation-Engineer_JR0285040?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-silicon-validation-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "AI Infrastructure Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Hands-on experience in storage or network engineering within Kubernetes environments (e.\n• Experience with Infrastructure as Code tools like Terraform.\n• Background in HPC, Slurm, or GPU-based compute systems for ML/AI workloads.\n• Practical experience with monitoring and observability tools (Prometheus, Grafana, Loki, etc.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Experience in DevOps, Platform, or Infrastructure Engineering.\n• Deep hands-on experience with Kubernetes and container orchestration at scale.\n• Proven ability to design and deliver platform features that serve internal customers or developer teamsExperience building developer-facing platforms or internal developer portals (e.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/87209/login",
+    "id": "amd-ai-infrastructure-engineer-us"
   },
   {
     "employer_name": "ABB",
@@ -111,6 +141,46 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 52 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 51 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-51-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Associate Engineer",
     "job_city": "Location Cleveland",
     "job_state": "Ohio",
@@ -118,6 +188,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
     "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Fall",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
+    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -151,26 +231,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Engineering Intern- Fall",
     "job_city": "Location Selmer",
     "job_state": "Tennessee",
@@ -188,16 +248,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
     "id": "abb-electrical-controls-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
   },
   {
     "employer_name": "ABB",
@@ -231,6 +281,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Field Service Engineer - Drives",
     "job_city": "Location Houston",
     "job_state": "Texas",
@@ -258,16 +318,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
     "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - AI Developer",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Code For Good - Hackaton 2026 Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Code for Good hackathon 2026 2026 Code For Good_ Singapore Singapore, Singapore Program Analysts & AssociateAnalysts Join the Code for Good hackathon to earn consideration for the 2027 summer internship in the Tech Data and Product segment Software Engineer III BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Software Engineer III – Public Cloud Bournemouth Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Software Engineer III - Python Dublin, Ireland TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n• Create a profile so we can help Join the Network Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Own day-to-day implementation, proactively unblock and escalate risks, and ensure solutions meet compliance standards, business requirements, and engineering best practices.\n• Java Software Engineer III New York, NY, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III - DevOps Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer- Java/ AWS Jersey City, NJ, United States TechnologySoftware Engineering Lead Software Engineer, Java/Spark/AWS Lead Software Engineer - Android Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• Software Engineer III, Mobile Development Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer I Tokyo-To, Japan TechnologySoftware Engineering Join Japan Payments Technology team that designs and delivers market-leading technology products in a secure and scalable way to contribute to business growth Lead Software Engineer Palo Alto, CA, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Director of Software Engineering-HR Domain Jersey City, NJ, United States TechnologySoftware Engineering Hands-on Director of Software Engineering building always-on apps for Comp, Benefits, Payroll & Time—serverless, multi-region AI-native Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Proxy/SSE Network Security LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer - Proxy/SSE Network Security Lead Software Engineer - Proxy/SSE Network Security LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer - Proxy/SSE Network Security Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Sr Lead Software Engineer COMMODITIES UK LONDON, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Base Metals / Front Office / Athena Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer- Python / Quant Developer / Quant Research New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer who is strong with Python Development and has knowledge of statistical methods and data analytics Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• The role requires deep experience in high-throughput payment systems and modern engineering capabilities across GemFire, AI-enabled operations, microservices, cloud-native architecture, and AWS.\n• Lead Software Engineer Singapore TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead software Engineer - Full Stack Jersey City, NJ, United States TechnologySoftware Engineering Lead Full Stack AI Software Engineer with strong React expertise, experienced in building enterprise AI applications using AI agents, REACT, RAG, APIs, databases, and real-time processing technologies.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768816/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-ai-developer-plano"
   },
   {
     "employer_name": "Amazon",
@@ -314,7 +364,7 @@
     "job_title": "Component Engineer, Amazon Leo",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "14h",
+    "job_posted_at": "17h",
     "job_description": "software engineering job for the role Component Engineer, Amazon Leo",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10484210/component-engineer-amazon-leo",
     "id": "amazon-component-engineer-amazon-leo-redmond"
