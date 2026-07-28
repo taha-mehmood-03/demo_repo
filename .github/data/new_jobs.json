@@ -271,33 +271,13 @@
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Engineering Productivity",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81553658335896262-software-engineer-iii-engineering-productivity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-iii-engineering-productivity-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Manufacturing AI Infrastructure",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer, Google Messages",
+    "job_city": "San Jose",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Manufacturing AI Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/112775390518223558-software-engineer-iii-manufacturing-ai-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-manufacturing-ai-infrastructure-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Artifact Registry",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Artifact Registry",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97624120287470278-software-engineer-iii-infrastructure-artifact-registry?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-infrastructure-artifact-registry-kirkland"
+    "job_description": "software engineering job for the role Software Engineer, Google Messages",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/107157985611915974-software-engineer-google-messages?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-google-messages-san-jose"
   },
   {
     "employer_name": "Amazon",
