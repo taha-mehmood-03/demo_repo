@@ -20,14 +20,34 @@
     "id": "10x-genomics-view-job-field-application-scientist-connecticut-"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Health Informatics Analyst",
-    "job_city": "US - VA",
-    "job_state": "Arlington",
-    "job_posted_at": "1d",
-    "job_description": "• API Developer/Data Engineer Managing Consultant-Fraud/AIlocations4 Locationsposted onPosted 16 Days Ago41642AWS Application Architect - Leadlocations3 Locationsposted onPosted 30+ Days Ago39791Account Director- Energy Providerslocations14 Locationsposted onPosted 3 Days Ago40836Health Informatics AnalystlocationsUS - VA, Arlingtonposted onPosted Today42432Data ScientistlocationsUS - VA, Arlingtonposted onPosted 29 Days Ago38181ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38980DoD Financial Management Business AnalyticslocationsUS - FL, Tampaposted onPosted 3 Days Ago42393Data ScientistlocationsUS - VA, Norfolkposted onPosted 22 Days Ago41677AWS Cloud Platform ArchitectlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40591Palantir DeveloperlocationsUS - Remote (Any location)posted onPosted 23 Days Ago41650Kubernetes AdministratorlocationsUS - DC, Washingtonposted onPosted 20 Days Ago40775Sr.\n• ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38981Databricks Solution Architect, Utilitieslocations5 Locationsposted onPosted 3 Days Ago42018Senior Data ScientistlocationsUS - VA, Chantillyposted onPosted 30+ Days Ago37322ServiceNow Developerlocations2 Locationsposted onPosted 30+ Days Ago40364Technical SETA SME – Machine Learning, Modeling & SimulationlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago38258ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 20 Days Ago40361Data AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39905Molecular BiologistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago41209Senior Salesforce Developerlocations2 Locationsposted onPosted 30+ Days Ago40565.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Health-Informatics-Analyst_42432?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-health-informatics-analyst-us-va"
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 52 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 51 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-51-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
   },
   {
     "employer_name": "ABB",
@@ -81,16 +101,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
-    "job_city": "Location Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
-    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Electrical Engineer",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -111,53 +121,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 52 locations",
-    "job_state": "US",
+    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
+    "job_city": "Location Cary",
+    "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 51 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-51-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
+    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
   },
   {
     "employer_name": "ABB",
@@ -201,6 +171,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Fall",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
+    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Engineering Intern- Fall",
     "job_city": "Location Selmer",
     "job_state": "Tennessee",
@@ -218,6 +208,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
     "id": "abb-electrical-controls-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
   },
   {
     "employer_name": "ABB",
@@ -270,64 +270,114 @@
     "id": "abb-manufacturing-process-engineer-location-senatobia"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Coherent Interconnect Power Engineer",
+    "job_title": "Performance Modeling Engineer",
     "job_city": "Austin",
     "job_state": "Texas",
     "job_posted_at": "1d",
     "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/coherent-interconnect-power-engineer/47397/74496333472",
-    "id": "arm-coherent-interconnect-power-engineer-austin"
+    "job_apply_link": "https://careers.arm.com/job/austin/performance-modeling-engineer/47397/74123552160",
+    "id": "arm-performance-modeling-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Laptop SoC Power & Thermal Management Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/laptop-soc-power-and-thermal-management-engineer/47397/70115622640",
+    "id": "arm-laptop-soc-power-thermal-management-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Laptop SoC Power & Thermal Management Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/laptop-soc-power-and-thermal-management-engineer/47397/70115616512",
+    "id": "arm-laptop-soc-power-thermal-management-engineer-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Laptop SoC Power & Thermal Management Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/laptop-soc-power-and-thermal-management-engineer/47397/69002891152",
+    "id": "arm-laptop-soc-power-thermal-management-engineer-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Package Design Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/package-design-engineer/47397/74088153792",
+    "id": "arm-package-design-engineer-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Design Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-design-engineer/47397/73983969568",
+    "id": "arm-soc-design-engineer-san-diego"
   },
   {
     "employer_name": "Honeywell",
-    "job_title": "S/4HANA Supply Planner II Analyst",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_posted_at": "2w",
+    "job_title": "Energy Analyst (Data Support)",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_posted_at": "18h",
     "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• The engineer may need to lift or move up to 25 pounds occasionally.\n• Field Engr II Locations Charlotte, NC, United States (Remote) Posting Date06/10/2026 Trending Director Engineering - User Experience Locations Atlanta, GA, United States Posting Date06/13/2026 Trending As Director Engineering – User Experience (UX) here at Honeywell, you will lead the transformation of UX across Honeywell Building Automation’s global portfolio of digital and physical solutions.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/152643/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-s-4hana-supply-planner-ii-analyst-houston"
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/154213/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-energy-analyst-data-support-raleigh"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "CMAS-Software Engineer",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_title": "Software Engineer III - Full Stack",
+    "job_city": "Plano",
+    "job_state": "TX",
     "job_posted_at": "1d",
     "job_description": "• Code For Good - Hackaton 2026 Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Code for Good hackathon 2026 2026 Code For Good_ Singapore Singapore, Singapore Program Analysts & AssociateAnalysts Join the Code for Good hackathon to earn consideration for the 2027 summer internship in the Tech Data and Product segment Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Software Engineer II - React Hyderabad, Telangana, India TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n• Create a profile so we can help Join the Network Software Engineer III BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Software Engineer III – Public Cloud Bournemouth Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Software Engineer II- Data Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Build skills, gain experience, and accelerate your career with an exciting software engineering opportunity designed for your growth.\n• Director of Software Engineering Wilmington, DE, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Principal Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• We are looking for Big Data Software Engineer with skills and experience implementing platform to large-scale processing on internal as well as public cloud.\n• You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775868/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-cmas-software-engineer-boston"
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660269/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-full-stack-plano"
   },
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "Equipment Engineer - Maine",
-    "job_city": "South Portland",
-    "job_state": "ME",
-    "job_posted_at": "16h",
-    "job_description": "• (3) Sherman, Sherman - SM1 Fab (2) NOVI, NOVI, MI (2) Categories 0 Engineering - Product Dev (21) Manufacturing (16) Information Technology (10) Sales (2) Administration (1) Experience Level 0 Experienced Professional (43) Recent College Grads (6) Interns (1) Work Locations 0 Dallas, South Campus (13) Richardson, Richardson Fab, Renner Rd (9) Lehi, Lehi, UT (5) Dallas, North Campus - DMOS V South (4) Dallas, North Campus - DMOS V North (4) Santa Clara, Santa Clara, Great America.\n• (3) Sherman, Sherman - SM1 Fab (2) NOVI, NOVI, MI (2) Categories 0 Engineering - Product Dev (21) Manufacturing (16) Information Technology (10) Sales (2) Administration (1) Experience Level 0 Experienced Professional (43) Recent College Grads (6) Interns (1) Job Identification 25011570 Job Category Manufacturing Posting Date 07/30/2026, 03:49 PM Degree Level Bachelor's Degree Locations SPOR 5 Foden Rd, South Portland, ME, 04106, US Base Range Info Base pay is one part of our total compensation package and is determined within a range.\n• Your base pay will depend on your skills, qualifications, experience, and location.\n• Base Range $77,500 - $125,500 ECL/GTC Required Yes Equipment experience with AMAT PVD and/or AMAT TxZ chambersPrior experience with PVD, CVD, high vacuum and/or ultra high vacuumEquipment experience on other equipment AMAT Endura, CenturaExperience on tool monitoring and interdiction software, and equipment maintenance and documentationWorking knowledge of semiconductor manufacturing, and SPC techniques.\n• Experienced with semiconductor cleanroom protocol and behaviorsStrong verbal and written communication skillsDemonstrated strong analytical, critical thinking and problem solving skillsAbility to work in teams and collaborate effectively with people in different functionsAbility to take the initiative and drive for resultsStrong time management skills that enable on-time project deliveryAbility to work effectively in an interrupt-driven, fast-paced and rapidly changing environmentDemonstrated ability to build strong, influential relationship Evaluating, selecting, and ordering equipment that is most appropriate and cost effective for the manufacture of company productsOverseeing the installation, modification, upgrade and maintenance of manufacturing equipmentKeeping current on equipment manufacturers' technical notices, upgrades and safety issuesStudying equipment performance and reliabilityEstablishing programs and solutions for increasing uptime and for equipment problems that affect the manufacturing processProviding technical support to the manufacturing equipment repair and process engineering organizationsDefining and writing preventative maintenance schedules Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Experienced Professional (43) Recent College Grads (6) Interns (1) Experienced Professional (43) Recent College Grads (6) Interns (1).\n• Senior Software Developer Locations Richardson, TX, United States Posting Date03/19/2026 New College Graduate - IT - Software Development Engineer Development Program Locations Dallas, TX, United States Posting Date04/24/2026 Data Engineer Locations Dallas, TX, United States Posting Date07/21/2026 Network Engineer - Encore Program Internship Locations Dallas, TX, United States Posting Date07/29/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date07/16/2026 Equipment Engineer - Maine Locations South Portland, ME, United States Posting Date07/30/2026 Software Applications Engineering Manager Locations Dallas, TX, United States Posting Date07/09/2026 Workflow Automation Engineer | GenAI Focused Locations Dallas, TX, United States Posting Date06/10/2026 Smart Manufacturing Software Dev Eng Locations Richardson, TX, United States Posting Date04/21/2026 CMP Manufacturing Equipment Engineer Locations Dallas, TX, United States Posting Date07/23/2026 Equipment Engineer - Metrology Locations Richardson, TX, United States Posting Date07/24/2026 AI/ML Engineer Locations Richardson, TX, United States Posting Date07/20/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 Hot Job Industrial Engineer - Capacity Locations Richardson, TX, United States Posting Date06/30/2026 Photolithography Process Development Engineer (Advanced Patterning) Locations Lehi, UT, United States Posting Date04/10/2026 Industrial Engineering Manager - Distribution Centers Locations Dallas, TX, United States Posting Date06/26/2026 Product Development Engineer (28nm) Locations Lehi, UT, United States Posting Date03/19/2026 Hot Job Early Career: IT Infrastructure - Network Engineer Locations Dallas, TX, United States Posting Date06/03/2026 Industrial Systems Engineer - AMA/RTD Locations Sherman, TX, United States Posting Date04/27/2026 Equipment Engineer - DM5 - Implant Locations Dallas, TX, United States Posting Date07/16/2026 Equipment Engineer - DM5 - Diffusion Locations Dallas, TX, United States Posting Date07/16/2026 Systems Engineer | SEM Robotics Locations Dallas, TX, United States Posting Date07/14/2026 Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date07/13/2026 Equipment Engineer - Implant Locations Richardson, TX, United States Posting Date07/10/2026 Thin Films Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date06/25/2026 Equipment Engineer Locations United States Posting Date05/29/2026 RFAB Module Industrial Engineer Locations Richardson, TX, United States Posting Date04/06/2026 Applications Engineer | DCC CTS Locations Santa Clara, CA, United States Posting Date06/12/2026 Process Development Test Engineer Locations Dallas, TX, United States Posting Date02/06/2026 PMO Master Scheduler Locations Dallas, TX, United States Posting Date07/13/2026 AMHS/Robotics Equipment Engineer Locations TX, United States and 1 more Posting Date07/02/2026 Early Career - AI for Analog Design Engineer Locations Dallas, TX, United States Posting Date07/07/2026 Early Career: IT Security Engineer Locations Dallas, TX, United States Posting Date07/30/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 RET/OPC Process Development Engineer Locations Dallas, TX, United States Posting Date05/15/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/21/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/22/2026 Field Applications Engineer | Processor Locations MI, United States Posting Date06/18/2026 Validation/Characterization Engineer | DCC (Medical) Locations Dallas, TX, United States Posting Date06/23/2026 Career Accelerator Program - Test Engineer Locations United States Posting Date06/05/2026 Field Applications Engineer | Microcontrollers (Novi, Michigan) Locations Southfield, MI, United States Posting Date07/14/2026 Layout Designer | DCC DAC Locations Tucson, AZ, United States Posting Date06/05/2026 Engineering Technician Locations Dallas, TX, United States Posting Date05/14/2026 Design Verification Engineer - APS Locations Santa Clara, CA, United States Posting Date04/23/2026 Design Verification Engineer - APS Locations Dallas, TX, United States Posting Date05/20/2026 Test Engineer Locations Santa Clara, CA, United States Posting Date07/15/2026 System Engineer Locations Dallas, TX, United States Posting Date06/29/2026 Product, Test & Validation Engineer Locations Dallas, TX, United States Posting Date06/29/2026 Test Engineer | Interface Locations Dallas, TX, United States Posting Date07/15/2026 DFM RET Engineer Locations Dallas, TX, United States Posting Date03/23/2026 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Benefits at TI Our culture Locations North America Europe Asia Pacific Jobs 50 Job search results 50 Events 0 Work Locations 0 Dallas, South Campus (13) Richardson, Richardson Fab, Renner Rd (9) Lehi, Lehi, UT (5) Dallas, North Campus - DMOS V South (4) Dallas, North Campus - DMOS V North (4) Santa Clara, Santa Clara, Great America.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25011570/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-equipment-engineer-maine-south-portland"
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - Java Payments",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "1d",
+    "job_description": "• Code For Good - Hackaton 2026 Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Code for Good hackathon 2026 2026 Code For Good_ Singapore Singapore, Singapore Program Analysts & AssociateAnalysts Join the Code for Good hackathon to earn consideration for the 2027 summer internship in the Tech Data and Product segment Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Software Engineer II - React Hyderabad, Telangana, India TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n• Create a profile so we can help Join the Network Software Engineer III BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Software Engineer III – Public Cloud Bournemouth Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Software Engineer II- Data Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Build skills, gain experience, and accelerate your career with an exciting software engineering opportunity designed for your growth.\n• Director of Software Engineering Wilmington, DE, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Principal Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• We are looking for Big Data Software Engineer with skills and experience implementing platform to large-scale processing on internal as well as public cloud.\n• You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767731/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-java-payments-tampa"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, LLVM and Production Toolchain",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, LLVM and Production Toolchain",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79407854020108998-software-engineer-llvm-and-production-toolchain?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-llvm-and-production-toolchain-san-jose"
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Java Backend Software Engineer III - AI/ React",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "1d",
+    "job_description": "• Code For Good - Hackaton 2026 Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Code for Good hackathon 2026 2026 Code For Good_ Singapore Singapore, Singapore Program Analysts & AssociateAnalysts Join the Code for Good hackathon to earn consideration for the 2027 summer internship in the Tech Data and Product segment Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Software Engineer II - React Hyderabad, Telangana, India TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n• Create a profile so we can help Join the Network Software Engineer III BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Software Engineer III – Public Cloud Bournemouth Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Software Engineer II- Data Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Build skills, gain experience, and accelerate your career with an exciting software engineering opportunity designed for your growth.\n• Director of Software Engineering Wilmington, DE, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Principal Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• We are looking for Big Data Software Engineer with skills and experience implementing platform to large-scale processing on internal as well as public cloud.\n• You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775906/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-java-backend-software-engineer-iii-ai-react-chicago"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer II - AIML Experimentation and Governance",
+    "job_city": "BOURNEMOUTH",
+    "job_state": "DORSET",
+    "job_posted_at": "1d",
+    "job_description": "• Code For Good - Hackaton 2026 Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering Code for Good hackathon 2026 2026 Code For Good_ Singapore Singapore, Singapore Program Analysts & AssociateAnalysts Join the Code for Good hackathon to earn consideration for the 2027 summer internship in the Tech Data and Product segment Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Software Engineer II - React Hyderabad, Telangana, India TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n• Create a profile so we can help Join the Network Software Engineer III BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Software Engineer III – Public Cloud Bournemouth Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Software Engineer II- Data Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Build skills, gain experience, and accelerate your career with an exciting software engineering opportunity designed for your growth.\n• Director of Software Engineering Wilmington, DE, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead Software Engineer Columbus, OH, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Principal Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• We are looking for Big Data Software Engineer with skills and experience implementing platform to large-scale processing on internal as well as public cloud.\n• You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774677/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-aiml-experimentation-and-governance-bournemouth"
   },
   {
     "employer_name": "Amazon",
@@ -361,16 +411,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
-    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_city": "Austin",
     "job_state": "TX",
@@ -378,6 +418,16 @@
     "job_description": "software engineering job for the role Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10482907/front-end-engineer-ii-aws-marketplace-offer-experiences",
     "id": "amazon-front-end-engineer-ii-aws-marketplace-offer-experiences-austin"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
+    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
   },
   {
     "employer_name": "Amazon",
