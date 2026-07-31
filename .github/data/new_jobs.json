@@ -1,23 +1,33 @@
 [
   {
     "employer_name": "Micron Technology",
-    "job_title": "HBM SoC Physical Design Engineer",
+    "job_title": "EUV Mask Technology R&D Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Purpose for Which It Is Used: The Eightfold AI recruiting software is used to: (a) identify skills from your resume and career history.\n• (b) match your qualifications against role requirements.\n• The Platform will use AI to inform the human recruiter of skills you may have that are not listed on your resume, based on your career history and work experience listed in your resume or other application materials.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-euv-mask-technology-r-d-engineer-boise"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "HBM SoC RTL Design Engineer",
     "job_city": "Folsom",
     "job_state": "California",
-    "job_posted_at": "20h",
+    "job_posted_at": "1d",
     "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/43626664",
-    "id": "micron-technology-hbm-soc-physical-design-engineer-folsom"
+    "job_apply_link": "https://careers.micron.com/careers/job/43626671",
+    "id": "micron-technology-hbm-soc-rtl-design-engineer-folsom"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Software Engineer, Mid",
-    "job_city": "Springfield",
+    "job_title": "Embedded Software Engineer",
+    "job_city": "King George",
     "job_state": "VA",
     "job_posted_at": "1d",
     "job_description": "• Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 30+ Days AgoR0243352 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0243024 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 16 Days AgoR0234279 Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0243037 Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0243035 Software Engineer, LeadlocationsBeavercreek, OHposted onPosted 3 Days AgoR0242298 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 16 Days AgoR0244489 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 15 Days AgoR0244652 Software Engineer, Leadlocations2 Locationsposted onPosted 14 Days AgoR0243596.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Software-Engineer--Junior_R0245572?q=software+engineering",
-    "id": "bae-systems-software-engineer-mid-springfield"
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Embedded-Software-Engineer_R0245838?q=software+engineering",
+    "id": "bae-systems-embedded-software-engineer-king-george"
   },
   {
     "employer_name": "10x Genomics",
@@ -35,19 +45,9 @@
     "job_city": "",
     "job_state": "Connecticut",
     "job_posted_at": "3d",
-    "job_description": "• Field Application Scientist - Japan千葉県, JapanSupportPosted 2 days agoScientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQScientificPosted a month agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 6 months agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted a month agoClinical Laboratory Scientist, General SupervisorPleasanton, California, USA HQPosted 3 months agoSales Executive (Spatial Technology)Japan (Remote)SalesRemotePosted 3 months agoRegional Marketing Manager - JapanJapan (Remote)RemotePosted 2 months agoDirector of Sales TrainingPleasanton, California, USA HQPosted 3 months agoScience & Technology Advisor (Technical Sales)France (Remote)SalesPosted a month agoSr.\n• Program ManagerPleasanton, California, USA HQPosted 4 months ago.",
+    "job_description": "• Field Application Scientist - Japan千葉県, JapanSupportPosted 3 days agoScientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQScientificPosted a month agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 6 months agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted a month agoClinical Laboratory Scientist, General SupervisorPleasanton, California, USA HQPosted 3 months agoSales Executive (Spatial Technology)Japan (Remote)SalesRemotePosted 3 months agoRegional Marketing Manager - JapanJapan (Remote)RemotePosted 2 months agoDirector of Sales TrainingPleasanton, California, USA HQPosted 3 months agoScience & Technology Advisor (Technical Sales)France (Remote)SalesPosted a month agoSr.\n• Program ManagerPleasanton, California, USA HQPosted 4 months ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171842267743",
     "id": "10x-genomics-view-job-field-application-scientist-connecticut-"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Printed Circuit Boards (PCB) Technologist",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Firewall Network Security EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0284032Senior Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 15 Days AgoJR0284688Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 21 Days AgoJR0284880Mixed Signal validation engineerlocations2 Locationsposted onPosted YesterdayJR0286040Enterprise Systems Analystlocations3 Locationsposted onPosted 21 Days AgoJR0284274Quantum Computing Measurement EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0284192Silicon Validation EngineerlocationsUS, California, Folsomposted onPosted 2 Days AgoJR0285040CPU Verification Engineerlocations2 Locationsposted onPosted TodayJR0282921Information Security Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0285296CPU Verification EngineerlocationsUS, Texas, Austinposted onPosted 3 Days AgoJR0285661Mechanical Design Engineer - Semiconductor PackaginglocationsUS, Arizona, Phoenixposted onPosted TodayJR0286059Director of Data Governance and Operationslocations3 Locationsposted onPosted 15 Days AgoJR0284841EDA Tools Hardware Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0284645Senior CPU Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281123Supply Chain Engineering Commodity Managerlocations4 Locationsposted onPosted 10 Days AgoJR0285000Supply Chain Engineer (SCE)locations2 Locationsposted onPosted 17 Days AgoJR0284800Global Operations Supply Chain Engineer - OregonlocationsUS, Oregon, Hillsboroposted onPosted 30 Days AgoJR0284955Supply Chain EngineerlocationsUS, New Mexico, Albuquerqueposted onPosted 28 Days AgoJR0285416Printed Circuit Boards (PCB) Technologistlocations2 Locationsposted onPosted TodayJR0285772EDA Design Flow Development Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0284647.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Printed-Circuit-Boards--PCB--Technologist_JR0285772?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-printed-circuit-boards-pcb-technologist-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -128,6 +128,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
     "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
   },
   {
     "employer_name": "ABB",
@@ -320,34 +330,14 @@
     "id": "abb-designer-location-houston"
   },
   {
-    "employer_name": "RIVIAN",
-    "job_title": "Design Release Engineer II - Low Voltage Wire Harness",
-    "job_city": "Irvine",
-    "job_state": "California US",
-    "job_posted_at": "1d",
-    "job_description": "• Strong electromechanical integration background, a proactive learning mindset, and hands-on harness experience—such as through Formula SAE or similar technical projects.\n• ) to define electrical requirements and routing paths.\n• Communicate performance test requirements to the supplier, track testing status, and review results.\n• Bachelor’s degree in Electrical Engineering, Mechanical Engineering, or a related technical field.\n• Excellent communication skills and the ability to thrive in a fast-paced, iterative environment.\n• 3+ years of experience in automotive EDS, harness design, or electrical systems integration.\n• Hands-on experience building/crimping harnesses is a major plus.\n• Experience in Application Engineering is a plus.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/32238/login",
-    "id": "rivian-design-release-engineer-ii-low-voltage-wire-harness-irvine"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Android Engineer",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Director of Software Engineering Wilmington, DE, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Director of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Principal Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• We are looking for Big Data Software Engineer with skills and experience implementing platform to large-scale processing on internal as well as public cloud.\n• You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals.\n• Senior Lead Software Engineer - AI, Python/Java Plano, TX, United States and 1 more TechnologySoftware Engineering Senior Lead Software Engineer with AI/ML and Full Stack Development expertise and experience Java Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Drive innovative tech solutions as a Lead Software Engineer, shaping secure, scalable products and advancing your career.\n• Own day-to-day implementation, proactively unblock and escalate risks, and ensure solutions meet compliance standards, business requirements, and engineering best practices.\n• Senior Manager of Software Engineering Jersey City, NJ, United States TechnologySoftware Engineering Influence your team’s strategic planning while driving continual site reliability improvements Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748836/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-android-engineer-new-york"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III- Java- Full Stack",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
-    "job_posted_at": "1d",
-    "job_description": "• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Director of Software Engineering Wilmington, DE, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Director of Software Engineering Bengaluru, Karnataka, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Principal Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• We are looking for Big Data Software Engineer with skills and experience implementing platform to large-scale processing on internal as well as public cloud.\n• You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals.\n• Senior Lead Software Engineer - AI, Python/Java Plano, TX, United States and 1 more TechnologySoftware Engineering Senior Lead Software Engineer with AI/ML and Full Stack Development expertise and experience Java Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Drive innovative tech solutions as a Lead Software Engineer, shaping secure, scalable products and advancing your career.\n• Own day-to-day implementation, proactively unblock and escalate risks, and ensure solutions meet compliance standards, business requirements, and engineering best practices.\n• Senior Manager of Software Engineering Jersey City, NJ, United States TechnologySoftware Engineering Influence your team’s strategic planning while driving continual site reliability improvements Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776051/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-java-full-stack-jersey-city"
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer - Distributed Services",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "3d",
+    "job_description": "software engineering job for the role Software Development Engineer - Distributed Services",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10486541/software-development-engineer-distributed-services",
+    "id": "amazon-software-development-engineer-distributed-services-seattle"
   },
   {
     "employer_name": "Amazon",
