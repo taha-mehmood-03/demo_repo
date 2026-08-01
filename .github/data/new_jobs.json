@@ -1,33 +1,13 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "EUV Mask Technology R&D Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer - Intern Conversion",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Purpose for Which It Is Used: The Eightfold AI recruiting software is used to: (a) identify skills from your resume and career history.\n• (b) match your qualifications against role requirements.\n• The Platform will use AI to inform the human recruiter of skills you may have that are not listed on your resume, based on your career history and work experience listed in your resume or other application materials.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-euv-mask-technology-r-d-engineer-boise"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "HBM SoC RTL Design Engineer",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/43626671",
-    "id": "micron-technology-hbm-soc-rtl-design-engineer-folsom"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Embedded Software Engineer",
-    "job_city": "King George",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 30+ Days AgoR0243352 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0243024 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 16 Days AgoR0234279 Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0243037 Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0243035 Software Engineer, LeadlocationsBeavercreek, OHposted onPosted 3 Days AgoR0242298 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 16 Days AgoR0244489 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 15 Days AgoR0244652 Software Engineer, Leadlocations2 Locationsposted onPosted 14 Days AgoR0243596.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Embedded-Software-Engineer_R0245838?q=software+engineering",
-    "id": "bae-systems-embedded-software-engineer-king-george"
+    "job_description": "software engineering job for the role Entry Level Hardware Developer - Intern Conversion",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=127810&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-intern-conversion-poughkeepsie"
   },
   {
     "employer_name": "10x Genomics",
@@ -48,6 +28,16 @@
     "job_description": "• Field Application Scientist - Japan千葉県, JapanSupportPosted 3 days agoScientist 2-Spatial Biology and BiophysicsPleasanton, California, USA HQScientificPosted a month agoScientist- Process ChemistryPleasanton, California, USA HQScientificPosted 6 months agoSenior Research Associate- Diagnostic Assay DevelopmentPleasanton, California, USA HQPosted a month agoClinical Laboratory Scientist, General SupervisorPleasanton, California, USA HQPosted 3 months agoSales Executive (Spatial Technology)Japan (Remote)SalesRemotePosted 3 months agoRegional Marketing Manager - JapanJapan (Remote)RemotePosted 2 months agoDirector of Sales TrainingPleasanton, California, USA HQPosted 3 months agoScience & Technology Advisor (Technical Sales)France (Remote)SalesPosted a month agoSr.\n• Program ManagerPleasanton, California, USA HQPosted 4 months ago.",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171842267743",
     "id": "10x-genomics-view-job-field-application-scientist-connecticut-"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "SW engineer - Silicon CAD tool development",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Inference Optimization Engineer (local / edge runtime)locations4 Locationsposted onPosted 7 Days AgoJR0285967Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0282277Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoSpotlight JobJR0283627Design Technology Tool Enablement Engineerlocations3 Locationsposted onPosted 23 Days AgoJR0283551Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281207Physical Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0284076CAD/EDA Tools Automation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0284432Sr.\n• EDA Tools Engineer - PERC ESDlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0285229Compiler Engineerlocations4 Locationsposted onPosted TodayJR0282385Compiler Engineerlocations5 Locationsposted onPosted TodayJR0286158Ethernet Customer Program Managerlocations2 Locationsposted onPosted 14 Days AgoJR0285630MDM Software Application Development Engineerlocations4 Locationsposted onPosted 3 Days AgoJR0285868Director – PDK Architecturelocations4 Locationsposted onPosted 9 Days AgoJR0285757Director - Intel Foundry Pre-Silicon Design Quality and Reliabilitylocations2 Locationsposted onPosted 9 Days AgoJR0285515Director-Foundry Customer PlanninglocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0282293SW engineer - Silicon CAD tool developmentlocationsUS, California, Santa Claraposted onPosted TodayJR0286043Yield and Process Control Automation EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0284118Sr.\n• Machine Learning Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0285966Firmware Development EngineerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0285428AI Performance Library Architectlocations2 Locationsposted onPosted 30+ Days AgoJR0281978.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/SW-engineer---Silicon-CAD-tool-development_JR0286043?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-sw-engineer-silicon-cad-tool-development-us"
   },
   {
     "employer_name": "ABB",
@@ -330,24 +320,34 @@
     "id": "abb-designer-location-houston"
   },
   {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Braille Accessibility",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Minimum QualificationsBachelor of Science in Computer Science or equivalent3+ years of relevant work experienceProficient in Swift, Objective-C, C++, Java or another systems languageExcellent written and verbal communication skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200675281-0836/software-engineer-braille-accessibility?team=SFTWR",
+    "id": "apple-software-engineer-braille-accessibility-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Cloud Services ASE",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsExtensive experience working on large enterprise environments with the demonstrated ability to architect and deliver solutions at scale.\n• 1+ YOE with cloud platforms such as AWS or GCP1+ YOE with CI/CD tools and techniques, containers, and Kubernetes1+ YOE in Golang programming and the ability to pivot to other languages as neededStrong understanding of architectural design principles, including security, high availability, and resiliency.\n• Hands-on experience operating and developing infrastructure and services in cloud platforms.\n• In Computer Science, Computer Engineering, or equivalent professional experience.\n• Proficiency in designing and building RESTful APIs.\n• Knowledge of network protocols and Linux/Unix system internals.\n• Familiarity with authentication and authorization technologies such as IAM and SSO.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200674218-0157/software-engineer-cloud-services-ase?team=SFTWR",
+    "id": "apple-software-engineer-cloud-services-ase-austin"
+  },
+  {
     "employer_name": "Amazon",
     "job_title": "Software Development Engineer - Distributed Services",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "3d",
+    "job_posted_at": "4d",
     "job_description": "software engineering job for the role Software Development Engineer - Distributed Services",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10486541/software-development-engineer-distributed-services",
     "id": "amazon-software-development-engineer-distributed-services-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "SDE II, Neuron Infra Services",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "4w",
-    "job_description": "software engineering job for the role SDE II, Neuron Infra Services",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10464473/sde-ii-neuron-infra-services",
-    "id": "amazon-sde-ii-neuron-infra-services-cupertino"
   },
   {
     "employer_name": "Amazon",
@@ -358,6 +358,16 @@
     "job_description": "software engineering job for the role Software Dev Engineer II, AWS Transactional Services (Database & Distributed Systems)",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10470133/software-dev-engineer-ii-aws-transactional-services-database-distributed-systems",
     "id": "amazon-software-dev-engineer-ii-aws-transactional-services-database-distributed-systems-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10480763/software-development-engineer-ec2-ultraserver-delivery-team",
+    "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -374,7 +384,7 @@
     "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
     "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
@@ -391,20 +401,10 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Front-End Engineer, AWS Holmes, AWS Holmes",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "4w",
-    "job_description": "software engineering job for the role Front-End Engineer, AWS Holmes, AWS Holmes",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10465232/front-end-engineer-aws-holmes-aws-holmes",
-    "id": "amazon-front-end-engineer-aws-holmes-aws-holmes-austin"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Component Engineer, Amazon Leo",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Component Engineer, Amazon Leo",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10484210/component-engineer-amazon-leo",
     "id": "amazon-component-engineer-amazon-leo-redmond"
@@ -421,16 +421,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Security Engineer II, Stores Security - HealthCare",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "4w",
-    "job_description": "software engineering job for the role Security Engineer II, Stores Security - HealthCare",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10464856/security-engineer-ii-stores-security-healthcare",
-    "id": "amazon-security-engineer-ii-stores-security-healthcare-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Jr. Software Development Engineer - Atlanta, GA, Jr. Developer Program",
     "job_city": "Atlanta",
     "job_state": "GA",
@@ -438,5 +428,15 @@
     "job_description": "software engineering job for the role Jr. Software Development Engineer - Atlanta, GA, Jr. Developer Program",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10468069/jr-software-development-engineer-atlanta-ga-jr-developer-program",
     "id": "amazon-jr-software-development-engineer-atlanta-ga-jr-developer-program-atlanta"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Security Engineer II, Stores Security - HealthCare",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "4d",
+    "job_description": "software engineering job for the role Security Engineer II, Stores Security - HealthCare",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10486618/security-engineer-ii-stores-security-healthcare",
+    "id": "amazon-security-engineer-ii-stores-security-healthcare-seattle"
   }
 ]
