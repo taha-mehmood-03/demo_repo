@@ -1,5 +1,25 @@
 [
   {
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer, MTS - Agent Studio & Observability UI",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR349901/software-engineer-mts-agent-studio-observability-ui/",
+    "id": "salesforce-software-engineer-mts-agent-studio-observability-ui-california-san-francisco"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "AI Full Stack Engineer",
+    "job_city": "US",
+    "job_state": "Oregon",
+    "job_posted_at": "1d",
+    "job_description": "• AI Software Engineering Internlocations2 Locationsposted onPosted 7 Days AgoJR0282639AI Software Engineering InternlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0282641System Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0285035System Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0285033Software Engineering Leaderlocations5 Locationsposted onPosted 13 Days AgoJR0285371System Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 7 Days AgoJR0285048Senior Software EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0286219EDA Tools Software Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280762Development Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 7 Days AgoJR0285054Senior EDA Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0284496Senior AI Software Engineer - Neuromorphic Computinglocations3 Locationsposted onPosted 22 Days AgoSpotlight JobJR0282751Sr.\n• AI Software Engineer - Agent Harnesslocations4 Locationsposted onPosted 12 Days AgoJR0285965Software Engineer - Compute Infrastructure and Securitylocations2 Locationsposted onPosted 30+ Days AgoJR0285006Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 5 Days AgoJR0285923Staff Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted YesterdayJR0285922Semiconductor Device Modeling Engineerlocations3 Locationsposted onPosted YesterdayJR0286250Senior AI Software Architect - Runtimelocations3 Locationsposted onPosted YesterdayJR0283399Principal Engineer, AI Software Solutionslocations2 Locationsposted onPosted 30+ Days AgoJR0285164AI Full Stack EngineerlocationsUS, Oregon, Hillsboroposted onPosted TodayJR0286065Firmware Solutions EngineerlocationsUS, Oregon, Hillsboroposted onPosted 20 Days AgoJR0285491.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Full-Stack-Engineer_JR0286065?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-ai-full-stack-engineer-us"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Available in one of 52 locations",
@@ -135,7 +155,7 @@
     "job_city": "Location Bloomfield",
     "job_state": "Connecticut",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
     "id": "abb-r-d-engineer-panelboards-location-bloomfield"
   },
@@ -261,23 +281,13 @@
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79605303951139526-software-engineer-iii-infrastructure-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-infrastructure-google-cloud-platforms-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Agentic AI Systems, Cloud Security",
-    "job_city": "San Francisco",
+    "job_title": "Software Engineer III, Infrastructure, API Proxy, One Platform",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Agentic AI Systems, Cloud Security",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97751186894922438-software-engineer-iii-agentic-ai-systems-cloud-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-iii-agentic-ai-systems-cloud-security-san-francisco"
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, API Proxy, One Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/109323271899357894-software-engineer-iii-infrastructure-api-proxy-one-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-infrastructure-api-proxy-one-platform-sunnyvale"
   },
   {
     "employer_name": "Amazon",
