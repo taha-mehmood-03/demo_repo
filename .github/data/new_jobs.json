@@ -1,13 +1,13 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering PMTS - Search & Personalization",
-    "job_city": "California - San Francisco",
+    "employer_name": "BAE Systems",
+    "job_title": "Software Engineer",
+    "job_city": "5 Locations",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR355156/software-engineering-pmts-search-personalization/",
-    "id": "salesforce-software-engineering-pmts-search-personalization-california-san-francisco"
+    "job_posted_at": "1d",
+    "job_description": "• University, Software EngineerlocationsArlington, VAposted onPosted 2 Days AgoR0241736 Software Engineer, SeniorlocationsNellis AFB, NVposted onPosted 30+ Days AgoR0240110 Software Engineer, SeniorlocationsNellis AFB, NVposted onPosted 30+ Days AgoR0240108 Software Engineer, JuniorlocationsAlbuquerque, NMposted onPosted 15 Days AgoR0242700 Software Engineer, JuniorlocationsAlbuquerque, NMposted onPosted 15 Days AgoR0242701 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0241426 Software Engineer, Seniorlocations2 Locationsposted onPosted 24 Days AgoR0237633 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 30+ Days AgoR0242785 Software Engineer, SeniorlocationsDayton, OHposted onPosted 9 Days AgoR0231191 Software Engineer, Leadlocations2 Locationsposted onPosted 24 Days AgoR0237634.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0245895?q=software+engineering",
+    "id": "bae-systems-software-engineer-5-locations"
   },
   {
     "employer_name": "ABB",
@@ -16,7 +16,7 @@
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
     "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
   },
   {
@@ -31,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Available in one of 183 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
   },
   {
     "employer_name": "ABB",
@@ -48,36 +48,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
     "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - Weekend Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
-    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - 2nd Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
-    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -121,6 +91,176 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - Weekend Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
+    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - 2nd Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
+    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Paint Mechanical Project Engineer",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039797/Robotics-Paint-Mechanical-Project-Engineer",
+    "id": "abb-robotics-paint-mechanical-project-engineer-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
+    "job_city": "Location Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
+    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Engineering Technician (2nd Shift)",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028526/Production-Engineering-Technician-2nd-Shift",
+    "id": "abb-production-engineering-technician-2nd-shift-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -130,54 +270,44 @@
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Robotics Validation Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
-    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Embedded SW Engineer",
-    "job_city": "Location San Fernando de Henares",
-    "job_state": "Madrid",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
-    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030614/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-available-in-one-of-2-locations"
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - Python/AWS/AI",
+    "job_city": "",
+    "job_state": "GA",
+    "job_posted_at": "1d",
+    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Software Engineer COMMODITIES UK LONDON, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Base Metals / Front Office / Athena Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• Software Engineer III - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758854/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-python-aws-ai-"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II (Java/Python/FullStack)",
+    "job_title": "Software Engineer III (UI/React/Javascript)",
     "job_city": "Columbus",
     "job_state": "OH",
     "job_posted_at": "1d",
-    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Java / AWS Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer strong with Java and AWS Software Engineer COMMODITIES UK LONDON, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Base Metals / Front Office / Athena Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III - Java Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to enhance, build and deliver technology products with our dynamic, innovative team Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765734/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-java-python-fullstack-columbus"
+    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Software Engineer COMMODITIES UK LONDON, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Base Metals / Front Office / Athena Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• Software Engineer III - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742949/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-ui-react-javascript-columbus"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II (Java/Fullstack/AWS)",
-    "job_city": "Westerville",
+    "job_title": "Software Engineer III (Java/Python/AI)",
+    "job_city": "",
     "job_state": "OH",
     "job_posted_at": "1d",
-    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Java / AWS Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer strong with Java and AWS Software Engineer COMMODITIES UK LONDON, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Base Metals / Front Office / Athena Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III - Java Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to enhance, build and deliver technology products with our dynamic, innovative team Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769072/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-java-fullstack-aws-westerville"
+    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Software Engineer COMMODITIES UK LONDON, United Kingdom TechnologySoftware Engineering Senior Lead Software Engineer - Base Metals / Front Office / Athena Python Lead Software Engineer LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer developing Python applications to enhance network data services Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Lead the modernization for Cash and Check Management on AWS, delivering excellent customer experience.\n• Software Engineer III - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746999/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-java-python-ai-"
+  },
+  {
+    "employer_name": "Texas Instruments",
+    "job_title": "Applications Engineer",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "16h",
+    "job_description": "• (3) Dallas, North Campus - Kilby East (2) Sherman, Sherman - SM1 Fab (2) NOVI, NOVI, MI (2) Categories 0 Engineering - Product Dev (22) Manufacturing (18) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (45) Recent College Grads (6) Interns (1) Work Locations 0 Dallas, South Campus (14) Richardson, Richardson Fab, Renner Rd (9) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (4) Dallas, North Campus - DMOS V North (4) Santa Clara, Santa Clara, Great America.\n• (3) Dallas, North Campus - Kilby East (2) Sherman, Sherman - SM1 Fab (2) NOVI, NOVI, MI (2) Categories 0 Engineering - Product Dev (22) Manufacturing (18) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (45) Recent College Grads (6) Interns (1) Answer customer questions and supporting design-in activities for released products.\n• This includes: Forum and email questions from customers Schematic and Layout Review of customer application Debug of customer problems by re-creating issues in our evaluation boards and/or customer boards On-site support for customer board as required Design EVM and internal evaluation boards to support correlation and evaluation activities of new products Create user guides, test procedures and proper release of EVM boards for customer consumption Participate in datasheet review to ensure completeness of datasheet being developed by the Systems Engineer Perform Bench Characterization for High Speed Amplifiers devices, including bench automation, hardware design and develop test techniques Participate in new silicon testing from an application perspective to ensure robustness of the product (i.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Job Identification 25010864 Job Category Engineering - Product Dev Posting Date 08/06/2026, 03:58 PM Degree Level Bachelor's Degree Locations FORE 12500 T I Blvd, Dallas, TX, 75243, US ECL/GTC Required Yes Ability to establish strong relationships with key stakeholders critical to success, both internally and externally Strong verbal and written communication skills Ability to quickly ramp on new systems and processes Demonstrated strong interpersonal, analytical and problem-solving skills Ability to work in teams and collaborate effectively with people in different functions Ability to take the initiative and drive for results Strong time management skills that enable on-time project delivery Experienced Professional (45) Recent College Grads (6) Interns (1) Experienced Professional (45) Recent College Grads (6) Interns (1).\n• Software Development Engineer Locations Richardson, TX, United States Posting Date08/04/2026 New College Graduate - IT - Software Development Engineer Development Program Locations Dallas, TX, United States Posting Date04/24/2026 Data Engineer Locations Dallas, TX, United States Posting Date07/21/2026 Epi Equipment Engineer Locations Sherman, TX, United States Posting Date08/04/2026 Equipment Engineer Locations Lehi, UT, United States Posting Date08/03/2026 Equipment Engineer - Plasma Locations Lehi, UT, United States Posting Date08/03/2026 Software Applications Engineering Manager Locations Dallas, TX, United States Posting Date07/09/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date07/16/2026 Applications Engineer Locations Dallas, TX, United States Posting Date08/06/2026 Workflow Automation Engineer | GenAI Focused Locations Dallas, TX, United States Posting Date06/10/2026 Smart Manufacturing Software Dev Eng Locations Richardson, TX, United States Posting Date04/21/2026 Equipment Engineer - Maine Locations South Portland, ME, United States Posting Date07/30/2026 Network Engineer - Encore Program Internship Locations Dallas, TX, United States Posting Date07/29/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 Hot Job AI/ML Engineer Locations Richardson, TX, United States Posting Date07/20/2026 Photolithography Process Development Engineer (Advanced Patterning) Locations Lehi, UT, United States Posting Date04/10/2026 Industrial Engineering Manager - Distribution Centers Locations Dallas, TX, United States Posting Date06/26/2026 Product Development Engineer (28nm) Locations Lehi, UT, United States Posting Date03/19/2026 Hot Job Early Career: IT Infrastructure - Network Engineer Locations Dallas, TX, United States Posting Date06/03/2026 CMP Manufacturing Equipment Engineer Locations Dallas, TX, United States Posting Date07/23/2026 Equipment Engineer - Metrology Locations Richardson, TX, United States Posting Date07/24/2026 Systems Engineer | SEM Robotics Locations Dallas, TX, United States Posting Date07/14/2026 Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date07/13/2026 Equipment Engineer - Implant Locations Richardson, TX, United States Posting Date07/10/2026 Thin Films Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date06/25/2026 Equipment Engineer Locations United States Posting Date05/29/2026 RFAB Module Industrial Engineer Locations Richardson, TX, United States Posting Date04/06/2026 Equipment Engineer - DM5 - Implant Locations Dallas, TX, United States Posting Date07/16/2026 Equipment Engineer - DM5 - Diffusion Locations Dallas, TX, United States Posting Date07/16/2026 Applications Engineer | DCC CTS Locations Santa Clara, CA, United States Posting Date06/12/2026 Process Development Test Engineer Locations Dallas, TX, United States Posting Date02/06/2026 PMO Master Scheduler Locations Dallas, TX, United States Posting Date07/13/2026 AMHS/Robotics Equipment Engineer Locations TX, United States and 1 more Posting Date07/02/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 RET/OPC Process Development Engineer Locations Dallas, TX, United States Posting Date05/15/2026 Manufacturing Product Engineer Locations Richardson, TX, United States Posting Date07/30/2026 Early Career: IT Security Engineer Locations Dallas, TX, United States Posting Date07/30/2026 Field Applications Engineer | Processor Locations MI, United States Posting Date06/18/2026 Validation/Characterization Engineer | DCC (Medical) Locations Dallas, TX, United States Posting Date06/23/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/21/2026 Career Accelerator Program - Test Engineer Locations United States Posting Date06/05/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/22/2026 Field Applications Engineer | Microcontrollers (Novi, Michigan) Locations Southfield, MI, United States Posting Date07/14/2026 Layout Designer | DCC DAC Locations Tucson, AZ, United States Posting Date06/05/2026 Engineering Technician Locations Dallas, TX, United States Posting Date05/14/2026 Design Verification Engineer - APS Locations Santa Clara, CA, United States Posting Date04/23/2026 Design Verification Engineer - APS Locations Dallas, TX, United States Posting Date05/20/2026 Test Engineer Locations Santa Clara, CA, United States Posting Date07/15/2026 System Engineer Locations Dallas, TX, United States Posting Date06/29/2026 Product, Test & Validation Engineer Locations Dallas, TX, United States Posting Date06/29/2026 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Benefits at TI Our culture Locations North America Europe Asia Pacific Jobs 52 Job search results 52 Events 0 Work Locations 0 Dallas, South Campus (14) Richardson, Richardson Fab, Renner Rd (9) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (4) Dallas, North Campus - DMOS V North (4) Santa Clara, Santa Clara, Great America.\n• (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• (4) Tucson, Tucson Williams Ctr-South Bldg,.",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25010864/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-applications-engineer-dallas"
   },
   {
     "employer_name": "Amazon",
