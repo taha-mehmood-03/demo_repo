@@ -1,213 +1,13 @@
 [
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Palantir Foundry Engineer",
-    "job_city": "5 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• IDOS Aerospace Professionalslocations7 Locationsposted onPosted 30+ Days Ago38210DevSecOps EngineerlocationsUS - DC, Washingtonposted onPosted 14 Days Ago42365Senior Full Stack Developerlocations2 Locationsposted onPosted 30+ Days Ago40426Senior Full Stack Developerlocations2 Locationsposted onPosted 30+ Days Ago40340Senior Full Stack DeveloperlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40611Senior Full Stack Python/JavaScript Developerlocations2 Locationsposted onPosted 30+ Days Ago37301Palantir Foundry Engineer Ilocations5 Locationsposted onPosted Today42897Full Stack DeveloperlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40612Palantir Platform EngineerlocationsUS - VA, Arlingtonposted onPosted 22 Days Ago41898Palantir Data EngineerlocationsUS - Remote (Any location)posted onPosted 2 Days Ago42342AI/ML Solutions Architect (Agentic Systems)locationsUS - Remote (Any location)posted onPosted 30+ Days Ago37697Solutions Operations LeadlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago38599Senior Systems EngineerlocationsUS - Remote (Any location)posted onPosted 2 Days Ago42805Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 30+ Days Ago29948Cloud Platforms Infrastructure Engineerlocations2 Locationsposted onPosted 30+ Days Ago39424Senior Network EngineerlocationsUS - AL, Huntsvilleposted onPosted 2 Days Ago41943Senior DevOps Cloud EngineerlocationsUS - MD, Bethesdaposted onPosted 22 Days Ago39105Aerospace Systems Engineerlocations2 Locationsposted onPosted 30 Days Ago41749Data Engineer (IE / Ops Research)locationsUS - Remote (Any location)posted onPosted 2 Days Ago41652Border Security DevOps EngineerlocationsUS - VA, Sterlingposted onPosted 30+ Days Ago40004.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/Palantir-Foundry-Engineer-I_42897?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-palantir-foundry-engineer-5-locations"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "AI Infrastructure Engineer",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• AI Performance Library Architectlocations2 Locationsposted onPosted 30+ Days AgoJR0281978Director, Global Network OperationslocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0285640Team Cisco Sales Account ManagerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0285714Senior AI Algorithm Engineer in oneDNNlocations2 Locationsposted onPosted 30+ Days AgoJR0283500AI Infrastructure Engineerlocations4 Locationsposted onPosted TodayJR0286233Senior AI / Data Science Engineerlocations2 Locationsposted onPosted 7 Days AgoJR0285955Networking Sales Account ManagerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0286030ASIC and Custom Silicon Sales Account Manager - Americas regionlocationsUS, California, Santa Claraposted onPosted 29 Days AgoJR0285481Sales Account Manager - Team Oraclelocations2 Locationsposted onPosted 22 Days AgoJR0285720Data ScientistlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0286110Systems and Hardware Enabling EngineerlocationsUS, Oregon, Hillsboroposted onPosted 8 Days AgoJR0285322Image Processing Engineer (C++/Linux)locationsUS, California, Santa Claraposted onPosted 4 Days AgoJR0285764Hardware Platform Applications Engineer - Military & Aerospacelocations4 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0284700Network Platform Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0284608Lab Engineering TechnicianlocationsUS, Oregon, Hillsboroposted onPosted 15 Days AgoJR0285492SAP MM/PP Business Systems Analystlocations4 Locationsposted onPosted 30+ Days AgoJR0284864TD Media and Collaterals Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 24 Days AgoJR0279514Senior Network Operations Engineerlocations2 Locationsposted onPosted 7 Days AgoJR0286035ATD MIHL Equipment Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0285730Advanced Packaging Reliability Lab EngineerlocationsUS, Arizona, Phoenixposted onPosted 25 Days AgoJR0285579.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Infrastructure-Engineer_JR0286233?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-ai-infrastructure-engineer-4-locations"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Embedded Software Engineer - Physical AI",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Experience with Embedded Linux, Yocto, BSP development, device drivers, RTOS, or bare-metal software development.\n• Experience with computer vision and camera pipelines, including MIPI CSI, ISP tuning, V4L2, OpenCV, or GStreamer.\n• Experience with graphics and display software, including DisplayPort, MIPI DSI, display drivers, compositors, EGL, OpenGL, or Vulkan.\n• Experience deploying and optimizing edge AI inference models using frameworks such as PyTorch, TensorFlow, ONNX, and related acceleration technologies.\n• Experience with platform bring-up, hardware/software integration, board bring-up, and peripheral driver development.\n• Experience working with high-speed interfaces including PCIe, Ethernet, USB, DisplayPort, MIPI, SPI, I²C, UART, and GPIO.\n• Experience using hardware debugging tools such as JTAG, oscilloscopes, protocol analyzers, and logic analyzers.\n• Experience with robotics, industrial automation, autonomous systems, ROS 2, machine vision, sensor fusion, or edge AI applications.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/88077/login",
-    "id": "amd-embedded-software-engineer-physical-ai-us"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 52 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 51 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-51-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - Weekend Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
-    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - 2nd Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
-    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Fall",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
-    "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electrical/Controls Intern - Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040869/Electrical-Controls-Intern-Fall-2026",
-    "id": "abb-electrical-controls-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
-    "job_city": "Location Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
-    "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Validation Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
-    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Embedded SW Engineer",
-    "job_city": "Location San Fernando de Henares",
-    "job_state": "Madrid",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
-    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030614/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Trusted Execution, SEAR",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "4w",
-    "job_description": "• Minimum Qualifications5 years of experience as a Software Engineer in a Systems Programming or Kernel Development roleStrong understanding of operating systems internalsIndustry knowledge of OS security and applied cryptography (PKI, Attestations, Public Key Signatures)Excellent C and Systems programming skills including secure development practices.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200671767-0836/software-engineer-trusted-execution-sear?team=SFTWR",
-    "id": "apple-software-engineer-trusted-execution-sear-cupertino"
-  },
-  {
     "employer_name": "JPMorgan Chase",
-    "job_title": "Java Kafka Software Engineer",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
+    "job_title": "Software Engineer II - Backend Python/AWS",
+    "job_city": "Plano",
+    "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• Senior Lead Software Engineer - Mobile Engineering LONDON, LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the International Consumer Bank Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• Java / AWS Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer strong with Java and AWS Lead Software Engineer - Java, AWS, React Mumbai, Maharashtra, India TechnologySoftware Engineering Java, React, SQL & AWS - Lead Software Engineer Lead Software Engineer - Java, AWS, kdb+ Bengaluru, Karnataka, India TechnologySoftware Engineering Lead Software Engineer - Recon Technology - Java, AWS & KDB+ Software Engineer III- Python,Java,AWS Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer (Senior Associate) - Python,Java,AWS Senior Lead Software Engineer - AI, Python/Java Plano, TX, United States and 1 more TechnologySoftware Engineering Senior Lead Software Engineer with AI/ML and Full Stack Development expertise and experience Sr Principal Software Engineer - Common Components Jersey City, NJ, United States TechnologySoftware Engineering Set the technical direction for software an entire enterprise depends on.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773001/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-java-kafka-software-engineer-jersey-city"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Java, Python, AWS",
-    "job_city": "Noida",
-    "job_state": "Uttar Pradesh",
-    "job_posted_at": "1d",
-    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• Senior Lead Software Engineer - Mobile Engineering LONDON, LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the International Consumer Bank Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.\n• Java / AWS Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer strong with Java and AWS Lead Software Engineer - Java, AWS, React Mumbai, Maharashtra, India TechnologySoftware Engineering Java, React, SQL & AWS - Lead Software Engineer Lead Software Engineer - Java, AWS, kdb+ Bengaluru, Karnataka, India TechnologySoftware Engineering Lead Software Engineer - Recon Technology - Java, AWS & KDB+ Software Engineer III- Python,Java,AWS Hyderabad, Telangana, India TechnologySoftware Engineering Software Engineer (Senior Associate) - Python,Java,AWS Senior Lead Software Engineer - AI, Python/Java Plano, TX, United States and 1 more TechnologySoftware Engineering Senior Lead Software Engineer with AI/ML and Full Stack Development expertise and experience Sr Principal Software Engineer - Common Components Jersey City, NJ, United States TechnologySoftware Engineering Set the technical direction for software an entire enterprise depends on.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769877/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-java-python-aws-noida"
+    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• Senior Lead Software Engineer - Mobile Engineering LONDON, LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the International Consumer Bank Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Software Engineer III-ETL, AWS, AI Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer II - Backend Python/AWS Plano, TX, United States TechnologySoftware Engineering You’re ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you.\n• Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750169/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-backend-python-aws-plano"
   },
   {
     "employer_name": "Amazon",
@@ -251,16 +51,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2w",
-    "job_description": "software engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10480763/software-development-engineer-ec2-ultraserver-delivery-team",
-    "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -268,6 +58,16 @@
     "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
     "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2w",
+    "job_description": "software engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10480763/software-development-engineer-ec2-ultraserver-delivery-team",
+    "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
   },
   {
     "employer_name": "Amazon",
