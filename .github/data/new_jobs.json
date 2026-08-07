@@ -31,6 +31,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Manufacturing Process Engineer - Weekend Shift",
     "job_city": "Location Senatobia",
     "job_state": "Mississippi",
@@ -81,16 +91,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Application Engineering Intern - Fall",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
@@ -98,6 +98,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00038999/Application-Engineering-Intern-Fall-2026",
     "id": "abb-application-engineering-intern-fall-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -111,13 +121,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "Robotics Paint Mechanical Project Engineer",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039797/Robotics-Paint-Mechanical-Project-Engineer",
+    "id": "abb-robotics-paint-mechanical-project-engineer-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -181,26 +201,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Robotics Paint Mechanical Project Engineer",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039797/Robotics-Paint-Mechanical-Project-Engineer",
-    "id": "abb-robotics-paint-mechanical-project-engineer-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Electrical Engineer",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -228,16 +228,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
     "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
   },
   {
     "employer_name": "ABB",
