@@ -1,33 +1,43 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "BioChemical Engineer",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Entry-Level Sales Program",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Senior Engineer, Design Verification EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262670Senior Engineer, Design Verification EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263430Principal Engineer, Digital Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262402Senior Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263149Staff Engineer, Design Verification EngineeringlocationsUS, MA, Wilmingtonposted onPosted 29 Days AgoR264022Senior Engineer Design Verification EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262669Senior Engineer, Test Engineering - Product DevelopmentlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR263127Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Integration EngineerlocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264224BioChemical EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR264157Staff Engineer, MEMS Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263761Principal Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257277Senior Engineer, Automotive Product and Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262483Staff Engineer, RF Systems Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR262324Senior Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263319Staff Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263053Robotics System EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 10 Days AgoR263946Staff Engineer Analog IC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260158Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261276Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 8 Days AgoR264005.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/BioChemical-Engineer_R264157?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-biochemical-engineer-us"
+    "job_description": "software engineering job for the role Technology Sales Engineer - Entry-Level Sales Program 2027",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128340&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-entry-level-sales-program-"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Bio-Optics Engineer",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "IBM",
+    "job_title": "Technology Seller Intern - Entry Level Sales Program",
+    "job_city": "ship",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Senior Principal Engineer, Systems Design/Architecture Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR262200Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263074Bio-Optics EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR264158Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR264154Staff Engineer, Digital Design Engineering (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR261739Principal Engineer, Digital Design Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263412Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR263805Senior Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 29 Days AgoR264021Senior Device EngineerlocationsUS, MA, Wilmingtonposted onPosted 18 Days AgoR258021System Architecture Engineerlocations2 Locationsposted onPosted 15 Days AgoR264127Senior Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 30+ Days AgoR263315Senior Engineer, Product ApplicationslocationsUS, MA, Bostonposted onPosted 30+ Days AgoR263317Senior Engineer, Product ApplicationslocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR263427Senior Engineer, Product ApplicationslocationsUS, TX, Austin, Plaza on the Lakeposted onPosted 30+ Days AgoR263635FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262943Senior Engineer, Product ApplicationslocationsUS, MA, Norwood Southposted onPosted 30+ Days AgoR262586Senior Engineer, Product ApplicationslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263636Senior Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263634FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR263331.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Bio-Optics-Engineer_R264158?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-bio-optics-engineer-us"
+    "job_description": "software engineering job for the role Technology Seller Intern - Entry Level Sales Program 2027",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128339&source=WEB_Search_NA",
+    "id": "ibm-technology-seller-intern-entry-level-sales-program-ship"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Post-Silicon Validation Engineer",
+    "employer_name": "Micron Technology",
+    "job_title": "New College Grad - Process Integration Engineer, APTD",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1w",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Purpose for Which It Is Used: The Eightfold AI recruiting software is used to: (a) identify skills from your resume and career history.\n• (b) match your qualifications against role requirements.\n• The Platform will use AI to inform the human recruiter of skills you may have that are not listed on your resume, based on your career history and work experience listed in your resume or other application materials.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-new-college-grad-process-integration-engineer-aptd-boise"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Silicon Photonics Wafer Test Automation Development Engineer",
     "job_city": "US",
-    "job_state": "MA",
+    "job_state": "California",
     "job_posted_at": "1d",
-    "job_description": "• Product Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261896Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR263682System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 15 Days AgoR264126Senior Product Engineer - RFlocationsUS, NC, Durhamposted onPosted 21 Days AgoR258336Semiconductor Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR263497Senior Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263312Sr.\n• Design Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 29 Days AgoR263335Staff Engineer - Digital ASIC and Signal Processing Chip Architect/Systems Engineerlocations2 Locationsposted onPosted 30+ Days AgoR261551Staff Engineer - Digital ASIC and Signal Processing Chip Architect/Systems Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260551Staff Engineer, Field Applicationslocations2 Locationsposted onPosted 24 Days AgoR263674Principal Engineer, Power Architecturelocations3 Locationsposted onPosted 17 Days AgoR263013Staff Power Applications EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261016Systems Integration Engineer – RoboticlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262224Post-Silicon Validation EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR260874Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 9 Days AgoR261421Staff Product Development EngineerlocationsUS, NJ, Somersetposted onPosted 30+ Days AgoR261644Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Staff Mechanical Engineer, Advanced RoboticslocationsUS, MA, Bostonposted onPosted 30+ Days AgoR262611Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Staff Level Product Engineer - SDRlocationsUS, NJ, Somersetposted onPosted 30+ Days AgoR258247.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-AI-ML-Applications-Engineer---Product-Validation---Test_R260874?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-post-silicon-validation-engineer-us"
+    "job_description": "• Software TechnicianlocationsUS, Arizona, Phoenixposted onPosted 23 Days AgoSpotlight JobJR0285603AI Research Engineer/ScientistlocationsUS, California, Santa Claraposted onPosted 18 Days AgoJR0285402Sr.\n• Inference Optimization Engineer (local / edge runtime)locations4 Locationsposted onPosted 14 Days AgoJR0285967Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0282277Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoSpotlight JobJR0283627Design Technology Tool Enablement Engineerlocations3 Locationsposted onPosted 30 Days AgoJR0283551Compiler Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0281207Compiler Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0282385Physical Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0284076CAD/EDA Tools Automation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0284432Sr.\n• EDA Tools Engineer - PERC ESDlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0285229EDA Tools SW Engineerlocations4 Locationsposted onPosted 4 Days AgoJR0286132Ethernet Customer Program Managerlocations2 Locationsposted onPosted 21 Days AgoJR0285630Director – PDK Architecturelocations4 Locationsposted onPosted 16 Days AgoJR0285757Director - Intel Foundry Pre-Silicon Design Quality and Reliabilitylocations2 Locationsposted onPosted 16 Days AgoJR0285515Director-Foundry Customer PlanninglocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0282293Silicon Photonics Wafer Test Automation Development EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0286239MDM Software Application Development Engineerlocations4 Locationsposted onPosted 10 Days AgoJR0285868SW engineer - Silicon CAD tool developmentlocationsUS, California, Santa Claraposted onPosted 7 Days AgoJR0286043Yield and Process Control Automation EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0284118.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Silicon-Photonics-Wafer-Test-Automation-Development-Engineer_JR0286239-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-silicon-photonics-wafer-test-automation-development-engineer-us"
   },
   {
     "employer_name": "ABB",
@@ -36,7 +46,7 @@
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
   },
   {
@@ -51,123 +61,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Hackettstown",
-    "job_state": "New Jersey",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-hackettstown"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Available in one of 2 locations",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Production Engineering Technician (2nd Shift)",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028526/Production-Engineering-Technician-2nd-Shift",
-    "id": "abb-production-engineering-technician-2nd-shift-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
-    "job_city": "Location Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
-    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
   },
   {
     "employer_name": "ABB",
@@ -181,43 +91,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Robotics Paint Mechanical Project Engineer",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039797/Robotics-Paint-Mechanical-Project-Engineer",
-    "id": "abb-robotics-paint-mechanical-project-engineer-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -251,23 +131,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Robotics Paint Mechanical Project Engineer",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039797/Robotics-Paint-Mechanical-Project-Engineer",
+    "id": "abb-robotics-paint-mechanical-project-engineer-location-auburn-hills"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
   },
   {
     "employer_name": "ABB",
@@ -280,14 +160,74 @@
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engr I- Turbo Machinery",
-    "job_city": "Arvada",
-    "job_state": "CO",
-    "job_posted_at": "19h",
-    "job_description": "• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• Oversee program execution by managing scope, schedules, budgets, risks, resources, and technical requirements while ensuring alignment with strategic goals and customer needs.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• , Process Technology, Engineering Sr Advanced Application Engineer – Blending Locations Houston, TX, United States and 1 more Posting Date08/06/2026 Be the First to Apply This role focuses on designing and implementing advanced application engineering solutions tailored to customer requirements, while collaborating with cross-functional teams to ensure successful project execution.\n• Travel via car will be required throughout the local Houston area, with additional travel by air throughout North America (United States and Canada) and internationally, including offshore and remote customer locations.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/155246/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engr-i-turbo-machinery-arvada"
+    "employer_name": "ABB",
+    "job_title": "Robotics Validation Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
+    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Visual SLAM Software Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
+    "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Embedded SW Engineer",
+    "job_city": "Location San Fernando de Henares",
+    "job_state": "Madrid",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
+    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Engineer for Digital Data Exchange (m/f/d)",
+    "job_city": "Location Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040571/Software-Engineer-for-Digital-Data-Exchange-m-f-d",
+    "id": "abb-software-engineer-for-digital-data-exchange-m-f-d-location-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Calibration Software Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
+    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Location Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III (Python/AuthE)",
+    "job_city": "Columbus",
+    "job_state": "OH",
+    "job_posted_at": "1d",
+    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• Senior Lead Software Engineer - Mobile Engineering LONDON, LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the International Consumer Bank Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Software Engineer III-ETL, AWS, AI Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer II - Backend Python/AWS Plano, TX, United States TechnologySoftware Engineering You’re ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you.\n• Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759078/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-python-authe-columbus"
   },
   {
     "employer_name": "Amazon",
