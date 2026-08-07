@@ -1,13 +1,213 @@
 [
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II - Backend Python/AWS",
-    "job_city": "Plano",
+    "employer_name": "AMD",
+    "job_title": "Linux Kernel SW Engineer",
+    "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• Senior Lead Software Engineer - Mobile Engineering LONDON, LONDON, United Kingdom TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the International Consumer Bank Senior Manager of Software Engineering - Data Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead software teams, promote delivery, resolve issues, and ensure work meets compliance, business needs, and engineering standards.\n• Software Engineer III-ETL, AWS, AI Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer II - Backend Python/AWS Plano, TX, United States TechnologySoftware Engineering You’re ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you.\n• Lead Software Engineer - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Engineering Operations Bengaluru, Karnataka, India TechnologySoftware Engineering We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• Software Engineer III - Python Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Be part of a dynamic team where your distinctive skills will contribute to a winning culture and team Lead Software Engineer - Java GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Lead Software Engineer Columbus, OH, United States and 1 more TechnologySoftware Engineering As a Lead Security Engineer at JPMorgan Chase within the Cybersecurity technology & Controls, you are an integral part of team that works to deliver software solutions that satisfy pre-defined functional and user requirements with the added dimension of preventing misuse, circumvention, and malicious behavior.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750169/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-backend-python-aws-plano"
+    "job_description": "• Extensive expertise in x86 computing architectureProven experience across the entire software development lifecycleIn-depth knowledge of kernels, virtualization, and securityAdvanced Linux Kernel debugging skills across kernel subsystems, virtualization.\n• Advanced understanding and experience with the Linux kernel and related upstream development workflowAdvanced programming skills in C for operating system kernel & systems developmentExposure to KVM/QEMU (including x86-64 virtualization extensions) is a plusExperience with the GNU toolchainProficient use of gitExperience with open source software development, building and submitting patches on a mailing list, and working with external software partnersDeep understanding of operating systems concepts, data structures, x86-64 architecture, ACPI, and PCIEExperience with low-level debug tools as well as emulators and simulatorsBackground in IO, core kernel preferred Successful track record in contributions to open-source projects Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master’s in Electrical Engineer, Computer Engineering, Computer Science, or a closely related field4+ years experience AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/77966/login",
+    "id": "amd-linux-kernel-sw-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Physical AI, Computer Vision Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Experience with RTOS platforms such as QNX, GreenHills, or similar real-time operating systems.\n• Experience designing software for low-latency, safety-critical, or time-sensitive embedded applications.\n• Experience with AMD Vitis™ AI or equivalent AI deployment frameworks.\n• Experience with AMD Ryzen™ Embedded, EPYC™ Embedded, Versal™ AI Edge, Zynq UltraScale+, Kria™, or similar edge computing platforms.\n• Experience with AI inference deployment using ONNX, PyTorch, TensorFlow, or related frameworks.\n• Experience with ROS 2 and robotics software architectures.\n• Experience with Linux kernel, BSP, device driver, or low-level platform software development.\n• Experience with performance profiling, optimization, and benchmarking on multicore systems.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/86993/login",
+    "id": "amd-physical-ai-computer-vision-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Physical AI, Machine Learning Engineer (Vitis and ROCm)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Experience with AMD Vitis AI or equivalent AI deployment frameworks.\n• Experience with AMD Versal AI Edge, Zynq UltraScale+, Kria, or other adaptive computing platforms.\n• Experience developing AI applications using ONNX, PyTorch, TensorFlow, or similar frameworks.\n• Experience with ROS 2 and robotics software architectures.\n• Experience with graphics, visualization, or accelerated rendering technologies.\n• Experience with Linux kernel, device drivers, or low-level platform software development.\n• Experience with distributed AI, edge-to-cloud architectures, or heterogeneous computing systems.\n• Experience with robotics, automotive, aerospace, industrial automation, or other intelligent edge domains.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/86994/login",
+    "id": "amd-physical-ai-machine-learning-engineer-vitis-and-rocm-us"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 52 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 51 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-51-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - Weekend Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
+    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - 2nd Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
+    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
+    "id": "abb-manufacturing-process-engineer-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
+    "job_city": "Location Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
+    "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Validation Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
+    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Visual SLAM Software Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• 📱 Company Mobile Phone: Stay connected with a corporate phone – no need to mix work and personal calls.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities grow, upskill, and move forward in your career.\n• Degree in Computer Science, Robotics or a related field3+ years of industry experience in software engineering, robotics or computer visionStrong C++ and Python skills with a passion for high‑quality code, performance, and best practicesBonus points for experience working with systems involving SLAM, computer vision, roboticsFamiliarity with profiling tools, performance tuning, and debugging complex systems.\n• 🏡 Home Office Flexibility: Work from wherever suits you best thanks to our flexible remote work options.\n• 💻 Benefits Platform: Enjoy exclusive deals and discounts on everything from tech to travel through our employee benefits portal.\n• 📈 Employee Share Acquisition Plan: Want to invest in your future.\n• Join our share acquisition plan and grow with the company.\n• 🚀 Career Development: Expect plenty of chances to advance your career internally with our Open Job Market, with support to explore new roles and take on exciting challenges.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
+    "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Embedded SW Engineer",
+    "job_city": "Location San Fernando de Henares",
+    "job_state": "Madrid",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
+    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Engineer for Digital Data Exchange (m/f/d)",
+    "job_city": "Location Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040571/Software-Engineer-for-Digital-Data-Exchange-m-f-d",
+    "id": "abb-software-engineer-for-digital-data-exchange-m-f-d-location-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Calibration Software Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
+    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Location Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Completed degree in Electrical Engineering or a comparable field of studyAt least 3+ years of relevant professional experience in hardware development.\n• Good knowledge in FPGA design (AMD/Xilinx, Altera, VHDL)Confident handling of common FPGA development tools (Vivado, ModelSim)Experience in embedded software development (e.\n• , PIC, ATMEGA, STM32, MicroBlaze)Good knowledge in classical hardware development as well as in handling hardware design toolsBasic knowledge in handling bus systems such as Ethernet, PROFIBUS, or similar fieldbus systemsStrong communication and teamwork skills combined with an independent, analytical, and structured working styleEnglish: business-fluent (written and spoken).\n• German: fluent (written and spoken) Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Scientist (Senior) Power Electronic Converters 80-100% (f/m/d) Location Baden-Daettwil, Aargau, Switzerland Category Research & Development Software Engineer for Digital Data Exchange (m/f/d) Location Mannheim, Baden-Wurttemberg, Germany Category Research & Development R&D Engineer (f/m/d) Location Minden, North Rhine-Westphalia, Germany Category Research & Development (Senior) Research Scientist (m/f/d) Industrial Sensing for Electrification (80-100%) Location Mannheim, Baden-Wurttemberg, Germany Category Research & Development R&D Senior Engineer (f/m/d) - Product Owner Location Minden, North Rhine-Westphalia, Germany Category Research & Development R&D Engineer (f/m/d) Vacuum Interrupters Location Ratingen, North Rhine-Westphalia, Germany Category Research & Development Process & Toolchain Expert (f/m/d) Available in one of 2 locations Category Research & Development Support Engineer (f/m/d) Location Eggelsberg, Upper Austria, Austria Category Research & Development (Senior) Scientist in Converter-Based Distribution Systems (80 - 100%) Location Baden-Daettwil, Aargau, Switzerland Category Research & Development Development, implementation, and testing of complex FPGA and SoC architecturesDesign of VHDL-based systems and development of verification environmentsExecution of simulations, timing analysis, and hardware validationDevelopment of embedded software for microcontrollersSupport of the hardware design team (schematic and layout reviews, testing, documentation)Maintenance and continuous improvement of existing systemsCollaboration with internal and external stakeholders and close coordination with hardware and software teams.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "Texas Instruments",
+    "job_title": "Equipment Engineer - MFAB",
+    "job_city": "South Portland",
+    "job_state": "ME",
+    "job_posted_at": "17h",
+    "job_description": "• (3) Dallas, North Campus - Kilby East (2) South Portland, South Portland, ME (2) Sherman, Sherman - SM1 Fab (2) Categories 0 Engineering - Product Dev (23) Manufacturing (19) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (46) Recent College Grads (7) Interns (1) Work Locations 0 Dallas, South Campus (16) Richardson, Richardson Fab, Renner Rd (9) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (4) Dallas, North Campus - DMOS V North (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• (3) Dallas, North Campus - Kilby East (2) South Portland, South Portland, ME (2) Sherman, Sherman - SM1 Fab (2) Categories 0 Engineering - Product Dev (23) Manufacturing (19) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (46) Recent College Grads (7) Interns (1) Experience in Thin Films, Plasma Etch, Wet Chemistry, and Diffusion ideal but not required Equipment experience across OEMs but not limited to AMAT, LAM, Novellus, TEL, ASML, Kokusai, Akrion, Axcelis Experience on tool monitoring and interdiction software, and equipment maintenance and documentationDesire and ability to own all aspects of Tool Stability Performance including Availability, Failure Rate, Scrap, and CostDrive for continuous improvement Working knowledge of semiconductor manufacturing, and SPC techniques.\n• Experienced with semiconductor cleanroom protocol and behaviorsStrong verbal and written communication skillsDemonstrated strong analytical, critical thinking and problem-solving skillsAbility to work in teams and collaborate effectively with people in different functionsAbility to take the initiative and drive for resultsStrong time management skills that enable on-time project deliveryAbility to work effectively in an interrupt-driven, fast-paced and rapidly changing environmentDemonstrated ability to build strong, influential relationship Evaluating, selecting, and ordering equipment that is most appropriate and cost effective for the manufacture of company productsOverseeing the installation, modification, upgrade and maintenance of manufacturing equipmentKeeping current on equipment manufacturers' technical notices, upgrades and safety issuesStudying equipment performance and reliabilityEstablishing programs and solutions for increasing uptime and for equipment problems that affect the manufacturing processProviding technical support to the manufacturing equipment repair and process engineering organizationsDefining and writing preventative maintenance schedules Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Job Identification 25016909 Job Category Manufacturing Posting Date 08/07/2026, 04:26 PM Degree Level Bachelor's Degree Locations SPOR 5 Foden Rd, South Portland, ME, 04106, US ECL/GTC Required Yes Experienced Professional (46) Recent College Grads (7) Interns (1) Experienced Professional (46) Recent College Grads (7) Interns (1).\n• Software Development Engineer Locations Richardson, TX, United States Posting Date08/04/2026 New College Graduate - IT - Software Development Engineer Development Program Locations Dallas, TX, United States Posting Date04/24/2026 Epi Equipment Engineer Locations Sherman, TX, United States Posting Date08/04/2026 Data Engineer Locations Dallas, TX, United States Posting Date07/21/2026 Software Applications Engineering Manager Locations Dallas, TX, United States Posting Date07/09/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date07/16/2026 Applications Engineer Locations Dallas, TX, United States Posting Date08/06/2026 Equipment Engineer - MFAB Locations South Portland, ME, United States Posting Date08/07/2026 Workflow Automation Engineer | GenAI Focused Locations Dallas, TX, United States Posting Date06/10/2026 Equipment Engineer Locations Lehi, UT, United States Posting Date08/03/2026 Equipment Engineer - Plasma Locations Lehi, UT, United States Posting Date08/03/2026 Smart Manufacturing Software Dev Eng Locations Richardson, TX, United States Posting Date04/21/2026 Network Engineer - Encore Program Internship Locations Dallas, TX, United States Posting Date07/29/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 Hot Job AI/ML Engineer Locations Richardson, TX, United States Posting Date07/20/2026 Photolithography Process Development Engineer (Advanced Patterning) Locations Lehi, UT, United States Posting Date04/10/2026 Industrial Engineering Manager - Distribution Centers Locations Dallas, TX, United States Posting Date06/26/2026 Product Development Engineer (28nm) Locations Lehi, UT, United States Posting Date03/19/2026 Hot Job Early Career: IT Infrastructure - Network Engineer Locations Dallas, TX, United States Posting Date06/03/2026 Equipment Engineer - Maine Locations South Portland, ME, United States Posting Date07/30/2026 Equipment Engineer - Metrology Locations Richardson, TX, United States Posting Date07/24/2026 Systems Engineer | SEM Robotics Locations Dallas, TX, United States Posting Date07/14/2026 Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date07/13/2026 Equipment Engineer - Implant Locations Richardson, TX, United States Posting Date07/10/2026 CMP Manufacturing Equipment Engineer Locations Dallas, TX, United States Posting Date07/23/2026 Thin Films Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date06/25/2026 Equipment Engineer Locations United States Posting Date05/29/2026 RFAB Module Industrial Engineer Locations Richardson, TX, United States Posting Date04/06/2026 Equipment Engineer - DM5 - Implant Locations Dallas, TX, United States Posting Date07/16/2026 Equipment Engineer - DM5 - Diffusion Locations Dallas, TX, United States Posting Date07/16/2026 Applications Engineer | DCC CTS Locations Santa Clara, CA, United States Posting Date06/12/2026 Process Development Test Engineer Locations Dallas, TX, United States Posting Date02/06/2026 PMO Master Scheduler Locations Dallas, TX, United States Posting Date07/13/2026 Career Accelerator Program - Test Engineer Locations United States Posting Date08/06/2026 AMHS/Robotics Equipment Engineer Locations TX, United States and 1 more Posting Date07/02/2026 Test Engineer | Space Power Locations Dallas, TX, United States Posting Date08/06/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 RET/OPC Process Development Engineer Locations Dallas, TX, United States Posting Date05/15/2026 Manufacturing Product Engineer Locations Richardson, TX, United States Posting Date07/30/2026 Early Career: IT Security Engineer Locations Dallas, TX, United States Posting Date07/30/2026 Field Applications Engineer | Processor Locations MI, United States Posting Date06/18/2026 Validation/Characterization Engineer | DCC (Medical) Locations Dallas, TX, United States Posting Date06/23/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/21/2026 Career Accelerator Program - Test Engineer Locations United States Posting Date06/05/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/22/2026 Field Applications Engineer | Microcontrollers (Novi, Michigan) Locations Southfield, MI, United States Posting Date07/14/2026 Layout Designer | DCC DAC Locations Tucson, AZ, United States Posting Date06/05/2026 Engineering Technician Locations Dallas, TX, United States Posting Date05/14/2026 Design Verification Engineer - APS Locations Santa Clara, CA, United States Posting Date04/23/2026 Design Verification Engineer - APS Locations Dallas, TX, United States Posting Date05/20/2026 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Benefits at TI Our culture Locations North America Europe Asia Pacific Jobs 54 Job search results 54 Events 0 Work Locations 0 Dallas, South Campus (16) Richardson, Richardson Fab, Renner Rd (9) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (4) Dallas, North Campus - DMOS V North (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• (3) Santa Clara, Santa Clara, Great America.\n• (3) Santa Clara, Santa Clara, Great America.",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25016909/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-equipment-engineer-mfab-south-portland"
   },
   {
     "employer_name": "Amazon",
@@ -51,16 +251,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
-    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -68,6 +258,16 @@
     "job_description": "software engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10480763/software-development-engineer-ec2-ultraserver-delivery-team",
     "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
+    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
   },
   {
     "employer_name": "Amazon",
