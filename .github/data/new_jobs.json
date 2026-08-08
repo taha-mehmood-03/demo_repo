@@ -1,55 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technology Seller – Entry Level Sales Program",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Technology Seller – Entry Level Sales Program 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128341&source=WEB_Search_NA",
-    "id": "ibm-technology-seller-entry-level-sales-program-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Engineer Intern - Entry-Level Sales Program",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Technology Sales Engineer Intern - Entry-Level Sales Program 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128345&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-engineer-intern-entry-level-sales-program-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Hardware Modeling - Research Scientist",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Quantum Hardware Modeling - Research Scientist",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128052&source=WEB_Search_NA",
-    "id": "ibm-quantum-hardware-modeling-research-scientist-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Federal Associate Developer",
-    "job_city": "Herndon",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Federal Associate Developer 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=127789&source=WEB_Search_NA",
-    "id": "ibm-federal-associate-developer-herndon"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Federal Data Scientist Intern",
-    "job_city": "shipHerndon",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Federal Data Scientist Intern 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=127795&source=WEB_Search_NA",
-    "id": "ibm-federal-data-scientist-intern-shipherndon"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Available in one of 52 locations",
@@ -288,16 +238,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Material Analyst",
-    "job_city": "Normal",
-    "job_state": "Illinois US",
-    "job_posted_at": "1d",
-    "job_description": "• Bachelors of Science in Engineering, Supply Chain Management, or other related fields highly preferred or 3+ years of applicable experience.\n• Visit customer locations & plants during major milestone events to support the teams when required.\n• Ability to read and interpret documents such as governmental regulations, safety rules, operating Forecast accurate supply requirements via Material Requirements Planning “MRP” process Experience with Materials Requirement Planning “MRP” Software such as SAP Preferred.\n• Experience understanding MRP logic and demand plan creations highly preferred.\n• Ability to write routine reports and correspondence.\n• Ability to speak effectively before groups of customers or employees of organization.\n• Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists.\n• Ability to support quick turn analysis on inventory run out and communicate clearly internally/externally Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/32781/login",
-    "id": "rivian-material-analyst-normal"
   },
   {
     "employer_name": "Amazon",
