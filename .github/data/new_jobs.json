@@ -6,18 +6,18 @@
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -31,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
   },
   {
     "employer_name": "ABB",
@@ -71,16 +71,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Engineering Intern- Fall",
     "job_city": "Location Selmer",
     "job_state": "Tennessee",
@@ -88,6 +78,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
     "id": "abb-engineering-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -105,7 +105,7 @@
     "job_city": "Location Cleveland",
     "job_state": "Ohio",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• High School diploma or GED required.\n• A special combination of experience and/or demonstrated accomplishments will be considered.\n• Applicants must speak fluent English, have a legal driver’s license, and have a work authorization that would permit them to work for ABB in the US.\n• You will embark on a journey which will see you develop and be mentored to provide outstanding field service support of ABB's Distributed Control System.\n• There are many career pathways in Field Service including Advanced Services, ABB University, Technical Support, Project Engineering, Commission Services, Research and Development, and Quality.\n• Along your journey, you will get to meet many of our previous Trainees that continue to have successful careers at ABB.\n• A demonstrated commitment to excellence, effective communication, problem solving, teamwork, customer focus, and a professional attitude.\n• Choice between two medical plan options: A PPO plan called the Copay Plan OR a High Deductible Health Plan (with a Health Savings Account) called the High Deductible Plan.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
     "id": "abb-associate-resident-service-technician-location-cleveland"
   },
@@ -171,16 +171,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Electrical Engineer",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -201,23 +191,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Hackettstown",
-    "job_state": "New Jersey",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-hackettstown"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• R&D Engineer - Panelboards Location Bloomfield, Connecticut, United States of America Category Research & Development R&D Associate Engineer Location Hackettstown, New Jersey, United States of America Category Research & Development Senior Power Electronics Engineer Location Richmond, Virginia, United States of America Category Research & Development R&D Associate Electrical Test Engineer - 2nd shift Location Bloomfield, Connecticut, United States of America Category Research & Development Test & Certification Engineer Location Saint-Jean-sur-Richelieu, Quebec, Canada Category Research & Development Product Sustainability & Environmental Compliance Engineer Location Saint-Jean-sur-Richelieu, Quebec, Canada Category Research & Development Design, development, and manufacturing implementation of engineering programs that meet business standards and program / product requirements, including functional, cost, reliability, manufacturability, and safety requirements.\n• Understanding and applying relevant processes, standards, guidelines, and requirements, including architectural and design constraints.\n• Contributing to the continuous improvement of the chapter, including to the improvement or development of new capabilities, skills, technical knowledge, performance, and/or culture.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action BS Mechanical Engineering or similar educational background2+ years of experience in R&D or a related fieldYou have experience in mechanical design (including 3D modeling and 2D drawing creation using PTC Creo or similar tools) and engineering analysisAble to travel domestically & internationally on an occasional basisYou have valid US work authorization and must not require sponsorship for an employment visa by ABB at any time in the future.\n• Execute designs with solid modeling software (PTC Creo / Windchill) to create models, assemblies, detailed drawings, and BOMs for designs which may include plastic, stamped metal, and electrically conductive parts.\n• Driving the achievement of assigned targets (quality, time, scope, cost) and raising and addressing risks.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
   },
   {
     "employer_name": "ABB",
@@ -228,6 +208,36 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Manufacturing Test Engineer",
+    "job_city": "Northford",
+    "job_state": "CT",
+    "job_posted_at": "19h",
+    "job_description": "• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• , Process Technology, Engineering Sr Advanced Test Engineer Locations Columbus, OH, United States (On-site) Posting Date08/04/2026 Fantastic career opportunity as a Sr Advanced Test Engineer in Columbus OH, Industrial Automation, Engineering Sr Advanced Application Engineer – Blending Locations Houston, TX, United States and 1 more Posting Date08/06/2026 Be the First to Apply This role focuses on designing and implementing advanced application engineering solutions tailored to customer requirements, while collaborating with cross-functional teams to ensure successful project execution.\n• In this role, you will impact the successful qualification, financial modeling, and execution of energy projects by coordinating cross-functional teams across sales, engineering, finance, legal, operations, and external partners, driving sustainable energy solutions and business growth.\n• Oversee program execution by managing scope, schedules, budgets, risks, resources, and technical requirements while ensuring alignment with strategic goals and customer needs.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/154754/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-manufacturing-test-engineer-northford"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Manufacturing Process Engineer - SMT",
+    "job_city": "Northford",
+    "job_state": "CT",
+    "job_posted_at": "19h",
+    "job_description": "• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• , Process Technology, Engineering Sr Advanced Test Engineer Locations Columbus, OH, United States (On-site) Posting Date08/04/2026 Fantastic career opportunity as a Sr Advanced Test Engineer in Columbus OH, Industrial Automation, Engineering Sr Advanced Application Engineer – Blending Locations Houston, TX, United States and 1 more Posting Date08/06/2026 Be the First to Apply This role focuses on designing and implementing advanced application engineering solutions tailored to customer requirements, while collaborating with cross-functional teams to ensure successful project execution.\n• In this role, you will impact the successful qualification, financial modeling, and execution of energy projects by coordinating cross-functional teams across sales, engineering, finance, legal, operations, and external partners, driving sustainable energy solutions and business growth.\n• Oversee program execution by managing scope, schedules, budgets, risks, resources, and technical requirements while ensuring alignment with strategic goals and customer needs.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/154757/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-manufacturing-process-engineer-smt-northford"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Manufacturing Process Engineer - Electronics Assembly & Automation",
+    "job_city": "Northford",
+    "job_state": "CT",
+    "job_posted_at": "19h",
+    "job_description": "• It requires collaboration with certification engineers to ensure product compliance with current standards.\n• Key responsibilities include addressing product quality and manufacturing issues through root-cause analysis, leading customer discussions to define requirements, mentoring junior engineers, and improving work practices and processes.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• You will leverage your deep understanding of system applications and customer needs to influence sales strategies and deliver tailored solutions that enhance customer satisfaction and business growth.\n• , Process Technology, Engineering Sr Advanced Test Engineer Locations Columbus, OH, United States (On-site) Posting Date08/04/2026 Fantastic career opportunity as a Sr Advanced Test Engineer in Columbus OH, Industrial Automation, Engineering Sr Advanced Application Engineer – Blending Locations Houston, TX, United States and 1 more Posting Date08/06/2026 Be the First to Apply This role focuses on designing and implementing advanced application engineering solutions tailored to customer requirements, while collaborating with cross-functional teams to ensure successful project execution.\n• In this role, you will impact the successful qualification, financial modeling, and execution of energy projects by coordinating cross-functional teams across sales, engineering, finance, legal, operations, and external partners, driving sustainable energy solutions and business growth.\n• Oversee program execution by managing scope, schedules, budgets, risks, resources, and technical requirements while ensuring alignment with strategic goals and customer needs.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/154957/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-manufacturing-process-engineer-electronics-assembly-automation-northford"
   },
   {
     "employer_name": "Amazon",
