@@ -1,113 +1,53 @@
 [
   {
+    "employer_name": "Intel",
+    "job_title": "Sales Operations Analyst",
+    "job_city": "4 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• AI Product IntegratorlocationsUS, California, Folsomposted onPosted 7 Days AgoJR0286037CPU Core Logic DesignerlocationsUS, California, Folsomposted onPosted 6 Days AgoJR0285852Design Verification ArchitectlocationsUS, California, Folsomposted onPosted 12 Days AgoJR0286045Partner Marketing Strategistlocations2 Locationsposted onPosted 12 Days AgoJR0286062Foundry Solutions Architect - IGTlocations2 Locationsposted onPosted 25 Days AgoSpotlight JobJR0284819Foundry Solutions Business Developmentlocations3 Locationsposted onPosted 25 Days AgoSpotlight JobJR0285437Sales Operations Analystlocations4 Locationsposted onPosted TodayJR0286075CPU Performance ArchitectlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0281596S6 Die Pick TechnicianlocationsUS, Oregon, Hillsboroposted onPosted 18 Days AgoJR0285876CPU Performance ArchitectlocationsUS, Texas, Austinposted onPosted TodayJR0285980Senior CPU Performance Architectlocations5 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0282127Senior Out-of-Order CPU ArchitectlocationsUS, Texas, Austinposted onPosted 30+ Days AgoSpotlight JobJR0282126Server CPU SoC Architectlocations5 Locationsposted onPosted 15 Days AgoJR0285853.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Sales-Operations-Analyst_JR0286075?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-sales-operations-analyst-4-locations"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Available in one of 52 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
     "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Hackettstown",
+    "job_state": "New Jersey",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-hackettstown"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - Weekend Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
-    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - 2nd Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
-    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032297/Manufacturing-Process-Engineer",
-    "id": "abb-manufacturing-process-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -161,23 +101,103 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - Weekend Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
+    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - 2nd Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
+    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -188,36 +208,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Distributed Systems Software Engineer (Golang)",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "5d",
-    "job_description": "• Minimum Qualifications5+ years Software engineering or DevOps experienceProficient in at least one of these languages: Python, Go, Rust, C++Strong experience with large-scale distributed systems (replication, high availability, data processing/streaming)Strong experience with Linux/UNIX administration, configuration, and monitoringHave written or contributed to a batch or realtime processing systemExperience with cloud environments (AWS, GCP, Azure): identity & credential management, pub/sub, message queuingExperience with infrastructure-as-code tools (e.\n• , Terraform, CloudFormation, Puppet, Flux, Ansible, etc)Experience with containerization and orchestration technologies (e.\n• , Docker, Kubernetes)Experience with zero-downtime deployments, job scheduling systems, event-based messaging systemsAble to quickly learn and adapt to new technologiesStrong operational and troubleshooting skills.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200676528-3749/distributed-systems-software-engineer-golang?team=SFTWR",
-    "id": "apple-distributed-systems-software-engineer-golang-san-jose"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer in Test -AI/ML",
-    "job_city": "Seattle",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsBachelor’s degree with a minimum of 5 years, or Master’s degree with a minimum of 3 years, of experience in software development and/or test automation, including at least 3 years leading complex, distributed systems.\n• Proficiency in Java, Python or similar programming languagesExperience in designing and implementing testing frameworks for distributed systems, service-layer testing, including backend APIs, data processing, and infrastructure componentsPassion for quality engineering and delivering creative approaches for testing machine learning algorithms and large scale distributed data systemsImpeccable communication skills and ability to effectively collaborate with multiple stakeholders across organizations and project timelinesHighly organized, creative, self-motivated, and passionate about achieving results.\n• Excited about the possibilities unlocked by AI and ML technologiesAdvocacy for a positive customer experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200677065-3337/software-engineer-in-test-ai-ml?team=SFTWR",
-    "id": "apple-software-engineer-in-test-ai-ml-seattle"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "System Engineer",
-    "job_city": "Knoxville",
-    "job_state": "TN",
-    "job_posted_at": "5h",
-    "job_description": "• (3) Dallas, North Campus - Kilby East (2) South Portland, South Portland, ME (2) Sherman, Sherman - SM1 Fab (2) Categories 0 Engineering - Product Dev (25) Manufacturing (20) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (49) Recent College Grads (7) Interns (1) Work Locations 0 Dallas, South Campus (16) Richardson, Richardson Fab, Renner Rd (10) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (4) Dallas, North Campus - DMOS V North (4) Santa Clara, Santa Clara, Great America.\n• (3) Dallas, North Campus - Kilby East (2) South Portland, South Portland, ME (2) Sherman, Sherman - SM1 Fab (2) Categories 0 Engineering - Product Dev (25) Manufacturing (20) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (49) Recent College Grads (7) Interns (1) Analyze target applications in automotive, industrial, consumer, and computing markets to identify technology trends and product opportunities Interface with customers and TI business units to gather requirements and define compelling product specifications Develop and maintain product roadmaps based on competitive analysis, customer input, and market trends Assess architectural trade-offs in IC development in collaboration with design teams Evaluate silicon systems - hardware and software - to validate system-level performance against specifications Provide complete documentation for each phase of the product development lifecycle Perform troubleshooting and debugging on system-level issues Collaborate with applications engineers on system design activities to ensure new products fit target customer platforms Collaborate closely with internal functions (e.\n• G: Product/Test Engr and Project Manager) to regularly communicate market requirements and drive timely execution of new product releases.\n• Develop and track progress of NPI strategy to maximize market adoption Solid knowledge of analog electronics fundamentals including amplifiers, voltage regulators, data converters, and power management topologies Experience using signal processing and system modeling tools (MATLAB, Simulink, SPICE, VerilogAMS, or equivalent) Ability to read and interpret IC datasheets, application notes, and system schematics Programming or scripting experience for IC configuration, test automation, or data analysis (Python, C, or MATLAB) Prior experience as an applications engineer, design engineer, or in a customer-facing technical role using analog ICs Knowledge of one or more end-equipment markets such as EV/HEV, data center, industrial automation, or personal electronics Excellent written and verbal communication skills with the ability to convey complex technical concepts to diverse audiences Strong analytical skills and ability to navigate ambiguity in early-stage product definition Ability to establish strong relationships with key stakeholders, both internally and externally Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Job Identification 25017131 Job Category Engineering - Product Dev Posting Date 08/12/2026, 03:03 AM Degree Level Bachelor's Degree Locations 800 S Gay St, Knoxville, TN, 37929, US ECL/GTC Required Yes Experienced Professional (49) Recent College Grads (7) Interns (1) Experienced Professional (49) Recent College Grads (7) Interns (1).\n• Software Development Engineer Locations Richardson, TX, United States Posting Date08/04/2026 New College Graduate - IT - Software Development Engineer Development Program Locations Dallas, TX, United States Posting Date04/24/2026 Validation/Characterization Engineer Locations Dallas, TX, United States Posting Date08/11/2026 Software Applications Engineering Manager Locations Dallas, TX, United States Posting Date07/09/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date07/16/2026 Data Engineer Locations Dallas, TX, United States Posting Date07/21/2026 Diffusion Equipment Engineer Locations Richardson, TX, United States Posting Date08/10/2026 Workflow Automation Engineer | GenAI Focused Locations Dallas, TX, United States Posting Date06/10/2026 Smart Manufacturing Software Dev Eng Locations Richardson, TX, United States Posting Date04/21/2026 Applications Engineer Locations Dallas, TX, United States Posting Date08/06/2026 Equipment Engineer - MFAB Locations South Portland, ME, United States Posting Date08/07/2026 Network Engineer - Encore Program Internship Locations Dallas, TX, United States Posting Date07/29/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 Hot Job AI/ML Engineer Locations Richardson, TX, United States Posting Date07/20/2026 Epi Equipment Engineer Locations Sherman, TX, United States Posting Date08/04/2026 Photolithography Process Development Engineer (Advanced Patterning) Locations Lehi, UT, United States Posting Date04/10/2026 Equipment Engineer Locations Lehi, UT, United States Posting Date08/03/2026 Industrial Engineering Manager - Distribution Centers Locations Dallas, TX, United States Posting Date06/26/2026 Product Development Engineer (28nm) Locations Lehi, UT, United States Posting Date03/19/2026 Hot Job Early Career: IT Infrastructure - Network Engineer Locations Dallas, TX, United States Posting Date06/03/2026 Equipment Engineer - Plasma Locations Lehi, UT, United States Posting Date08/03/2026 Equipment Engineer - Maine Locations South Portland, ME, United States Posting Date07/30/2026 Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date07/13/2026 Equipment Engineer - Implant Locations Richardson, TX, United States Posting Date07/10/2026 CMP Manufacturing Equipment Engineer Locations Dallas, TX, United States Posting Date07/23/2026 Thin Films Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date06/25/2026 Equipment Engineer Locations United States Posting Date05/29/2026 Equipment Engineer - Metrology Locations Richardson, TX, United States Posting Date07/24/2026 RFAB Module Industrial Engineer Locations Richardson, TX, United States Posting Date04/06/2026 Applications Engineer | DCC CTS Locations Santa Clara, CA, United States Posting Date06/12/2026 Equipment Engineer - DM5 - Implant Locations Dallas, TX, United States Posting Date07/16/2026 Equipment Engineer - DM5 - Diffusion Locations Dallas, TX, United States Posting Date07/16/2026 PMO Master Scheduler Locations Dallas, TX, United States Posting Date07/13/2026 Process Development Test Engineer Locations Dallas, TX, United States Posting Date02/06/2026 AMHS/Robotics Equipment Engineer Locations TX, United States and 1 more Posting Date07/02/2026 Test Engineer Locations Santa Clara, CA, United States Posting Date08/11/2026 System Engineer Locations Knoxville, TN, United States Posting Date08/12/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 RET/OPC Process Development Engineer Locations Dallas, TX, United States Posting Date05/15/2026 Career Accelerator Program - Test Engineer Locations United States Posting Date08/06/2026 Test Engineer | Space Power Locations Dallas, TX, United States Posting Date08/06/2026 Manufacturing Product Engineer Locations Richardson, TX, United States Posting Date07/30/2026 Early Career: IT Security Engineer Locations Dallas, TX, United States Posting Date07/30/2026 Field Applications Engineer | Processor Locations MI, United States Posting Date06/18/2026 Validation/Characterization Engineer | DCC (Medical) Locations Dallas, TX, United States Posting Date06/23/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/21/2026 Career Accelerator Program - Test Engineer Locations United States Posting Date06/05/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/22/2026 Field Applications Engineer | Microcontrollers (Novi, Michigan) Locations Southfield, MI, United States Posting Date07/14/2026 Layout Designer | DCC DAC Locations Tucson, AZ, United States Posting Date06/05/2026 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Benefits at TI Our culture Locations North America Europe Asia Pacific Jobs 57 Job search results 57 Events 0 Work Locations 0 Dallas, South Campus (16) Richardson, Richardson Fab, Renner Rd (10) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (4) Dallas, North Campus - DMOS V North (4) Santa Clara, Santa Clara, Great America.\n• (4) Tucson, Tucson Williams Ctr-South Bldg,.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25017131/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-system-engineer-knoxville"
   },
   {
     "employer_name": "Amazon",
@@ -231,16 +221,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
-    "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Amazon Traffic Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -251,10 +231,20 @@
   },
   {
     "employer_name": "Amazon",
+    "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
+    "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
+  },
+  {
+    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Internet Edge Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5h",
+    "job_posted_at": "7h",
     "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
     "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
@@ -404,7 +394,7 @@
     "job_title": "Software Engineer - Robot Learning, Amazon Robotics - Vulcan Stow",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5h",
+    "job_posted_at": "7h",
     "job_description": "software engineering job for the role Software Engineer - Robot Learning,  Amazon Robotics - Vulcan Stow",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499383/software-engineer-robot-learning-amazon-robotics-vulcan-stow",
     "id": "amazon-software-engineer-robot-learning-amazon-robotics-vulcan-stow-seattle"
