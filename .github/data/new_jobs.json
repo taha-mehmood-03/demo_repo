@@ -1,11 +1,21 @@
 [
   {
+    "employer_name": "Micron Technology",
+    "job_title": "OSINT Analyst",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "2d",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/43721138",
+    "id": "micron-technology-osint-analyst-manassas"
+  },
+  {
     "employer_name": "AMD",
     "job_title": "AI Engineer, Recursive Self-Improvement for Compute",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Experience with GPU kernels, ROCm/HIP, CUDA, Triton, PyTorch, JAX, TensorFlow, or distributed training/inference systems.\n• Experience with reinforcement learning, post-training, reward modeling, automated program optimization, or agentic coding systems.\n• Experience building production-quality evaluation platforms, experiment tracking, dashboards, or leaderboards.\n• Strong software engineering experience in Python and at least one systems language such as C++, C, HIP, CUDA.\n• Experience building AI, ML, agentic, optimization, or automation systems that are evaluated with objective metrics.\n• Clear communication skills and ability to work across AI research, hardware, software, and partner-facing teams.\n• Build agentic and learning-driven optimization loops for compute workloads and hardware engineering workflows.\n• Develop systems that generate, compile, test, benchmark, profile, and iterate on candidate improvements with minimal human intervention.",
+    "job_description": "• Experience with GPU kernels, ROCm/HIP, CUDA, Triton, PyTorch, JAX, TensorFlow, or distributed training/inference systems.\n• Experience with reinforcement learning, post-training, reward modeling, automated program optimization, or agentic coding systems.\n• Experience building production-quality evaluation platforms, experiment tracking, dashboards, or leaderboards.\n• Strong software engineering experience in Python and at least one systems language such as C++, C, HIP, CUDA.\n• Experience building AI, ML, agentic, optimization, or automation systems that are evaluated with objective metrics.\n• Clear communication skills and ability to work across AI research, hardware, software, and partner-facing teams.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Build agentic and learning-driven optimization loops for compute workloads and hardware engineering workflows.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/87873/login",
     "id": "amd-ai-engineer-recursive-self-improvement-for-compute-us"
   },
@@ -15,7 +25,7 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Strong experience in Networking Testing and Automation roles.\n• Proficiency in writing Automation Scripts using Python Experience in various test tools, performance testing tools such as Ixia, etc.\n• Prior experience in Cloud, Security, Data Center technologies is an added advantageStrong troubleshooting skillsKnowledge of operating systems, kernel mode programming, device drivers, and related technologies and architecturesGood interpersonal skills and effective communicationAbility to write high quality automation code with a keen attention to detailGood understanding of Linux operating system and hypervisor (VMware ESX/KVM)Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilers is a plus Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Solid understanding of AI tools and how to leverage them in a large-scale distributed environment.\n• ,Solid understanding of automation framework and well verse with Python.",
+    "job_description": "• Strong experience in Networking Testing and Automation roles.\n• Proficiency in writing Automation Scripts using Python Experience in various test tools, performance testing tools such as Ixia, etc.\n• Prior experience in Cloud, Security, Data Center technologies is an added advantageStrong troubleshooting skillsKnowledge of operating systems, kernel mode programming, device drivers, and related technologies and architecturesGood interpersonal skills and effective communicationAbility to write high quality automation code with a keen attention to detailGood understanding of Linux operating system and hypervisor (VMware ESX/KVM)Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilers is a plus Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Solid understanding of AI tools and how to leverage them in a large-scale distributed environment.\n• ,Solid understanding of automation framework and well verse with Python.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/88685/login",
     "id": "amd-ai-networking-system-solution-test-engineer-us"
   },
@@ -25,7 +35,7 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Communication: Excellent verbal and written communication skills.\n• Education: BS or MS in Electrical Engineering, Computer Science, Computer Engineering, or a related field.\n• Programming: Proficiency in Python, C/C++, or Object-Oriented Perl.\n• Core Concepts: Strong grasp of Object-Oriented Programming (OOP), databases, and web frameworks.\n• Hardware Knowledge: Familiarity with hardware description and verification languages such as SystemVerilog, UVM, and Assertions.\n• Cloud Platforms: Knowledge of deploying tools in AWS, GCP, Azure, or OCI.\n• DevOps: Understanding of CI/CD workflows using Jenkins or GitHub Actions.\n• Version Control: Competency with Git or Perforce.",
+    "job_description": "• Communication: Excellent verbal and written communication skills.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Education: BS or MS in Electrical Engineering, Computer Science, Computer Engineering, or a related field.\n• Programming: Proficiency in Python, C/C++, or Object-Oriented Perl.\n• Core Concepts: Strong grasp of Object-Oriented Programming (OOP), databases, and web frameworks.\n• Hardware Knowledge: Familiarity with hardware description and verification languages such as SystemVerilog, UVM, and Assertions.\n• Cloud Platforms: Knowledge of deploying tools in AWS, GCP, Azure, or OCI.\n• DevOps: Understanding of CI/CD workflows using Jenkins or GitHub Actions.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/88534/login",
     "id": "amd-ai-ml-silicon-verification-solutions-engineer-tools-us"
   },
@@ -35,99 +45,9 @@
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Extensive experience building and operating distributed systems or large-scale infrastructure platformsStrong proficiency in Python and JS based stacks (eg, Angular, React etc)Experience designing and operating containerized systems (Docker, Kubernetes) and managing compute clusters (e.\n• , Slurm or similar schedulers)Proven experience with public cloud platforms (AWS, Azure, or GCP) and/or hybrid or edge infrastructureStrong knowledge of SQL databasesDeep understanding of Linux systems, administration, and scriptingGeneral understanding in platform control, fleet management, IT and data center infrastructureFamiliar with AI dev tools such as Cursor or ClaudeDemonstrated experience leading complex architectural initiatives across teamsExperience building AI-driven or agent-based systems in production environmentsContributions to open-source infrastructure projectsExperience with authentication and securityExperience with DevOps practices, CI/CD pipelines, and infrastructure-as-code tools (Terraform, Ansible, etc.\n• ) Work with AMD’s architecture specialists and hybrid cloud/edge developers to architect, develop and scale AI fleet management solutions spanning multiple global regionsDrive performance optimization and reliability based on industry best practices Leverage AI to enhance developer and organizational productivity and solution capabilitiesInfluence roadmap and long-term architectural evolution of cutting-edge AI compute solutions Bachelor or master's degree in Electrical/Computer Engineering, Mathematics, Computer Science or an equivalent preferred AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_description": "• Extensive experience building and operating distributed systems or large-scale infrastructure platformsStrong proficiency in Python and JS based stacks (eg, Angular, React etc)Experience designing and operating containerized systems (Docker, Kubernetes) and managing compute clusters (e.\n• , Slurm or similar schedulers)Proven experience with public cloud platforms (AWS, Azure, or GCP) and/or hybrid or edge infrastructureStrong knowledge of SQL databasesDeep understanding of Linux systems, administration, and scriptingGeneral understanding in platform control, fleet management, IT and data center infrastructureFamiliar with AI dev tools such as Cursor or ClaudeDemonstrated experience leading complex architectural initiatives across teamsExperience building AI-driven or agent-based systems in production environmentsContributions to open-source infrastructure projectsExperience with authentication and securityExperience with DevOps practices, CI/CD pipelines, and infrastructure-as-code tools (Terraform, Ansible, etc.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Work with AMD’s architecture specialists and hybrid cloud/edge developers to architect, develop and scale AI fleet management solutions spanning multiple global regionsDrive performance optimization and reliability based on industry best practices Leverage AI to enhance developer and organizational productivity and solution capabilitiesInfluence roadmap and long-term architectural evolution of cutting-edge AI compute solutions Bachelor or master's degree in Electrical/Computer Engineering, Mathematics, Computer Science or an equivalent preferred AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• ) Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/80036/login",
     "id": "amd-ai-fleet-management-solutions-us"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 52 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Available in one of 183 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Tool Room CNC Machinist-2",
-    "job_city": "Location Saint Louis",
-    "job_state": "Missouri",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
-    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Engineer",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
-    "id": "abb-product-engineer-location-memphis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - Weekend Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
-    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - 2nd Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
-    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -171,16 +91,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Global Application Engineer - Critical Infrastructure Applications",
     "job_city": "Location Cary",
     "job_state": "North Carolina",
@@ -188,16 +98,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
     "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Hackettstown",
-    "job_state": "New Jersey",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-hackettstown"
   },
   {
     "employer_name": "ABB",
@@ -211,6 +111,56 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 52 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Hackettstown",
+    "job_state": "New Jersey",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-hackettstown"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Engineer - Panelboards",
     "job_city": "Location Bloomfield",
     "job_state": "Connecticut",
@@ -218,6 +168,56 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
     "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Engineer",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
+    "id": "abb-product-engineer-location-memphis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - Weekend Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
+    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - 2nd Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
+    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Tool Room CNC Machinist-2",
+    "job_city": "Location Saint Louis",
+    "job_state": "Missouri",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
+    "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
   },
   {
     "employer_name": "ABB",
@@ -241,6 +241,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Intern",
+    "job_city": "Location Vega Baja",
+    "job_state": "Puerto Rico",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025687/Intern",
+    "id": "abb-intern-location-vega-baja"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -248,6 +258,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - Python / AI",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Director of Software Engineering GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Join us in building a strategic data platform that empowers our business and shapes the future of Corporate Technology.\n• You’ll have the opportunity to influence engineering practices, drive impactful projects, and grow your leadership skills.\n• Software Engineer III - Scala Engineer Jersey City, NJ, United States TechnologySoftware Engineering Design and develop secure, scalable software, troubleshoot key components, and grow your career as an experienced software engineer.\n• Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.\n• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Director of Software Engineering Dublin, Ireland TechnologySoftware Engineering Lead a senior team building AI-native, enterprise-scale infrastructure platforms and set the technical culture for our new Dublin hub Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Promote meaningful change across digital channels and client experience while growing your career in a dynamic, inclusive environment.\n• The role requires deep experience in high-throughput payment systems and modern engineering capabilities across GemFire, AI-enabled operations, microservices, cloud-native architecture, and AWS.\n• Build secure, scalable solutions in collaborative culture AI Modernization Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Senior Lead Software Engineer experienced with Distributed Development, Python and AI Modernization Director of Software Engineering - Content and Experimentation Columbus, OH, United States and 3 more TechnologySoftware Engineering If you are a software engineering leader ready to take the reins and drive impact, we have an opportunity for you.\n• Full Stack Software Engineer III - Java LONDON, LONDON, United Kingdom TechnologySoftware Engineering Build secure, scalable full stack software that powers Global Banking — and grow your engineering career at one of the world's leading financial institutions Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777335/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-python-ai-jersey-city"
   },
   {
     "employer_name": "Amazon",
@@ -331,16 +351,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2w",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
-    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Ontologist, Product Knowledge",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -348,6 +358,16 @@
     "job_description": "software engineering job for the role Ontologist, Product Knowledge",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10476837/ontologist-product-knowledge",
     "id": "amazon-ontologist-product-knowledge-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2w",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
+    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
   },
   {
     "employer_name": "Amazon",
