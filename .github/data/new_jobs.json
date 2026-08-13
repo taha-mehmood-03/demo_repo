@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Micron Technology",
+    "job_title": "Digital Physical Implementation and Integration Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/43794825",
+    "id": "micron-technology-digital-physical-implementation-and-integration-engineer-san-jose"
+  },
+  {
     "employer_name": "AMD",
     "job_title": "AI Engineer, Recursive Self-Improvement for Compute",
     "job_city": "US",
@@ -195,7 +205,7 @@
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• , mechanics, electronics, thermal, software), from building concepts, gathering requirements to designing, implementing, integrating, testing, technology transfer or maintenance, and operations.\n• Understanding and applying applicable processes, standards, guidelines, and requirements, including architectural and design constraints.\n• 2+ years of electrical engineering experienceStrong background working with R&D teams in the Metering, Protection, & Control marketDemonstrated expertise in power distribution and power systemsBachelor's degree in Electrical Engineering or equivalent professional experience in medium-voltage systemsexperience with medium voltage is preferredFluent English communication skillsCandidates must already have a work authorization that would permit them to work for ABB in the US.\n• Choice between two medical plan options: A PPO plan called the Copay Plan OR a High Deductible Health Plan (with a Health Savings Account) called the High Deductible Plan.\n• Choice between two dental plan options: Core and Core PlusVision benefitCompany paid life insurance (2X base pay)Company paid AD&D (1X base pay)Voluntary life and AD&D – 100% employee paid up to maximumsShort Term Disability – up to 26 weeks – Company paidLong Term Disability – 60% of pay – Company paid.\n• Ability to “buy-up” to 66 2/3% of pay.\n• Supplemental benefits – 100% employee paid (Accident insurance, hospital indemnity, critical illness, pet insuranceParental Leave – up to 6 weeksEmployee Assistance ProgramHealth Advocate support resources for mental/behavioral health, general health navigation and virtual health, and infertility/adoptionEmployee discount program Working as an independent and reliable contributor in R&D projects with limited supervision.\n• Performing various tasks in the assigned area (e.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
     "id": "abb-r-d-electrical-engineer-location-pinetops"
   },
@@ -231,16 +241,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
-    "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Internet Edge Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -248,6 +248,16 @@
     "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
     "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
+    "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
   },
   {
     "employer_name": "Amazon",
@@ -301,16 +311,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2w",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
-    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Ontologist, Product Knowledge",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -318,6 +318,16 @@
     "job_description": "software engineering job for the role Ontologist, Product Knowledge",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10476837/ontologist-product-knowledge",
     "id": "amazon-ontologist-product-knowledge-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2w",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
+    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
   },
   {
     "employer_name": "Amazon",
