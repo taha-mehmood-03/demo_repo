@@ -1,13 +1,73 @@
 [
   {
-    "employer_name": "Verizon",
-    "job_title": "Engineer II - AI/ML Engineering",
-    "job_city": "Irving",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Software Developer Spring Co-op",
+    "job_city": "ship",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Senior AI Engineer - Live Operationslocations3 Locationstime typeFull timeposted onPosted 13 Days AgoR-1098871Senior AI Engineerlocations3 Locationstime typeFull timeposted onPosted 22 Days AgoR-1097854Engineer II - AI/ML EngineeringlocationsIrving, Texastime typeFull timeposted onPosted TodayR-1099534Engineer I - Systems EngineeringlocationsTemple Terrace, Floridatime typeFull timeposted onPosted TodayR-1097946Principal Engineer-AI/ML EngineeringlocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted TodayR-1099508Network & Security Operations Engineer - Federal GovernmentlocationsLyneham, Australiatime typeFull timeposted onPosted TodayR-1099347Engr III-Security Engrglocations2 Locationstime typeFull timeposted onPosted YesterdayR-1097449Sr Engr Cslt-Ntwk EngringlocationsChennai, Indiatime typeFull timeposted onPosted YesterdayR-1098925Outside Plant Engineerlocations4200 S Arizona AVE, Chandler, Arizonatime typeFull timeposted onPosted 2 Days AgoR-1099323Outside Plant Engineerlocations4200 S Arizona AVE, Chandler, Arizonatime typeFull timeposted onPosted 2 Days AgoR-1099261Outside Plant Engineerlocations4200 S Arizona AVE, Chandler, Arizonatime typeFull timeposted onPosted 2 Days AgoR-1099250Senior Fullstack Software EngineerlocationsFirenze, Italytime typeFull timeposted onPosted 6 Days AgoR-1097808Engr II-Ntwk Engringlocations2 Locationstime typeFull timeposted onPosted 8 Days AgoR-1098728Consultant Supply Chainlocations3 Locationstime typeFull timeposted onPosted 9 Days AgoR-1099052Principal Security Engineerlocations6 Locationstime typeFull timeposted onPosted 9 Days AgoR-1096860Principal Architect - Solutions Architectlocations9 Locationstime typeFull timeposted onPosted 9 Days AgoR-1098985Architect - Sales Engineerlocations4 Locationstime typeFull timeposted onPosted 9 Days AgoR-1098992Associate Director - Solutions Architectlocations2 Locationstime typeFull timeposted onPosted 12 Days AgoR-1095645Associate Director - RAN Cloudlocations2 Locationstime typeFull timeposted onPosted 12 Days AgoR-1097885Sr.\n• Conversational AI & Agentic Search Engineerlocations2 Locationstime typeFull timeposted onPosted 19 Days AgoR-1098014.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Engineer-II---AI-ML-Engineering_R-1099534-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-engineer-ii-ai-ml-engineering-irving"
+    "job_description": "software engineering job for the role Software Developer Spring Co-op 2027",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128506&source=WEB_Search_NA",
+    "id": "ibm-software-developer-spring-co-op-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Spring Co-op",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Technical Support Spring Co-op 2027",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128512&source=WEB_Search_NA",
+    "id": "ibm-technical-support-spring-co-op-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer Spring Co-op",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Site Reliability Engineer Spring Co-op 2027",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128510&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-spring-co-op-ship"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Enterprise Workflows Full Stack Engineer",
+    "job_city": "4 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 30 Days AgoR0237863 Capability Development Specialist, SeniorlocationsFort Meade, MDposted onPosted 21 Days AgoR0234214 Software Test Automation and QA Developer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0240586 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted YesterdayR0246688 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 7 Days AgoR0238021 Google Cloud Engineer, Seniorlocations2 Locationsposted onPosted 6 Days AgoR0237734 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 28 Days AgoR0234072 Full Stack Engineer, LeadlocationsMcLean, VAposted onPosted 23 Days AgoR0243593.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Workflows-Full-Stack-Engineer_R0246793?q=software+engineering",
+    "id": "bae-systems-enterprise-workflows-full-stack-engineer-4-locations"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Public Health Data Engineer",
+    "job_city": "4 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Data Engineerlocations6 Locationsposted onPosted 2 Days Ago42995Data Engineerlocations6 Locationsposted onPosted Yesterday43115Platform Engineer / DevSecOps EngineerlocationsUS - VA, McLeanposted onPosted 3 Days Ago42911AI/ML EngineerlocationsUS - AL, Huntsvilleposted onPosted Yesterday42933Data Infrastructure EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago37773AWS DevOps Engineerlocations3 Locationsposted onPosted 26 Days Ago42146Technical SETA SMElocationsUS - MD, Bethesdaposted onPosted 29 Days Ago41960AWS Cloud Security EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40618AWS Cloud Network EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40617Public Health Data Engineerlocations6 Locationsposted onPosted 2 Days Ago43045Public Health Data Engineerlocations4 Locationsposted onPosted Today43271Java Full Stack Developerlocations2 Locationsposted onPosted 2 Days Ago43040Data Engineer Leadlocations6 Locationsposted onPosted Yesterday43117IDOS Aerospace Professionalslocations7 Locationsposted onPosted 30+ Days Ago38210Senior Full-Stack Cloud DeveloperlocationsUS - Remote (Any location)posted onPosted Today42522Sr.\n• Software Operations Team LeadlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago40304DevSecOps EngineerlocationsUS - DC, Washingtonposted onPosted 2 Days Ago42365Senior AWS DevOps / Platform EngineerlocationsUS - Remote (Any location)posted onPosted Today42654Senior Full Stack Developerlocations2 Locationsposted onPosted 30+ Days Ago40426Senior Full Stack Developerlocations2 Locationsposted onPosted 30+ Days Ago40340.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-public-health-data-engineer-4-locations"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Data Analyst (Dashboard Developer)",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Data ScientistlocationsUS - VA, Arlingtonposted onPosted 30+ Days Ago38181DoD Financial Management Business AnalyticslocationsUS - FL, Tampaposted onPosted 16 Days Ago42393Data Analyst (Dashboard Developer)locations2 Locationsposted onPosted Today42740Data ScientistlocationsUS - VA, Norfolkposted onPosted 30+ Days Ago41677AWS Cloud Platform ArchitectlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40591Sr.\n• ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38981Palantir DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago41650Kubernetes AdministratorlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago40775Databricks Solution Architect, Utilitieslocations5 Locationsposted onPosted 16 Days Ago42018Senior Data ScientistlocationsUS - VA, Chantillyposted onPosted 30+ Days Ago37322ServiceNow Developerlocations2 Locationsposted onPosted 30+ Days Ago40364Quality Assurance System TesterlocationsUS - Remote (Any location)posted onPosted 2 Days Ago42689Technical SETA SME – Machine Learning, Modeling & SimulationlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago38258ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago40361Data AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39905Molecular BiologistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago41209Operations Research AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39904Senior Salesforce Developerlocations2 Locationsposted onPosted 30+ Days Ago40565Laboratory TechnicianlocationsUS - MD, Rockvilleposted onPosted 30+ Days Ago41265Technical Writer - SeniorlocationsUS - DC, Washingtonposted onPosted 19 Days Ago42291.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_42740?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-data-analyst-dashboard-developer-2-locations"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Salesforce Quality Assurance, Tester",
+    "job_city": "US - (Any location)",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Technical Project ManagerlocationsUS - VA, McLeanposted onPosted Today42484Construction Project Manager - Senior LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago40140Construction Project Manager - Senior LevellocationsUS - DC, Washingtonposted onPosted 2 Days Ago42951Construction Cost EstimatorlocationsUS - AL, Huntsvilleposted onPosted 8 Days Ago40155Palantir Foundry DeveloperlocationsUS - VA, Norfolkposted onPosted 30+ Days Ago41679Project SchedulerlocationsUS - AL, Huntsvilleposted onPosted 8 Days Ago40154Program Master SchedulerlocationsUS - AL, Huntsvilleposted onPosted 2 Days Ago42924Technical SETA SME – Financial IntelligencelocationsUS - MD, Bethesdaposted onPosted 16 Days Ago42297Databricks Solution ArchitectlocationsUS - Remote (Any location)posted onPosted 15 Days Ago42294ServiceNow Senior Developerlocations2 Locationsposted onPosted 29 Days Ago41352Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 7 Days Ago41725Senior Salesforce Business AnalystlocationsUS - Remote (Any location)posted onPosted Yesterday41673Life-Cycle Cost Analysis Functional SMElocations2 Locationsposted onPosted 30+ Days Ago39229Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago37095Salesforce Quality Assurance, TesterlocationsUS - Remote (Any location)posted onPosted Today42570Senior Salesforce Technical ArchitectlocationsUS - DC, Washingtonposted onPosted Yesterday42560AI & Data Lead DeveloperlocationsUS - VA, McLeanposted onPosted 5 Days Ago42873Senior Salesforce Technical ArchitectlocationsUS - DC, Washingtonposted onPosted 2 Days Ago42559Lead Developerlocations2 Locationsposted onPosted 30+ Days Ago37698ServiceNow DeveloperlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38977.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Salesforce-Quality-Assurance--Tester_42570?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-salesforce-quality-assurance-tester-us-any-location"
   },
   {
     "employer_name": "AMD",
@@ -18,6 +78,16 @@
     "job_description": "• Experience with GPU kernels, ROCm/HIP, CUDA, Triton, PyTorch, JAX, TensorFlow, or distributed training/inference systems.\n• Experience with reinforcement learning, post-training, reward modeling, automated program optimization, or agentic coding systems.\n• Experience building production-quality evaluation platforms, experiment tracking, dashboards, or leaderboards.\n• Strong software engineering experience in Python and at least one systems language such as C++, C, HIP, CUDA.\n• Experience building AI, ML, agentic, optimization, or automation systems that are evaluated with objective metrics.\n• Clear communication skills and ability to work across AI research, hardware, software, and partner-facing teams.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Build agentic and learning-driven optimization loops for compute workloads and hardware engineering workflows.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/87873/login",
     "id": "amd-ai-engineer-recursive-self-improvement-for-compute-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "AI/ML Silicon Verification Solutions Engineer – Tools",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Communication: Excellent verbal and written communication skills.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Education: BS or MS in Electrical Engineering, Computer Science, Computer Engineering, or a related field.\n• Programming: Proficiency in Python, C/C++, or Object-Oriented Perl.\n• Core Concepts: Strong grasp of Object-Oriented Programming (OOP), databases, and web frameworks.\n• Hardware Knowledge: Familiarity with hardware description and verification languages such as SystemVerilog, UVM, and Assertions.\n• Cloud Platforms: Knowledge of deploying tools in AWS, GCP, Azure, or OCI.\n• DevOps: Understanding of CI/CD workflows using Jenkins or GitHub Actions.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/88534/login",
+    "id": "amd-ai-ml-silicon-verification-solutions-engineer-tools-us"
   },
   {
     "employer_name": "AMD",
@@ -41,23 +111,133 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Hackettstown",
+    "job_state": "New Jersey",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-hackettstown"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
+    "job_city": "Location Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
+    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
     "job_city": "Available in one of 3 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
   },
   {
     "employer_name": "ABB",
@@ -95,29 +275,39 @@
     "job_city": "Location Senatobia",
     "job_state": "Mississippi",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
     "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
     "job_city": "Available in one of 3 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
+    "job_title": "Intern",
+    "job_city": "Location Vega Baja",
+    "job_state": "Puerto Rico",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025687/Intern",
+    "id": "abb-intern-location-vega-baja"
   },
   {
     "employer_name": "ABB",
@@ -130,106 +320,6 @@
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Robotics Validation Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
-    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Visual SLAM Software Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
-    "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Embedded SW Engineer",
-    "job_city": "Location San Fernando de Henares",
-    "job_state": "Madrid",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
-    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer Firmware (80 -100%)",
-    "job_city": "Location Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043136/R-D-Engineer-Firmware-80-100",
-    "id": "abb-r-d-engineer-firmware-80-100-location-quartino"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Engineer for Digital Data Exchange (m/f/d)",
-    "job_city": "Location Mannheim",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040571/Software-Engineer-for-Digital-Data-Exchange-m-f-d",
-    "id": "abb-software-engineer-for-digital-data-exchange-m-f-d-location-mannheim"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Calibration Software Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
-    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Data Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "22h",
-    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science, Software Engineering, or a related technical field3+ years of software engineering experience, with a solid foundation in building and shipping production-quality codeStrong proficiency in at least one programming language such as Python, Java, Go, or ScalaUnderstanding of data engineering fundamentals including data pipelines, batch processing, and real-time data streamingHands-on experience designing and building backend services and APIsWorking knowledge of distributed systems and big data technologies such as Spark, Kafka, or HadoopExposure to AI-driven development practices with a genuine enthusiasm for leveraging AI tools to improve engineering productivity and code qualityA curious, self-driven mindset with a strong interest in how AI is shaping the future of software and data engineeringStrong problem-solving ability with a collaborative approach to working across teamsClear and concise communicator who can translate technical concepts for diverse audiences.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200677701-0836/software-data-engineer?team=SFTWR",
-    "id": "apple-software-data-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Apple Services Engineering",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "22h",
-    "job_description": "• Minimum Qualifications5+ years of professional software engineering experience, with demonstrated ability to own features throughout the software development lifecycle, from design and development through production support.\n• Experience designing and developing scalable, highly observable, and resilient backend services and RESTful APIs.\n• Experience with databases, data modeling, and cloud-native application development.\n• Experience with containerized applications, CI/CD pipelines, and modern software development practices.\n• Hands-on experience building production applications powered by Large Language Models (LLMs), including integrating models into backend services and working with concepts such as prompting, retrieval, structured outputs, or tool/function calling.\n• Strong analytical, communication, and collaboration skills.\n• Ability to solve problems given incomplete or partial data and/or requirements.\n• Bachelor’s degree in CS/CE/EE or a related technical field, or equivalent industry experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200677646-3543/software-engineer-apple-services-engineering?team=SFTWR",
-    "id": "apple-software-engineer-apple-services-engineering-san-diego"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "Metrology Equipment Engineer - DM5",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "22h",
-    "job_description": "• (3) Dallas, North Campus - Kilby East (2) South Portland, South Portland, ME (2) Sherman, Sherman - SM1 Fab (2) Categories 0 Engineering - Product Dev (25) Manufacturing (22) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (51) Recent College Grads (7) Interns (1) Work Locations 0 Dallas, South Campus (17) Richardson, Richardson Fab, Renner Rd (11) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (5) Dallas, North Campus - DMOS V North (5) Tucson, Tucson Williams Ctr-South Bldg,.\n• (3) Dallas, North Campus - Kilby East (2) South Portland, South Portland, ME (2) Sherman, Sherman - SM1 Fab (2) Categories 0 Engineering - Product Dev (25) Manufacturing (22) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (51) Recent College Grads (7) Interns (1) Equipment experience with KLA, Hitachi, and/or Onto toolsPrior experience with SEM, PVD, CVD, high vacuum and/or ultra high vacuumEquipment experience on other equipment (e.\n• , AMAT, Veeco, TEL, Novellus, and/or ASM)Experience on tool monitoring and interdiction software, and equipment maintenance and documentationWorking knowledge of semiconductor manufacturing, and SPC techniques.\n• Experienced with semiconductor cleanroom protocol and behaviors.\n• Strong verbal and written communication skillsDemonstrated strong analytical, critical thinking and problem solving skillsAbility to work in teams and collaborate effectively with people in different functionsAbility to take the initiative and drive for resultsStrong time management skills that enable on-time project deliveryAbility to work effectively in an interrupt-driven, fast-paced and rapidly changing environmentDemonstrated ability to build strong, influential relationship Job Identification 25016824 Job Category Manufacturing Posting Date 08/12/2026, 10:27 PM Degree Level Bachelor's Degree Locations EXD5 13121 Ti Blvd, Dallas, TX, 75243, US EXEA 13353 Floyd Rd, Dallas, TX, 75243, US EXSB 13536 N Central Expy, Dallas, TX, 75243, US Shift/Work Schedule First Shift ECL/GTC Required Yes Evaluating, selecting, and ordering equipment that is most appropriate and cost effective for the manufacture of company productsOverseeing the installation, modification, upgrade and maintenance of manufacturing equipmentKeeping current on equipment manufacturers' technical notices, upgrades and safety issuesStudying equipment performance and reliabilityEstablishing programs and solutions for increasing uptime and for equipment problems that affect the manufacturing processProviding technical support to the manufacturing equipment repair and process engineering organizationsDefining and writing preventative maintenance schedules Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Experienced Professional (51) Recent College Grads (7) Interns (1) Experienced Professional (51) Recent College Grads (7) Interns (1).\n• Software Development Engineer Locations Richardson, TX, United States Posting Date08/04/2026 New College Graduate - IT - Software Development Engineer Development Program Locations Dallas, TX, United States Posting Date04/24/2026 Industrial Systems Engineer - RTD Locations Richardson, TX, United States Posting Date08/12/2026 Validation/Characterization Engineer Locations Dallas, TX, United States Posting Date08/11/2026 Software Applications Engineering Manager Locations Dallas, TX, United States Posting Date07/09/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date07/16/2026 Data Engineer Locations Dallas, TX, United States Posting Date07/21/2026 Diffusion Equipment Engineer Locations Richardson, TX, United States Posting Date08/10/2026 Metrology Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date08/12/2026 Equipment Engineer - MFAB Locations South Portland, ME, United States Posting Date08/12/2026 Workflow Automation Engineer | GenAI Focused Locations Dallas, TX, United States Posting Date06/10/2026 Smart Manufacturing Software Dev Eng Locations Richardson, TX, United States Posting Date04/21/2026 Applications Engineer Locations Dallas, TX, United States Posting Date08/06/2026 Network Engineer - Encore Program Internship Locations Dallas, TX, United States Posting Date07/29/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 Hot Job AI/ML Engineer Locations Richardson, TX, United States Posting Date07/20/2026 Epi Equipment Engineer Locations Sherman, TX, United States Posting Date08/04/2026 Photolithography Process Development Engineer (Advanced Patterning) Locations Lehi, UT, United States Posting Date04/10/2026 Equipment Engineer Locations Lehi, UT, United States Posting Date08/03/2026 Industrial Engineering Manager - Distribution Centers Locations Dallas, TX, United States Posting Date06/26/2026 Product Development Engineer (28nm) Locations Lehi, UT, United States Posting Date03/19/2026 Hot Job Early Career: IT Infrastructure - Network Engineer Locations Dallas, TX, United States Posting Date06/03/2026 Equipment Engineer - Plasma Locations Lehi, UT, United States Posting Date08/03/2026 Equipment Engineer - Maine Locations South Portland, ME, United States Posting Date07/30/2026 Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date07/13/2026 Equipment Engineer - Implant Locations Richardson, TX, United States Posting Date07/10/2026 CMP Manufacturing Equipment Engineer Locations Dallas, TX, United States Posting Date07/23/2026 Thin Films Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date06/25/2026 Equipment Engineer Locations United States Posting Date05/29/2026 Equipment Engineer - Metrology Locations Richardson, TX, United States Posting Date07/24/2026 RFAB Module Industrial Engineer Locations Richardson, TX, United States Posting Date04/06/2026 Applications Engineer | DCC CTS Locations Santa Clara, CA, United States Posting Date06/12/2026 Equipment Engineer - DM5 - Implant Locations Dallas, TX, United States Posting Date07/16/2026 Equipment Engineer - DM5 - Diffusion Locations Dallas, TX, United States Posting Date07/16/2026 PMO Master Scheduler Locations Dallas, TX, United States Posting Date07/13/2026 Process Development Test Engineer Locations Dallas, TX, United States Posting Date02/06/2026 AMHS/Robotics Equipment Engineer Locations TX, United States and 1 more Posting Date07/02/2026 System Engineer Locations Knoxville, TN, United States Posting Date08/12/2026 Program Management Engineer | Space Power Locations Dallas, TX, United States Posting Date08/12/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 RET/OPC Process Development Engineer Locations Dallas, TX, United States Posting Date05/15/2026 Career Accelerator Program - Test Engineer Locations United States Posting Date08/06/2026 Test Engineer | Space Power Locations Dallas, TX, United States Posting Date08/06/2026 Manufacturing Product Engineer Locations Richardson, TX, United States Posting Date07/30/2026 Early Career: IT Security Engineer Locations Dallas, TX, United States Posting Date07/30/2026 Field Applications Engineer | Processor Locations MI, United States Posting Date06/18/2026 Validation/Characterization Engineer | DCC (Medical) Locations Dallas, TX, United States Posting Date06/23/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/21/2026 Career Accelerator Program - Test Engineer Locations United States Posting Date06/05/2026 Career Accelerator Program - Product Engineer Locations United States Posting Date07/22/2026 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Benefits at TI Our culture Locations North America Europe Asia Pacific Jobs 59 Job search results 59 Events 0 Work Locations 0 Dallas, South Campus (17) Richardson, Richardson Fab, Renner Rd (11) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (5) Dallas, North Campus - DMOS V North (5) Tucson, Tucson Williams Ctr-South Bldg,.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25016824/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-metrology-equipment-engineer-dm5-dallas"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "Program Management Engineer - Space Power",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "22h",
-    "job_description": "• (3) Dallas, North Campus - Kilby East (2) South Portland, South Portland, ME (2) Sherman, Sherman - SM1 Fab (2) Categories 0 Engineering - Product Dev (25) Manufacturing (22) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (51) Recent College Grads (7) Interns (1) Work Locations 0 Dallas, South Campus (17) Richardson, Richardson Fab, Renner Rd (11) Lehi, Lehi, UT (7) Dallas, North Campus - DMOS V South (5) Dallas, North Campus - DMOS V North (5) Tucson, Tucson Williams Ctr-South Bldg,.\n• (3) Dallas, North Campus - Kilby East (2) South Portland, South Portland, ME (2) Sherman, Sherman - SM1 Fab (2) Categories 0 Engineering - Product Dev (25) Manufacturing (22) Information Technology (9) Sales (2) Administration (1) Experience Level 0 Experienced Professional (51) Recent College Grads (7) Interns (1) Lead cross-functional teams through the successful execution and release of multiple new products from concept through production ramp.\n• Lead regular project reviews and provide clear weekly/monthly updates to management, highlighting project status, risks, dependencies, recovery plans, and support needed.\n• Coordinate qualification activities and reliability plans in partnership with Product Engineering, Quality & Reliability Engineering, and Failure Analysis teams.\n• Ensure integrated circuits meet product, reliability, characterization, and manufacturing requirements prior to production release.\n• Proven experience leading cross-functional global teams in fast-paced development environments.\n• Strong verbal and written communication skills with the ability to communicate effectively across technical and non-technical teams.\n• Experience managing multiple projects simultaneously while balancing priorities, schedules, and available resources.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25010961/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-program-management-engineer-space-power-dallas"
-  },
-  {
     "employer_name": "Amazon",
     "job_title": "Software Development Engineer - Release Engineering, Network Product Development",
     "job_city": "Cupertino",
@@ -238,16 +328,6 @@
     "job_description": "software engineering job for the role Software Development Engineer - Release Engineering, Network Product Development",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10490909/software-development-engineer-release-engineering-network-product-development",
     "id": "amazon-software-development-engineer-release-engineering-network-product-development-cupertino"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Traffic Engineering",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "4w",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Traffic Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10474435/software-development-engineer-amazon-traffic-engineering",
-    "id": "amazon-software-development-engineer-amazon-traffic-engineering-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -264,7 +344,7 @@
     "job_title": "Software Development Engineer, Internet Edge Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "22h",
+    "job_posted_at": "1d",
     "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
     "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
@@ -274,7 +354,7 @@
     "job_title": "Software Development Engineer II, Platform Engineering and Emerging Technologies",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role Software Development Engineer II, Platform Engineering and Emerging Technologies",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499144/software-development-engineer-ii-platform-engineering-and-emerging-technologies",
     "id": "amazon-software-development-engineer-ii-platform-engineering-and-emerging-technologies-seattle"
@@ -304,7 +384,7 @@
     "job_title": "Systems Engineer, Prime Air",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "software engineering job for the role Systems Engineer, Prime Air",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10497118/systems-engineer-prime-air",
     "id": "amazon-systems-engineer-prime-air-seattle"
@@ -334,7 +414,7 @@
     "job_title": "Ontologist, Product Knowledge",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "3w",
+    "job_posted_at": "4w",
     "job_description": "software engineering job for the role Ontologist, Product Knowledge",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10476837/ontologist-product-knowledge",
     "id": "amazon-ontologist-product-knowledge-seattle"
@@ -354,7 +434,7 @@
     "job_title": "Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "2w",
+    "job_posted_at": "3w",
     "job_description": "software engineering job for the role Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10482907/front-end-engineer-ii-aws-marketplace-offer-experiences",
     "id": "amazon-front-end-engineer-ii-aws-marketplace-offer-experiences-austin"
@@ -374,7 +454,7 @@
     "job_title": "Software Development Engineer, Fintech",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role Software Development Engineer, Fintech",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10498978/software-development-engineer-fintech",
     "id": "amazon-software-development-engineer-fintech-seattle"
@@ -394,7 +474,7 @@
     "job_title": "Data Engineer, Devices Sales & Marketing",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_posted_at": "22h",
+    "job_posted_at": "1d",
     "job_description": "software engineering job for the role Data Engineer, Devices Sales & Marketing",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10500177/data-engineer-devices-sales-marketing",
     "id": "amazon-data-engineer-devices-sales-marketing-bellevue"
@@ -424,7 +504,7 @@
     "job_title": "Software Engineer - Robot Learning, Amazon Robotics - Vulcan Stow",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "22h",
+    "job_posted_at": "1d",
     "job_description": "software engineering job for the role Software Engineer - Robot Learning,  Amazon Robotics - Vulcan Stow",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499383/software-engineer-robot-learning-amazon-robotics-vulcan-stow",
     "id": "amazon-software-engineer-robot-learning-amazon-robotics-vulcan-stow-seattle"
@@ -434,7 +514,7 @@
     "job_title": "Data Engineer II, Accounting, Accounting",
     "job_city": "Arlington",
     "job_state": "VA",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role Data Engineer II, Accounting, Accounting",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499131/data-engineer-ii-accounting-accounting",
     "id": "amazon-data-engineer-ii-accounting-accounting-arlington"
@@ -444,7 +524,7 @@
     "job_title": "Software Development Engineer, AI/ML, AWS Neuron, Model Inference",
     "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Development Engineer, AI/ML, AWS Neuron, Model Inference",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10496432/software-development-engineer-ai-ml-aws-neuron-model-inference",
     "id": "amazon-software-development-engineer-ai-ml-aws-neuron-model-inference-cupertino"
