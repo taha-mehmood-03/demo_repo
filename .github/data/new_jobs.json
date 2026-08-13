@@ -1,73 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Spring Co-op",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Developer Spring Co-op 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128506&source=WEB_Search_NA",
-    "id": "ibm-software-developer-spring-co-op-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Spring Co-op",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Technical Support Spring Co-op 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128512&source=WEB_Search_NA",
-    "id": "ibm-technical-support-spring-co-op-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer Spring Co-op",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Site Reliability Engineer Spring Co-op 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128510&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-spring-co-op-ship"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Enterprise Workflows Full Stack Engineer",
+    "employer_name": "Intel",
+    "job_title": "Ethernet Product Marketing Engineer",
     "job_city": "4 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 30 Days AgoR0237863 Capability Development Specialist, SeniorlocationsFort Meade, MDposted onPosted 21 Days AgoR0234214 Software Test Automation and QA Developer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0240586 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted YesterdayR0246688 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 7 Days AgoR0238021 Google Cloud Engineer, Seniorlocations2 Locationsposted onPosted 6 Days AgoR0237734 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 28 Days AgoR0234072 Full Stack Engineer, LeadlocationsMcLean, VAposted onPosted 23 Days AgoR0243593.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Workflows-Full-Stack-Engineer_R0246793?q=software+engineering",
-    "id": "bae-systems-enterprise-workflows-full-stack-engineer-4-locations"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Public Health Data Engineer",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Data Engineerlocations6 Locationsposted onPosted 2 Days Ago42995Data Engineerlocations6 Locationsposted onPosted Yesterday43115Platform Engineer / DevSecOps EngineerlocationsUS - VA, McLeanposted onPosted 3 Days Ago42911AI/ML EngineerlocationsUS - AL, Huntsvilleposted onPosted Yesterday42933Data Infrastructure EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago37773AWS DevOps Engineerlocations3 Locationsposted onPosted 26 Days Ago42146Technical SETA SMElocationsUS - MD, Bethesdaposted onPosted 29 Days Ago41960AWS Cloud Security EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40618AWS Cloud Network EngineerlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40617Public Health Data Engineerlocations6 Locationsposted onPosted 2 Days Ago43045Public Health Data Engineerlocations4 Locationsposted onPosted Today43271Java Full Stack Developerlocations2 Locationsposted onPosted 2 Days Ago43040Data Engineer Leadlocations6 Locationsposted onPosted Yesterday43117IDOS Aerospace Professionalslocations7 Locationsposted onPosted 30+ Days Ago38210Senior Full-Stack Cloud DeveloperlocationsUS - Remote (Any location)posted onPosted Today42522Sr.\n• Software Operations Team LeadlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago40304DevSecOps EngineerlocationsUS - DC, Washingtonposted onPosted 2 Days Ago42365Senior AWS DevOps / Platform EngineerlocationsUS - Remote (Any location)posted onPosted Today42654Senior Full Stack Developerlocations2 Locationsposted onPosted 30+ Days Ago40426Senior Full Stack Developerlocations2 Locationsposted onPosted 30+ Days Ago40340.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-public-health-data-engineer-4-locations"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Data Analyst (Dashboard Developer)",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Data ScientistlocationsUS - VA, Arlingtonposted onPosted 30+ Days Ago38181DoD Financial Management Business AnalyticslocationsUS - FL, Tampaposted onPosted 16 Days Ago42393Data Analyst (Dashboard Developer)locations2 Locationsposted onPosted Today42740Data ScientistlocationsUS - VA, Norfolkposted onPosted 30+ Days Ago41677AWS Cloud Platform ArchitectlocationsUS - VA, McLeanposted onPosted 30+ Days Ago40591Sr.\n• ServiceNow Business AnalystlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38981Palantir DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago41650Kubernetes AdministratorlocationsUS - DC, Washingtonposted onPosted 30+ Days Ago40775Databricks Solution Architect, Utilitieslocations5 Locationsposted onPosted 16 Days Ago42018Senior Data ScientistlocationsUS - VA, Chantillyposted onPosted 30+ Days Ago37322ServiceNow Developerlocations2 Locationsposted onPosted 30+ Days Ago40364Quality Assurance System TesterlocationsUS - Remote (Any location)posted onPosted 2 Days Ago42689Technical SETA SME – Machine Learning, Modeling & SimulationlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago38258ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago40361Data AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39905Molecular BiologistlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago41209Operations Research AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39904Senior Salesforce Developerlocations2 Locationsposted onPosted 30+ Days Ago40565Laboratory TechnicianlocationsUS - MD, Rockvilleposted onPosted 30+ Days Ago41265Technical Writer - SeniorlocationsUS - DC, Washingtonposted onPosted 19 Days Ago42291.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_42740?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-data-analyst-dashboard-developer-2-locations"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "Salesforce Quality Assurance, Tester",
-    "job_city": "US - (Any location)",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Technical Project ManagerlocationsUS - VA, McLeanposted onPosted Today42484Construction Project Manager - Senior LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago40140Construction Project Manager - Senior LevellocationsUS - DC, Washingtonposted onPosted 2 Days Ago42951Construction Cost EstimatorlocationsUS - AL, Huntsvilleposted onPosted 8 Days Ago40155Palantir Foundry DeveloperlocationsUS - VA, Norfolkposted onPosted 30+ Days Ago41679Project SchedulerlocationsUS - AL, Huntsvilleposted onPosted 8 Days Ago40154Program Master SchedulerlocationsUS - AL, Huntsvilleposted onPosted 2 Days Ago42924Technical SETA SME – Financial IntelligencelocationsUS - MD, Bethesdaposted onPosted 16 Days Ago42297Databricks Solution ArchitectlocationsUS - Remote (Any location)posted onPosted 15 Days Ago42294ServiceNow Senior Developerlocations2 Locationsposted onPosted 29 Days Ago41352Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted 7 Days Ago41725Senior Salesforce Business AnalystlocationsUS - Remote (Any location)posted onPosted Yesterday41673Life-Cycle Cost Analysis Functional SMElocations2 Locationsposted onPosted 30+ Days Ago39229Construction Project Manager - Mid LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago37095Salesforce Quality Assurance, TesterlocationsUS - Remote (Any location)posted onPosted Today42570Senior Salesforce Technical ArchitectlocationsUS - DC, Washingtonposted onPosted Yesterday42560AI & Data Lead DeveloperlocationsUS - VA, McLeanposted onPosted 5 Days Ago42873Senior Salesforce Technical ArchitectlocationsUS - DC, Washingtonposted onPosted 2 Days Ago42559Lead Developerlocations2 Locationsposted onPosted 30+ Days Ago37698ServiceNow DeveloperlocationsUS - FL, Tampaposted onPosted 30+ Days Ago38977.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Salesforce-Quality-Assurance--Tester_42570?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-salesforce-quality-assurance-tester-us-any-location"
+    "job_description": "• Supply Chain EngineerlocationsUS, New Mexico, Albuquerqueposted onPosted 30+ Days AgoJR0285416Printed Circuit Boards (PCB) Technologistlocations2 Locationsposted onPosted 12 Days AgoJR0285772EDA Design Flow Development Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0284647Strategic Layout Industrial EngineerlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0286153CPU Pre-Silicon Verification EngineerlocationsUS, California, Folsomposted onPosted 23 Days AgoJR0285652IA Core Post Silicon Validation EngineerlocationsUS, Texas, Austinposted onPosted 30+ Days AgoJR0284403Industrial Engineer - Foundry Strategic Capacitylocations3 Locationsposted onPosted 7 Days AgoJR0285709Senior CPU Pre-Silicon Verification Engineerlocations2 Locationsposted onPosted 30+ Days AgoSpotlight JobJR0281371Ethernet Product Marketing Engineerlocations4 Locationsposted onPosted TodayJR0286253Facilities Engineer Instrumentation and Controls - Intel Contract EmployeelocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0283929Memory Electrical Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0283840Construction Contracts ManagerlocationsUS, Oregon, Hillsboroposted onPosted 19 Days AgoJR0282607Commodity Managerlocations2 Locationsposted onPosted 14 Days AgoJR0285956Commodity Manager -- Sub-fablocations3 Locationsposted onPosted 13 Days AgoJR0285958Yield Development Engineering Manager-Strategic ProgramslocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0285291Yield Development Engineering Manager-Strategic Programslocations2 Locationsposted onPosted 30+ Days AgoJR0285290Materials Program Manager - Oregon SpareslocationsUS, Oregon, Hillsboroposted onPosted 21 Days AgoJR0285633Materials Program ManagerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0285792Corporate Accounting Mergers Acquisitions Specialistlocations4 Locationsposted onPosted 2 Days AgoJR0279474Packaging Technical Program ManagerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0285763.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Ethernet-Product-Marketing-Engineer_JR0286253?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-ethernet-product-marketing-engineer-4-locations"
   },
   {
     "employer_name": "AMD",
@@ -78,6 +18,16 @@
     "job_description": "• Experience with GPU kernels, ROCm/HIP, CUDA, Triton, PyTorch, JAX, TensorFlow, or distributed training/inference systems.\n• Experience with reinforcement learning, post-training, reward modeling, automated program optimization, or agentic coding systems.\n• Experience building production-quality evaluation platforms, experiment tracking, dashboards, or leaderboards.\n• Strong software engineering experience in Python and at least one systems language such as C++, C, HIP, CUDA.\n• Experience building AI, ML, agentic, optimization, or automation systems that are evaluated with objective metrics.\n• Clear communication skills and ability to work across AI research, hardware, software, and partner-facing teams.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Build agentic and learning-driven optimization loops for compute workloads and hardware engineering workflows.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/87873/login",
     "id": "amd-ai-engineer-recursive-self-improvement-for-compute-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "AI Networking System/Solution Test Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Strong experience in Networking Testing and Automation roles.\n• Proficiency in writing Automation Scripts using Python Experience in various test tools, performance testing tools such as Ixia, etc.\n• Prior experience in Cloud, Security, Data Center technologies is an added advantageStrong troubleshooting skillsKnowledge of operating systems, kernel mode programming, device drivers, and related technologies and architecturesGood interpersonal skills and effective communicationAbility to write high quality automation code with a keen attention to detailGood understanding of Linux operating system and hypervisor (VMware ESX/KVM)Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilers is a plus Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Solid understanding of AI tools and how to leverage them in a large-scale distributed environment.\n• ,Solid understanding of automation framework and well verse with Python.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/88685/login",
+    "id": "amd-ai-networking-system-solution-test-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -275,7 +225,7 @@
     "job_city": "Location Senatobia",
     "job_state": "Mississippi",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
     "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
   },
@@ -528,5 +478,15 @@
     "job_description": "software engineering job for the role Software Development Engineer, AI/ML, AWS Neuron, Model Inference",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10496432/software-development-engineer-ai-ml-aws-neuron-model-inference",
     "id": "amazon-software-development-engineer-ai-ml-aws-neuron-model-inference-cupertino"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Security Engineer II, Stores Security - HealthCare",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2w",
+    "job_description": "software engineering job for the role Security Engineer II, Stores Security - HealthCare",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10486618/security-engineer-ii-stores-security-healthcare",
+    "id": "amazon-security-engineer-ii-stores-security-healthcare-seattle"
   }
 ]
