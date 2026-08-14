@@ -1,223 +1,23 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Intern Application Developer AWS -",
-    "job_city": "shipBATON ROUGE",
+    "job_title": "Co-Op Data Engineer -",
+    "job_city": "shipUniversity Park",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer AWS - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128810&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-aws-shipbaton-rouge"
+    "job_description": "software engineering job for the role Co-Op Data Engineer - 2027",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128562&source=WEB_Search_NA",
+    "id": "ibm-co-op-data-engineer-shipuniversity-park"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer – IBM Technology & Red Hat -",
-    "job_city": "shipBATON ROUGE",
-    "job_state": "US",
+    "employer_name": "AMD",
+    "job_title": "Embedded Software Engineer - Physical AI",
+    "job_city": "US",
+    "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer – IBM Technology & Red Hat - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129250&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-ibm-technology-red-hat-shipbaton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer – ServiceNow -",
-    "job_city": "shipMONROE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer – ServiceNow - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129221&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-servicenow-shipmonroe"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer - Oracle -",
-    "job_city": "shipBATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer - Oracle - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128815&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-oracle-shipbaton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer – Adobe -",
-    "job_city": "shipBuffalo",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer – Adobe - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128797&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-adobe-shipbuffalo"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer – Salesforce -",
-    "job_city": "shipBATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer – Salesforce - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128922&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-salesforce-shipbaton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer Salesforce -2027",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer Salesforce -2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128812&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-salesforce-2027-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer AWS -",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer AWS - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128796&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-aws-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer IBM Tech & Red Hat -",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer IBM Tech & Red Hat - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128806&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-ibm-tech-red-hat-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer - Azure and Microsoft -",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer - Azure and Microsoft - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128732&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-azure-and-microsoft-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer - Adobe",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer - Adobe 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128786&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-adobe-buffalo"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer 2027- ServiceNow",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer 2027- ServiceNow",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128753&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-2027-servicenow-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Data Engineer Intern",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Data Engineer Intern 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128645&source=WEB_Search_NA",
-    "id": "ibm-data-engineer-intern-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Data Engineer Intern",
-    "job_city": "shipDallas",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Data Engineer Intern 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128639&source=WEB_Search_NA",
-    "id": "ibm-data-engineer-intern-shipdallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Data Engineer Intern",
-    "job_city": "shipNew York",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Data Engineer Intern 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128614&source=WEB_Search_NA",
-    "id": "ibm-data-engineer-intern-shipnew-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer 2027- ServiceNow",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer 2027- ServiceNow",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128530&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-2027-servicenow-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer 2027- ServiceNow",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Application Developer 2027- ServiceNow",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128814&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-2027-servicenow-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer 2027-ServiceNow",
-    "job_city": "shipChicago",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer 2027-ServiceNow",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128816&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-2027-servicenow-shipchicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer 2027-ServiceNow",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer 2027-ServiceNow",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128549&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-2027-servicenow-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer - ServiceNow",
-    "job_city": "shipDallas",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer - ServiceNow 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128540&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-servicenow-shipdallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Developer 2027-ServiceNow",
-    "job_city": "shipNew York",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Intern Application Developer 2027-ServiceNow",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128558&source=WEB_Search_NA",
-    "id": "ibm-intern-application-developer-2027-servicenow-shipnew-york"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "R&D Software Engineer",
-    "job_city": "USA-CA - Promontory E",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Fab Test EngineerlocationsUSA-Colorado-Fort Collins-4380 Ziegler Roadtime typeFull timeposted onPosted TodayR026736 Senior Software Engineer (R&D)locationsIND-Hyderabad 115 IT Park Areatime typeFull timeposted onPosted 8 Days AgoR026314 Principal Kubernetes Software Engineerlocations7 Locationstime typeFull timeposted onPosted YesterdayR025637 Agile LeaderlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 7 Days AgoR026753 Senior Software EngineerlocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 9 Days AgoR026678 Senior Mainframe DevOps Architectlocations10 Locationstime typeFull timeposted onPosted YesterdayR026624 Senior Product Managerlocations2 Locationstime typeFull timeposted onPosted YesterdayR026790.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/R-D-Software-Engineer_R026809?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-r-d-software-engineer-usa-ca-promontory-e"
+    "job_description": "• Experience with Embedded Linux, Yocto, BSP development, device drivers, RTOS, or bare-metal software development.\n• Experience with computer vision and camera pipelines, including MIPI CSI, ISP tuning, V4L2, OpenCV, or GStreamer.\n• Experience with graphics and display software, including DisplayPort, MIPI DSI, display drivers, compositors, EGL, OpenGL, or Vulkan.\n• Experience deploying and optimizing edge AI inference models using frameworks such as PyTorch, TensorFlow, ONNX, and related acceleration technologies.\n• Experience with platform bring-up, hardware/software integration, board bring-up, and peripheral driver development.\n• Experience working with high-speed interfaces including PCIe, Ethernet, USB, DisplayPort, MIPI, SPI, I²C, UART, and GPIO.\n• Experience using hardware debugging tools such as JTAG, oscilloscopes, protocol analyzers, and logic analyzers.\n• Experience with robotics, industrial automation, autonomous systems, ROS 2, machine vision, sensor fusion, or edge AI applications.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/88077/login",
+    "id": "amd-embedded-software-engineer-physical-ai-us"
   },
   {
     "employer_name": "AMD",
@@ -286,28 +86,18 @@
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
     "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Available in one of 183 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
   },
   {
     "employer_name": "ABB",
@@ -318,6 +108,36 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033746/Tool-Room-CNC-Machinist-2",
     "id": "abb-tool-room-cnc-machinist-2-location-saint-louis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
   },
   {
     "employer_name": "ABB",
@@ -348,36 +168,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
     "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -421,6 +211,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Global Application Engineer - Critical Infrastructure Applications",
     "job_city": "Location Cary",
     "job_state": "North Carolina",
@@ -428,6 +228,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
     "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Hackettstown",
+    "job_state": "New Jersey",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-hackettstown"
   },
   {
     "employer_name": "ABB",
@@ -441,13 +251,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -471,16 +301,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Internet Edge Engineering",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2d",
-    "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
-    "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
     "job_city": "Redmond",
     "job_state": "WA",
@@ -488,6 +308,16 @@
     "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
     "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Internet Edge Engineering",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2d",
+    "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
+    "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -668,15 +498,5 @@
     "job_description": "software engineering job for the role Software Development Engineer, AI/ML, AWS Neuron, Model Inference",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10496432/software-development-engineer-ai-ml-aws-neuron-model-inference",
     "id": "amazon-software-development-engineer-ai-ml-aws-neuron-model-inference-cupertino"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Security Engineer II, Stores Security - HealthCare",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2w",
-    "job_description": "software engineering job for the role Security Engineer II, Stores Security - HealthCare",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10486618/security-engineer-ii-stores-security-healthcare",
-    "id": "amazon-security-engineer-ii-stores-security-healthcare-seattle"
   }
 ]
