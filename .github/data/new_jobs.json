@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Co-Op Data Engineer -",
-    "job_city": "shipUniversity Park",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Co-Op Data Engineer - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128562&source=WEB_Search_NA",
-    "id": "ibm-co-op-data-engineer-shipuniversity-park"
-  },
-  {
     "employer_name": "AMD",
     "job_title": "Embedded Software Engineer - Physical AI",
     "job_city": "US",
@@ -111,13 +101,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
+    "job_title": "Product Engineer",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
+    "id": "abb-product-engineer-location-memphis"
   },
   {
     "employer_name": "ABB",
@@ -128,26 +118,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
     "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Engineer",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
-    "id": "abb-product-engineer-location-memphis"
   },
   {
     "employer_name": "ABB",
@@ -171,93 +141,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
-    "id": "abb-quality-control-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
-    "job_city": "Location Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
-    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Hackettstown",
-    "job_state": "New Jersey",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-hackettstown"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
   },
   {
     "employer_name": "ABB",
@@ -281,11 +181,101 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
+    "job_city": "Location Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
+    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041357/Quality-Control-Engineer",
+    "id": "abb-quality-control-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Hackettstown",
+    "job_state": "New Jersey",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-hackettstown"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
   },
