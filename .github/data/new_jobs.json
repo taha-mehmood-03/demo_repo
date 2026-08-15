@@ -1,25 +1,5 @@
 [
   {
-    "employer_name": "Magna International",
-    "job_title": "Maintenance Technician - Montezuma - C Shift",
-    "job_city": "Montezuma",
-    "job_state": "Iowa",
-    "job_posted_at": "1d",
-    "job_description": "• Implementation ManagerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00250627Technical Program ManagerlocationsLowell, Massachusetts, USposted onPosted 23 Days AgoR00253050Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232837Sr.\n• Eng, ControlslocationsNewaygo, Michigan, USposted onPosted 30+ Days AgoR00251250Metallurgical Lab TechnicianlocationsSterling Heights, Michigan, USposted onPosted 5 Days AgoR00249649Senior Designer- LightinglocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00235074End of Line TechnicianlocationsTroy, Michigan, USposted onPosted 17 Days AgoR00252857Layout Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 11 Days AgoR00241346IT ManagerlocationsNewaygo, Michigan, USposted onPosted 24 Days AgoR00253373Cloud Solutions Architect, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00239856IT Business AnalystlocationsBirmingham, Alabama, USposted onPosted 22 Days AgoR00253275CNC MachinistlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222195Eng, Supplier QualitylocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00242573Quality Systems SupervisorlocationsNewaygo, Michigan, USposted onPosted 8 Days AgoR00255606Environmental SpecialistlocationsBirmingham, Alabama, USposted onPosted 22 Days AgoR00253778Maintenance Technician-3rd Shift- MontelocationsMontezuma, Iowa, USposted onPosted 30+ Days AgoR00244704Maintenance Technician - Montezuma - C ShiftlocationsMontezuma, Iowa, USposted onPosted TodayR00244708Maintenance Technician-2nd Shift- VictorlocationsVictor, Iowa, USposted onPosted 30+ Days AgoR00244714Maintenance Technician - Victor - 2nd ShiftlocationsVictor, Iowa, USposted onPosted TodayR00244716CNC Technician (Second Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00239207.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Montezuma-Iowa-US/Maintenance-Technician-3rd-Shift--Monte_R00244708?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-maintenance-technician-montezuma-c-shift-montezuma"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Maintenance Technician - Victor - 2nd Shift",
-    "job_city": "Victor",
-    "job_state": "Iowa",
-    "job_posted_at": "1d",
-    "job_description": "• Implementation ManagerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00250627Technical Program ManagerlocationsLowell, Massachusetts, USposted onPosted 23 Days AgoR00253050Robotics AI Algorithm- R&D Summer 2026locationsTroy, Michigan, USposted onPosted 30+ Days AgoR00232837Sr.\n• Eng, ControlslocationsNewaygo, Michigan, USposted onPosted 30+ Days AgoR00251250Metallurgical Lab TechnicianlocationsSterling Heights, Michigan, USposted onPosted 5 Days AgoR00249649Senior Designer- LightinglocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00235074End of Line TechnicianlocationsTroy, Michigan, USposted onPosted 17 Days AgoR00252857Layout Technician - B ShiftlocationsLiberty, Missouri, USposted onPosted 11 Days AgoR00241346IT ManagerlocationsNewaygo, Michigan, USposted onPosted 24 Days AgoR00253373Cloud Solutions Architect, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00239856IT Business AnalystlocationsBirmingham, Alabama, USposted onPosted 22 Days AgoR00253275CNC MachinistlocationsBirmingham, Alabama, USposted onPosted 30+ Days AgoR00222195Eng, Supplier QualitylocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00242573Quality Systems SupervisorlocationsNewaygo, Michigan, USposted onPosted 8 Days AgoR00255606Environmental SpecialistlocationsBirmingham, Alabama, USposted onPosted 22 Days AgoR00253778Maintenance Technician-3rd Shift- MontelocationsMontezuma, Iowa, USposted onPosted 30+ Days AgoR00244704Maintenance Technician - Montezuma - C ShiftlocationsMontezuma, Iowa, USposted onPosted TodayR00244708Maintenance Technician-2nd Shift- VictorlocationsVictor, Iowa, USposted onPosted 30+ Days AgoR00244714Maintenance Technician - Victor - 2nd ShiftlocationsVictor, Iowa, USposted onPosted TodayR00244716CNC Technician (Second Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00239207.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Victor-Iowa-US/Maintenance-Technician-2nd-Shift--Victor_R00244716?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-maintenance-technician-victor-2nd-shift-victor"
-  },
-  {
     "employer_name": "AMD",
     "job_title": "Security Software Engineer",
     "job_city": "US",
@@ -191,6 +171,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Marine Field Service Engineer (Power)",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
@@ -201,13 +191,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "Product Engineer",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
+    "id": "abb-product-engineer-location-memphis"
   },
   {
     "employer_name": "ABB",
@@ -231,16 +221,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Engineer",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
-    "id": "abb-product-engineer-location-memphis"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Engineering Intern- Fall",
     "job_city": "Location Selmer",
     "job_state": "Tennessee",
@@ -251,106 +231,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
-    "job_city": "Location Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
-    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Hackettstown",
-    "job_state": "New Jersey",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-hackettstown"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -358,6 +238,56 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Visual SLAM Software Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
+    "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Validation Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
+    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Embedded SW Engineer",
+    "job_city": "Location San Fernando de Henares",
+    "job_state": "Madrid",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
+    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Calibration Software Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
+    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer Firmware (80 -100%)",
+    "job_city": "Location Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "1h",
+    "job_description": "• Degree in Information or Electrical, Power Electronic, Electronic Engineering, Embedded Systems, or comparable fieldYou have at least 3 years of experience in designing control firmware based on microcontrollers / DSPs for Power Electronic Products such as UPS, BESS, Renewable Energy systemsYou are highly skilled in C/C++/Python and Firmware Development.\n• You have solid knowledge in structured development processes, ranging from requirement analysis, design, and implementation to test and documentation.\n• Experience with development infrastructure, including Azure DevOps, CI/CD pipelines, version control systems (Git), lifecycle management, build systems, unit testing, debug probes, oscilloscopes, and similar toolsExposure to Cyber Security concepts and knowledge of main industrial communication protocols (Modbus, CAN, EtherCAT) are a plusYou are passionate about teamwork and innovation.\n• You are at ease communicating in English and Italian Firmware Development: Design, develop, and implement firmware for Power Electronic Converters and communication modules, ensuring robust functionality and cybersecuritySoftware Quality Assurance: Conduct unit, integration, and system testing to validate software performance and reliabilityCross-functional Collaboration: Work closely with system architects and hardware/software engineers to translate system requirements into detailed firmware specificationsInnovation and Knowledge Sharing: Contribute to intellectual property creation and collaborate with global engineering teams to drive continuous improvement and share expertise Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043136/R-D-Engineer-Firmware-80-100",
+    "id": "abb-r-d-engineer-firmware-80-100-location-quartino"
   },
   {
     "employer_name": "Amazon",
@@ -371,16 +301,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
-    "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Internet Edge Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -388,6 +308,16 @@
     "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
     "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
+    "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
   },
   {
     "employer_name": "Amazon",
@@ -441,16 +371,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2w",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
-    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Workplace Trust: Privacy, AI, and Risk",
     "job_city": "Boston",
     "job_state": "MA",
@@ -468,6 +388,16 @@
     "job_description": "software engineering job for the role Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10482907/front-end-engineer-ii-aws-marketplace-offer-experiences",
     "id": "amazon-front-end-engineer-ii-aws-marketplace-offer-experiences-austin"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2w",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
+    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
   },
   {
     "employer_name": "Amazon",
