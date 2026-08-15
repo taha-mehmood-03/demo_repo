@@ -5,19 +5,9 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• , vulnerability mitigation, attack surfaces, secure design)Experience applying cryptography in software systems (e.\n• , using libraries such as OpenSSL)Familiarity with reverse engineering techniques and common attack methodsSolid C++ development experience (modern C++ preferred)Experience working in large, complex codebases or mature productsKnowledge of multithreading, concurrency, and performance optimizationExposure to software protection, DRM, or licensing systems is a plus (nice to have, not required)Familiarity with Linux (preferred) or Windows environments Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Work within an existing in-house security framework to maintain and extend capabilitiesRefactor and enhance existing security components for performance and reliabilityCollaborate with internal security experts to validate and strengthen protections Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Strong understanding of application security concepts (e.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.",
+    "job_description": "• , vulnerability mitigation, attack surfaces, secure design)Experience applying cryptography in software systems (e.\n• , using libraries such as OpenSSL)Familiarity with reverse engineering techniques and common attack methodsSolid C++ development experience (modern C++ preferred)Experience working in large, complex codebases or mature productsKnowledge of multithreading, concurrency, and performance optimizationExposure to software protection, DRM, or licensing systems is a plus (nice to have, not required)Familiarity with Linux (preferred) or Windows environments Work within an existing in-house security framework to maintain and extend capabilitiesRefactor and enhance existing security components for performance and reliabilityCollaborate with internal security experts to validate and strengthen protections Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Strong understanding of application security concepts (e.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/86806/login",
     "id": "amd-security-software-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Embedded Software Engineer - Physical AI",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Experience with Embedded Linux, Yocto, BSP development, device drivers, RTOS, or bare-metal software development.\n• Experience with computer vision and camera pipelines, including MIPI CSI, ISP tuning, V4L2, OpenCV, or GStreamer.\n• Experience with graphics and display software, including DisplayPort, MIPI DSI, display drivers, compositors, EGL, OpenGL, or Vulkan.\n• Experience deploying and optimizing edge AI inference models using frameworks such as PyTorch, TensorFlow, ONNX, and related acceleration technologies.\n• Experience with platform bring-up, hardware/software integration, board bring-up, and peripheral driver development.\n• Experience working with high-speed interfaces including PCIe, Ethernet, USB, DisplayPort, MIPI, SPI, I²C, UART, and GPIO.\n• Experience using hardware debugging tools such as JTAG, oscilloscopes, protocol analyzers, and logic analyzers.\n• Experience with robotics, industrial automation, autonomous systems, ROS 2, machine vision, sensor fusion, or edge AI applications.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/88077/login",
-    "id": "amd-embedded-software-engineer-physical-ai-us"
   },
   {
     "employer_name": "AMD",
@@ -25,39 +15,9 @@
     "job_city": "US",
     "job_state": "WA",
     "job_posted_at": "1d",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/89371/login",
     "id": "amd-pmts-software-development-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "AI Engineer, Recursive Self-Improvement for Compute",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Experience with GPU kernels, ROCm/HIP, CUDA, Triton, PyTorch, JAX, TensorFlow, or distributed training/inference systems.\n• Experience with reinforcement learning, post-training, reward modeling, automated program optimization, or agentic coding systems.\n• Experience building production-quality evaluation platforms, experiment tracking, dashboards, or leaderboards.\n• Strong software engineering experience in Python and at least one systems language such as C++, C, HIP, CUDA.\n• Experience building AI, ML, agentic, optimization, or automation systems that are evaluated with objective metrics.\n• Clear communication skills and ability to work across AI research, hardware, software, and partner-facing teams.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Build agentic and learning-driven optimization loops for compute workloads and hardware engineering workflows.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/87873/login",
-    "id": "amd-ai-engineer-recursive-self-improvement-for-compute-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "AI Networking System/Solution Test Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Strong experience in Networking Testing and Automation roles.\n• Proficiency in writing Automation Scripts using Python Experience in various test tools, performance testing tools such as Ixia, etc.\n• Prior experience in Cloud, Security, Data Center technologies is an added advantageStrong troubleshooting skillsKnowledge of operating systems, kernel mode programming, device drivers, and related technologies and architecturesGood interpersonal skills and effective communicationAbility to write high quality automation code with a keen attention to detailGood understanding of Linux operating system and hypervisor (VMware ESX/KVM)Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilers is a plus Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Solid understanding of AI tools and how to leverage them in a large-scale distributed environment.\n• ,Solid understanding of automation framework and well verse with Python.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/88685/login",
-    "id": "amd-ai-networking-system-solution-test-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Browser Ecosystem Enablement",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "1d",
-    "job_description": "• Linux/macOS experience a plus), including interactions with OS schedulers, graphics stacks, and driversAnalyze performance using industry‑standard and custom tools (e.\n• Communicate findings clearly to technical stakeholders Software engineering experience, with a strong focus on performance optimizationHands‑on experience working with Chromium or Chromium‑based browsers (e.\n• , Chrome, Edge, internal forks)Strong proficiency in C++ and modern C++ performance best practicesDeep understanding of browser internals, including at least two of the following:Rendering pipeline (Blink lifecycle, style/layout/paint)JavaScript engines (V8 internals, JIT behavior, GC)Graphics and compositing (Skia, GPU rasterization, ANGLE, WebGL)Multiprocess/threading model and IPC in ChromiumProven experience using low‑level profiling and tracing tools to drive optimizationsStrong debugging skills across large, complex codebasesAbility to reason from microarchitectural behavior (cache, memory, SIMD, branch behavior) up to user‑perceived performance Experience optimizing browser performance on Windows, including ETW‑based analysis and graphics stack interactionsFamiliarity with Clang/LLVM, compiler‑driven optimizations, and code‑generation tradeoffsExperience working with performance benchmarks (JetStream, Speedometer, WebXPRT, MotionMark, internal workloads)Exposure to hardware‑aware optimization (CPU topology, cache behavior, SIMD/AVX, GPU execution models)Prior experience contributing to large open‑source projects or upstream Chromium performance changesAbility to mentor junior engineers and influence performance culture across teams Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Profile and optimize performance across Chromium subsystems, including Blink, V8, Skia, GPU/ANGLE, and browser multi‑process architectureIdentify CPU, memory, GPU, and power bottlenecks using real workloads, benchmarks, and field telemetryImplement performance improvements in areas such as page load, rendering, JavaScript execution, graphics/compositing, and browser responsivenessDrive optimizations across platforms (Windows primary.\n• , Perfetto, ETW, Chrome Tracing, VTune, PIX, GPUView, perf)Collaborate with browser vendors, OS teams, compiler teams, and hardware partners to co‑optimize software and platformsContribute clean, well‑reviewed patches upstream to Chromium or downstream forks as appropriateTranslate benchmark and microarchitectural findings into practical, scalable browser improvementsDocument performance investigations, results, and best practices.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/88026/login",
-    "id": "amd-browser-ecosystem-enablement-us"
   },
   {
     "employer_name": "AMD",
@@ -65,29 +25,49 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/89379/login",
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/89350/login",
     "id": "amd-mts-software-development-engineer-us"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Linux Kernel SW Engineer",
+    "job_title": "AI Networking System/Solution Test Engineer",
     "job_city": "US",
-    "job_state": "TX",
+    "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Extensive expertise in x86 computing architectureProven experience across the entire software development lifecycleIn-depth knowledge of kernels, virtualization, and securityAdvanced Linux Kernel debugging skills across kernel subsystems, virtualization.\n• Advanced understanding and experience with the Linux kernel and related upstream development workflowAdvanced programming skills in C for operating system kernel & systems developmentExposure to KVM/QEMU (including x86-64 virtualization extensions) is a plusExperience with the GNU toolchainProficient use of gitExperience with open source software development, building and submitting patches on a mailing list, and working with external software partnersDeep understanding of operating systems concepts, data structures, x86-64 architecture, ACPI, and PCIEExperience with low-level debug tools as well as emulators and simulatorsBackground in IO, core kernel preferred Successful track record in contributions to open-source projects Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master’s in Electrical Engineer, Computer Engineering, Computer Science, or a closely related field4+ years experience AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/77966/login",
-    "id": "amd-linux-kernel-sw-engineer-us"
+    "job_description": "• Strong experience in Networking Testing and Automation roles.\n• Proficiency in writing Automation Scripts using Python Experience in various test tools, performance testing tools such as Ixia, etc.\n• Prior experience in Cloud, Security, Data Center technologies is an added advantageStrong troubleshooting skillsKnowledge of operating systems, kernel mode programming, device drivers, and related technologies and architecturesGood interpersonal skills and effective communicationAbility to write high quality automation code with a keen attention to detailGood understanding of Linux operating system and hypervisor (VMware ESX/KVM)Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilers is a plus Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Solid understanding of AI tools and how to leverage them in a large-scale distributed environment.\n• ,Solid understanding of automation framework and well verse with Python.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/88685/login",
+    "id": "amd-ai-networking-system-solution-test-engineer-us"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Product Development Engineer",
+    "job_title": "AI Engineer, Recursive Self-Improvement for Compute",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Experience with GPU kernels, ROCm/HIP, CUDA, Triton, PyTorch, JAX, TensorFlow, or distributed training/inference systems.\n• Experience with reinforcement learning, post-training, reward modeling, automated program optimization, or agentic coding systems.\n• Experience building production-quality evaluation platforms, experiment tracking, dashboards, or leaderboards.\n• Strong software engineering experience in Python and at least one systems language such as C++, C, HIP, CUDA.\n• Experience building AI, ML, agentic, optimization, or automation systems that are evaluated with objective metrics.\n• Clear communication skills and ability to work across AI research, hardware, software, and partner-facing teams.\n• Build agentic and learning-driven optimization loops for compute workloads and hardware engineering workflows.\n• Develop systems that generate, compile, test, benchmark, profile, and iterate on candidate improvements with minimal human intervention.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/87873/login",
+    "id": "amd-ai-engineer-recursive-self-improvement-for-compute-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Browser Ecosystem Enablement",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• Linux/macOS experience a plus), including interactions with OS schedulers, graphics stacks, and driversAnalyze performance using industry‑standard and custom tools (e.\n• Communicate findings clearly to technical stakeholders Software engineering experience, with a strong focus on performance optimizationHands‑on experience working with Chromium or Chromium‑based browsers (e.\n• , Chrome, Edge, internal forks)Strong proficiency in C++ and modern C++ performance best practicesDeep understanding of browser internals, including at least two of the following:Rendering pipeline (Blink lifecycle, style/layout/paint)JavaScript engines (V8 internals, JIT behavior, GC)Graphics and compositing (Skia, GPU rasterization, ANGLE, WebGL)Multiprocess/threading model and IPC in ChromiumProven experience using low‑level profiling and tracing tools to drive optimizationsStrong debugging skills across large, complex codebasesAbility to reason from microarchitectural behavior (cache, memory, SIMD, branch behavior) up to user‑perceived performance Experience optimizing browser performance on Windows, including ETW‑based analysis and graphics stack interactionsFamiliarity with Clang/LLVM, compiler‑driven optimizations, and code‑generation tradeoffsExperience working with performance benchmarks (JetStream, Speedometer, WebXPRT, MotionMark, internal workloads)Exposure to hardware‑aware optimization (CPU topology, cache behavior, SIMD/AVX, GPU execution models)Prior experience contributing to large open‑source projects or upstream Chromium performance changesAbility to mentor junior engineers and influence performance culture across teams Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Rendering pipeline (Blink lifecycle, style/layout/paint)JavaScript engines (V8 internals, JIT behavior, GC)Graphics and compositing (Skia, GPU rasterization, ANGLE, WebGL)Multiprocess/threading model and IPC in Chromium Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Profile and optimize performance across Chromium subsystems, including Blink, V8, Skia, GPU/ANGLE, and browser multi‑process architectureIdentify CPU, memory, GPU, and power bottlenecks using real workloads, benchmarks, and field telemetryImplement performance improvements in areas such as page load, rendering, JavaScript execution, graphics/compositing, and browser responsivenessDrive optimizations across platforms (Windows primary.\n• , Perfetto, ETW, Chrome Tracing, VTune, PIX, GPUView, perf)Collaborate with browser vendors, OS teams, compiler teams, and hardware partners to co‑optimize software and platformsContribute clean, well‑reviewed patches upstream to Chromium or downstream forks as appropriateTranslate benchmark and microarchitectural findings into practical, scalable browser improvementsDocument performance investigations, results, and best practices.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/88026/login",
+    "id": "amd-browser-ecosystem-enablement-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SMTS Software System Design Engineer",
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Experience developing tests, vectors/patterns, diagnostics, and timing for ATE platforms.\n• Hands‑on debug experience across hardware, software, device, or manufacturing domains.\n• Experience with ATE pattern generation and conversion workflows.\n• Background releasing test programs to high‑volume manufacturing.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• In Computer Engineering or Electrical Engineering preferred.\n• Develop, debug, and release ATE test software, diagnostics, timing, and pattern content for high‑volume manufacturing.\n• Lead technically significant projects and drive improvements to test methodologies, tools, and workflows.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/79514/login",
-    "id": "amd-product-development-engineer-us"
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/89358/login",
+    "id": "amd-smts-software-system-design-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -95,9 +75,19 @@
     "job_city": "US",
     "job_state": "NY",
     "job_posted_at": "1d",
-    "job_description": "• RTL coding experience for a high-speed processor.\n• Development experience from clean-sheet design to product tapeout to post-silicon debugMicroarchitecture development.\n• Problem-solving and debugging skillsASIC implementation with synthesis flow and static timing analysis.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Verilog RTL development with industry tools in a CPU, SOC, or ASIC environment.\n• Processor architecture.\n• Power-saving techniques.\n• Physical design and verification methods.",
+    "job_description": "• RTL coding experience for a high-speed processor.\n• Development experience from clean-sheet design to product tapeout to post-silicon debugMicroarchitecture development.\n• Problem-solving and debugging skillsASIC implementation with synthesis flow and static timing analysis.\n• Verilog RTL development with industry tools in a CPU, SOC, or ASIC environment.\n• Processor architecture.\n• Power-saving techniques.\n• Physical design and verification methods.\n• Synthesis, place and route, and timing closure concepts.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/89360/login",
     "id": "amd-pmts-silicon-design-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Product Development Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Experience developing tests, vectors/patterns, diagnostics, and timing for ATE platforms.\n• Hands‑on debug experience across hardware, software, device, or manufacturing domains.\n• Experience with ATE pattern generation and conversion workflows.\n• Background releasing test programs to high‑volume manufacturing.\n• In Computer Engineering or Electrical Engineering preferred.\n• Develop, debug, and release ATE test software, diagnostics, timing, and pattern content for high‑volume manufacturing.\n• Lead technically significant projects and drive improvements to test methodologies, tools, and workflows.\n• Perform silicon characterization, data analysis, and structured root‑cause debug across hardware, software, and device interactions.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/79514/login",
+    "id": "amd-product-development-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -105,9 +95,19 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Communication: Excellent verbal and written communication skills.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Education: BS or MS in Electrical Engineering, Computer Science, Computer Engineering, or a related field.\n• Programming: Proficiency in Python, C/C++, or Object-Oriented Perl.\n• Core Concepts: Strong grasp of Object-Oriented Programming (OOP), databases, and web frameworks.\n• Hardware Knowledge: Familiarity with hardware description and verification languages such as SystemVerilog, UVM, and Assertions.\n• Cloud Platforms: Knowledge of deploying tools in AWS, GCP, Azure, or OCI.\n• DevOps: Understanding of CI/CD workflows using Jenkins or GitHub Actions.",
+    "job_description": "• Communication: Excellent verbal and written communication skills.\n• Education: BS or MS in Electrical Engineering, Computer Science, Computer Engineering, or a related field.\n• Programming: Proficiency in Python, C/C++, or Object-Oriented Perl.\n• Core Concepts: Strong grasp of Object-Oriented Programming (OOP), databases, and web frameworks.\n• Hardware Knowledge: Familiarity with hardware description and verification languages such as SystemVerilog, UVM, and Assertions.\n• Cloud Platforms: Knowledge of deploying tools in AWS, GCP, Azure, or OCI.\n• DevOps: Understanding of CI/CD workflows using Jenkins or GitHub Actions.\n• Version Control: Competency with Git or Perforce.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/88534/login",
     "id": "amd-ai-ml-silicon-verification-solutions-engineer-tools-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "PMTS Systems Design Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/89283/login",
+    "id": "amd-pmts-systems-design-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -115,7 +115,7 @@
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Collaborate with cross-functional teams to define SLT strategy, test content, diagnostics, and characterization requirements.\n• Experience developing and debugging SLT test programs, test flows, diagnostics, and characterization plans in an NPI environment.\n• Experience with platform bring-up, hardware validation, and system-level debugging.\n• Experience using Linux, Unix, and Windows environments.\n• Programming or scripting experience in languages such as Python, C/C++, Java, Perl, or Ruby.\n• Experience working with manufacturing partners and OSATs is a plus.\n• RMA debug experience is a plus.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.",
+    "job_description": "• Collaborate with cross-functional teams to define SLT strategy, test content, diagnostics, and characterization requirements.\n• Experience developing and debugging SLT test programs, test flows, diagnostics, and characterization plans in an NPI environment.\n• Experience with platform bring-up, hardware validation, and system-level debugging.\n• Experience using Linux, Unix, and Windows environments.\n• Programming or scripting experience in languages such as Python, C/C++, Java, Perl, or Ruby.\n• Experience working with manufacturing partners and OSATs is a plus.\n• RMA debug experience is a plus.\n• Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, Electronics Engineering, or a related technical discipline preferred.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/79945/login",
     "id": "amd-product-development-engineer-system-level-test-slt-us"
   },
@@ -145,19 +145,9 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Experience designing complex ARM- or RISC-V-based SoC ASICsHands-on experience building complex Network-on-Chip (NoC) architecturesStrong knowledge of AXI / AMBA protocolsFamiliarity with P4, programmable packet-processing pipelines, or protocol-independent networking architecturesExperience with post-silicon debug, bring-up, and production supportExperience with high-performance interconnect, data movement, and SoC integrationSelf-motivated engineer with strong ownership and execution skillsStrong problem-solving ability and willingness to take on new technical challengesContinuous learner who thrives in a fast-moving environmentExcellent communication and cross-functional collaboration skills Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Seasoned ASIC design experienceProven hands-on experience developing high-speed, complex ASICsStrong experience across the complete ASIC development cycle, from RTL architecture to tapeout to mass productionSolid background in networking and packet-processing architecturesExperience collaborating across:VerificationModelingSoftwareHardware/system teamsStrong RTL design skills in:VerilogSystemVerilog AMD Partner Hub Authorized Distributors AMD University Program Strong programming skills in:C/C++Scripting experience in:PythonTclShell Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_description": "• Experience designing complex ARM- or RISC-V-based SoC ASICsHands-on experience building complex Network-on-Chip (NoC) architecturesStrong knowledge of AXI / AMBA protocolsFamiliarity with P4, programmable packet-processing pipelines, or protocol-independent networking architecturesExperience with post-silicon debug, bring-up, and production supportExperience with high-performance interconnect, data movement, and SoC integrationSelf-motivated engineer with strong ownership and execution skillsStrong problem-solving ability and willingness to take on new technical challengesContinuous learner who thrives in a fast-moving environmentExcellent communication and cross-functional collaboration skills Seasoned ASIC design experienceProven hands-on experience developing high-speed, complex ASICsStrong experience across the complete ASIC development cycle, from RTL architecture to tapeout to mass productionSolid background in networking and packet-processing architecturesExperience collaborating across:VerificationModelingSoftwareHardware/system teamsStrong RTL design skills in:VerilogSystemVerilog AMD Partner Hub Authorized Distributors AMD University Program Strong programming skills in:C/C++Scripting experience in:PythonTclShell Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/80779/login",
     "id": "amd-asic-design-engineer-networking-dpu-ai-systems-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "PMTS Systems Design Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/89283/login",
-    "id": "amd-pmts-systems-design-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -165,19 +155,19 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Experience with reinforcement learning, RLHF, GRPO, preference optimization, reward modeling, reward shaping, or post-training systems.\n• Experience with LLM agents, tool-use systems, code generation, automated program repair, compiler optimization, or benchmark-driven development.\n• Experience with distributed systems, job orchestration, Kubernetes, Ray, Slurm, workflow engines, data pipelines, or large-scale experiment management.\n• Reward design for engineering domains where correctness, performance, quality, and resource usage must be balanced.\n• Strong programming skills in Python and experience with ML frameworks such as PyTorch, JAX, TensorFlow, or similar.\n• Experience building ML systems, RL infrastructure, inference services, agent frameworks, evaluation platforms, or distributed experimentation systems.\n• 1Strong collaboration skills with AI researchers, applied engineers, infrastructure engineers, and hardware domain experts.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.",
+    "job_description": "• Experience with reinforcement learning, RLHF, GRPO, preference optimization, reward modeling, reward shaping, or post-training systems.\n• Experience with LLM agents, tool-use systems, code generation, automated program repair, compiler optimization, or benchmark-driven development.\n• Experience with distributed systems, job orchestration, Kubernetes, Ray, Slurm, workflow engines, data pipelines, or large-scale experiment management.\n• Reward design for engineering domains where correctness, performance, quality, and resource usage must be balanced.\n• Strong programming skills in Python and experience with ML frameworks such as PyTorch, JAX, TensorFlow, or similar.\n• Experience building ML systems, RL infrastructure, inference services, agent frameworks, evaluation platforms, or distributed experimentation systems.\n• 1Strong collaboration skills with AI researchers, applied engineers, infrastructure engineers, and hardware domain experts.\n• Build RL and inference systems for agentic engineering workflows, including job orchestration, sampling, scoring, caching, experiment tracking, and reproducible evaluation.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/88874/login",
     "id": "amd-ml-systems-research-engineer-rl-inference-agent-systems-us"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Hardware Systems Design Engineer – x86 Embedded Solutions (San Jose/Austin)",
+    "job_title": "MTS Silicon Design Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Hands-on experience in design and debugging HW issues on SoC and x86 platform.\n• Experience with signal integrity and power delivery network.\n• Experience with DDR4/5, LPDDR4/5, U/R/LR DIMM JEDEC standards, PCIe4/5, 1/2.\n• Occasional international travel may be needed.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Expertise in hardware architecture, logic/circuit design and implementation.\n• Familiarity with High-speed circuit testing (oscilloscope and JBERT usage).\n• Familiarity with programming / scripting language (C/C++, Python, Perl,.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/86644/login",
-    "id": "amd-hardware-systems-design-engineer-x86-embedded-solutions-san-jose-austin-us"
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/89377/login",
+    "id": "amd-mts-silicon-design-engineer-us"
   },
   {
     "employer_name": "ABB",
@@ -191,16 +181,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Marine Field Service Engineer (Power)",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
@@ -208,6 +188,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
     "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -251,6 +241,86 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
+    "job_city": "Location Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
+    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -260,54 +330,34 @@
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Robotics Visual SLAM Software Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Supply Chain",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
-    "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
+    "job_description": "software engineering job for the role Software Engineer, Supply Chain",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/101832367898796742-software-engineer-supply-chain?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-supply-chain-sunnyvale"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Robotics Validation Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
+    "employer_name": "Google",
+    "job_title": "Software Developer, iOS, Glasses System UI",
+    "job_city": "San Jose",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
-    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
+    "job_description": "software engineering job for the role Software Developer, iOS, Glasses System UI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/102417720401633990-software-developer-ios-glasses-system-ui?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-developer-ios-glasses-system-ui-san-jose"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Embedded SW Engineer",
-    "job_city": "Location San Fernando de Henares",
-    "job_state": "Madrid",
+    "employer_name": "Google",
+    "job_title": "TPU SoC Design Engineer, Cloud",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action At least 3 years of experience in embedded software or firmware development, preferably in RTOS-based and bare-metal environments.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities, grow, upskill, and move forward in your career.\n• Hands-on experience with laboratory instrumentation such as oscilloscopes, multimeters, signal generators or protocol analyzers.\n• Translate system and product requirements into software specifications, architecture contributions and detailed design.\n• Ability to work with requirements, technical documentation, version control and structured development processes.\n• Availability to participate in validation activities at our Madrid test benches and to travel when required.\n• Experience debugging and troubleshooting complex systems involving software, hardware and control behavior.\n• Master’s degree in Electronics, Telecommunications, Industrial Engineering or a related technical field.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
-    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Calibration Software Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
-    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer Firmware (80 -100%)",
-    "job_city": "Location Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043136/R-D-Engineer-Firmware-80-100",
-    "id": "abb-r-d-engineer-firmware-80-100-location-quartino"
+    "job_description": "software engineering job for the role TPU SoC Design Engineer, Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/98412087872496326-tpu-soc-design-engineer-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-tpu-soc-design-engineer-cloud-sunnyvale"
   },
   {
     "employer_name": "Amazon",
