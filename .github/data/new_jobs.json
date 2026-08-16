@@ -251,16 +251,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Engineer - MV Switchgear",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
-    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Manufacturing Quality Tester-2",
     "job_city": "Location Mebane",
     "job_state": "North Carolina",
@@ -268,6 +258,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
     "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
   },
   {
     "employer_name": "ABB",
@@ -364,7 +364,7 @@
     "job_title": "SDE II, AWS Field Experience",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "21h",
+    "job_posted_at": "23h",
     "job_description": "software engineering job for the role SDE II, AWS Field Experience",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10503184/sde-ii-aws-field-experience",
     "id": "amazon-sde-ii-aws-field-experience-seattle"
