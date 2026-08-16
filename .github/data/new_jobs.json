@@ -391,6 +391,16 @@
   },
   {
     "employer_name": "Amazon",
+    "job_title": "SDE II, AWS Field Experience",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "17h",
+    "job_description": "software engineering job for the role SDE II, AWS Field Experience",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10503184/sde-ii-aws-field-experience",
+    "id": "amazon-sde-ii-aws-field-experience-seattle"
+  },
+  {
+    "employer_name": "Amazon",
     "job_title": "Systems Engineer, Prime Air",
     "job_city": "Seattle",
     "job_state": "WA",
