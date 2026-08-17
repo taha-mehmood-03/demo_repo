@@ -171,13 +171,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Engineering Intern- Fall",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
+    "id": "abb-engineering-intern-fall-location-selmer"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Athens",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
+    "id": "abb-project-engineer-location-athens"
   },
   {
     "employer_name": "ABB",
@@ -208,46 +228,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
     "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Engineering Intern- Fall",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Intern-Fall-2026",
-    "id": "abb-engineering-intern-fall-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Location Athens",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039227/Project-Engineer",
-    "id": "abb-project-engineer-location-athens"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -301,16 +281,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Associate Engineer",
     "job_city": "Location Hackettstown",
     "job_state": "New Jersey",
@@ -318,6 +288,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
     "id": "abb-r-d-associate-engineer-location-hackettstown"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -331,6 +311,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -341,16 +341,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Internet Edge Engineering",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "5d",
-    "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
-    "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
     "job_city": "Redmond",
     "job_state": "WA",
@@ -358,6 +348,16 @@
     "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
     "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Internet Edge Engineering",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "5d",
+    "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
+    "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -411,6 +411,16 @@
   },
   {
     "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2w",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
+    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
+  },
+  {
+    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Workplace Trust: Privacy, AI, and Risk",
     "job_city": "Boston",
     "job_state": "MA",
@@ -428,16 +438,6 @@
     "job_description": "software engineering job for the role Front-End Engineer II, AWS Marketplace, Offer Experiences",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10482907/front-end-engineer-ii-aws-marketplace-offer-experiences",
     "id": "amazon-front-end-engineer-ii-aws-marketplace-offer-experiences-austin"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2w",
-    "job_description": "software engineering job for the role Software Development Engineer, Amazon Publisher Monetization - Video Ads",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10487609/software-development-engineer-amazon-publisher-monetization-video-ads",
-    "id": "amazon-software-development-engineer-amazon-publisher-monetization-video-ads-seattle"
   },
   {
     "employer_name": "Amazon",
