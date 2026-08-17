@@ -161,23 +161,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Available in one of 52 locations",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Available in one of 183 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
-    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
   },
   {
     "employer_name": "ABB",
@@ -218,6 +208,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
     "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -311,6 +311,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Hackettstown",
+    "job_state": "New Jersey",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-hackettstown"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -324,7 +344,7 @@
     "job_title": "Software Development Engineer, Internet Edge Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
     "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
@@ -344,27 +364,17 @@
     "job_title": "Software Development Engineer II, Platform Engineering and Emerging Technologies",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Development Engineer II, Platform Engineering and Emerging Technologies",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499144/software-development-engineer-ii-platform-engineering-and-emerging-technologies",
     "id": "amazon-software-development-engineer-ii-platform-engineering-and-emerging-technologies-seattle"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Satellite Engineering and Mechanical Development",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "4w",
-    "job_description": "software engineering job for the role Software Development Engineer II, Satellite Engineering and Mechanical Development",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10478036/software-development-engineer-ii-satellite-engineering-and-mechanical-development",
-    "id": "amazon-software-development-engineer-ii-satellite-engineering-and-mechanical-development-redmond"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "SDE II, AWS Field Experience",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "23h",
+    "job_posted_at": "1d",
     "job_description": "software engineering job for the role SDE II, AWS Field Experience",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10503184/sde-ii-aws-field-experience",
     "id": "amazon-sde-ii-aws-field-experience-seattle"
@@ -374,7 +384,7 @@
     "job_title": "Systems Engineer, Prime Air",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "software engineering job for the role Systems Engineer, Prime Air",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10497118/systems-engineer-prime-air",
     "id": "amazon-systems-engineer-prime-air-seattle"
@@ -384,7 +394,7 @@
     "job_title": "Software Development Engineer II, Managed Operations, COMET Development Team",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "3d",
+    "job_posted_at": "4d",
     "job_description": "software engineering job for the role Software Development Engineer II, Managed Operations, COMET Development Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10501301/software-development-engineer-ii-managed-operations-comet-development-team",
     "id": "amazon-software-development-engineer-ii-managed-operations-comet-development-team-seattle"
@@ -434,7 +444,7 @@
     "job_title": "Component Engineer, Amazon Leo",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "2w",
+    "job_posted_at": "3w",
     "job_description": "software engineering job for the role Component Engineer, Amazon Leo",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10484210/component-engineer-amazon-leo",
     "id": "amazon-component-engineer-amazon-leo-redmond"
@@ -444,7 +454,7 @@
     "job_title": "Software Development Engineer, Fintech",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Development Engineer, Fintech",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10498978/software-development-engineer-fintech",
     "id": "amazon-software-development-engineer-fintech-seattle"
@@ -454,7 +464,7 @@
     "job_title": "Data Engineer, Devices Sales & Marketing",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Data Engineer, Devices Sales & Marketing",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10500177/data-engineer-devices-sales-marketing",
     "id": "amazon-data-engineer-devices-sales-marketing-bellevue"
@@ -484,7 +494,7 @@
     "job_title": "Software Engineer - Robot Learning, Amazon Robotics - Vulcan Stow",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Software Engineer - Robot Learning,  Amazon Robotics - Vulcan Stow",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499383/software-engineer-robot-learning-amazon-robotics-vulcan-stow",
     "id": "amazon-software-engineer-robot-learning-amazon-robotics-vulcan-stow-seattle"
@@ -494,7 +504,7 @@
     "job_title": "Data Engineer II, Accounting, Accounting",
     "job_city": "Arlington",
     "job_state": "VA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Data Engineer II, Accounting, Accounting",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499131/data-engineer-ii-accounting-accounting",
     "id": "amazon-data-engineer-ii-accounting-accounting-arlington"
