@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "AMD",
-    "job_title": "MTS Software Development Engineer",
+    "job_title": "Security Software Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/89350/login",
-    "id": "amd-mts-software-development-engineer-us"
+    "job_description": "• , vulnerability mitigation, attack surfaces, secure design)Experience applying cryptography in software systems (e.\n• , using libraries such as OpenSSL)Familiarity with reverse engineering techniques and common attack methodsSolid C++ development experience (modern C++ preferred)Experience working in large, complex codebases or mature productsKnowledge of multithreading, concurrency, and performance optimizationExposure to software protection, DRM, or licensing systems is a plus (nice to have, not required)Familiarity with Linux (preferred) or Windows environments Work within an existing in-house security framework to maintain and extend capabilitiesRefactor and enhance existing security components for performance and reliabilityCollaborate with internal security experts to validate and strengthen protections Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Strong understanding of application security concepts (e.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/86806/login",
+    "id": "amd-security-software-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -21,13 +21,13 @@
   },
   {
     "employer_name": "AMD",
-    "job_title": "Security Software Engineer",
+    "job_title": "MTS Software Development Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• , vulnerability mitigation, attack surfaces, secure design)Experience applying cryptography in software systems (e.\n• , using libraries such as OpenSSL)Familiarity with reverse engineering techniques and common attack methodsSolid C++ development experience (modern C++ preferred)Experience working in large, complex codebases or mature productsKnowledge of multithreading, concurrency, and performance optimizationExposure to software protection, DRM, or licensing systems is a plus (nice to have, not required)Familiarity with Linux (preferred) or Windows environments Work within an existing in-house security framework to maintain and extend capabilitiesRefactor and enhance existing security components for performance and reliabilityCollaborate with internal security experts to validate and strengthen protections Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Strong understanding of application security concepts (e.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/86806/login",
-    "id": "amd-security-software-engineer-us"
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/89350/login",
+    "id": "amd-mts-software-development-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -78,6 +78,26 @@
     "job_description": "• Experience developing tests, vectors/patterns, diagnostics, and timing for ATE platforms.\n• Hands‑on debug experience across hardware, software, device, or manufacturing domains.\n• Experience with ATE pattern generation and conversion workflows.\n• Background releasing test programs to high‑volume manufacturing.\n• In Computer Engineering or Electrical Engineering preferred.\n• Develop, debug, and release ATE test software, diagnostics, timing, and pattern content for high‑volume manufacturing.\n• Lead technically significant projects and drive improvements to test methodologies, tools, and workflows.\n• Perform silicon characterization, data analysis, and structured root‑cause debug across hardware, software, and device interactions.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/79514/login",
     "id": "amd-product-development-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "AI/ML Silicon Verification Solutions Engineer – Tools",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Communication: Excellent verbal and written communication skills.\n• Education: BS or MS in Electrical Engineering, Computer Science, Computer Engineering, or a related field.\n• Programming: Proficiency in Python, C/C++, or Object-Oriented Perl.\n• Core Concepts: Strong grasp of Object-Oriented Programming (OOP), databases, and web frameworks.\n• Hardware Knowledge: Familiarity with hardware description and verification languages such as SystemVerilog, UVM, and Assertions.\n• Cloud Platforms: Knowledge of deploying tools in AWS, GCP, Azure, or OCI.\n• DevOps: Understanding of CI/CD workflows using Jenkins or GitHub Actions.\n• Version Control: Competency with Git or Perforce.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/88534/login",
+    "id": "amd-ai-ml-silicon-verification-solutions-engineer-tools-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "PMTS Systems Design Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/89283/login",
+    "id": "amd-pmts-systems-design-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -140,24 +160,24 @@
     "id": "amd-mts-silicon-design-engineer-us"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Hardware Systems Design Engineer – x86 Embedded Solutions (San Jose/Austin)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Hands-on experience in design and debugging HW issues on SoC and x86 platform.\n• Experience with signal integrity and power delivery network.\n• Experience with DDR4/5, LPDDR4/5, U/R/LR DIMM JEDEC standards, PCIe4/5, 1/2.\n• Occasional international travel may be needed.\n• Expertise in hardware architecture, logic/circuit design and implementation.\n• Familiarity with High-speed circuit testing (oscilloscope and JBERT usage).\n• Familiarity with programming / scripting language (C/C++, Python, Perl,.\n• Familiarity with Server OSes (Linux, Windows Server).",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/86644/login",
-    "id": "amd-hardware-systems-design-engineer-x86-embedded-solutions-san-jose-austin-us"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Available in one of 183 locations",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Available in one of 52 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
+    "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -198,16 +218,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
     "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -301,33 +311,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Hackettstown",
-    "job_state": "New Jersey",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-hackettstown"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
     "job_posted_at": "1h",
-    "job_description": "• Bachelor’s or Master’s degree in Computer Science, Software Engineering, Electrical Engineering, or a related fieldMinimum 2 years of professional experience in software development using C# and the.\n• NET ecosystemExperience with WPF (Windows Presentation Foundation) and solid understanding of Object-Oriented Programming (OOP) principlesKnowledge of software design patterns, application architecture, MVVM, dependency injection, and modern.\n• , Git), and software development best practices such as Clean Code and Clean ArchitectureBasic understanding of DevOps concepts, CI/CD practices, testing methodologies, and Agile/Scrum ways of workingStrong analytical and problem-solving skills, ability to work independently and collaboratively in a team environment, and professional proficiency in English Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Develop, maintain, and enhance desktop applications using C#,.\n• NET development practicesFamiliarity with ASP.\n• NET applications, REST APIs, source control systems (e.\n• NET, and WPF technologiesCollaborate with software engineers, domain experts, and stakeholders to design and implement high-quality software solutionsAnalyze, troubleshoot, and resolve software issues while continuously improving application performance and reliability Contribute to software architecture, code reviews, and development best practices to ensure maintainable and scalable solutions Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Senior Software Engineer Location Plzen, Plzeňský kraj, Czechia Category Research & Development Software Engineer for Digital Data Exchange (m/f/d) Location Mannheim, Baden-Wurttemberg, Germany Category Research & Development R&D Test Automation Engineer Location Vittuone, Milano, Italy Category Research & Development Process & Toolchain Expert (f/m/d) Available in one of 2 locations Category Research & Development Technical Product Manager Available in one of 3 locations Category Research & Development R&D Testing & Lab Specialist (f/m/d) 80-100% Location Schaffhausen, Schaffhausen, Switzerland Category Research & Development (Senior) Scientist in Converter-Based Distribution Systems (80 - 100%) Location Baden-Daettwil, Aargau, Switzerland Category Research & Development Research Department Manager - Industrial Solutions (80 - 100%) f/m/d Location Baden-Daettwil, Aargau, Switzerland Category Research & Development Internship - R&D Associate Engineer Location Vittuone, Milano, Italy Category Research & Development.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer II - Java",
+    "job_city": "Columbus",
+    "job_state": "OH",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices 2027 Software Engineer Program - Full-Time - United States - July Start Chicago, IL, United States and 8 more TechnologySoftware Engineering Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.\n• You’ll have the opportunity to influence engineering practices, drive impactful projects, and grow your leadership skills.\n• Software Engineer III - Scala Engineer Jersey City, NJ, United States TechnologySoftware Engineering Design and develop secure, scalable software, troubleshoot key components, and grow your career as an experienced software engineer.\n• Lead Software Engineer - Full Stack (Java & React) Plano, TX, United States TechnologySoftware Engineering Lead Full Stack Software Engineer (Java & React) Lead Software Engineer - AI/ML Lead Software Engineer Plano, TX, United States TechnologySoftware Engineering Carry out AI/ML critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java or Python, Agentic AI Jersey City, NJ, United States TechnologySoftware Engineering You will be a Lead software engineer that builds autonomous agents Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.\n• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Director of Software Engineering Dublin, Ireland TechnologySoftware Engineering Lead a senior team building AI-native, enterprise-scale infrastructure platforms and set the technical culture for our new Dublin hub Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Promote meaningful change across digital channels and client experience while growing your career in a dynamic, inclusive environment.\n• The role requires deep experience in high-throughput payment systems and modern engineering capabilities across GemFire, AI-enabled operations, microservices, cloud-native architecture, and AWS.\n• Lead Software Engineer- Java / Kafka / AWS / Terraform New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer who is strong with distributed development in Java, Kafka, AWS, Terraform AI Modernization Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Senior Lead Software Engineer experienced with Distributed Development, Python and AI Modernization Lead Software Engineer - Java, Spring, Cloud Plano, TX, United States TechnologySoftware Engineering This position is for a Lead Java Backend Software Engineer with hands-on experience in Springboot, AWS/GCP cloud platforms.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773912/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-ii-java-columbus"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III-JAVA/Microservices Arch/AWS",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices 2027 Software Engineer Program - Full-Time - United States - July Start Chicago, IL, United States and 8 more TechnologySoftware Engineering Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.\n• You’ll have the opportunity to influence engineering practices, drive impactful projects, and grow your leadership skills.\n• Software Engineer III - Scala Engineer Jersey City, NJ, United States TechnologySoftware Engineering Design and develop secure, scalable software, troubleshoot key components, and grow your career as an experienced software engineer.\n• Lead Software Engineer - Full Stack (Java & React) Plano, TX, United States TechnologySoftware Engineering Lead Full Stack Software Engineer (Java & React) Lead Software Engineer - AI/ML Lead Software Engineer Plano, TX, United States TechnologySoftware Engineering Carry out AI/ML critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer - Java or Python, Agentic AI Jersey City, NJ, United States TechnologySoftware Engineering You will be a Lead software engineer that builds autonomous agents Software Engineer II Singapore TechnologySoftware Engineering Work in payment technology while increasing your knowledge and skillsets at one of the world's leading organizations.\n• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Software Engineer II - Databricks BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Build skills, gain experience, and advance your career with a standout software engineering opportunity tailored to your growth.\n• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Director of Software Engineering Dublin, Ireland TechnologySoftware Engineering Lead a senior team building AI-native, enterprise-scale infrastructure platforms and set the technical culture for our new Dublin hub Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Promote meaningful change across digital channels and client experience while growing your career in a dynamic, inclusive environment.\n• The role requires deep experience in high-throughput payment systems and modern engineering capabilities across GemFire, AI-enabled operations, microservices, cloud-native architecture, and AWS.\n• Lead Software Engineer- Java / Kafka / AWS / Terraform New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer who is strong with distributed development in Java, Kafka, AWS, Terraform AI Modernization Senior Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Seeking a Senior Lead Software Engineer experienced with Distributed Development, Python and AI Modernization Lead Software Engineer - Java, Spring, Cloud Plano, TX, United States TechnologySoftware Engineering This position is for a Lead Java Backend Software Engineer with hands-on experience in Springboot, AWS/GCP cloud platforms.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775385/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-java-microservices-arch-aws-chicago"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, RCS Business Messaging",
+    "job_city": "San José",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, RCS Business Messaging",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/85784692359340742-software-engineer-iii-rcs-business-messaging?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-rcs-business-messaging-san-jos"
   },
   {
     "employer_name": "Amazon",
