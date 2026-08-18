@@ -181,16 +181,6 @@
   },
   {
     "employer_name": "AMD",
-    "job_title": "ASIC Design Engineer - Networking/ DPU/ AI Systems",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Experience designing complex ARM- or RISC-V-based SoC ASICsHands-on experience building complex Network-on-Chip (NoC) architecturesStrong knowledge of AXI / AMBA protocolsFamiliarity with P4, programmable packet-processing pipelines, or protocol-independent networking architecturesExperience with post-silicon debug, bring-up, and production supportExperience with high-performance interconnect, data movement, and SoC integrationSelf-motivated engineer with strong ownership and execution skillsStrong problem-solving ability and willingness to take on new technical challengesContinuous learner who thrives in a fast-moving environmentExcellent communication and cross-functional collaboration skills Seasoned ASIC design experienceProven hands-on experience developing high-speed, complex ASICsStrong experience across the complete ASIC development cycle, from RTL architecture to tapeout to mass productionSolid background in networking and packet-processing architecturesExperience collaborating across:VerificationModelingSoftwareHardware/system teamsStrong RTL design skills in:VerilogSystemVerilog AMD Partner Hub Authorized Distributors AMD University Program Strong programming skills in:C/C++Scripting experience in:PythonTclShell Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/80779/login",
-    "id": "amd-asic-design-engineer-networking-dpu-ai-systems-us"
-  },
-  {
-    "employer_name": "AMD",
     "job_title": "ML Systems Research Engineer, RL / Inference / Agent Systems",
     "job_city": "US",
     "job_state": "CA",
