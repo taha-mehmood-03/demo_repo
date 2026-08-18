@@ -1,13 +1,23 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Federal Data Engineering Co-Op:",
-    "job_city": "shipUniversity Park",
+    "job_title": "Intern Data Engineer - AI & Analytics -",
+    "job_city": "shipMONROE",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Federal Data Engineering Co-Op: 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129244&source=WEB_Search_NA",
-    "id": "ibm-federal-data-engineering-co-op-shipuniversity-park"
+    "job_description": "software engineering job for the role Intern Data Engineer - AI & Analytics - 2027",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129628&source=WEB_Search_NA",
+    "id": "ibm-intern-data-engineer-ai-analytics-shipmonroe"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "AI Systems Software Engineer - Neuromorphic Computing",
+    "job_city": "US",
+    "job_state": "Oregon",
+    "job_posted_at": "1d",
+    "job_description": "• AI Software Engineering Internlocations2 Locationsposted onPosted 19 Days AgoJR0282639AI Software Engineering InternlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0282641Software Development Graduate InternlocationsUS, California, Folsomposted onPosted TodayJR0285451Software Engineering Leaderlocations5 Locationsposted onPosted 25 Days AgoJR0285371System Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0285035System Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0285033System Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 19 Days AgoJR0285048Senior Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 13 Days AgoJR0286219EDA Tools Software Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280762Development Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 19 Days AgoJR0285054Senior EDA Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 6 Days AgoJR0286396Sr.\n• AI Software Engineer - Agent Harnesslocations4 Locationsposted onPosted 3 Days AgoJR0285965AI Systems Software Engineer - Neuromorphic ComputinglocationsUS, Oregon, Hillsboroposted onPosted TodayJR0286514Senior Middleware Software Development Engineerlocations2 Locationsposted onPosted 3 Days AgoSpotlight JobJR0286296Software Application Development Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0282062Operations Research EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0286351Operations Research EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0286348Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 17 Days AgoJR0285923Semiconductor Device Modeling Engineerlocations3 Locationsposted onPosted 13 Days AgoJR0286250Staff Semiconductor Device Modeling Engineerlocations2 Locationsposted onPosted 13 Days AgoJR0285922.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Systems-Software-Engineer---Neuromorphic-Computing_JR0286514?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-ai-systems-software-engineer-neuromorphic-computing-us"
   },
   {
     "employer_name": "AMD",
@@ -98,6 +108,16 @@
     "job_description": "• RTL coding experience for a high-speed processor.\n• Development experience from clean-sheet design to product tapeout to post-silicon debugMicroarchitecture development.\n• Problem-solving and debugging skillsASIC implementation with synthesis flow and static timing analysis.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Verilog RTL development with industry tools in a CPU, SOC, or ASIC environment.\n• Processor architecture.\n• Power-saving techniques.\n• Physical design and verification methods.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/89360/login",
     "id": "amd-pmts-silicon-design-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SMTS Systems Design Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• SOC or system architecture.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/89383/login",
+    "id": "amd-smts-systems-design-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -410,11 +430,21 @@
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
   },
   {
+    "employer_name": "Arm",
+    "job_title": "Memory Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/memory-design-engineer/33099/99370792288",
+    "id": "arm-memory-design-engineer-austin"
+  },
+  {
     "employer_name": "Amazon",
     "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "1w",
+    "job_posted_at": "2w",
     "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
     "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
@@ -424,7 +454,7 @@
     "job_title": "Software Development Engineer, Internet Edge Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
     "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
@@ -434,7 +464,7 @@
     "job_title": "Software Development Engineer II, Platform Engineering and Emerging Technologies",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "software engineering job for the role Software Development Engineer II, Platform Engineering and Emerging Technologies",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499144/software-development-engineer-ii-platform-engineering-and-emerging-technologies",
     "id": "amazon-software-development-engineer-ii-platform-engineering-and-emerging-technologies-seattle"
@@ -444,7 +474,7 @@
     "job_title": "SDE II, AWS Field Experience",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role SDE II, AWS Field Experience",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10503184/sde-ii-aws-field-experience",
     "id": "amazon-sde-ii-aws-field-experience-seattle"
@@ -464,7 +494,7 @@
     "job_title": "Software Development Engineer II, Managed Operations, COMET Development Team",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Software Development Engineer II, Managed Operations, COMET Development Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10501301/software-development-engineer-ii-managed-operations-comet-development-team",
     "id": "amazon-software-development-engineer-ii-managed-operations-comet-development-team-seattle"
@@ -474,7 +504,7 @@
     "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "3w",
+    "job_posted_at": "4w",
     "job_description": "software engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10480763/software-development-engineer-ec2-ultraserver-delivery-team",
     "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
@@ -514,7 +544,7 @@
     "job_title": "Software Development Engineer, Fintech",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "software engineering job for the role Software Development Engineer, Fintech",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10498978/software-development-engineer-fintech",
     "id": "amazon-software-development-engineer-fintech-seattle"
@@ -524,7 +554,7 @@
     "job_title": "Data Engineer, Devices Sales & Marketing",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Data Engineer, Devices Sales & Marketing",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10500177/data-engineer-devices-sales-marketing",
     "id": "amazon-data-engineer-devices-sales-marketing-bellevue"
@@ -544,7 +574,7 @@
     "job_title": "Software Development Engineer II, Personalization",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "2w",
+    "job_posted_at": "3w",
     "job_description": "software engineering job for the role Software Development Engineer II, Personalization",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10486664/software-development-engineer-ii-personalization",
     "id": "amazon-software-development-engineer-ii-personalization-seattle"
@@ -554,7 +584,7 @@
     "job_title": "Software Engineer - Robot Learning, Amazon Robotics - Vulcan Stow",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Engineer - Robot Learning,  Amazon Robotics - Vulcan Stow",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499383/software-engineer-robot-learning-amazon-robotics-vulcan-stow",
     "id": "amazon-software-engineer-robot-learning-amazon-robotics-vulcan-stow-seattle"
@@ -564,7 +594,7 @@
     "job_title": "Data Engineer - Front End/UI, Accounting",
     "job_city": "Arlington",
     "job_state": "VA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "software engineering job for the role Data Engineer - Front End/UI, Accounting",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499131/data-engineer-front-end-ui-accounting",
     "id": "amazon-data-engineer-front-end-ui-accounting-arlington"
@@ -584,7 +614,7 @@
     "job_title": "Security Engineer II, Stores Security - HealthCare",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "2w",
+    "job_posted_at": "3w",
     "job_description": "software engineering job for the role Security Engineer II, Stores Security - HealthCare",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10486618/security-engineer-ii-stores-security-healthcare",
     "id": "amazon-security-engineer-ii-stores-security-healthcare-seattle"
