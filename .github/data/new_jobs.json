@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Equipment Maintenance Technician 4 (Days) - Wet Cleans",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "1d",
-    "job_description": "• 2nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 6 Days AgoR264834Principal Field Robotic System Engineer/Architectlocations5 Locationsposted onPosted 30+ Days AgoR262004Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 6 Days AgoR260123Equipment Engineering Technician 1- Thin FilmslocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263017Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 23 Days AgoR262384Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted YesterdayR262379Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted TodayR264908Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 28 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 28 Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR257681Process Sustaining Engineering Technician 1locationsUS, WA, Camasposted onPosted 30+ Days AgoR263368Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 21 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 2 Days AgoR2644071st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 7 Days AgoR264404RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 16 Days AgoR263851.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Maintenance-Technician-4--Days----Wet-Cleans_R264908?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-equipment-maintenance-technician-4-days-wet-cleans-us"
-  },
-  {
     "employer_name": "AMD",
     "job_title": "Security Software Engineer",
     "job_city": "US",
@@ -191,6 +181,16 @@
   },
   {
     "employer_name": "AMD",
+    "job_title": "Software Engineer - ML Compilation",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Strong programming skills in C++Experience with compilation stack to any custom hardware acceleratorKnowledge of MLIR and dialects is an added plusPrior work using Modern source control system such as GitHubKnowledge of machine learning model structuresExperience with AI agents for development or qualification tasks Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, related field, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Apply a data-driven and structured approach for analysis and optimization effortsContribute to AMD's innovation, algorithms, and architectural design changesDevelop relationships with technical leads and peers Debug, analyze, resolve existing issues, and explore more efficient alternatives Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/89971/login",
+    "id": "amd-software-engineer-ml-compilation-us"
+  },
+  {
+    "employer_name": "AMD",
     "job_title": "AI/ML Silicon Verification Solutions Engineer – Tools",
     "job_city": "US",
     "job_state": "CA",
@@ -286,18 +286,18 @@
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Available in one of 183 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
   },
   {
     "employer_name": "ABB",
@@ -308,6 +308,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00018273/Commissioning-Engineer",
     "id": "abb-commissioning-engineer-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
@@ -341,6 +351,116 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - MV Switchgear",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
+    "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
+    "job_city": "Location Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
+    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Hackettstown",
+    "job_state": "New Jersey",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-hackettstown"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -350,64 +470,24 @@
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Robotics Visual SLAM Software Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
-    "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - DevOps, Python and/or JavaScript",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Software Engineer III at JPMorgan Chase within the Consumer & Community Banking- Data Technology & ML Engineering Manager Software Engineer Bengaluru, Karnataka, India and 1 more TechnologySoftware Engineering Lead Software Engineer at JPMorgan Chase within the Consumer and Community Banking - AIML Solutions technology Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Lead Software Engineer - ServiceNow Plano, TX, United States and 1 more TechnologySoftware Engineering Software Engineer delivering solutions across multiple technical areas as an integral part of an agile team.\n• Software Engineer II - Python Bengaluru, Karnataka, India TechnologySoftware Engineering You’re ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you.\n• As an emerging member of a software engineering team, you execute software solutions through the design, development, and technical troubleshooting of multiple components within a technical product, application, or system, while gaining the skills and experience needed to grow within your role.\n• The Strategic Initiatives team is focused on building software, AI, and human solutions that meet increasingly customized and complex client needs in a scalable and integrated way.\n• You’ll have the opportunity to influence engineering practices, drive impactful projects, and grow your leadership skills.\n• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III - Scala Engineer Jersey City, NJ, United States TechnologySoftware Engineering Design and develop secure, scalable software, troubleshoot key components, and grow your career as an experienced software engineer.\n• Lead Software Engineer - Java, Spring, Cloud Plano, TX, United States TechnologySoftware Engineering This position is for a Lead Java Backend Software Engineer with hands-on experience in Springboot, AWS/GCP cloud platforms.\n• Software Engineer III (Full Stack) Jersey City, NJ, United States TechnologySoftware Engineering As part of Audit Technology, we are seeking innovative, passionate, hands-on developers to solve challenging business problems using cloud-native microservices and rich micro-frontend experiences.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774658/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-devops-python-and-or-javascript-jersey-city"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Robotics Validation Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML Engineer",
+    "job_city": "Atlanta",
+    "job_state": "GA",
     "job_posted_at": "1h",
-    "job_description": "• 📱 Company Mobile Phone: Stay connected with a corporate phone – no need to mix work and personal calls.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities grow, upskill, and move forward in your career.\n• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Experience working hands-on with robotic platforms or other complex hardware-software systems for testing, integration, or troubleshooting.\n• A degree in Robotics, Computer Science, Mechanical Engineering, Electrical Engineering, or related field, with a focus on robotic systems.\n• Industrial experience in software testing, validation engineering, systems engineering, or a related technical field is a plus.\n• Strong communication and collaboration skills, with the ability to work effectively across multidisciplinary engineering teams.\n• Experience with ROS is a plus.\n• Experience executing and documenting structured validation or test activities.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
-    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Embedded SW Engineer",
-    "job_city": "Location San Fernando de Henares",
-    "job_state": "Madrid",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer",
-    "id": "abb-embedded-sw-engineer-location-san-fernando-de-henares"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Calibration Software Engineer",
-    "job_city": "Location Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1h",
-    "job_description": "• 📱 Company Mobile Phone: Stay connected with a corporate phone – no need to mix work and personal calls.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities grow, upskill, and move forward in your career.\n• Collaborate with a team of open-minded, skilled and motivated software engineers in an environment of learning and support.\n• Degree in Computer Science, Robotics or a related field3+ years of industry experience in software engineering, robotics or computer visionStrong C++ and Python skills with a passion for high‑quality code, performance, and best practicesExperience with Rust is a plus.\n• Willingness to learn is a requirementStrong analytical skills with an interest in statistics and gradient based optimizationBonus points for experience working with systems involving SLAM, computer vision or roboticsDesire and proven capability to work both autonomously and as part of a collaborative global team.\n• 🏡 Home Office Flexibility: Work from wherever suits you best thanks to our flexible remote work options.\n• 💻 Benefits Platform: Enjoy exclusive deals and discounts on everything from tech to travel through our employee benefits portal.\n• 📈 Employee Share Acquisition Plan: Want to invest in your future.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
-    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer Firmware (80 -100%)",
-    "job_city": "Location Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "1h",
-    "job_description": "• Degree in Information or Electrical, Power Electronic, Electronic Engineering, Embedded Systems, or comparable fieldYou have at least 3 years of experience in designing control firmware based on microcontrollers / DSPs for Power Electronic Products such as UPS, BESS, Renewable Energy systemsYou are highly skilled in C/C++/Python and Firmware Development.\n• You have solid knowledge in structured development processes, ranging from requirement analysis, design, and implementation to test and documentation.\n• Experience with development infrastructure, including Azure DevOps, CI/CD pipelines, version control systems (Git), lifecycle management, build systems, unit testing, debug probes, oscilloscopes, and similar toolsExposure to Cyber Security concepts and knowledge of main industrial communication protocols (Modbus, CAN, EtherCAT) are a plusYou are passionate about teamwork and innovation.\n• You are at ease communicating in English and Italian Firmware Development: Design, develop, and implement firmware for Power Electronic Converters and communication modules, ensuring robust functionality and cybersecuritySoftware Quality Assurance: Conduct unit, integration, and system testing to validate software performance and reliabilityCross-functional Collaboration: Work closely with system architects and hardware/software engineers to translate system requirements into detailed firmware specificationsInnovation and Knowledge Sharing: Contribute to intellectual property creation and collaborate with global engineering teams to drive continuous improvement and share expertise Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Software Senior Engineer - Desktop Available in one of 6 locations Category Other Software Senior Engineer - Mobile APPs Available in one of 6 locations Category Other (80 - 100%) R&D Engineer Location Quartino, Ticino, Switzerland Category Other (80 - 100%) R&D Senior Engineer Location Quartino, Ticino, Switzerland Category Other Technical Senior Advisor Available in one of 5 locations Category Other.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043136/R-D-Engineer-Firmware-80-100",
-    "id": "abb-r-d-engineer-firmware-80-100-location-quartino"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Engineer for Digital Data Exchange (m/f/d)",
-    "job_city": "Location Mannheim",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1h",
-    "job_description": "• You are passionate about and have strong software development skills in C# and Java, with experience in Python and JavaScriptYou have established skills in developing scalable, maintainable software solutions and are comfortable working across the full software lifecycle (design, implementation, testing, deployment), using tools such as RESTful APIs, data formats (JSON, XML) and modern version control (Git)Experience with Industry 4.\n• , AWS, Azure, GCP)Experience with Industrial Automation and OT/IT convergence is beneficialYou are a collaborative problem-solver with strong analytical and troubleshooting skillsDegree (B.\n• ) in computer science, control/automation engineering or equivalent professional experienceYou enjoy working in an international, distributed team and communicate effectively in English.\n• Basic German skills or a strong willingness to learn German are expectedYou hold a work permit valid in Germany Working as an independent and reliable contributor in R&D projects with limited supervision.\n• 0 technologies, particularly developing AAS and OPC UA components across the full value chain — from concept building and requirements gathering to design, implementation, integration, testing, technology transfer, maintenance and operations.\n• Understanding and applying applicable processes, standards, guidelines, and requirements, including architectural and design constraints.\n• 0 standards and protocols such as Asset Administration Shell (AAS), OPC UA and MQTT is highly valued, including data modelling using AAS and OPC UA, as well as IoT platforms and industrial communication protocolsFamiliarity with message brokers (e.\n• , RabbitMQ) and databases is an advantageYou are comfortable with Linux environments, containerization technologies (Docker, Kubernetes), CI/CD practices (e.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040571/Software-Engineer-for-Digital-Data-Exchange-m-f-d",
-    "id": "abb-software-engineer-for-digital-data-exchange-m-f-d-location-mannheim"
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106154012847284934-software-engineer-iii-aiml-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ai-ml-engineer-atlanta"
   },
   {
     "employer_name": "Amazon",
