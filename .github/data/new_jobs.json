@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - HBM SoC RTL Design Engineer",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_posted_at": "3d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Purpose for Which It Is Used: The Eightfold AI recruiting software is used to: (a) identify skills from your resume and career history.\n• (b) match your qualifications against role requirements.\n• The Platform will use AI to inform the human recruiter of skills you may have that are not listed on your resume, based on your career history and work experience listed in your resume or other application materials.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-intern-hbm-soc-rtl-design-engineer-folsom"
-  },
-  {
     "employer_name": "Analog Devices",
     "job_title": "Associate System Integration Engineer",
     "job_city": "2 Locations",
@@ -28,6 +18,16 @@
     "job_description": "• Senior Research Scientist, Machine LearninglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262487Senior Research Scientist, Machine LearninglocationsUS, MA, Bostonposted onPosted 30+ Days AgoR262485Edge Compute Architect for Optical SystemslocationsUS, MA, Bostonposted onPosted 30+ Days AgoR262049Staff Research Scientist, AI-Hardware Co-DesignlocationsUS, MA, Bostonposted onPosted 2 Days AgoR263362Senior Design Software Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR263334Senior Engineer, Software InfrastructurelocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262720Sr.\n• Principal Embedded Architect (Data center and Energy)locationsUS, TX, Austin, Plaza on the Lakeposted onPosted 30+ Days AgoR261350Staff Robot Learning Engineer locationsUS, CA, San Jose, Rio Roblesposted onPosted YesterdayR258507Senior Engineer, Software Systems Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR263762Software Product Line ManagerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR261870Senior Engineer, Design Evaluation EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 25 Days AgoR262582Senior Engineer, Design Evaluation Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR264177IMU Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255774Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR262512Senior Product Engineer – RF & Mixed-Signal Systemslocations2 Locationsposted onPosted 4 Days AgoR262374Associate System Integration Engineerlocations2 Locationsposted onPosted 2 Days AgoR265285Associate Manufacturing Engineerlocations3 Locationsposted onPosted 2 Days AgoR265295Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262722Staff Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR264232Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 15 Days AgoR264759.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-manufacturing-engineer-3-locations"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "BioChemical Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "2w",
+    "job_description": "• Integration EngineerlocationsUS, OR, Beavertonposted onPosted 23 Days AgoR264224BioChemical EngineerlocationsUS, MA, Wilmingtonposted onPosted 15 Days AgoR264157Senior Engineer, Automotive Product and Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262483Process Sustaining EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 8 Days AgoR264837Principal Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR257277Staff Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263053Staff Engineer Analog IC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR260158Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 11 Days AgoR264847Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR263805Senior Principal Engineer, Systems Design/Architecture Engineeringlocations3 Locationsposted onPosted 2 Days AgoR262200Product Marketing Engineerlocations2 Locationsposted onPosted 10 Days AgoR264417Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261276Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 23 Days AgoR264005Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263074Bio-Optics EngineerlocationsUS, MA, Wilmingtonposted onPosted 15 Days AgoR264158Senior Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264021Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264154Senior Engineer, Product ApplicationslocationsUS, TX, Austin, Plaza on the Lakeposted onPosted 30+ Days AgoR263635FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262943.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/BioChemical-Engineer_R264157?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-biochemical-engineer-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -675,19 +675,9 @@
     "job_city": "Location Quartino",
     "job_state": "Ticino",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043018/-80-100-Software-Developer-NET-Desktop-Applications",
     "id": "abb-80-100-software-developer-net-desktop-applications-location-quartino"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Internet Edge Engineering",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
-    "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -698,6 +688,16 @@
     "job_description": "software engineering job for the role Software Development Engineer, BigMesh, Traffic Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10508160/software-development-engineer-bigmesh-traffic-engineering",
     "id": "amazon-software-development-engineer-bigmesh-traffic-engineering-sunnyvale"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Internet Edge Engineering",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Development Engineer, Internet Edge Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10499373/software-development-engineer-internet-edge-engineering",
+    "id": "amazon-software-development-engineer-internet-edge-engineering-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -791,16 +791,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, AWS Catalog - Sagemaker Lakehouse",
-    "job_city": "East Palo Alto",
-    "job_state": "CA",
-    "job_posted_at": "3w",
-    "job_description": "software engineering job for the role Software Development Engineer II, AWS Catalog - Sagemaker Lakehouse",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10488870/software-development-engineer-ii-aws-catalog-sagemaker-lakehouse",
-    "id": "amazon-software-development-engineer-ii-aws-catalog-sagemaker-lakehouse-east-palo-alto"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Data Engineer, Devices Sales & Marketing",
     "job_city": "Bellevue",
     "job_state": "WA",
@@ -808,6 +798,16 @@
     "job_description": "software engineering job for the role Data Engineer, Devices Sales & Marketing",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10500177/data-engineer-devices-sales-marketing",
     "id": "amazon-data-engineer-devices-sales-marketing-bellevue"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer II, AWS Catalog - Sagemaker Lakehouse",
+    "job_city": "East Palo Alto",
+    "job_state": "CA",
+    "job_posted_at": "3w",
+    "job_description": "software engineering job for the role Software Development Engineer II, AWS Catalog - Sagemaker Lakehouse",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10488870/software-development-engineer-ii-aws-catalog-sagemaker-lakehouse",
+    "id": "amazon-software-development-engineer-ii-aws-catalog-sagemaker-lakehouse-east-palo-alto"
   },
   {
     "employer_name": "Amazon",
