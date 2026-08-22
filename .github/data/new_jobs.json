@@ -501,36 +501,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Engineer",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
-    "id": "abb-product-engineer-location-memphis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - Weekend Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
-    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Process Engineer - 2nd Shift",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
-    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Associate Engineer",
     "job_city": "Location Cleveland",
     "job_state": "Ohio",
@@ -561,23 +531,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Marine Field Service Engineer (Power)",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
+    "job_title": "Product Engineer",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
-    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
+    "id": "abb-product-engineer-location-memphis"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Designer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "Manufacturing Process Engineer - Weekend Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
-    "id": "abb-designer-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042123/Manufacturing-Process-Engineer-Weekend-Shift",
+    "id": "abb-manufacturing-process-engineer-weekend-shift-location-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Process Engineer - 2nd Shift",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042125/Manufacturing-Process-Engineer-2nd-Shift",
+    "id": "abb-manufacturing-process-engineer-2nd-shift-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -601,16 +581,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
-    "job_city": "Location Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
-    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Quality Control Engineer",
     "job_city": "Location Richmond",
     "job_state": "Virginia",
@@ -621,13 +591,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Location Pinetops",
+    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
+    "job_city": "Location Cary",
     "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-location-pinetops"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
+    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
   },
   {
     "employer_name": "ABB",
@@ -641,6 +611,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033952/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Engineer - Panelboards",
     "job_city": "Location Bloomfield",
     "job_state": "Connecticut",
@@ -648,6 +628,26 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
     "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Marine Field Service Engineer (Power)",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031713/Marine-Field-Service-Engineer-Power",
+    "id": "abb-marine-field-service-engineer-power-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Designer",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042269/Designer",
+    "id": "abb-designer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "ABB",
