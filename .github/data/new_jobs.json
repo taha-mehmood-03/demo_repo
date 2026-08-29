@@ -1,213 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Software Developer-Tucston-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Software Developer-Tucston-AZ",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130916&source=WEB_Search_NA",
-    "id": "ibm-entry-level-software-developer-tucston-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Client Solutions Engineering Intern 2027- North Carolina",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Storage Client Solutions Engineering Intern 2027- North Carolina",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130129&source=WEB_Search_NA",
-    "id": "ibm-storage-client-solutions-engineering-intern-2027-north-carolina-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Intern - OneIT - Rochester, MN -",
-    "job_city": "shipROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Developer Intern - OneIT - Rochester, MN - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130900&source=WEB_Search_NA",
-    "id": "ibm-software-developer-intern-oneit-rochester-mn-shiprochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level QA/Test Developer-Tucson-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level QA/Test Developer-Tucson-AZ",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130924&source=WEB_Search_NA",
-    "id": "ibm-entry-level-qa-test-developer-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Site Reliability Engineer - Tucson-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Site Reliability Engineer - Tucson-AZ",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130921&source=WEB_Search_NA",
-    "id": "ibm-entry-level-site-reliability-engineer-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer Intern -Tucson, AZ",
-    "job_city": "shipTUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Site Reliability Engineer Intern -Tucson, AZ",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130927&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-intern-tucson-az-shiptucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Product Management Intern 2027 -Tucson, AZ",
-    "job_city": "shipTUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Storage Product Management Intern 2027 -Tucson, AZ",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130390&source=WEB_Search_NA",
-    "id": "ibm-storage-product-management-intern-2027-tucson-az-shiptucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Product Management Intern 2027 -North Carolina",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Storage Product Management Intern 2027 -North Carolina",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130374&source=WEB_Search_NA",
-    "id": "ibm-storage-product-management-intern-2027-north-carolina-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Back-End Developer-Tucson-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Back-End Developer-Tucson-AZ",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131023&source=WEB_Search_NA",
-    "id": "ibm-entry-level-back-end-developer-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Back-End Developer-Houston-TX",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Back-End Developer-Houston-TX",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131025&source=WEB_Search_NA",
-    "id": "ibm-entry-level-back-end-developer-houston-tx-houston"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hardware Developer-Tucson-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Hardware Developer-Tucson-AZ",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131016&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer Intern 2027 -Tucson, AZ",
-    "job_city": "shipTUCSON",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Hardware Developer Intern 2027 -Tucson, AZ",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130928&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-intern-2027-tucson-az-shiptucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Quantum Hardware Assembly R&D Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Quantum Hardware Assembly R&D Engineer",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130456&source=WEB_Search_NA",
-    "id": "ibm-associate-quantum-hardware-assembly-r-d-engineer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Materials R&D Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Quantum Materials R&D Engineer",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130455&source=WEB_Search_NA",
-    "id": "ibm-quantum-materials-r-d-engineer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer ELH - OneIT - Rochester, MN -",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Site Reliability Engineer ELH - OneIT - Rochester, MN - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131294&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-elh-oneit-rochester-mn-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Quantum Hardware Mechanical Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Associate Quantum Hardware Mechanical Engineer",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130457&source=WEB_Search_NA",
-    "id": "ibm-associate-quantum-hardware-mechanical-engineer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY -",
-    "job_city": "shipPOUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130792&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-intern-oneit-poughkeepsie-ny-shippoughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer Intern - OneIT - Rochester, MN -",
-    "job_city": "shipROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Site Reliability Engineer Intern - OneIT - Rochester, MN - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130895&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-intern-oneit-rochester-mn-shiprochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Storage Client Solutions Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Storage Client Solutions Engineer 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130391&source=WEB_Search_NA",
-    "id": "ibm-entry-level-storage-client-solutions-engineer-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "User Experience Design Intern - Austin, TX -",
-    "job_city": "shipAustin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role User Experience Design Intern - Austin, TX - 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130907&source=WEB_Search_NA",
-    "id": "ibm-user-experience-design-intern-austin-tx-shipaustin"
-  },
-  {
     "employer_name": "Micron Technology",
-    "job_title": "MTS, Systems Software Engineering",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/44143665",
-    "id": "micron-technology-mts-systems-software-engineering-san-jose"
+    "job_title": "New College Grad - Equipment Engineer (RDA & Metrology)",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "3d",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Purpose for Which It Is Used: The Eightfold AI recruiting software is used to: (a) identify skills from your resume and career history.\n• (b) match your qualifications against role requirements.\n• Experience with data analytics and visualization tools such as JMP, Spotfire, Power BI, Tableau, or similar platforms to analyze equipment performance, identify trends, and drive data-driven decision making.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-new-college-grad-equipment-engineer-rda-metrology-manassas"
   },
   {
     "employer_name": "Analog Devices",
@@ -215,7 +15,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Senior Backend Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR263257Senior Software Development Engineer (Embedded Software)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263308Staff Software Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264915Senior Engineer, Software Support Engineering (DevOps)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263796Staff PDK Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262678Product Cybersecurity Engineer (Medical Devices)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263547ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Development Manager, Cloud and Regulated Software (MedTech)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261937Engineer: Embedded Audio SoftwarelocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263782Associate Engineer: Embedded Audio SoftwarelocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263781Staff DevSecOps Engineer– Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264917Android Mobile DeveloperlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262556Forward Deployed Engineerlocations2 Locationsposted onPosted 8 Days AgoR264808Principal Audio/DSP Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262446Senior Engineer, AI/ML SoftwarelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR263313Principal Engineer, AI/ML SoftwarelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264071Senior Robot Learning Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262308Embedded Hardware and Firmware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263186Principal AI Accelerator Architect Leadlocations2 Locationsposted onPosted 11 Days AgoR263269Staff Research Scientist, Artificial IntelligencelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255394.",
+    "job_description": "• Senior Backend Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR263257Senior Software Development Engineer (Embedded Software)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263308Staff Software Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264915Senior Engineer, Software Support Engineering (DevOps)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263796Staff PDK Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262678Product Cybersecurity Engineer (Medical Devices)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263547ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Development Manager, Cloud and Regulated Software (MedTech)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261937Engineer: Embedded Audio SoftwarelocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263782Associate Engineer: Embedded Audio SoftwarelocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263781Staff DevSecOps Engineer– Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264917Android Mobile DeveloperlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262556Forward Deployed Engineerlocations2 Locationsposted onPosted 8 Days AgoR264808Senior Engineer, AI/ML SoftwarelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR263313Principal Engineer, AI/ML SoftwarelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264071Principal Audio/DSP Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262446Senior Robot Learning Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262308Embedded Hardware and Firmware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263186Principal AI Accelerator Architect Leadlocations2 Locationsposted onPosted 11 Days AgoR263269Staff Research Scientist, Artificial IntelligencelocationsUS, MA, Bostonposted onPosted 30+ Days AgoR255394.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Forward-Deployed-Engineer_R264808?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-forward-deployed-engineer-2-locations"
   },
@@ -241,6 +41,16 @@
   },
   {
     "employer_name": "Analog Devices",
+    "job_title": "Product Engineer",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "1w",
+    "job_description": "• Principal System EngineerlocationsUS, MA, Bostonposted onPosted 14 Days AgoR264843Staff Engineer, Product Engineering (Mfg.\n• )locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262001Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Principal Engineer, Process Development EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263753Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263238Staff Engineer, Customer Quality EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263566Staff Engineer, Process Sustaining EngineeringlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR264415Staff Engineer, MEMS Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263761Product EngineerlocationsUS, NC, Durhamposted onPosted 9 Days AgoR264573Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Principal Engineer, Digital Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262402Senior Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263149Staff Engineer, Design Verification EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264022Senior Engineer Design Verification EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262669Integration EngineerlocationsUS, OR, Beavertonposted onPosted 29 Days AgoR264224Senior Engineer, Automotive Product and Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262483Process Sustaining EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264837Principal Engineer, Systems Design/Architecture EngineeringlocationsUS, MA, Wilmingtonposted onPosted 15 Days AgoR257277Staff Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263053.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Product-Engineer_R264573?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-product-engineer-us"
+  },
+  {
+    "employer_name": "Analog Devices",
     "job_title": "Integration Engineer",
     "job_city": "US",
     "job_state": "OR",
@@ -261,6 +71,26 @@
   },
   {
     "employer_name": "Analog Devices",
+    "job_title": "Product Marketing Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 17 Days AgoR264847Senior Principal Engineer, Systems Design/Architecture Engineeringlocations3 Locationsposted onPosted 8 Days AgoR262200Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261276Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 29 Days AgoR264005Product Marketing Engineerlocations2 Locationsposted onPosted 16 Days AgoR264417Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR263805Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263074Bio-Optics EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR264158Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted TodayR265577Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Senior Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264021Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR264154RF Applications EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 2 Days AgoR265240FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262943Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 8 Days AgoR264596Senior Engineer, Product ApplicationslocationsUS, MA, Norwood Southposted onPosted 30+ Days AgoR262586Senior Product Engineer - RFlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR258336Principal Engineer, Digital Design Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263412Senior Device EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258021Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR264157.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Marketing-Buck_R264417?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-product-marketing-engineer-2-locations"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Product Engineer / Design Evaluation",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "3w",
+    "job_description": "• Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 17 Days AgoR264847Senior Principal Engineer, Systems Design/Architecture Engineeringlocations3 Locationsposted onPosted 8 Days AgoR262200Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261276Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 29 Days AgoR264005Product Marketing Engineerlocations2 Locationsposted onPosted 16 Days AgoR264417Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR263805Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263074Bio-Optics EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR264158Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted TodayR265577Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Senior Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264021Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR264154RF Applications EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 2 Days AgoR265240FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262943Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 8 Days AgoR264596Senior Engineer, Product ApplicationslocationsUS, MA, Norwood Southposted onPosted 30+ Days AgoR262586Senior Product Engineer - RFlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR258336Principal Engineer, Digital Design Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263412Senior Device EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258021Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR264157.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-product-engineer-design-evaluation-us"
+  },
+  {
+    "employer_name": "Analog Devices",
     "job_title": "Bio-Optics Engineer",
     "job_city": "US",
     "job_state": "MA",
@@ -278,6 +108,16 @@
     "job_description": "• Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 17 Days AgoR264847Senior Principal Engineer, Systems Design/Architecture Engineeringlocations3 Locationsposted onPosted 8 Days AgoR262200Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261276Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 29 Days AgoR264005Product Marketing Engineerlocations2 Locationsposted onPosted 16 Days AgoR264417Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR263805Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263074Bio-Optics EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR264158Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted TodayR265577Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Senior Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264021Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR264154RF Applications EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 2 Days AgoR265240FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262943Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 8 Days AgoR264596Senior Engineer, Product ApplicationslocationsUS, MA, Norwood Southposted onPosted 30+ Days AgoR262586Senior Product Engineer - RFlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR258336Principal Engineer, Digital Design Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263412Senior Device EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258021Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR264157.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-biomedical-engineering-intern-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "RF Applications Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "2d",
+    "job_description": "• Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 17 Days AgoR264847Senior Principal Engineer, Systems Design/Architecture Engineeringlocations3 Locationsposted onPosted 8 Days AgoR262200Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261276Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 29 Days AgoR264005Product Marketing Engineerlocations2 Locationsposted onPosted 16 Days AgoR264417Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR263805Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263074Bio-Optics EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR264158Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted TodayR265577Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Senior Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264021Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR264154RF Applications EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 2 Days AgoR265240FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR262943Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 8 Days AgoR264596Senior Engineer, Product ApplicationslocationsUS, MA, Norwood Southposted onPosted 30+ Days AgoR262586Senior Product Engineer - RFlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR258336Principal Engineer, Digital Design Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263412Senior Device EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258021Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 2 Days AgoR264157.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/RF-Applications-Engineer_R265240?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-rf-applications-engineer-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -355,7 +195,7 @@
     "job_city": "US",
     "job_state": "WA",
     "job_posted_at": "1w",
-    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR264126.",
+    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR2641262nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Engineer--Defect-Reduction---Yield-Enhancement_R264914?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-engineer-defect-reduction-yield-enhancement-us"
   },
@@ -365,9 +205,19 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "4w",
-    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR264126.",
+    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR2641262nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Process-Engineering-Technician--Nights-_R264348?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-process-engineering-technician-nights-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Product Engineer (Product Development) Intern",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "4d",
+    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR2641262nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-product-engineer-product-development-intern-2-locations"
   },
   {
     "employer_name": "Analog Devices",
@@ -375,7 +225,7 @@
     "job_city": "US",
     "job_state": "NC",
     "job_posted_at": "1w",
-    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR264126.",
+    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR2641262nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-digital-design-engineer-us"
   },
@@ -385,7 +235,7 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "2w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR2641262nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Quality-Engineer_R264741?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-2nd-shift-quality-engineer-us"
   },
@@ -395,7 +245,7 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "2w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 8 Days AgoR264914Senior Product Engineer - RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258651Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Product Engineer (Product Development) Internlocations2 Locationsposted onPosted 4 Days AgoR265302Senior Engineer, Semiconductor PackaginglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263237Digital Design Engineer - Automotivelocations4 Locationsposted onPosted 30+ Days AgoR258787Sr.\n• Aerospace Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR263314Senior System Architecture Engineerlocations2 Locationsposted onPosted 16 Days AgoR264127Senior Engineer, Product MarketinglocationsUS, CA, Milpitas, Tasmanposted onPosted 25 Days AgoR264358Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 7 Days AgoR265313System Integration Engineer Internlocations2 Locationsposted onPosted 6 Days AgoR265305Staff Engineer, Product Applications - LDOlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263063Staff System Application EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR262836Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Staff Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263432Senior System Architecture EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 16 Days AgoR2641262nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/XMLNAME-1st-Shift-Quality-Engineer_R264743?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-1st-shift-quality-engineer-us"
   },
@@ -405,7 +255,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "4d",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-digital-design-engineer-intern-2-locations"
   },
@@ -415,7 +265,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-mixed-signal-engineer-intern-2-locations"
   },
@@ -425,7 +275,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-process-sustaining-engineering-intern-2-locations"
   },
@@ -435,7 +285,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-analog-design-engineer-intern-2-locations"
   },
@@ -445,7 +295,7 @@
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "3d",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Associate-Design-Verification-Engineer_R265415?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-design-verification-engineer-us"
   },
@@ -455,7 +305,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "1w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Photolithography-Technician-5--Equipment-Engineering_R262896?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-equipment-engineering-technician-5-photolithography-us"
   },
@@ -465,7 +315,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "2w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-3--Diffusion---Wet-Sink--Nights-_R264633?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-equipment-technician-3-diffusion-wet-sink-nights-us"
   },
@@ -475,19 +325,9 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "1w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 22 Days AgoR264360Mixed-Signal Chiplet Architectlocations2 Locationsposted onPosted 30+ Days AgoR260175Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Technician-5---Photolithography--Nights-_R263425?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-equipment-engineering-technician-5-photolithography-nights-us"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Equipment Technician 2, Metrology (Days)",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "2w",
-    "job_description": "• 2nd Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR2647411st Shift Quality EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264743Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR265286Digital Design Engineer Internlocations2 Locationsposted onPosted 4 Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 8 Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 7 Days AgoR265319Analog Design Engineer Internlocations2 Locationsposted onPosted 7 Days AgoR265297Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 3 Days AgoR265415Staff Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR263239Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Engineer, System ArchitecturelocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR263549Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Wireless IC Digital DesignerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR262243Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 10 Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR263425System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-2--Metrology--Days-_R264385?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-equipment-technician-2-metrology-days-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -495,9 +335,19 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "2w",
-    "job_description": "• Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR2623802nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407.",
+    "job_description": "• 2nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Manufacturing-Test-Engineer_R264834?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-2nd-shift-manufacturing-test-engineer-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Equipment Technician 2, Metrology (Days)",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "2w",
+    "job_description": "• 2nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-2--Metrology--Days-_R264385?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-equipment-technician-2-metrology-days-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -505,7 +355,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "4w",
-    "job_description": "• Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR2623802nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407.",
+    "job_description": "• 2nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-2---Diffusion---Wet-Sink--Nights-_R264134-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-equipment-technician-2-diffusion-wet-sink-nights-us"
   },
@@ -515,19 +365,9 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "2w",
-    "job_description": "• Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR2623802nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407.",
+    "job_description": "• 2nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-2--Nights-_R264631?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-equipment-technician-2-diffusion-wet-sink-night-shift-us"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Equipment Maintenance Technician 4 (Days) - Wet Cleans",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "1w",
-    "job_description": "• Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR2623802nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Maintenance-Technician-4--Days----Wet-Cleans_R264908?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-equipment-maintenance-technician-4-days-wet-cleans-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -535,39 +375,9 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "2w",
-    "job_description": "• Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR2623802nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407.",
+    "job_description": "• 2nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/XMLNAME-1st-Shift-Process-Engineering-Technician_R264404?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-1st-shift-process-engineering-technician-us"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Etch/BE-Cleans Process Engineering Technician (Nights)",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "4w",
-    "job_description": "• Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR2623802nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Etch-BE-Cleans-Process-Engineering-Technician--Nights-_R264349?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-etch-be-cleans-process-engineering-technician-nights-us"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Diff/Wet Process Engineering Technician (Nights)",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "2w",
-    "job_description": "• Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR2623802nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Diff-Wet-Process-Engineering-Technician--Nights-_R264347?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-diff-wet-process-engineering-technician-nights-us"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Process Sustaining Engineering Technician (Tech 3)",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "1w",
-    "job_description": "• Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR2623802nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/R14983-Tech-3--Process-Sustaining-Engineering-15_R264407?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-process-sustaining-engineering-technician-tech-3-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -575,9 +385,19 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "3w",
-    "job_description": "• Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205Senior Principal RF/Microwave Amplifier MMIC Design Engineerlocations14 Locationsposted onPosted 14 Days AgoR264833Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 14 Days AgoR264831Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258.",
+    "job_description": "• 2nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mixed-Signal-Design-Verification-Engineer_R263851?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-mixed-signal-design-verification-engineer-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Equipment Maintenance Technician 4 (Days) - Wet Cleans",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "1w",
+    "job_description": "• 2nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 14 Days AgoR264834Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR262379Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264385CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2 – Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264134Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 15 Days AgoR264631Supervisor, Reliability OperationslocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR264606Principal Navigation Systems Architect (PN&T)locations21 Locationsposted onPosted 14 Days AgoR260123Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 4 Days AgoR265284Senior Hardware Engineer – Medical DeviceslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR2576811st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 15 Days AgoR264404Principal Engineer, Segment Marketing – Power Solutions locations3 Locationsposted onPosted 7 Days AgoR264327Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851Staff System Architecture and Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Equipment Maintenance Technician 4 (Days) - Wet CleanslocationsUS, OR, Beavertonposted onPosted 8 Days AgoR264908Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263272Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Maintenance-Technician-4--Days----Wet-Cleans_R264908?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-equipment-maintenance-technician-4-days-wet-cleans-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -585,7 +405,7 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "4w",
-    "job_description": "• Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205Senior Principal RF/Microwave Amplifier MMIC Design Engineerlocations14 Locationsposted onPosted 14 Days AgoR264833Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 14 Days AgoR264831Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258.",
+    "job_description": "• Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 7 Days AgoR265312RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Process-Engineering-Technician_R264405?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-2nd-shift-process-engineering-technician-us"
   },
@@ -595,49 +415,49 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Junior Layout Design Engineer (Trainee)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263726Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 24 Days AgoR263851RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 9 Days AgoR262197Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205Senior Principal RF/Microwave Amplifier MMIC Design Engineerlocations14 Locationsposted onPosted 14 Days AgoR264833Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 14 Days AgoR264831Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258.",
+    "job_description": "• Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 7 Days AgoR265312RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-product-engineer-product-development-2-locations"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Automation Cell Culture Biologist",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
-    "job_posted_at": "1d",
-    "job_description": "• ServiceNow Developerlocations2 Locationsposted onPosted 30+ Days Ago40364Quality Assurance System TesterlocationsUS - Remote (Any location)posted onPosted 18 Days Ago42689Technical SETA SME – Machine Learning, Modeling & SimulationlocationsUS - MD, Bethesdaposted onPosted 30+ Days Ago38258Technical SETA SME – Artificial IntelligencelocationsUS - MD, Bethesdaposted onPosted 14 Days Ago43385Technical SETA SME – Natural Language Processing (NLP)locationsUS - MD, Bethesdaposted onPosted 9 Days Ago43668ServiceNow DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago40361Data AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39905Data Analytics ConsultantlocationsUS - DC, Washingtonposted onPosted 10 Days Ago43249Technical SETA SME – AI SecuritylocationsUS - MD, Bethesdaposted onPosted 9 Days Ago43710Data ScientistlocationsUS - VA, Arlingtonposted onPosted 7 Days Ago43790Operations Research AnalystlocationsUS - AL, Huntsvilleposted onPosted 30+ Days Ago39904Laboratory TechnicianlocationsUS - MD, Rockvilleposted onPosted 30+ Days Ago41265Construction Project Manager - Senior LevellocationsUS - DC, Washingtonposted onPosted 30+ Days Ago40140Construction Project Manager - Senior LevellocationsUS - DC, Washingtonposted onPosted 18 Days Ago42951Technical Project ManagerlocationsUS - VA, McLeanposted onPosted 16 Days Ago42484Automation Cell Culture BiologistlocationsUS - MD, Bethesdaposted onPosted Yesterday43967Construction Cost EstimatorlocationsUS - AL, Huntsvilleposted onPosted 24 Days Ago40155Project SchedulerlocationsUS - AL, Huntsvilleposted onPosted 24 Days Ago40154Program Master SchedulerlocationsUS - AL, Huntsvilleposted onPosted 18 Days Ago42924Databricks Solution ArchitectlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago42294.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Automation-Cell-Culture-Biologist_43967?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-automation-cell-culture-biologist-us-md"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Development Tools Software Arch",
+    "employer_name": "Analog Devices",
+    "job_title": "Etch/BE-Cleans Process Engineering Technician (Nights)",
     "job_city": "US",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• AI Software Engineering InternlocationsUS, Arizona, Phoenixposted onPosted 30 Days AgoJR0282641Software Engineering Leaderlocations5 Locationsposted onPosted 30+ Days AgoJR0285371System Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 30 Days AgoJR0285035System Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 30 Days AgoJR0285033System Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30 Days AgoJR0285048Senior Software EngineerlocationsUS, Arizona, Phoenixposted onPosted 24 Days AgoJR0286219EDA Tools Software Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0280762Development Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 30 Days AgoJR0285054EDA Tools Software EngineerlocationsUS, Oregon, Hillsboroposted onPosted 2 Days AgoJR0286599Senior EDA Tools Software EngineerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0286396Design Automation & DevOps Software EngineerlocationsUS, Texas, Austinposted onPosted 10 Days AgoJR0286395Senior GPU Performance Software Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0286580Sr.\n• AI Software Engineer - Agent Harnesslocations4 Locationsposted onPosted 14 Days AgoJR0285965AI Systems Software Engineer - Neuromorphic ComputinglocationsUS, Oregon, Hillsboroposted onPosted 11 Days AgoJR0286514Senior Middleware Software Development Engineerlocations2 Locationsposted onPosted 14 Days AgoSpotlight JobJR0286296Software Development Engineer - Intel Contract Employeelocations3 Locationsposted onPosted TodayJR0284449Development Tools Software ArchlocationsUS, California, Santa Claraposted onPosted TodayJR0286046Software Application Development Engineerlocations2 Locationsposted onPosted TodayJR0282062Operations Research Engineerlocations3 Locationsposted onPosted 3 Days AgoJR0284429Operations Research EngineerlocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0286351.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Development-Tools-Software-Arch_JR0286046?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-development-tools-software-arch-us"
+    "job_state": "OR",
+    "job_posted_at": "4w",
+    "job_description": "• Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 7 Days AgoR265312RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Etch-BE-Cleans-Process-Engineering-Technician--Nights-_R264349?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-etch-be-cleans-process-engineering-technician-nights-us"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Metrology Engineering Technican",
+    "employer_name": "Analog Devices",
+    "job_title": "Diff/Wet Process Engineering Technician (Nights)",
     "job_city": "US",
-    "job_state": "Arizona",
-    "job_posted_at": "1d",
-    "job_description": "• Advanced Packaging Reliability Lab EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0285579Packaging Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 10 Days AgoJR0286444Module Development Engineer - RF TestlocationsUS, Arizona, Phoenixposted onPosted 10 Days AgoJR0286275Module Development Engineer - RF TestlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0284605Metrology Engineering TechnicanlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0286742Senior Customer Technical Enablement and Debug Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0283906LTD Product Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 25 Days AgoJR0285679Silicon Product EngineerlocationsUS, California, Folsomposted onPosted 30 Days AgoJR0285037Silicon Product EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30 Days AgoJR0285046Silicon Product EngineerlocationsUS, Texas, Austinposted onPosted 30 Days AgoJR0284977Advanced Packaging Senior Yield AnalysislocationsUS, New Mexico, Albuquerqueposted onPosted 25 Days AgoJR0285901Senior Ethernet Product Managerlocations3 Locationsposted onPosted 11 Days AgoJR0286178Principal Engineer-TD Foundry Engineeringlocations5 Locationsposted onPosted 3 Days AgoJR0286611Intel Foundry LTD Yield Development Engineerlocations2 Locationsposted onPosted 25 Days AgoJR0285676TEM TechnicianlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0286597Process Integration Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 7 Days AgoJR0286468Process Integration Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 7 Days AgoJR0286476Package Failure Analysis EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0286612Ocotillo Technology Fabrication Yield Device Integration EngineerlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0285563Substrate Packaging Defect Metro Tool OwnerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0286528.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Metrology-Engineering-Technican_JR0286742?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-metrology-engineering-technican-us"
+    "job_state": "OR",
+    "job_posted_at": "2w",
+    "job_description": "• Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 7 Days AgoR265312RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Diff-Wet-Process-Engineering-Technician--Nights-_R264347?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-diff-wet-process-engineering-technician-nights-us"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Welding Engineer - C Shift",
-    "job_city": "Liberty",
-    "job_state": "Missouri",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Packaging EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00239101Sr Tooling Engineerlocations3 Locationsposted onPosted 30+ Days AgoR00247897Magna Engineered Glass: Senior Design Engineer (DE 3)locationsHolland, Michigan, USposted onPosted 30+ Days AgoR00242281Integrated Lighting Systems EngineerlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00253240Principal Engineer - System ArchitectlocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00233478Senior Systems Test EngineerlocationsLowell, Massachusetts, USposted onPosted 14 Days AgoR00256224Team Lead - Systems EngineerlocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00252233Applications Engineer- L2 Supportlocations2 Locationsposted onPosted 3 Days AgoR00257542Highland Park Quality EngineerlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00223181Student Intern - Engineering-1locationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00240865Controls Engineer (2nd Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00247267Controls Engineer (1st Shift)locationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00247266CAD/FEA Engineer ClosureslocationsTroy, Michigan, USposted onPosted 18 Days AgoR00256052CAD/FEA Engineer StructureslocationsTroy, Michigan, USposted onPosted 17 Days AgoR00256070Welding Engineer - C ShiftlocationsLiberty, Missouri, USposted onPosted TodayR00259110Engineer Sr - EMC TestlocationsAuburn Hills, Michigan, USposted onPosted 7 Days AgoR00247157R&D- Computer Vision Engineering InternlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00253444Data Engineer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00229142Magna Engineered Glass: AR SpecialistlocationsHolland, Michigan, USposted onPosted 30+ Days AgoR00248301Senior Engineer – Autonomous Mobile Robots (AMR)locationsLowell, Massachusetts, USposted onPosted 14 Days AgoR00255006.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Liberty-Missouri-US/Welding-Engineer---C-Shift_R00259110?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-welding-engineer-c-shift-liberty"
+    "employer_name": "Analog Devices",
+    "job_title": "Process Sustaining Engineering Technician (Tech 3)",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "1w",
+    "job_description": "• Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 7 Days AgoR265312RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/R14983-Tech-3--Process-Sustaining-Engineering-15_R264407?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-process-sustaining-engineering-technician-tech-3-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Associate Mixed Signal Design Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Photonics Systems & Characterization EngineerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR2639982nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 28 Days AgoR264405Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 7 Days AgoR265304Etch/BE-Cleans Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 29 Days AgoR264349Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 18 Days AgoR264347Process Sustaining Engineering Technician (Tech 3)locationsUS, OR, Beavertonposted onPosted 10 Days AgoR264407Staff Power Applications Engineer (Data Center)locationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR264722Lead Engineer, Systems Applications – Power Solutionslocations5 Locationsposted onPosted YesterdayR265321Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 9 Days AgoR258532Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Principal Engineer, Product Marketing ManagerlocationsUS, MA, Wilmingtonposted onPosted 30 Days AgoR263258Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 7 Days AgoR265312RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Senior Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 9 Days AgoR264481Staff Design Verification Engineer (AI/ML)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263414Sr Engineer, Failure Analysis Engg (Manufacturing/Quality)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263791Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR264205.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-associate-mixed-signal-design-engineer-2-locations"
   },
   {
     "employer_name": "AMD",
@@ -931,12 +751,22 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Location Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045447/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-location-phoenix"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Available in one of 52 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
     "id": "abb-data-center-coe-field-service-technician-available-in-one-of-52-locations"
   },
   {
@@ -951,63 +781,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Available in one of 183 locations",
-    "job_state": "US",
+    "job_title": "Physical AI Robotics Simulation Intern- Fall",
+    "job_city": "Location Milpitas",
+    "job_state": "California",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044848/Physical-AI-Robotics-Simulation-Intern-Fall-2026",
+    "id": "abb-physical-ai-robotics-simulation-intern-fall-location-milpitas"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
+    "job_title": "AI Robotics UI/UX Intern- Fall",
+    "job_city": "Location Milpitas",
+    "job_state": "California",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Engineer",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
-    "id": "abb-product-engineer-location-memphis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AMR Layout Design Engineer",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035582/AMR-Layout-Design-Engineer",
-    "id": "abb-amr-layout-design-engineer-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-location-cleveland"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044847/AI-Robotics-UI-UX-Intern-Fall-2026",
+    "id": "abb-ai-robotics-ui-ux-intern-fall-location-milpitas"
   },
   {
     "employer_name": "ABB",
@@ -1041,6 +831,56 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Product Engineer",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043064/Product-Engineer",
+    "id": "abb-product-engineer-location-memphis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AMR Layout Design Engineer",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035582/AMR-Layout-Design-Engineer",
+    "id": "abb-amr-layout-design-engineer-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024853/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-location-cleveland"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Engineer - MV Switchgear",
     "job_city": "Location Mebane",
     "job_state": "North Carolina",
@@ -1056,7 +896,7 @@
     "job_state": "North Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040889/Associate-Project-Engineer",
     "id": "abb-associate-project-engineer-location-mebane"
   },
   {
@@ -1081,46 +921,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Location Hackettstown",
-    "job_state": "New Jersey",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039939/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-location-hackettstown"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Physical AI Robotics Simulation Intern- Fall",
-    "job_city": "Location Milpitas",
-    "job_state": "California",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044848/Physical-AI-Robotics-Simulation-Intern-Fall-2026",
-    "id": "abb-physical-ai-robotics-simulation-intern-fall-location-milpitas"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Robotics UI/UX Intern- Fall",
-    "job_city": "Location Milpitas",
-    "job_state": "California",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044847/AI-Robotics-UI-UX-Intern-Fall-2026",
-    "id": "abb-ai-robotics-ui-ux-intern-fall-location-milpitas"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 - 100%) Software Developer (.NET Desktop Applications)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -1140,44 +940,44 @@
     "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Development Engineer, File Systems",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsC/C++ programming skillsUnderstanding of storage specific data structures, operating systems internals, storage performance evaluationGenuine passion for file systems technology, data security, privacy, and strong commitment towards developing testability, reliabilityBachelors in Computer Science/Electrical Engineering.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200680651-0836/software-development-engineer-file-systems?team=SFTWR",
-    "id": "apple-software-development-engineer-file-systems-cupertino"
+    "employer_name": "ABB",
+    "job_title": "Robotics Validation Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040696/Robotics-Validation-Engineer",
+    "id": "abb-robotics-validation-engineer-location-sant-quirze-del-valles"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineering",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
-    "job_posted_at": "1d",
-    "job_description": "• You can keep the corporate title market if needed.\n• Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering In our Software Engineering Group, we look for people who are having strong Java Technology experience and passionate around solving business problems through innovation and engineering practices Lead Software Engineer - Java Full Stack Mumbai, Maharashtra, India TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n• Senior Lead Software Engineer - Trading System New York, NY, United States TechnologySoftware Engineering Hands-on Senior Lead Software Engineer within Securitized Product Group Technology Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Director of Software Engineering - Regulatory Capital, Data and Experience Bengaluru, Karnataka, India TechnologySoftware Engineering Lead innovation and deliver solutions as a Director of Software Engineering and primary decision maker for your teams.\n• Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer- Platform with AWS Plano, TX, United States TechnologySoftware Engineering Lead Software Engineer - Artifactory/Kuberns/Java/Springboot/AWS Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.\n• You’ll have the opportunity to influence engineering practices, drive impactful projects, and grow your leadership skills.\n• You’ll build AI solutions using LLMs and agentic patterns, develop robust APIs and microservices, and apply strong programming skills in Python along with solid database/SQL expertise.\n• Java / AWS Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer strong with Java and AWS Software Engineer III - Scala Engineer Jersey City, NJ, United States TechnologySoftware Engineering Design and develop secure, scalable software, troubleshoot key components, and grow your career as an experienced software engineer.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785778/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineering-jersey-city"
+    "employer_name": "ABB",
+    "job_title": "Robotics Calibration Software Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037580/Robotics-Calibration-Software-Engineer",
+    "id": "abb-robotics-calibration-software-engineer-location-sant-quirze-del-valles"
   },
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "Test Engineer - BMP",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• (3) Dallas, North Campus - South Bldg (2) Dallas, North Campus - Kilby East (2) Categories 0 Manufacturing (31) Engineering - Product Dev (30) Information Technology (7) Sales (1) Experience Level 0 Experienced Professional (63) Recent College Grads (5) Interns (1) Work Locations 0 Dallas, South Campus (21) Richardson, Richardson Fab, Renner Rd (12) Lehi, Lehi, UT (8) Dallas, North Campus - DMOS V South (6) Dallas, North Campus - DMOS V North (5) Dallas, North Campus - DMOS 6 (4) Sherman, Sherman - SM1 Fab (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• (3) Dallas, North Campus - South Bldg (2) Dallas, North Campus - Kilby East (2) Categories 0 Manufacturing (31) Engineering - Product Dev (30) Information Technology (7) Sales (1) Experience Level 0 Experienced Professional (63) Recent College Grads (5) Interns (1) Work with design team to understand design specifications Generate test plan, create test and char program, design ATE hardware interface boards Debug characterizing silicon on ATE, correlate results with bench data Analyze silicon results, supporting failure analysis tasks Perform statistical analysis of yield fallout, debug and fix yield issues.\n• Optimize test time Work with production team to release products to volume production •Test strategy definition and implementation for new battery products ATE (Automatic Test Equipment) test hardware and software Silicon qualification& characterization including qual hardware development Comprehensive device debugging, design validation and failure analysis Drive for robust and cost effective test solutions while being accountable for product quality Bachelor's degree in Electrical Engineering3+ years of relevant experienceATE experience on Teradyne Eagle or equivalent analog ATE (iFlex, LTX, VLCT), although Eagle experience is preferred and is a differentiatorCharacterization test program and hardware development experience, Production test program and hardware development experienceStrong technical knowledge of electronic devices and circuits, and Analog test techniquesData analysis skills using Spotfire, dataPower or equivalent tool based on STDFExperienced with various lab equipment such as scopes, power supplies, sourcemeters, loads etc.\n• Experience with product engineering activities such as yield improvement and test time reductionStrong understanding of the IC product development process, from concept to volume production Mixed signal test techniques and experience with developing mixed-signal tests on TI roadmap testersExperienced with test program and hardware offload to TI offshore manufacturing sitesProficiency in programming/scripting in C++, Python, C#Revision control tools experience : Subversion, GitDemonstrated strong analytical and problem solving skillsStrong verbal and written communication skillsAbility to work in teams and collaborate effectively with people in different functionsStrong time management skills that enable on-time project deliveryDemonstrated ability to build strong, influential relationshipsAbility to work effectively in a fast-paced and rapidly changing environmentAbility to take the initiative and drive for results Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Job Identification 25017443 Job Category Engineering - Product Dev Posting Date 08/28/2026, 07:32 PM Degree Level Bachelor's Degree Locations FORE 12500 T I Blvd, Dallas, TX, 75243, US ECL/GTC Required Yes Experienced Professional (63) Recent College Grads (5) Interns (1) Experienced Professional (63) Recent College Grads (5) Interns (1).\n• Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Benefits at TI Our culture Locations North America Europe Asia Pacific Jobs 69 Job search results 69 Events 0 Work Locations 0 Dallas, South Campus (21) Richardson, Richardson Fab, Renner Rd (12) Lehi, Lehi, UT (8) Dallas, North Campus - DMOS V South (6) Dallas, North Campus - DMOS V North (5) Dallas, North Campus - DMOS 6 (4) Sherman, Sherman - SM1 Fab (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• We empower our employees to truly own their career and development.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25017443/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-test-engineer-bmp-dallas"
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer Firmware (80 -100%)",
+    "job_city": "Location Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043136/R-D-Engineer-Firmware-80-100",
+    "id": "abb-r-d-engineer-firmware-80-100-location-quartino"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "3w",
-    "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
-    "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
+    "employer_name": "ABB",
+    "job_title": "Software Engineer for Digital Data Exchange (m/f/d)",
+    "job_city": "Location Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040571/Software-Engineer-for-Digital-Data-Exchange-m-f-d",
+    "id": "abb-software-engineer-for-digital-data-exchange-m-f-d-location-mannheim"
   },
   {
     "employer_name": "Amazon",
@@ -1198,6 +998,16 @@
     "job_description": "software engineering job for the role Software Development Engineer, AWS Hardware Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10515096/software-development-engineer-aws-hardware-engineering",
     "id": "amazon-software-development-engineer-aws-hardware-engineering-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer - MSE, Manufacturing Systems Engineering",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "3w",
+    "job_description": "software engineering job for the role Software Engineer - MSE, Manufacturing Systems Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
+    "id": "amazon-software-engineer-mse-manufacturing-systems-engineering-redmond"
   },
   {
     "employer_name": "Amazon",
@@ -1251,16 +1061,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Managed Operations, COMET Development Team",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2w",
-    "job_description": "software engineering job for the role Software Development Engineer II, Managed Operations, COMET Development Team",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10501301/software-development-engineer-ii-managed-operations-comet-development-team",
-    "id": "amazon-software-development-engineer-ii-managed-operations-comet-development-team-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Engineer, DynamoDB Performance",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -1278,6 +1078,16 @@
     "job_description": "software engineering job for the role SDE II, AWS Field Experience",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10503184/sde-ii-aws-field-experience",
     "id": "amazon-sde-ii-aws-field-experience-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer II, Managed Operations, COMET Development Team",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2w",
+    "job_description": "software engineering job for the role Software Development Engineer II, Managed Operations, COMET Development Team",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10501301/software-development-engineer-ii-managed-operations-comet-development-team",
+    "id": "amazon-software-development-engineer-ii-managed-operations-comet-development-team-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -1361,16 +1171,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "AI/ML Engineer, Amazon Global Data Center Ops Central Insight and Analytics Team",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "4d",
-    "job_description": "software engineering job for the role AI/ML Engineer, Amazon Global Data Center Ops Central Insight and Analytics Team",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10513234/ai-ml-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team",
-    "id": "amazon-ai-ml-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer II, AWS Catalog - Sagemaker Lakehouse",
     "job_city": "East Palo Alto",
     "job_state": "CA",
@@ -1378,6 +1178,16 @@
     "job_description": "software engineering job for the role Software Development Engineer II, AWS Catalog - Sagemaker Lakehouse",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10488870/software-development-engineer-ii-aws-catalog-sagemaker-lakehouse",
     "id": "amazon-software-development-engineer-ii-aws-catalog-sagemaker-lakehouse-east-palo-alto"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "AI/ML Engineer, Amazon Global Data Center Ops Central Insight and Analytics Team",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "4d",
+    "job_description": "software engineering job for the role AI/ML Engineer, Amazon Global Data Center Ops Central Insight and Analytics Team",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10513234/ai-ml-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team",
+    "id": "amazon-ai-ml-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team-seattle"
   },
   {
     "employer_name": "Amazon",
