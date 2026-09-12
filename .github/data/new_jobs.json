@@ -561,16 +561,6 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum Qualifications2 or more years of industry experience building scalable micro services or data driven platformsStrong computer science fundamentalsPrior experience with OOPS programming (eg.\n• G AWS or GCP )Expertise in building backend distributed systemsExperience with creating solutions using public cloud technologies and APIsStrong understanding of Micro-service design and high-scale performance tuningExpertise in relational and non relational datastoreProficiency in data processing technologies (e.\n• G Kafka, Spark, Flink )Strong problem solving and debugging skillsA desire to work in a fast-paced work environmentBachelor's degree in Computer Science/Engineering discipline or equivalent.\n• , Java/C++ or equivalent)Familiarity with cloud paradigms ( e.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200679992-0157/software-engineer?team=SFTWR",
-    "id": "apple-software-engineer-austin"
-  },
-  {
-    "employer_name": "Apple",
     "job_title": "Bluetooth Software Engineer",
     "job_city": "",
     "job_state": "US",
@@ -711,16 +701,6 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Development Engineer - Test",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBS in Computer Science or relatedExperience in software or application testing with Python and test automation experienceExperience collaborating with cross-functional teams, guaranteeing complete test coverage.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200680221-3956/software-development-engineer-test?team=HRDWR",
-    "id": "apple-software-development-engineer-test-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
     "job_title": "Software Engineer, Apple Gift Systems",
     "job_city": "San Diego",
     "job_state": "US",
@@ -728,6 +708,16 @@
     "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science or Software Engineering, or equivalent practical experience5+ years of professional backend software engineering experienceExperience architecting, building, and operating mission-critical distributed systems at large scale.\n• Experience using generative AI tools throughout the software development lifecycle to produce high-quality software.\n• The ability to reason about distributed systems trade-offs across consistency, latency, and throughput, and to defend the choices you make.\n• A commitment to engineering excellence, continuous improvement, and the curiosity to evaluate and advocate for new technologies and patterns.\n• An ability to communicate thoughtfully and clearly, both verbally and in writing, to drive consensus on complex technical concepts with diverse audiences, including global teams and external partners.\n• A track record of building and sustaining healthy long-term relationships and technical influence within your team and beyond its boundaries.\n• The tenacity and perseverance to lead complex projects all the way from conception to production.\n• Able to work with cross-functional partners to define product objectives.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200681330-3543/software-engineer-apple-gift-systems?team=SFTWR",
     "id": "apple-software-engineer-apple-gift-systems-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Analog Mixed-Signal Modeling Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBachelors of Science in Electrical Engineering or equivalent.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200679716-0836/analog-mixed-signal-modeling-software-engineer?team=HRDWR",
+    "id": "apple-analog-mixed-signal-modeling-software-engineer-cupertino"
   },
   {
     "employer_name": "Amazon",
@@ -971,16 +961,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Engineer II - AI/ML, AWS Neuron",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Engineer II - AI/ML, AWS Neuron",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10522799/software-engineer-ii-ai-ml-aws-neuron",
-    "id": "amazon-software-engineer-ii-ai-ml-aws-neuron-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Data Engineer, PXT Central Science",
     "job_city": "Arlington",
     "job_state": "VA",
@@ -988,6 +968,16 @@
     "job_description": "software engineering job for the role Data Engineer, PXT Central Science",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10521258/data-engineer-pxt-central-science",
     "id": "amazon-data-engineer-pxt-central-science-arlington"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer II - AI/ML, AWS Neuron",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Engineer II - AI/ML, AWS Neuron",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10522799/software-engineer-ii-ai-ml-aws-neuron",
+    "id": "amazon-software-engineer-ii-ai-ml-aws-neuron-seattle"
   },
   {
     "employer_name": "Amazon",
