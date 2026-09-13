@@ -261,16 +261,6 @@
   },
   {
     "employer_name": "AMD",
-    "job_title": "Validation Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Strong proven experience of Databases/BI Tools like SQL and No-SQL, Looker, PowerBI, Sigma, Excel, etc.\n• Experience with process Flow – GitHub, Nifi, ADF, Azure DevOps, Snowflake ELT, etc.\n• Knowledge of SCADA – automation systems, test device endpoint control, & API experience preferred AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• Expertise in languages: SQL, JSON, PythonStrong knowledge of languages:.\n• Net, Java, JavaScript, C#, XML, etc.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/85803/login",
-    "id": "amd-validation-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
     "job_title": "Solution Validation Engineer--FPGA/SoC",
     "job_city": "US",
     "job_state": "CA",
@@ -278,6 +268,16 @@
     "job_description": "• Support the boards team with the bench setup and scripts needed to complete bring-up and board validation Post-Si Validation: Run post-silicon validation and debug the interactions between embedded software, hard & soft IPs, and the FPGA fabric.\n• 8+ years of hands-on FPGA designs.\n• Experience designing high-reliability, low-latency/high-throughput, deterministic, real-time systems.\n• Hands-on experience with AMD/Xilinx embedded Linux flows: building and customizing images with Yocto-based Embedded Design Flow (BSPs, device trees, custom recipes/layers).\n• Excellent hardware debug skills with ILA, oscilloscopes, and logic analyzers, including custom board bring-up.\n• Proven board bring-up and validation experience, taking a new board from power-on, boot and interface bring-up and debugging clocking, reset, and hardware issues on the bench.\n• Experience with high-speed interfaces: PCIe, Ethernet, DDR5/6, SerDes, UFS and others such as SPI, I²C, and UART.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/91636/login",
     "id": "amd-solution-validation-engineer-fpga-soc-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Validation Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Strong proven experience of Databases/BI Tools like SQL and No-SQL, Looker, PowerBI, Sigma, Excel, etc.\n• Experience with process Flow – GitHub, Nifi, ADF, Azure DevOps, Snowflake ELT, etc.\n• Knowledge of SCADA – automation systems, test device endpoint control, & API experience preferred AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• Expertise in languages: SQL, JSON, PythonStrong knowledge of languages:.\n• Net, Java, JavaScript, C#, XML, etc.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85803/login",
+    "id": "amd-validation-engineer-us"
   },
   {
     "employer_name": "AMD",
@@ -572,16 +572,6 @@
   {
     "employer_name": "Apple",
     "job_title": "Bluetooth Software Engineer",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Computer Science, Computer Engineering, Electrical Engineering or related field.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200683007-3401/bluetooth-software-engineer?team=SFTWR",
-    "id": "apple-bluetooth-software-engineer-"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Bluetooth Software Engineer",
     "job_city": "Cupertino",
     "job_state": "US",
     "job_posted_at": "2d",
@@ -591,13 +581,13 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Development Engineer",
-    "job_city": "Sunnyvale",
+    "job_title": "Bluetooth Software Engineer",
+    "job_city": "",
     "job_state": "US",
-    "job_posted_at": "5d",
-    "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science, Engineering, Informatics, or equivalent with relevant proven experience with biomedical, health, or sensitive data.\n• 3+ years of software engineering experienceStrong software development skills, with proficiency in PythonExperience integrating LLM-based functionality (e.\n• , OpenAI, Anthropic APIs) into production web tools to create richer, smoother user experiencesExperience leveraging LLMs in a closed-loop development workflow — from planning and architecture, to design review, to implementation, to generating pull requests, to deployment.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200680250-3956/software-development-engineer?team=HRDWR",
-    "id": "apple-software-development-engineer-sunnyvale"
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Computer Science, Computer Engineering, Electrical Engineering or related field.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200683007-3401/bluetooth-software-engineer?team=SFTWR",
+    "id": "apple-bluetooth-software-engineer-"
   },
   {
     "employer_name": "Apple",
@@ -621,36 +611,6 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer - Automation",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBachelor’s degree in computer science or equivalent.\n• Experience in debugging software issues using interactive debuggers (Xcode/IntelliJ) for client/server applications.\n• Experience with Continuous Integration and Deployment (CI/CD) pipelines.\n• Experience with code versioning tools such as Git.\n• Strong knowledge in designing and developing software frameworks using Python.\n• Strong knowledge and understanding of data structures, algorithms, design patterns, concurrency, multi-threading and scalability.\n• Ability to work in a fast-paced, collaborative environment and communicate effectively with cross-functional teams.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200680284-0836/software-engineer-automation?team=HRDWR",
-    "id": "apple-software-engineer-automation-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Apple Ads",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "4d",
-    "job_description": "• Minimum QualificationsBachelor's degree or equivalent.\n• Solid grasp of OS fundamentals (processes/threads, memory, scheduling, file systems), on any platformProfessional or academic-project experience in a C-like language (Swift, Obj-C, Java, C++, C#, Go, Rust, etc.\n• )Working understanding of concurrency basics (threads, shared state, why locking is needed)Solid data structures & algorithms.\n• Can reason about time/space complexityEagerness to learn, collaborate, take feedback.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200682706-0157/software-engineer-apple-ads?team=SFTWR",
-    "id": "apple-software-engineer-apple-ads-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Applied ML",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "5d",
-    "job_description": "• Minimum QualificationsMachine Learning algorithms: Strong grasp of supervised/unsupervised learning, regression, classification, clustering, and model evaluation techniques.\n• Data processing: Skilled in working with large, noisy datasets.\n• Experience with libraries like NumPy, pandas, scikit-learn, and PyTorch or TensorFlow.\n• Hands-on experience with applied probability, statistics, and empirical and/or ML algorithms.\n• Bachelor’s or graduate degree in Computer Science, Computer Engineering, Mathematics, or a related field.\n• Classical estimation, signal processing, and/or training supervised ML models are relevant.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200682462-0836/software-engineer-applied-ml?team=SFTWR",
-    "id": "apple-software-engineer-applied-ml-cupertino"
-  },
-  {
-    "employer_name": "Apple",
     "job_title": "Backend Software Engineer (Golang)",
     "job_city": "San Diego",
     "job_state": "US",
@@ -658,26 +618,6 @@
     "job_description": "• Minimum QualificationsBachelors degree in Engineering (CS or CE)3 years of experience in software engineering.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200676254-3543/backend-software-engineer-golang?team=SFTWR",
     "id": "apple-backend-software-engineer-golang-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Graphics Verification Software Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBS Required.\n• Experience in verifying hardware at system or component levelExperience programming with one or more of the following languages: C/C++, Perl, Ruby, Python.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200680151-0157/graphics-verification-software-engineer?team=HRDWR",
-    "id": "apple-graphics-verification-software-engineer-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Camera Embedded Software Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBS and a minimum of 10 years relevant industry experience10+ years of embedded software development experienceProficiency in C/C++Proficiency in development of multi-thread software within embedded RTOS system.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200675156-0836/camera-embedded-software-engineer?team=HRDWR",
-    "id": "apple-camera-embedded-software-engineer-cupertino"
   },
   {
     "employer_name": "Apple",
@@ -691,6 +631,46 @@
   },
   {
     "employer_name": "Apple",
+    "job_title": "Software Engineer, Apple Ads",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "4d",
+    "job_description": "• Minimum QualificationsBachelor's degree or equivalent.\n• Solid grasp of OS fundamentals (processes/threads, memory, scheduling, file systems), on any platformProfessional or academic-project experience in a C-like language (Swift, Obj-C, Java, C++, C#, Go, Rust, etc.\n• )Working understanding of concurrency basics (threads, shared state, why locking is needed)Solid data structures & algorithms.\n• Can reason about time/space complexityEagerness to learn, collaborate, take feedback.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200682706-0157/software-engineer-apple-ads?team=SFTWR",
+    "id": "apple-software-engineer-apple-ads-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Graphics Verification Software Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBS Required.\n• Experience in verifying hardware at system or component levelExperience programming with one or more of the following languages: C/C++, Perl, Ruby, Python.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200680151-0157/graphics-verification-software-engineer?team=HRDWR",
+    "id": "apple-graphics-verification-software-engineer-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Automation",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBachelor’s degree in computer science or equivalent.\n• Experience in debugging software issues using interactive debuggers (Xcode/IntelliJ) for client/server applications.\n• Experience with Continuous Integration and Deployment (CI/CD) pipelines.\n• Experience with code versioning tools such as Git.\n• Strong knowledge in designing and developing software frameworks using Python.\n• Strong knowledge and understanding of data structures, algorithms, design patterns, concurrency, multi-threading and scalability.\n• Ability to work in a fast-paced, collaborative environment and communicate effectively with cross-functional teams.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200680284-0836/software-engineer-automation?team=HRDWR",
+    "id": "apple-software-engineer-automation-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Camera Embedded Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBS and a minimum of 10 years relevant industry experience10+ years of embedded software development experienceProficiency in C/C++Proficiency in development of multi-thread software within embedded RTOS system.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200675156-0836/camera-embedded-software-engineer?team=HRDWR",
+    "id": "apple-camera-embedded-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
     "job_title": "Software Engineer, App Store",
     "job_city": "Cupertino",
     "job_state": "US",
@@ -701,23 +681,13 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer, Apple Ads",
+    "job_title": "Software Engineer, Applied ML",
     "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "4d",
-    "job_description": "• Minimum QualificationsBachelor's degree or equivalent.\n• Solid grasp of OS fundamentals (processes/threads, memory, scheduling, file systems), on any platformProfessional or academic-project experience in a C-like language (Swift, Obj-C, Java, C++, C#, Go, Rust, etc.\n• )Working understanding of concurrency basics (threads, shared state, why locking is needed)Solid data structures & algorithms.\n• Can reason about time/space complexityEagerness to learn, collaborate, take feedback.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200682685-0836/software-engineer-apple-ads?team=SFTWR",
-    "id": "apple-software-engineer-apple-ads-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Applied AI/ML Software Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum QualificationsBachelor’s Degree in Computer Science, Computer Engineering, related field, or equivalent work experience3+ years professional software engineering experience working in Python or other object-oriented programming language(s)Demonstrated ability to write applications in a high-level programming language like Python, Ruby, Java, etc.\n• Excellent written and verbal communication skills to both technical and non-technical audiences.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200682044-3543/applied-ai-ml-software-engineer?team=MLAI",
-    "id": "apple-applied-ai-ml-software-engineer-san-diego"
+    "job_posted_at": "5d",
+    "job_description": "• Minimum QualificationsMachine Learning algorithms: Strong grasp of supervised/unsupervised learning, regression, classification, clustering, and model evaluation techniques.\n• Data processing: Skilled in working with large, noisy datasets.\n• Experience with libraries like NumPy, pandas, scikit-learn, and PyTorch or TensorFlow.\n• Hands-on experience with applied probability, statistics, and empirical and/or ML algorithms.\n• Bachelor’s or graduate degree in Computer Science, Computer Engineering, Mathematics, or a related field.\n• Classical estimation, signal processing, and/or training supervised ML models are relevant.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200682462-0836/software-engineer-applied-ml?team=SFTWR",
+    "id": "apple-software-engineer-applied-ml-cupertino"
   },
   {
     "employer_name": "Apple",
@@ -731,13 +701,23 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer, Apple Gift Systems",
-    "job_city": "San Diego",
+    "job_title": "Analog Mixed-Signal Modeling Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBachelors of Science in Electrical Engineering or equivalent.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200679716-0836/analog-mixed-signal-modeling-software-engineer?team=HRDWR",
+    "id": "apple-analog-mixed-signal-modeling-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer - Test",
+    "job_city": "Cambridge",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science or Software Engineering, or equivalent practical experience5+ years of professional backend software engineering experienceExperience architecting, building, and operating mission-critical distributed systems at large scale.\n• Experience using generative AI tools throughout the software development lifecycle to produce high-quality software.\n• The ability to reason about distributed systems trade-offs across consistency, latency, and throughput, and to defend the choices you make.\n• A commitment to engineering excellence, continuous improvement, and the curiosity to evaluate and advocate for new technologies and patterns.\n• An ability to communicate thoughtfully and clearly, both verbally and in writing, to drive consensus on complex technical concepts with diverse audiences, including global teams and external partners.\n• A track record of building and sustaining healthy long-term relationships and technical influence within your team and beyond its boundaries.\n• The tenacity and perseverance to lead complex projects all the way from conception to production.\n• Able to work with cross-functional partners to define product objectives.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200681330-3543/software-engineer-apple-gift-systems?team=SFTWR",
-    "id": "apple-software-engineer-apple-gift-systems-san-diego"
+    "job_description": "• Minimum Qualifications5+ years of industry experience as a software developer, with a track record of delivering production-quality tooling or infrastructure.\n• 3+ years of Python development, including object-oriented design, class hierarchies, and writing maintainable, scalable Python codebases.\n• Proficiency in at least one additional programming language (Scala or Swift strongly preferred) with 3+ years of hands-on use.\n• Experience working with CI/CD systems and adjacent tools such as Jenkins, including pipeline configuration and maintenance.\n• Demonstrated ability to gather complex, cross-functional requirements and author thorough technical specifications.\n• Hands-on experience leveraging AI tools and techniques to deliver high-quality software.\n• Excellent communication and interpersonal skills, with proven ability to collaborate effectively in cross-functional environments and deliver solutions that serve multiple stakeholders.\n• Bachelor's degree in CS, Engineering, or a related field, or we may consider an equivalent industry experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200681743-1242/software-development-engineer-test?team=SFTWR",
+    "id": "apple-software-development-engineer-test-cambridge"
   },
   {
     "employer_name": "Amazon",
