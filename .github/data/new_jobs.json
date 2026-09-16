@@ -1,35 +1,5 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "New College Grad - Operations Improvement Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "1w",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Purpose for Which It Is Used: The Eightfold AI recruiting software is used to: (a) identify skills from your resume and career history.\n• (b) match your qualifications against role requirements.\n• The Platform will use AI to inform the human recruiter of skills you may have that are not listed on your resume, based on your career history and work experience listed in your resume or other application materials.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-new-college-grad-operations-improvement-engineer-boise"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - Firmware Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "20h",
-    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
-    "job_apply_link": "https://careers.micron.com/careers/job/44452952",
-    "id": "micron-technology-intern-firmware-engineer-longmont"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Outside Plant Engineer",
-    "job_city": "Silver Spring",
-    "job_state": "Maryland",
-    "job_posted_at": "1d",
-    "job_description": "• Outside Plant EngineerlocationsSilver Spring, Marylandtime typeFull timeposted onPosted TodayR-1100792Engr III Spec-AI/ML Engringlocations2 Locationstime typeFull timeposted onPosted TodayR-1100852Distinguished Engineer - AI/ML Engineeringlocations3 Locationstime typeFull timeposted onPosted YesterdayR-1100909AVP - Mobile Device PortfoliolocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted YesterdayR-1100853Senior Technical Product Manager – AI & Network Infrastructurelocations9 Locationstime typeFull timeposted onPosted YesterdayR-1100824Associate Director-Software DevelopmentlocationsAlpharetta, Georgiatime typeFull timeposted onPosted YesterdayR-1100903Network Threat Hunterlocations4 Locationstime typeFull timeposted onPosted 4 Days AgoR-1100796Outside Plant Engineerlocations3 Locationstime typeFull timeposted onPosted 5 Days AgoR-1095161Outside Plant Engineerlocations3 Locationstime typeFull timeposted onPosted 5 Days AgoR-1095163Principal Engineer – SRElocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 6 Days AgoR-1100700Senior Infrastructure Security Engineerlocations4 Locationstime typeFull timeposted onPosted 7 Days AgoR-1100433Cslt-Business Intelligencelocations3 Locationstime typeFull timeposted onPosted 7 Days AgoR-1097040Principal Engineer- AI Platform Architectlocations2 Locationstime typeFull timeposted onPosted 7 Days AgoR-1100306Associate Director - AI Platform Engineeringlocations2 Locationstime typeFull timeposted onPosted 7 Days AgoR-1100303Graduate QA TesterlocationsLimerick, Irelandtime typeFull timeposted onPosted 7 Days AgoR-1100593Sr.\n• Conversational AI & Agentic Search Engineerlocations2 Locationstime typeFull timeposted onPosted 7 Days AgoR-1098014Senior Product Manager, AI Infrastructure and Networkinglocations9 Locationstime typeFull timeposted onPosted 11 Days AgoR-1100347Business Transformation - Senior Managerlocations2 Locationstime typeFull timeposted onPosted 12 Days AgoR-1100496CX Transformation & Change Managerlocations2 Locationstime typeFull timeposted onPosted 13 Days AgoR-1096421Engr IV-Security Engineeringlocations2 Locationstime typeFull timeposted onPosted 14 Days AgoR-1098689.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Silver-Spring-Maryland/Outside-Plant-Engineer_R-1100792?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-outside-plant-engineer-silver-spring"
-  },
-  {
     "employer_name": "AMD",
     "job_title": "Security Software Engineer",
     "job_city": "US",
@@ -351,6 +321,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045531/Project-Engineer",
+    "id": "abb-project-engineer-location-houston"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Project Engineer - Mechanical Packaging Design",
     "job_city": "Location Fort Smith",
     "job_state": "Arkansas",
@@ -365,7 +345,7 @@
     "job_city": "Location Selmer",
     "job_state": "Tennessee",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Co-op-Spring-2026",
     "id": "abb-engineering-co-op-spring-location-selmer"
   },
@@ -375,7 +355,7 @@
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Leveraging insights about customer needs and ABB’s offerings to identify suitable solutions for clients, leading to project results that meet customer expectations.\n• Seeking feedback and guidance from manager and team members to improve performance and skills.\n• Assist in the development and testing of automation softwareAssist in the installation, commissioning, and troubleshooting of automation systemsAssist with the creation of technical sales demonstrationsSupport the development of documentation and user manuals for automation systemsParticipate in project meetings and provide regular updates on project progressParticipate in product inventories and manage department equipmentEnsure compliance with safety regulations and industry standards Currently enrolled in a bachelor's or master’s degree program in Engineering, Computer Science, or a related field, in the United States.\n• Intern must have reliable transportation to and from the worksite.\n• Must be legally authorized to work in the United States without company sponsorship now and in the future.\n• Utilize critical thinking skills to analyze complex situations and develop strategic solutions.\n• Collaborating with various teams to support ABB’s operations, ensuring effective coordination and timely project completion within the defined timelines.\n• Participating in team meetings, brainstorming sessions, and other collaborative efforts.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045706/Application-Engineering-Intern-Summer-2027",
     "id": "abb-application-engineering-intern-summer-available-in-one-of-2-locations"
   },
@@ -398,6 +378,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
     "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AMR Layout Design Engineer",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035582/AMR-Layout-Design-Engineer",
+    "id": "abb-amr-layout-design-engineer-location-auburn-hills"
   },
   {
     "employer_name": "ABB",
@@ -445,7 +435,7 @@
     "job_city": "Location Mebane",
     "job_state": "North Carolina",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Place purchase orders with suppliers for the procurement of production material as required by forecast and the production schedule.\n• Expedite or defer orders as required based on schedule/inventory discrepancies and/or adjustments.\n• Supplemental benefits – 100% employee paid (Accident insurance, hospital indemnity, critical illness, pet insurancePaid Parental LeaveEmployee Assistance ProgramHealth Advocate support resources for mental/behavioral health, general health navigation and virtual health, and infertility/adoptionEmployee discount program Bachelor degree in Industrial Engineering, Business Administration, Supply Chain, or a related field.\n• Minimum 2 years of experience in Materials, Planning, Purchasing, Inventory Management etc.\n• Proficiency in Microsoft Office (Advanced Excel, Outlook) and purchasing software, SAP preferredStrong planning and organizational skills.\n• Candidates must already have a work authorization that would permit them to work for ABB in the US.\n• Monitor status of open purchase orders to ensure on-time delivery of all materials, including timely resolution, communication, and mitigation of future potential supply issues.\n• Determine and establish optimal inventory levels based on forecast, demand variation and material lead times.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045070/Buyer-ELSP",
     "id": "abb-buyer-elsp-location-mebane"
   },
@@ -455,7 +445,7 @@
     "job_city": "Location Cary",
     "job_state": "North Carolina",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Bachelor’s degree in engineeringTechnical understanding and willingness to learn and continuously acquire new competences.\n• Experience in electrical systems, ability to read, understand and design electrical diagramsExperience with electrical distribution, critical power systems, protection and switching devices, metering and monitoring devices and systems,…Agile mindset and preferable experience in an agile working contextExcellent communication skillsProficiency in written and spoken EnglishSecond language is a plusNegotiation skills, market knowledge, leadership skills, social skills complete the profileKnowledge of NEC codes (i.\n• NEC700,701,702),Uptime Institute Tier design, ANSI/TIA-942-A ratings, ANSI/BICSI 002 levels, or similar electrical distribution design requirements is considered a plusDesign software skills(i.\n• Etap, SKM, EasyPower, AutoCAD or similar is considered a plus Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Provide feedbacks to Product management and Digital on new development needs (5% of the time)Participate to national/international standardization committee (5% of the time) Global Application Engineer - Critical Infrastructure Applications Location Cary, North Carolina, United States of America Category Other R&D Senior Electrical Engineer Location Richmond, Virginia, United States of America Category Other R&D Senior Electrical Engineer Location Richmond, Virginia, United States of America Category Other R&D Hardware Engineer (80 -100%) f/m/d Available in one of 2 locations Category Other R&D Senior Hardware Engineer (80 - 100%) f/m/d Available in one of 2 locations Category Other R&D Engineer Location Richmond, Virginia, United States of America Category Other R&D Engineer Location Richmond, Virginia, United States of America Category Other.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042697/Global-Customer-Application-Engineer",
     "id": "abb-global-customer-application-engineer-location-cary"
   },
@@ -465,7 +455,7 @@
     "job_city": "Location Cary",
     "job_state": "North Carolina",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Create training materials, value propositions, and marketing communicationsCustomer Engagement – Collect and understand customer requirements from US-based OEMs.\n• Conduct market intelligence and competitive analysis to inform product strategyCross-Functional Leadership – Coordinate with internal ABB teams (R&D, Product Management, Digital) to execute business plans and develop dedicated customer solutionsValidation & Testing – Support application testing, validation, and optimization to ensure quality and performanceSolution Consulting – Help customers identify optimal solutions for their projects and ensure seamless customer journey experiences (e.\n• Supplemental benefits – 100% employee paid (Accident insurance, hospital indemnity, critical illness, pet insuranceParental Leave – up to 6 weeksEmployee Assistance ProgramHealth Advocate support resources for mental/behavioral health, general health navigation and virtual health, and infertility/adoptionEmployee discount program Bachelor's degree in Mechanical or Electrical Engineering (Master's preferred)Technical understanding with willingness to continuously learn and acquire new competenciesExperience with CAD design (3D, 2D, and BOMs) and PLM software (Windchill)Experience in product development and new product introductionStrong understanding of electrical systems.\n• Ability to read, understand, and design electrical diagramsAgile mindset with experience in agile working environmentsNegotiation, market knowledge, leadership, and strong interpersonal skillsAbility to travel domestically up to 20% of the time Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Master's degree in EngineeringSecond language proficiencyKnowledge of NEC codes (NEC 700, 701, 702) and electrical design standardsFamiliarity with Uptime Institute Tier design and ANSI/TIA-942-A ratingsExperience with ANSI/BICSI 002 levels or similar electrical distribution design requirementsKnowledge of UL standards (UL67, UL891, UL508/508a, UL489)Data center power systems experience Global Customer Application Engineer Location Cary, North Carolina, United States of America Category Other R&D Engineer Location Richmond, Virginia, United States of America Category Other R&D Engineer Location Richmond, Virginia, United States of America Category Other R&D Senior Electrical Engineer Location Richmond, Virginia, United States of America Category Other R&D Hardware Engineer (80 -100%) f/m/d Available in one of 2 locations Category Other R&D Senior Hardware Engineer (80 - 100%) f/m/d Available in one of 2 locations Category Other R&D Senior Electrical Engineer Location Richmond, Virginia, United States of America Category Other.\n• Application Development – Develop applications and solutions for critical power and building electrification.\n• , application configurators)Market Strategy – Monitor industry trends, competitive landscape, and regulatory standards.\n• Recommend strategic adjustments for long and mid-term planningIndustry Collaboration – Participate in national and international standardization committeesDigital Marketing Support – Contribute to application-related digital marketing campaigns and initiatives Choice between two medical plan options: A PPO plan called the Copay Plan OR a High-Deductible Health Plan (with a Health Savings Account) called the High-Deductible Plan.\n• Choice between two dental plan options: Core and Core PlusVision benefitCompany paid life insurance (2X base pay)Company paid AD&D (1X base pay)Voluntary life and AD&D – 100% employee paid up to maximumsShort Term Disability – up to 26 weeks – Company paidLong Term Disability – 60% of pay – Company paid.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
     "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
   },
@@ -515,7 +505,7 @@
     "job_city": "Location Quartino",
     "job_state": "Ticino",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Degree in Information or Electrical, Power Electronic, Electronic Engineering, Embedded Systems, or comparable fieldYou have at least 3 years of experience in designing control firmware based on microcontrollers / DSPs for Power Electronic Products such as UPS, BESS, Renewable Energy systemsYou are highly skilled in C/C++/Python and Firmware Development.\n• You have solid knowledge in structured development processes, ranging from requirement analysis, design, and implementation to test and documentation.\n• Experience with development infrastructure, including Azure DevOps, CI/CD pipelines, version control systems (Git), lifecycle management, build systems, unit testing, debug probes, oscilloscopes, and similar toolsExposure to Cyber Security concepts and knowledge of main industrial communication protocols (Modbus, CAN, EtherCAT) are a plusYou are passionate about teamwork and innovation.\n• You are at ease communicating in English and Italian Firmware Development: Design, develop, and implement firmware for Power Electronic Converters and communication modules, ensuring robust functionality and cybersecuritySoftware Quality Assurance: Conduct unit, integration, and system testing to validate software performance and reliabilityCross-functional Collaboration: Work closely with system architects and hardware/software engineers to translate system requirements into detailed firmware specificationsInnovation and Knowledge Sharing: Contribute to intellectual property creation and collaborate with global engineering teams to drive continuous improvement and share expertise Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043136/R-D-Engineer-Firmware-80-100",
     "id": "abb-r-d-engineer-firmware-80-100-location-quartino"
   },
@@ -525,19 +515,9 @@
     "job_city": "Location Ratingen",
     "job_state": "North Rhine-Westphalia",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Currently pursuing a degree in Electrical Engineering or Mechanical EngineeringExperience with CAD software, proficient use of Microsoft 365 applications, and knowledge of engineering materials are considered an advantageGood written and spoken German and English language skillsInterest in experimental work, the analysis of technical challenges, and laboratory activitiesAbility to independently familiarize oneself with new technologies and processesSolution-oriented mindset combined with a pragmatic, hands-on approach Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046368/Working-student-m-f-d-in-the-Development-of-Pole-Parts",
     "id": "abb-working-student-m-f-d-in-the-development-of-pole-parts-location-ratingen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer – Embedded Firmware (80 - 100%) f/m/d",
-    "job_city": "Location Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044226/R-D-Engineer-Embedded-Firmware-80-100-f-m-d",
-    "id": "abb-r-d-engineer-embedded-firmware-80-100-f-m-d-location-quartino"
   },
   {
     "employer_name": "ABB",
@@ -545,7 +525,7 @@
     "job_city": "Location Heidelberg",
     "job_state": "Baden-Wurttemberg",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• DPČ - Digitalization Support Location Brno, Jihomoravský kraj, Czechia Category Quality & Operational Excellence Test Equipment Engineer (f/m/d) Location Eggelsberg, Upper Austria, Austria Category Quality & Operational Excellence Quality Control Technician (f/m/d) - Fixed-Term position for 2 years Location Heidelberg, Baden-Wurttemberg, Germany Category Quality & Operational Excellence Service Technician f/m/d (80-100%) Location Schaffhausen, Schaffhausen, Switzerland Category Quality & Operational Excellence Buyer Location Brno, Jihomoravský kraj, Czechia Category Quality & Operational Excellence Production Supervisor IPU B&S (80 - 100%) f/m/d Location Quartino, Ticino, Switzerland Category Quality & Operational Excellence Vorarbeiter Produktion (m/w/d) - befristet für 2 Jahre Location Sasbach, Baden-Wurttemberg, Germany Category Quality & Operational Excellence Global Sales & Operations Planning Leader Available in one of 5 locations Category Quality & Operational Excellence Global Supplier Quality Engineer – PCBA&Cables Available in one of 5 locations Category Quality & Operational Excellence Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Hands-on experience with TwinCAT (ideally TwinCAT 3)Strong knowledge of SQL and database managementExperience with networked systems and IoT technologiesFluent German language skills, both written and spoken, as well as advanced English proficiencyReliability, willingness to learn, and strong teamwork skillsA background in special machinery engineering is a plus Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042690/SOFTWARE-DEVELOPER-F-M-D-SPECIAL-PURPOSE-MACHINES",
     "id": "abb-software-developer-f-m-d-special-purpose-machines-location-heidelberg"
   },
@@ -574,7 +554,7 @@
     "job_title": "Bluetooth Software Engineer",
     "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "• Minimum QualificationsBachelors Degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience.\n• Strong C++, C, or Objective-C software skills.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200683018-0836/bluetooth-software-engineer?team=SFTWR",
     "id": "apple-bluetooth-software-engineer-cupertino"
@@ -584,7 +564,7 @@
     "job_title": "Software Development Engineer",
     "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "20h",
+    "job_posted_at": "1d",
     "job_description": "• Minimum QualificationsAs a Linker engineer, you will:Collaborate with teammates through in-person conversations, pull requests, and other online discussions.\n• Collaborate with engineers across Apple on cross-functional projects, and help and assist in difficult to diagnose issues.\n• Design and implement new performance optimizations, security mitigations, and tooling improvements.\n• Drive the testing, integration, and adoption of your changes into the development ecosystem and the operating systems.\n• Engage in hardware/software co-design and influence future Apple Silicon hardware.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200683692-0836/software-development-engineer?team=SFTWR",
     "id": "apple-software-development-engineer-cupertino"
@@ -594,7 +574,7 @@
     "job_title": "Bluetooth Software Engineer",
     "job_city": "",
     "job_state": "US",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Computer Science, Computer Engineering, Electrical Engineering or related field.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200683007-3401/bluetooth-software-engineer?team=SFTWR",
     "id": "apple-bluetooth-software-engineer-"
@@ -618,6 +598,16 @@
     "job_description": "• Minimum QualificationsBachelors degree in Engineering (CS or CE)3 years of experience in software engineering.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200676254-3543/backend-software-engineer-golang?team=SFTWR",
     "id": "apple-backend-software-engineer-golang-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Graphics Verification Software Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum QualificationsBS Required.\n• Experience in verifying hardware at system or component levelExperience programming with one or more of the following languages: C/C++, Perl, Ruby, Python.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200680151-0157/graphics-verification-software-engineer?team=HRDWR",
+    "id": "apple-graphics-verification-software-engineer-austin"
   },
   {
     "employer_name": "Apple",
@@ -651,20 +641,10 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer, App Store",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "4w",
-    "job_description": "• Minimum QualificationsExperience building complex, large-scale production applications with HTML, CSS, and JavaScript.\n• Experience writing maintainable CSS at scale, including preprocessors or modern CSS tooling (Sass,LESS, CSS modules, or equivalent).\n• Experience writing automated tests for frontend code using frameworks such as Vitest, Jest,Playwright, or Cypress.\n• Proficiency in at least one modern JavaScript or TypeScript component framework, such as Svelte,React, Vue, or equivalent.\n• Working knowledge of the modern frontend toolchain, including Node.\n• Js, package management,module bundlers such as Vite or Webpack, continuous integration, and HTTP networkingfundamentals.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200678254-0836/software-engineer-app-store?team=SFTWR",
-    "id": "apple-software-engineer-app-store-cupertino"
-  },
-  {
-    "employer_name": "Apple",
     "job_title": "Software Engineer, Apple Ads",
     "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "• Minimum QualificationsBachelor's degree or equivalent.\n• Solid grasp of OS fundamentals (processes/threads, memory, scheduling, file systems), on any platformProfessional or academic-project experience in a C-like language (Swift, Obj-C, Java, C++, C#, Go, Rust, etc.\n• )Working understanding of concurrency basics (threads, shared state, why locking is needed)Solid data structures & algorithms.\n• Can reason about time/space complexityEagerness to learn, collaborate, take feedback.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200682685-0836/software-engineer-apple-ads?team=SFTWR",
     "id": "apple-software-engineer-apple-ads-cupertino"
@@ -684,17 +664,27 @@
     "job_title": "Carrier Technologies Software Engineer",
     "job_city": "",
     "job_state": "US",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "• Minimum QualificationsBachelor’s or Master’s degree in Computer Science, Computer Engineering, or equivalent.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200683059-3401/carrier-technologies-software-engineer?team=SFTWR",
     "id": "apple-carrier-technologies-software-engineer-"
   },
   {
     "employer_name": "Apple",
+    "job_title": "Backend Software Engineer (Golang)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBachelors degree in Engineering (CS or CE)3 years of experience in software engineering.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200676254-0157/backend-software-engineer-golang?team=SFTWR",
+    "id": "apple-backend-software-engineer-golang-austin"
+  },
+  {
+    "employer_name": "Apple",
     "job_title": "Software Engineer - Compute",
     "job_city": "Seattle",
     "job_state": "US",
-    "job_posted_at": "1w",
+    "job_posted_at": "2w",
     "job_description": "• Minimum QualificationsBachelor's Degree in Computer Science, an engineering-related field, or equivalent related experience.\n• Advanced Degree preferred.\n• 1+ years in a Site Reliability Engineering Infrastructure focused roleExcellent verbal and written communication skillsAutomation advocate with a strong sense of ownership - you truly believe in removing operational load via softwareStrong experience with building and scaling cloud infrastructure and large-scale distributed systemsExperience with OpenStack, KVM/hypervisor technologies and KubernetesHighly proficient in Go or PythonBe capable of collaborating and coordinating with multiple distinct engineering teams and mentoring othersExperienced with highly distributed unix systems.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200681348-3337/software-engineer-compute?team=SFTWR",
     "id": "apple-software-engineer-compute-seattle"
@@ -704,20 +694,10 @@
     "job_title": "Software Engineer, Apple Ads",
     "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "• Minimum QualificationsBachelor's degree or equivalent.\n• Solid grasp of OS fundamentals (processes/threads, memory, scheduling, file systems), on any platformProfessional or academic-project experience in a C-like language (Swift, Obj-C, Java, C++, C#, Go, Rust, etc.\n• )Working understanding of concurrency basics (threads, shared state, why locking is needed)Solid data structures & algorithms.\n• Can reason about time/space complexityEagerness to learn, collaborate, take feedback.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200682706-0157/software-engineer-apple-ads?team=SFTWR",
     "id": "apple-software-engineer-apple-ads-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Triage Services",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum QualificationsProgramming experience in PythonExperience building scalable data platforms and distributed systems.\n• Experience with LLM and agent development.\n• Bachelor's degree in Computer Science, Data Engineering, or a related field.\n• Knowledge of RAG architectures, embedding generation, vector databases, and AI data preparation for agentic workflows.\n• Familiarity with eval frameworks for agent quality (offline benchmarks, drift detection, confidence scoring).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200683343-0836/software-engineer-triage-services?team=SFTWR",
-    "id": "apple-software-engineer-triage-services-cupertino"
   },
   {
     "employer_name": "Apple",
@@ -770,74 +750,34 @@
     "id": "apple-software-development-engineer-test-cambridge"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "CPU Hardware Verification Software Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - Java - Neovest",
+    "job_city": "Pleasant Grove",
+    "job_state": "UT",
     "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/cpu-hardware-verification-software-engineer/33099/100674696784",
-    "id": "arm-cpu-hardware-verification-software-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "RTL Design Engineer – Memory Controller",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/rtl-design-engineer-memory-controller/33099/100674776368",
-    "id": "arm-rtl-design-engineer-memory-controller-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Security IP Design Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/security-ip-design-engineer/33099/98849320128",
-    "id": "arm-security-ip-design-engineer-"
+    "job_description": "• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Seize the chance to enhance your skills and advance your career with our ideal software engineering opportunity.\n• Software Engineer III BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Software Engineer III – Public Cloud Bournemouth Software Engineer III - Python/AWS/AI Houston, TX, United States TechnologySoftware Engineering Software Engineer with a passion for Machine Learning Engineering, to help engineer and deploy innovative ML solutions Software Engineer II: Data Engineer Jersey City, NJ, United States TechnologySoftware Engineering Build skills, gain experience, and advance your career in an exciting software engineering role designed to help you grow 2027 Software Engineer Program - Full-Time - United States - July Start Chicago, IL, United States and 8 more TechnologySoftware Engineering Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.\n• This role is designed for an early-career engineer who combines hands-on software development experience with knowledge of artificial intelligence, generative AI, and public-cloud technologies.\n• Software Engineer III Bengaluru, Karnataka, India and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Developer - Operations Automation - CEBU Metro Manila, National Capital Region, Philippines OperationsAutomation Operations Unleash your potential in a role that transforms raw data and operational needs into innovative automation solutions.\n• Lead Software Engineer NY, United States TechnologySoftware Engineering Shape the future of AI-enabled digital experiences for millions of customers at one of the world's leading financial institutions Software Engineer III (FullStack) New York, NY, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Java Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Java Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Build secure, scalable Python services powering mission-critical regulatory reporting and shaping the future of payments technology.\n• Lead Software Engineer- Java/ AWS Jersey City, NJ, United States TechnologySoftware Engineering Lead Software Engineer, Java/Spark/AWS Software Engineer II Bengaluru, Karnataka, India TechnologySoftware Engineering Join us to help build the future of mobile banking, creating seamless cloud-native experiences for millions of customers.\n• KDB Software Engineer III LONDON, LONDON, United Kingdom TechnologySoftware Engineering KDB Software Engineer at JPMorgan Chase within the Equities Trading Data & Analytics Organization for Options datasets and applications Java / AWS Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer strong with Java and AWS Software Engineer III - Scala Engineer Jersey City, NJ, United States TechnologySoftware Engineering Design and develop secure, scalable software, troubleshoot key components, and grow your career as an experienced software engineer.\n• Software Engineer III (Full Stack) Jersey City, NJ, United States TechnologySoftware Engineering As part of Audit Technology, we are seeking innovative, passionate, hands-on developers to solve challenging business problems using cloud-native microservices and rich micro-frontend experiences.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789656/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-java-neovest-pleasant-grove"
   },
   {
     "employer_name": "Texas Instruments",
-    "job_title": "Applications Engineer - Audio",
+    "job_title": "Equipment Engineer",
     "job_city": "Dallas",
     "job_state": "TX",
-    "job_posted_at": "20h",
-    "job_description": "• (5) Dallas, North Campus - Generic (4) Dallas, North Campus - DMOS 6 (4) Categories 0 Engineering - Product Dev (48) Manufacturing (32) Information Technology (11) Administration (1) Supply Chain & Operations (1) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (67) Interns (14) Recent College Grads (14) Work Locations 0 Dallas, South Campus (38) Richardson, Richardson Fab, Renner Rd (12) Lehi, Lehi, UT (8) Sherman, Sherman - SM1 Fab (8) Dallas, North Campus - DMOS V South (6) Dallas, North Campus - DMOS V North (6) Dallas, North Campus - Kilby East (5) Tucson, Tucson Williams Ctr-South Bldg,.\n• (5) Dallas, North Campus - Generic (4) Dallas, North Campus - DMOS 6 (4) Categories 0 Engineering - Product Dev (48) Manufacturing (32) Information Technology (11) Administration (1) Supply Chain & Operations (1) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (67) Interns (14) Recent College Grads (14) This role will own automotive Class-D audio amplifier technical issue resolving, also responsible of driving opportunity DWINs for Auto external amplifier, Head Unit, Telematics, E-call & AVAS applications.\n• Specific on-site time will be required to help customers design and debug their systems using our devices.\n• Provide customer system level solutions to address application requirements including basic function, reliability & easier, cost attractive implementation.\n• Fully understand customer’s system level requirements.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Job Identification 25011266 Job Category Engineering - Product Dev Posting Date 09/15/2026, 07:22 PM Degree Level Bachelor's Degree Locations FORE 12500 T I Blvd, Dallas, TX, 75243, US ECL/GTC Required Yes Bachelor of Science in Electrical Engineering, Computer Engineering or related degree2 + years related Engineering experiences including:Strong responsible attitude to own and drive/resolve customer issues Master schematic/layout tools like Altium Designer, etc.\n• Solid analog and basic mixed signal chain knowledgeSolid lab instrument handling capability: oscilloscope, AP, signal generator and data analysis handling capability Experienced Professional (67) Interns (14) Recent College Grads (14) Experienced Professional (67) Interns (14) Recent College Grads (14).",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25011266/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-applications-engineer-audio-dallas"
+    "job_posted_at": "1d",
+    "job_description": "• (5) Dallas, North Campus - Generic (4) Sugar Land, Sugar Land, TX (4) Categories 0 Engineering - Product Dev (48) Manufacturing (32) Information Technology (11) Administration (1) Supply Chain & Operations (1) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (66) Recent College Grads (15) Interns (14) Work Locations 0 Dallas, South Campus (38) Richardson, Richardson Fab, Renner Rd (12) Lehi, Lehi, UT (8) Sherman, Sherman - SM1 Fab (8) Dallas, North Campus - DMOS V North (7) Dallas, North Campus - DMOS V South (6) Dallas, North Campus - Kilby East (5) Tucson, Tucson Williams Ctr-South Bldg,.\n• (5) Dallas, North Campus - Generic (4) Sugar Land, Sugar Land, TX (4) Categories 0 Engineering - Product Dev (48) Manufacturing (32) Information Technology (11) Administration (1) Supply Chain & Operations (1) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (66) Recent College Grads (15) Interns (14) Knowledge of AMAT PVD and/or AMAT TxZ chambers equipment Knowledge of PVD, CVD, high vacuum and/or ultra high vacuum Knowledge of other equipment (e.\n• , AMAT, Veeco, TEL, Novellus, and/or ASM) Understanding of tool monitoring and interdiction software, and equipment maintenance and documentation Strong verbal and written communication skills Demonstrated strong analytical, critical thinking and problem solving skills Ability to work in teams and collaborate effectively with people in different functions Ability to take the initiative and drive for results Strong time management skills that enable on-time project delivery Ability to work effectively in an interrupt-driven, fast-paced and rapidly changing environment Demonstrated ability to build strong, influential relationships Evaluate, select, and order equipment that is most appropriate and cost effective for the manufacture of company products Oversee the installation, modification, upgrade and maintenance of manufacturing equipment Keep current on equipment manufacturers' technical notices, upgrades and safety issues Study equipment performance and reliability Establish programs and solutions for increasing uptime and for equipment problems that affect the manufacturing process Provide technical support to the manufacturing equipment repair and process engineering organizations Define and write preventative maintenance schedules Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Job Identification 25017993 Job Category Manufacturing Posting Date 09/15/2026, 09:00 PM Degree Level Bachelor's Degree Locations EXEA 13353 Floyd Rd, Dallas, TX, 75243, US ECL/GTC Required Yes Experienced Professional (66) Recent College Grads (15) Interns (14) Experienced Professional (66) Recent College Grads (15) Interns (14).\n• Software Engineering Intern Locations Dallas, TX, United States and 1 more Posting Date09/09/2026 Career Accelerator Program - Software Engineer Locations Dallas, TX, United States Posting Date09/09/2026 Career Accelerator Program - Software Engineer Locations Dallas, TX, United States and 1 more Posting Date09/09/2026 Software Development Engineer Development Program Locations Dallas, TX, United States Posting Date09/10/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date09/04/2026 Applications Engineer | Audio Locations Dallas, TX, United States Posting Date09/15/2026 Software Applications Engineering Manager Locations Dallas, TX, United States Posting Date07/09/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date07/16/2026 Information Technology Intern – Software Locations Dallas, TX, United States Posting Date09/10/2026 Data Engineer Locations Dallas, TX, United States Posting Date07/21/2026 Equipment Engineer Locations Dallas, TX, United States Posting Date09/15/2026 Career Accelerator Program - Data Engineer Locations Richardson, TX, United States Posting Date09/15/2026 PMO Master Scheduler Locations Dallas, TX, United States Posting Date09/14/2026 Workflow Automation Engineer | GenAI Focused Locations Dallas, TX, United States Posting Date06/10/2026 Career Accelerator Program - Systems Marketing Engineer (SEM) - A&D Locations Dallas, TX, United States Posting Date09/15/2026 Smart Manufacturing Software Dev Eng Locations Richardson, TX, United States Posting Date04/21/2026 DMOS5 Photo Equipment Engineer Locations Dallas, TX, United States Posting Date09/09/2026 GaN Photo Manufacturing Process Engineer (SM1) Locations Sherman, TX, United States Posting Date09/11/2026 RF Hardware Applications Engineer Locations Dallas, TX, United States Posting Date08/31/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 Hot Job Manufacturing Product Engineer (SM1) Locations Sherman, TX, United States Posting Date09/11/2026 Manufacturing Workflow Automation Engineer (SM1) Locations Sherman, TX, United States Posting Date08/18/2026 Career Accelerator Program - Civil, Structural and Architectural (CSA) Engineer Locations Dallas, TX, United States Posting Date09/08/2026 Photolithography Process Development Engineer (Advanced Patterning) Locations Lehi, UT, United States Posting Date04/10/2026 Product Development Engineer (28nm) Locations Lehi, UT, United States Posting Date03/19/2026 Hot Job Applications Engineer Locations Dallas, TX, United States Posting Date08/16/2026 Industrial Systems Engineer - RTD Locations Richardson, TX, United States Posting Date08/12/2026 Pricing Intern Locations United States and 1 more Posting Date09/03/2026 Validation/Characterization Engineer Locations Dallas, TX, United States Posting Date08/11/2026 Equipment Engineer Locations Lehi, UT, United States Posting Date08/03/2026 Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date07/13/2026 Equipment Engineer - Implant Locations Richardson, TX, United States Posting Date07/10/2026 Equipment Engineer - Plasma Locations Lehi, UT, United States Posting Date08/03/2026 WET Equipment Engineer (DMOS6) Locations Dallas, TX, United States Posting Date08/20/2026 Equipment Engineer Locations Richardson, TX, United States Posting Date08/27/2026 Applications Engineer Locations Dallas, TX, United States Posting Date08/06/2026 Thin Films Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date06/25/2026 Equipment Engineer Locations United States Posting Date05/29/2026 Equipment Engineer - Maine Locations South Portland, ME, United States Posting Date07/30/2026 Equipment Engineer - Metrology Locations Richardson, TX, United States Posting Date07/24/2026 Applications Engineer | DCC CTS Locations Santa Clara, CA, United States Posting Date06/12/2026 Validation/Characterization Engineer | Space Power Locations Dallas, TX, United States Posting Date09/08/2026 RFAB Module Industrial Engineer Locations Richardson, TX, United States Posting Date04/06/2026 Equipment Engineer - DM5 - Implant Locations Dallas, TX, United States Posting Date07/16/2026 Equipment Engineer - DM5 - Diffusion Locations Dallas, TX, United States Posting Date07/16/2026 CVD/PVD Equipment Engineer (DMOS6) Locations Dallas, TX, United States Posting Date08/13/2026 Metrology Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date08/12/2026 Equipment Engineer - MFAB Locations South Portland, ME, United States Posting Date08/12/2026 Photo Manufacturing Process Engineer (SM1) Locations Sherman, TX, United States Posting Date08/31/2026 Process Development Test Engineer Locations Dallas, TX, United States Posting Date02/06/2026 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications & brand marketing Marketing Finance, accounting & operations Human resources Information technology Resources Recruitment process Recruitment events Students & new grads Veterans Benefits at TI Our culture Locations North America Europe Asia Pacific Jobs 95 Job search results 95 Events 0 Work Locations 0 Dallas, South Campus (38) Richardson, Richardson Fab, Renner Rd (12) Lehi, Lehi, UT (8) Sherman, Sherman - SM1 Fab (8) Dallas, North Campus - DMOS V North (7) Dallas, North Campus - DMOS V South (6) Dallas, North Campus - Kilby East (5) Tucson, Tucson Williams Ctr-South Bldg,.\n• We empower our employees to truly own their career and development.\n• Come collaborate with some of the smartest people in the world to shape the future of electronics.",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25017993/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-equipment-engineer-dallas"
   },
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "Career Accelerator Program - Data Engineer",
-    "job_city": "Richardson",
-    "job_state": "TX",
-    "job_posted_at": "20h",
-    "job_description": "• (5) Dallas, North Campus - Generic (4) Dallas, North Campus - DMOS 6 (4) Categories 0 Engineering - Product Dev (48) Manufacturing (32) Information Technology (11) Administration (1) Supply Chain & Operations (1) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (67) Interns (14) Recent College Grads (14) Work Locations 0 Dallas, South Campus (38) Richardson, Richardson Fab, Renner Rd (12) Lehi, Lehi, UT (8) Sherman, Sherman - SM1 Fab (8) Dallas, North Campus - DMOS V South (6) Dallas, North Campus - DMOS V North (6) Dallas, North Campus - Kilby East (5) Tucson, Tucson Williams Ctr-South Bldg,.\n• (5) Dallas, North Campus - Generic (4) Dallas, North Campus - DMOS 6 (4) Categories 0 Engineering - Product Dev (48) Manufacturing (32) Information Technology (11) Administration (1) Supply Chain & Operations (1) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (67) Interns (14) Recent College Grads (14) Proficiency in at least one programming language commonly used in data engineering (Python, Java, or Scala)Solid understanding of SQL and relational database conceptsCoursework or project experience involving data structures, algorithms, and software design fundamentalsStrong analytical and problem-solving skills, with the ability to learn new tools and technologies quickly in a fast-paced environmentExposure to distributed data processing frameworks such as Apache SparkFamiliarity with streaming/event-driven architectures (e.\n• , MinIO, S3)Experience with SQL query engines for large-scale analytics (e.\n• , Trino/Presto)Internship, co-op, academic research, or personal project experience involving big data pipelines, ETL/ELT workflows, or cloud/on-prem data infrastructure Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Please find our country-specific benefits here Job Identification 25015894 Job Category Information Technology Posting Date 09/15/2026, 07:25 PM Degree Level Bachelor's Degree Locations RFAB 300 W Renner Rd, Richardson, TX, 75080, US ECL/GTC Required Yes Experienced Professional (67) Interns (14) Recent College Grads (14) Experienced Professional (67) Interns (14) Recent College Grads (14) Bachelor's degree in Electrical Engineering, Computer Engineering or related field of studyMinimum cumulative GPA 3.\n• Software Engineering Intern Locations Dallas, TX, United States and 1 more Posting Date09/09/2026 Career Accelerator Program - Software Engineer Locations Dallas, TX, United States Posting Date09/09/2026 Career Accelerator Program - Software Engineer Locations Dallas, TX, United States and 1 more Posting Date09/09/2026 Software Development Engineer Development Program Locations Dallas, TX, United States Posting Date09/10/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date09/04/2026 Applications Engineer | Audio Locations Dallas, TX, United States Posting Date09/15/2026 Software Applications Engineering Manager Locations Dallas, TX, United States Posting Date07/09/2026 Software Applications Engineer Locations Dallas, TX, United States Posting Date07/16/2026 Information Technology Intern – Software Locations Dallas, TX, United States Posting Date09/10/2026 Data Engineer Locations Dallas, TX, United States Posting Date07/21/2026 Career Accelerator Program - Data Engineer Locations Richardson, TX, United States Posting Date09/15/2026 PMO Master Scheduler Locations Dallas, TX, United States Posting Date09/14/2026 Workflow Automation Engineer | GenAI Focused Locations Dallas, TX, United States Posting Date06/10/2026 Career Accelerator Program - Civil, Structural and Architectural (CSA) Engineer Locations Dallas, TX, United States Posting Date09/08/2026 Career Accelerator Program - Systems Marketing Engineer (SEM) - A&D Locations Dallas, TX, United States Posting Date09/15/2026 Smart Manufacturing Software Dev Eng Locations Richardson, TX, United States Posting Date04/21/2026 DMOS5 Photo Equipment Engineer Locations Dallas, TX, United States Posting Date09/09/2026 GaN Photo Manufacturing Process Engineer (SM1) Locations Sherman, TX, United States Posting Date09/11/2026 RF Hardware Applications Engineer Locations Dallas, TX, United States Posting Date08/31/2026 Manufacturing Product Engineer (LFAB) Locations Lehi, UT, United States Posting Date06/30/2026 Hot Job Manufacturing Product Engineer (SM1) Locations Sherman, TX, United States Posting Date09/11/2026 Validation/Characterization Engineer | Space Power Locations Dallas, TX, United States Posting Date09/08/2026 Manufacturing Workflow Automation Engineer (SM1) Locations Sherman, TX, United States Posting Date08/18/2026 Photolithography Process Development Engineer (Advanced Patterning) Locations Lehi, UT, United States Posting Date04/10/2026 Product Development Engineer (28nm) Locations Lehi, UT, United States Posting Date03/19/2026 Hot Job Applications Engineer Locations Dallas, TX, United States Posting Date08/16/2026 Industrial Systems Engineer - RTD Locations Richardson, TX, United States Posting Date08/12/2026 Pricing Intern Locations United States and 1 more Posting Date09/03/2026 GaN Diffusion Manufacturing Process Engineer (SM1) Locations Sherman, TX, United States Posting Date09/01/2026 Validation/Characterization Engineer Locations Dallas, TX, United States Posting Date08/11/2026 Equipment Engineer Locations Lehi, UT, United States Posting Date08/03/2026 Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date07/13/2026 Equipment Engineer - Implant Locations Richardson, TX, United States Posting Date07/10/2026 Equipment Engineer - Plasma Locations Lehi, UT, United States Posting Date08/03/2026 WET Equipment Engineer (DMOS6) Locations Dallas, TX, United States Posting Date08/20/2026 Equipment Engineer Locations Richardson, TX, United States Posting Date08/27/2026 Applications Engineer Locations Dallas, TX, United States Posting Date08/06/2026 Thin Films Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date06/25/2026 Equipment Engineer Locations United States Posting Date05/29/2026 Equipment Engineer - Maine Locations South Portland, ME, United States Posting Date07/30/2026 Equipment Engineer - Metrology Locations Richardson, TX, United States Posting Date07/24/2026 Applications Engineer | DCC CTS Locations Santa Clara, CA, United States Posting Date06/12/2026 RFAB Module Industrial Engineer Locations Richardson, TX, United States Posting Date04/06/2026 Equipment Engineer - DM5 - Implant Locations Dallas, TX, United States Posting Date07/16/2026 Equipment Engineer - DM5 - Diffusion Locations Dallas, TX, United States Posting Date07/16/2026 CVD/PVD Equipment Engineer (DMOS6) Locations Dallas, TX, United States Posting Date08/13/2026 Metrology Equipment Engineer (DMOS6) Locations Dallas, TX, United States Posting Date08/20/2026 Metrology Equipment Engineer - DM5 Locations Dallas, TX, United States Posting Date08/12/2026 Equipment Engineer - MFAB Locations South Portland, ME, United States Posting Date08/12/2026 Photo Manufacturing Process Engineer (SM1) Locations Sherman, TX, United States Posting Date08/31/2026 Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications & brand marketing Marketing Finance, accounting & operations Human resources Information technology Resources Recruitment process Recruitment events Students & new grads Veterans Benefits at TI Our culture Locations North America Europe Asia Pacific Jobs 95 Job search results 95 Events 0 Work Locations 0 Dallas, South Campus (38) Richardson, Richardson Fab, Renner Rd (12) Lehi, Lehi, UT (8) Sherman, Sherman - SM1 Fab (8) Dallas, North Campus - DMOS V South (6) Dallas, North Campus - DMOS V North (6) Dallas, North Campus - Kilby East (5) Tucson, Tucson Williams Ctr-South Bldg,.\n• , Apache Kafka)Understanding of modern data lake/lakehouse concepts, including table formats like Apache Iceberg and object storage systems (e.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25015894/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-career-accelerator-program-data-engineer-richardson"
-  },
-  {
-    "employer_name": "Texas Instruments",
-    "job_title": "Career Accelerator Program - Systems Marketing Engineer (SEM) - A&D",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "20h",
-    "job_description": "• (5) Dallas, North Campus - Generic (4) Dallas, North Campus - DMOS 6 (4) Categories 0 Engineering - Product Dev (48) Manufacturing (32) Information Technology (11) Administration (1) Supply Chain & Operations (1) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (67) Interns (14) Recent College Grads (14) Work Locations 0 Dallas, South Campus (38) Richardson, Richardson Fab, Renner Rd (12) Lehi, Lehi, UT (8) Sherman, Sherman - SM1 Fab (8) Dallas, North Campus - DMOS V South (6) Dallas, North Campus - DMOS V North (6) Dallas, North Campus - Kilby East (5) Tucson, Tucson Williams Ctr-South Bldg,.\n• (5) Dallas, North Campus - Generic (4) Dallas, North Campus - DMOS 6 (4) Categories 0 Engineering - Product Dev (48) Manufacturing (32) Information Technology (11) Administration (1) Supply Chain & Operations (1) Sales (1) Facilities (1) Experience Level 0 Experienced Professional (67) Interns (14) Recent College Grads (14) Collaborate with customers and Field Application Engineers (FAEs) to identify top opportunities in key focus areas.\n• Transform design requirements into system architecture, evaluating options for the best solution.\n• Break down system requirements to determine necessary design effort and manage requirement changes, reflecting a comprehensive view and creativity in problem-solving.\n• Coordinate and track progress with stakeholders to establish support strategies (design deliverables), timelines, and requirements for design solution.\n• Define the scope of technical work needed for actions, identifying engineering tools and collaboration necessary to meet design schedules.\n• Manage changing design requirements throughout the design cycle.\n• Master’s degree or higher Experience in system level board design, schematics, layout, testing and validation Proficient with analog electronics design, analysis, and simulation tools.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25017922/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-career-accelerator-program-systems-marketing-engineer-sem-a-d-dallas"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, AI Studios Engineering",
-    "job_city": "Culver City",
-    "job_state": "CA",
-    "job_posted_at": "20h",
-    "job_description": "software engineering job for the role Software Development Engineer, AI Studios Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10541530/software-development-engineer-ai-studios-engineering",
-    "id": "amazon-software-development-engineer-ai-studios-engineering-culver-city"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Telemetry Router",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Telemetry Router",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91620209663582918-software-engineer-iii-infrastructure-telemetry-router?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
+    "id": "google-software-engineer-iii-infrastructure-telemetry-router-pittsburgh"
   },
   {
     "employer_name": "Amazon",
@@ -851,10 +791,20 @@
   },
   {
     "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, AI Studios Engineering",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Development Engineer, AI Studios Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10541530/software-development-engineer-ai-studios-engineering",
+    "id": "amazon-software-development-engineer-ai-studios-engineering-culver-city"
+  },
+  {
+    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, AWS Marketplace Engineering",
     "job_city": "Arlington",
     "job_state": "VA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "software engineering job for the role Software Development Engineer, AWS Marketplace Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10534349/software-development-engineer-aws-marketplace-engineering",
     "id": "amazon-software-development-engineer-aws-marketplace-engineering-arlington"
@@ -874,7 +824,7 @@
     "job_title": "Software Development Engineer II, WWPS Engineering - Customer Engineering",
     "job_city": "Herndon",
     "job_state": "VA",
-    "job_posted_at": "20h",
+    "job_posted_at": "1d",
     "job_description": "software engineering job for the role Software Development Engineer II, WWPS Engineering - Customer Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10542488/software-development-engineer-ii-wwps-engineering-customer-engineering",
     "id": "amazon-software-development-engineer-ii-wwps-engineering-customer-engineering-herndon"
@@ -884,7 +834,7 @@
     "job_title": "Software Development Engineer II, Platform Engineering and Emerging Technologies",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "1w",
+    "job_posted_at": "2w",
     "job_description": "software engineering job for the role Software Development Engineer II, Platform Engineering and Emerging Technologies",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10526459/software-development-engineer-ii-platform-engineering-and-emerging-technologies",
     "id": "amazon-software-development-engineer-ii-platform-engineering-and-emerging-technologies-seattle"
@@ -894,7 +844,7 @@
     "job_title": "Test Process Engineer, Amazon Leo",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_posted_at": "20h",
+    "job_posted_at": "1d",
     "job_description": "software engineering job for the role Test Process Engineer, Amazon Leo",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10541750/test-process-engineer-amazon-leo",
     "id": "amazon-test-process-engineer-amazon-leo-bellevue"
@@ -944,7 +894,7 @@
     "job_title": "Software Development Engineer (SDE), SDN, Amazon LEO",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "1w",
+    "job_posted_at": "2w",
     "job_description": "software engineering job for the role Software Development Engineer (SDE), SDN, Amazon LEO",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10526793/software-development-engineer-sde-sdn-amazon-leo",
     "id": "amazon-software-development-engineer-sde-sdn-amazon-leo-redmond"
@@ -984,7 +934,7 @@
     "job_title": "Component Engineer, Leo Component Engineering Team",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Component Engineer, Leo Component Engineering Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10537832/component-engineer-leo-component-engineering-team",
     "id": "amazon-component-engineer-leo-component-engineering-team-redmond"
@@ -994,7 +944,7 @@
     "job_title": "Software Development Engineer - AWS Cryptography",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "2w",
+    "job_posted_at": "3w",
     "job_description": "software engineering job for the role Software Development Engineer - AWS Cryptography",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10516264/software-development-engineer-aws-cryptography",
     "id": "amazon-software-development-engineer-aws-cryptography-seattle"
@@ -1004,7 +954,7 @@
     "job_title": "Software Development Engineer, iOS",
     "job_city": "Cambridge",
     "job_state": "MA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "software engineering job for the role Software Development Engineer, iOS",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10535234/software-development-engineer-ios",
     "id": "amazon-software-development-engineer-ios-cambridge"
@@ -1031,33 +981,23 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, AWS Contract Onboarding",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "20h",
-    "job_description": "software engineering job for the role Software Development Engineer, AWS Contract Onboarding",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10542458/software-development-engineer-aws-contract-onboarding",
-    "id": "amazon-software-development-engineer-aws-contract-onboarding-new-york"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Amazon Aurora DSQL",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "2w",
+    "job_posted_at": "3w",
     "job_description": "software engineering job for the role Software Development Engineer, Amazon Aurora DSQL",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10515221/software-development-engineer-amazon-aurora-dsql",
     "id": "amazon-software-development-engineer-amazon-aurora-dsql-seattle"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, AWS Kumo Wolfpack",
-    "job_city": "Bellevue",
-    "job_state": "WA",
+    "job_title": "Software Development Engineer, AWS Contract Onboarding",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer II, AWS Kumo Wolfpack",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10539091/software-development-engineer-ii-aws-kumo-wolfpack",
-    "id": "amazon-software-development-engineer-ii-aws-kumo-wolfpack-bellevue"
+    "job_description": "software engineering job for the role Software Development Engineer, AWS Contract Onboarding",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10542458/software-development-engineer-aws-contract-onboarding",
+    "id": "amazon-software-development-engineer-aws-contract-onboarding-new-york"
   },
   {
     "employer_name": "Amazon",
@@ -1068,6 +1008,16 @@
     "job_description": "software engineering job for the role AI/ML Engineer, Amazon Global Data Center Ops Central Insight and Analytics Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10513234/ai-ml-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team",
     "id": "amazon-ai-ml-engineer-amazon-global-data-center-ops-central-insight-and-analytics-team-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer II, AWS Kumo Wolfpack",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "2d",
+    "job_description": "software engineering job for the role Software Development Engineer II, AWS Kumo Wolfpack",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10539091/software-development-engineer-ii-aws-kumo-wolfpack",
+    "id": "amazon-software-development-engineer-ii-aws-kumo-wolfpack-bellevue"
   },
   {
     "employer_name": "Amazon",
@@ -1094,7 +1044,7 @@
     "job_title": "IT Application Engineer II, FinTech General Ledger",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role IT Application Engineer II, FinTech General Ledger",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10537820/it-application-engineer-ii-fintech-general-ledger",
     "id": "amazon-it-application-engineer-ii-fintech-general-ledger-seattle"
