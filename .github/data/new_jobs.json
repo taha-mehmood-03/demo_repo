@@ -451,6 +451,16 @@
   },
   {
     "employer_name": "AMD",
+    "job_title": "FPGA Engineer: Physical AI & Robotics",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Collaborate with AMD architecture, silicon, software, and AI engineering teams to influence future product capabilities and improve customer experience.\n• FPGA development using Verilog, SystemVerilog, or VHDL, including experience with AMD Vivado™, Vitis™, Vitis HLS™, AI Engine, or comparable FPGA development environments.\n• Experience with control systems, motor control, DSP algorithm implementation, AI inference acceleration, or edge AI applications.\n• Experience developing solutions for robotics, industrial automation, autonomous systems, machine vision, or intelligent edge devices.\n• Experience integrating sensors and high-speed interfaces, including cameras, LiDAR, radar, PCIe, Ethernet, USB, MIPI, CAN, and related technologies.\n• Strong system integration, hardware bring-up, debugging, and performance optimization skills utilizing industry-standard hardware debugging tools.\n• Strong analytical, problem-solving, communication, and customer-facing technical skills.\n• Design and develop FPGA and Adaptive SoC solutions for Physical AI applications including robotics, industrial automation, autonomous systems, and intelligent edge devices.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/88075/login",
+    "id": "amd-fpga-engineer-physical-ai-robotics-us"
+  },
+  {
+    "employer_name": "AMD",
     "job_title": "Linux Kernel & Virtualization Engineer",
     "job_city": "US",
     "job_state": "CA",
@@ -540,64 +550,24 @@
     "id": "amd-p4-compiler-engineer-dpu-us"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op",
-    "job_city": "Multiple",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• You are currently enrolled in a United States based University in a Bachelor's program majoring in Electrical engineering or Computer engineering or a related field If you have knowledge / experience with any of the following technical skills (or related areas) and are enthusiastic about this role, we strongly encourage you to apply – Programming languages and scripts such as C++ /Python /C /Perl /Shell /UVMVerilog and System VerilogGood understanding of the digital systems and computer organizationBuilding a PC from individual components, installing OS/drivers, basic network configuration, graphic cards CPU/APUSystem level hardware and software designDevelopment and debugging in Linux / Unix / Windows environmentsFundamentals of logic design (FSM, gates, registers, flops, timing, HDL)An understanding of analog and digital transistor device behaviorOscilloscopes, volt meters, logic analyzers, multimeters and other lab equipment Locations: Austin, TX, Boxborough, MA, Fort Collins, CO, Longmont, CO, Fishkill, NY, Rochester, NY, Secaucus, NJ Onsite/Hybrid: This role requires the student to work full time (40 hours a week), in either a hybrid or onsite work structure throughout the duration of the co-op/intern termDuration:Spring/Summer Co-op: January 25, 2027 - August 13, 2027Summer Internship: Semester Students: May 24, 2027 - August 13, 2027 Quarter Students: June 21, 2027 - September 10, 2027Summer/Fall Co-op: Semester Students: May 24, 2027 - December 10, 2027 Quarter Students: June 21, 2027 - December 10, 2027 AMD Partner Hub Authorized Distributors AMD University Program Collaborate with senior engineers and/or designers to build and complete performance verification test plan, simulation test cases and modelsWrite scripts related to tracking and managing compute resources using Perl/PythonTest regression flows written in Perl/Python/MySQL/PHP to support our project developmentReview new tools, processes and options to improve simulation performance, team efficiency and reduction of duplicationsSupport debugging, improving test cases/models and Verilog/system Verilog codingBuild test platforms and perform system level testingProduction validation tasks, testing the integrated hardware and software functionalities to ensure problem-free productionUse software and other tools to engage in low level testing of hardware/software features, debugging technical issues and identifying root cause Spring/Summer Co-op: January 25, 2027 - August 13, 2027Summer Internship: Semester Students: May 24, 2027 - August 13, 2027 Quarter Students: June 21, 2027 - September 10, 2027Summer/Fall Co-op: Semester Students: May 24, 2027 - December 10, 2027 Quarter Students: June 21, 2027 - December 10, 2027 Austin, Texas.\n• Boxborough, Massachusetts.\n• Fort Collins, Colorado.\n• Secaucus, New JerseyStudent / Intern / Temp90820USD $59,072.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://campus-amd.icims.com/jobs/90820/login",
-    "id": "amd-2027-undergrad-hadware-design-verification-engineering-intern-co-op-multiple"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Available in one of 183 locations",
+    "job_title": "Field Service Engineer, Data Centers - ELSE",
+    "job_city": "Available in one of 5 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-available-in-one-of-183-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046427/Field-Service-Engineer-Data-Centers-ELSE",
+    "id": "abb-field-service-engineer-data-centers-else-available-in-one-of-5-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Summer",
-    "job_city": "Available in one of 2 locations",
+    "job_title": "Field Service Technician",
+    "job_city": "Available in one of 4 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045706/Application-Engineering-Intern-Summer-2027",
-    "id": "abb-application-engineering-intern-summer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Spring",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045705/Application-Engineering-Intern-Spring-2027",
-    "id": "abb-application-engineering-intern-spring-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Systems Engineer Pulp Paper and Fiber",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045530/Systems-Engineer-Pulp-Paper-and-Fiber",
-    "id": "abb-systems-engineer-pulp-paper-and-fiber-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician-Gary, IN",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048460/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047243/Field-Service-Technician",
+    "id": "abb-field-service-technician-available-in-one-of-4-locations"
   },
   {
     "employer_name": "ABB",
@@ -631,6 +601,46 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Systems Engineer Pulp Paper and Fiber",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045530/Systems-Engineer-Pulp-Paper-and-Fiber",
+    "id": "abb-systems-engineer-pulp-paper-and-fiber-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Summer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045706/Application-Engineering-Intern-Summer-2027",
+    "id": "abb-application-engineering-intern-summer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Spring",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045705/Application-Engineering-Intern-Spring-2027",
+    "id": "abb-application-engineering-intern-spring-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician-Gary, IN",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048460/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Product Engineer",
     "job_city": "Location Memphis",
     "job_state": "Tennessee",
@@ -641,46 +651,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Engineering Co-op- Spring",
-    "job_city": "Location Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Co-op-Spring-2026",
-    "id": "abb-engineering-co-op-spring-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AMR Layout Design Engineer",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035582/AMR-Layout-Design-Engineer",
-    "id": "abb-amr-layout-design-engineer-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Paint Mechanical Project Engineer",
-    "job_city": "Location Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039797/Robotics-Paint-Mechanical-Project-Engineer",
-    "id": "abb-robotics-paint-mechanical-project-engineer-location-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineer-Pulp & Paper",
-    "job_city": "Location Westerville",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045532/Application-Engineer-Pulp-Paper",
-    "id": "abb-application-engineer-pulp-paper-location-westerville"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Engineer - Process Performance Optimization",
     "job_city": "Available in one of 2 locations",
     "job_state": "US",
@@ -688,36 +658,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046431/Digital-Engineer-Process-Performance-Optimization",
     "id": "abb-digital-engineer-process-performance-optimization-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Systems Engineering Intern – Summer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047388/Systems-Engineering-Intern-Summer-2027",
-    "id": "abb-systems-engineering-intern-summer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047243/Field-Service-Technician",
-    "id": "abb-field-service-technician-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer, Data Centers - ELSE",
-    "job_city": "Available in one of 5 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046427/Field-Service-Engineer-Data-Centers-ELSE",
-    "id": "abb-field-service-engineer-data-centers-else-available-in-one-of-5-locations"
   },
   {
     "employer_name": "ABB",
@@ -751,103 +691,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Mechanical Design Engineer",
-    "job_city": "Location Mebane",
-    "job_state": "North Carolina",
+    "job_title": "AMR Layout Design Engineer",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046249/Associate-Mechanical-Design-Engineer",
-    "id": "abb-associate-mechanical-design-engineer-location-mebane"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035582/AMR-Layout-Design-Engineer",
+    "id": "abb-amr-layout-design-engineer-location-auburn-hills"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Customer Application Engineer",
-    "job_city": "Location Cary",
-    "job_state": "North Carolina",
+    "job_title": "Robotics Paint Mechanical Project Engineer",
+    "job_city": "Location Auburn Hills",
+    "job_state": "Michigan",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042697/Global-Customer-Application-Engineer",
-    "id": "abb-global-customer-application-engineer-location-cary"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039797/Robotics-Paint-Mechanical-Project-Engineer",
+    "id": "abb-robotics-paint-mechanical-project-engineer-location-auburn-hills"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Application Engineer - Critical Infrastructure Applications",
-    "job_city": "Location Cary",
-    "job_state": "North Carolina",
+    "job_title": "Engineering Co-op- Spring",
+    "job_city": "Location Selmer",
+    "job_state": "Tennessee",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
-    "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Power Electronics Scientist",
-    "job_city": "Location Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046300/Power-Electronics-Scientist",
-    "id": "abb-power-electronics-scientist-location-raleigh"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033927/R-D-Engineer",
-    "id": "abb-r-d-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Intern Florence-- Summer",
-    "job_city": "Location Florence",
-    "job_state": "South Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046528/R-D-Intern-Florence-Summer-2027",
-    "id": "abb-r-d-intern-florence-summer-location-florence"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer",
-    "id": "abb-r-d-engineer-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer - Panelboards",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028179/R-D-Engineer-Panelboards",
-    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Intern Bloomfield - Summer",
-    "job_city": "Location Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046279/R-D-Intern-Bloomfield-Summer-2027",
-    "id": "abb-r-d-intern-bloomfield-summer-location-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer",
-    "job_city": "Location Miramar",
-    "job_state": "Florida",
-    "job_posted_at": "1h",
-    "job_description": "• Increases product and technical knowledge through factory or third-party training, technical manuals, and conventional or non-conventional resourcesTroubleshoot and repair equipment, applying personal knowledge and experience.\n• Four or more years’ experience in marine power generation and power distribution with a focus on variable frequency drives, both low and medium voltage, and control systems and programming.\n• Bachelor’s degree in electrical engineering or another Electrical technical field.\n• Experience in marine power generation and power distribution.\n• Preferred experience with ABB marine equipment.\n• Ship electrician experience or have experience from shipyards, understanding and interest in marine installations.\n• Works independently to install, modify, test, repair, or inspect company products and equipment including, but not limited to: liquid cooled variable frequency drives, both low and medium voltage, and automation systems and programming.\n• Performs or coordinates complex and diverse engineering activities associated with field projects.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012222/Field-Service-Engineer",
-    "id": "abb-field-service-engineer-location-miramar"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Co-op-Spring-2026",
+    "id": "abb-engineering-co-op-spring-location-selmer"
   },
   {
     "employer_name": "ABB",
@@ -855,7 +725,7 @@
     "job_city": "Location Sant Quirze del Valles",
     "job_state": "Barcelona",
     "job_posted_at": "1h",
-    "job_description": "• 📱 Company Mobile Phone: Stay connected with a corporate phone – no need to mix work and personal calls.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities grow, upskill, and move forward in your career.\n• Degree in Computer Science, Robotics or a related field3+ years of industry experience in software engineering, robotics or computer visionStrong C++ and Python skills with a passion for high‑quality code, performance, and best practicesBonus points for experience working with systems involving SLAM, computer vision, roboticsFamiliarity with profiling tools, performance tuning, and debugging complex systems.\n• 🏡 Home Office Flexibility: Work from wherever suits you best thanks to our flexible remote work options.\n• 💻 Benefits Platform: Enjoy exclusive deals and discounts on everything from tech to travel through our employee benefits portal.\n• 📈 Employee Share Acquisition Plan: Want to invest in your future.\n• Join our share acquisition plan and grow with the company.\n• 🚀 Career Development: Expect plenty of chances to advance your career internally with our Open Job Market, with support to explore new roles and take on exciting challenges.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
     "id": "abb-robotics-visual-slam-software-engineer-location-sant-quirze-del-valles"
   },
@@ -868,6 +738,76 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00047028/Research-Scientist-in-Operational-Technology-OT-Cybersecurity-80-100",
     "id": "abb-research-scientist-in-operational-technology-ot-cybersecurity-80-100-location-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer Firmware (80 -100%)",
+    "job_city": "Location Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043136/R-D-Engineer-Firmware-80-100",
+    "id": "abb-r-d-engineer-firmware-80-100-location-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Working student (m/f/d) in the Development of Pole Parts",
+    "job_city": "Location Ratingen",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046368/Working-student-m-f-d-in-the-Development-of-Pole-Parts",
+    "id": "abb-working-student-m-f-d-in-the-development-of-pole-parts-location-ratingen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Location Auckland",
+    "job_state": "Auckland",
+    "job_posted_at": "1h",
+    "job_description": "• Electrical or Electronic Engineering qualificationSound knowledge of industrial control systemsGeneration (hydro, thermal, geothermal), oil & gas downstream processing, pulp & paper industries are an advantage.\n• Experience with fieldbus communication protocols, such as: ProfiBus, ModBusTCP/IP, and ModbusRTU.\n• Experience with OPC SMNPTertiary qualification in Electrical Engineering.\n• Advanced computer skills including MS Office & MS Project, Outlook, AutoCAD.\n• Designing and implementing DCS/PLC control systems, including concept development, configuration, validation, installation, and commissioning in line with ABB’s engineering execution and quality standards.\n• Developing and modifying IEC 61131-based control software, ensuring seamless integration with system architecture and alignment with functional design specifications.\n• Configuring and verifying industrial communication networks (including domain architecture), applying engineering guidelines and performing rigorous verification and validation activities.\n• Troubleshooting and optimizing control system applications, maintaining up‑to‑date technical knowledge of ICT solutions, development tools, and control system technologies.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043086/Project-Engineer",
+    "id": "abb-project-engineer-location-auckland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineer-Pulp & Paper",
+    "job_city": "Location Westerville",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Sales Support:Provide technical support as required for software specials proposals.\n• Supplemental benefits – 100% employee paid (Accident insurance, hospital indemnity, critical illness, pet insuranceParental Leave – up to 6 weeksEmployee Assistance ProgramHealth Advocate support resources for mental/behavioral health, general health navigation and virtual health, and infertility/adoptionEmployee discount program Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Bachelor’s degree and 2 years of professional work or related experience.\n• Bachelor’s Degree in Engineering or Paper Science, and 4 years of QCS application experience in the Pulp and Paper industry is preferred.\n• Previous Industrial Automation Experience a plus.\n• Microsoft Operating Systems Experience.\n• Provide technical support as required for software specials proposals.\n• Planning and Schedule Management.\n• Develop System Functional Specification for all projects when lead role is assigned.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045532/Application-Engineer-Pulp-Paper",
+    "id": "abb-application-engineer-pulp-paper-location-westerville"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SOFTWARE DEVELOPER (F/M/D) – SPECIAL-PURPOSE MACHINES",
+    "job_city": "Location Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042690/SOFTWARE-DEVELOPER-F-M-D-SPECIAL-PURPOSE-MACHINES",
+    "id": "abb-software-developer-f-m-d-special-purpose-machines-location-heidelberg"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Location Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-location-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Applications Engineer",
+    "job_city": "Location Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1h",
+    "job_description": "• 3+ years of industrial experience in robotics, autonomous systems, systems engineering, applications engineering, technical support engineering, or related fields.\n• Strong software engineering and debugging skills in Python, with experience troubleshooting complex software systems.\n• Experience working with Linux-based systems and networking fundamentals.\n• Experience with ROS/ROS2.\n• Strong communication and collaboration skills, with experience working across engineering, project, support, or customer-facing teams.\n• Willingness to travel occasionally to customer sites when required.\n• 📱 Company Mobile Phone: Stay connected with a corporate phone – no need to mix work and personal calls.\n• 🎓 Learning & Training: Take advantage of a wide range of learning opportunities grow, upskill, and move forward in your career.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037569/Robotics-Applications-Engineer",
+    "id": "abb-robotics-applications-engineer-location-sant-quirze-del-valles"
   },
   {
     "employer_name": "Apple",
@@ -891,16 +831,6 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer, Applied AI",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "3d",
-    "job_description": "• Minimum QualificationsB.\n• Exposure to applied AI Engineering, building software leveraging GenAI and ML to create production-level solutions to business needs, and enhance organizational and development workflows.\n• Ability to follow direction from engineering lead for feature scope, ability to collaborate with stakeholders, review and refine requirements, moving project towards completion.\n• Strong communication and presentation skills, with the ability to articulate technical concepts to diverse audiences while thriving in a fast-paced, evolving environment.\n• In Computer Science, Software Engineering, Computer Engineering, Machine Learning, or related field.\n• Exposure to software engineering through internships, with strong foundation in CS fundamentals, including data structures, algorithms, and exposure to building web applications using Python (FastAPI, SQLAlchemy), TypeScript (React/Next.\n• Js), and containerized services on Kubernetes (EKS, Helm, Terraform).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200684521-3543/software-engineer-applied-ai?team=HRDWR",
-    "id": "apple-software-engineer-applied-ai-san-diego"
-  },
-  {
-    "employer_name": "Apple",
     "job_title": "Software Engineer, Algorithms (SDE)",
     "job_city": "Cupertino",
     "job_state": "US",
@@ -911,22 +841,12 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Power Systems Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "3w",
-    "job_description": "• Minimum QualificationsDeep understanding of operating systems and software architectureExperience working with many cross-functional teamsAbility to independently learn new technologies, prototype and design software solutions.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200681350-0836/software-power-systems-engineer?team=SFTWR",
-    "id": "apple-software-power-systems-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
     "job_title": "Camera Software Frameworks Engineer",
     "job_city": "",
     "job_state": "US",
     "job_posted_at": "1w",
     "job_description": "• Minimum QualificationsProficiency in C, C++, and/or Objective-C.\n• Experience in software development and debugging in embedded environmentsPassionate and inquisitive.\n• Seek to solve everyday problems in innovative waysExperience and/or coursework in image processing or imaging pipelinesStrong collaborative and communication skills.\n• Passionate about working in larger cross-functional teams.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200683544-3401/camera-software-frameworks-engineer?team=SFTWR",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200683544/camera-software-frameworks-engineer?team=SFTWR",
     "id": "apple-camera-software-frameworks-engineer-"
   },
   {
@@ -942,12 +862,32 @@
   {
     "employer_name": "Apple",
     "job_title": "Backend Software Engineer (Golang)",
-    "job_city": "San Diego",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "4d",
     "job_description": "• Minimum QualificationsBachelors degree in Engineering (CS or CE)3 years of experience in software engineering.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200676254-3543/backend-software-engineer-golang?team=SFTWR",
-    "id": "apple-backend-software-engineer-golang-san-diego"
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200676254-0157/backend-software-engineer-golang?team=SFTWR",
+    "id": "apple-backend-software-engineer-golang-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Applied AI/ML Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum QualificationsBachelor’s Degree in Computer Science, Computer Engineering, related field, or equivalent work experience3+ years professional software engineering experience working in Python or other object-oriented programming language(s)Demonstrated ability to write applications in a high-level programming language like Python, Ruby, Java, etc.\n• Excellent written and verbal communication skills to both technical and non-technical audiences.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200682044-3543/applied-ai-ml-software-engineer?team=MLAI",
+    "id": "apple-applied-ai-ml-software-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Triage Services",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsProgramming experience in PythonExperience building scalable data platforms and distributed systems.\n• Experience with LLM and agent development.\n• Bachelor's degree in Computer Science, Data Engineering, or a related field.\n• Knowledge of RAG architectures, embedding generation, vector databases, and AI data preparation for agentic workflows.\n• Familiarity with eval frameworks for agent quality (offline benchmarks, drift detection, confidence scoring).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200683343-0836/software-engineer-triage-services?team=SFTWR",
+    "id": "apple-software-engineer-triage-services-cupertino"
   },
   {
     "employer_name": "Apple",
@@ -1011,6 +951,26 @@
   },
   {
     "employer_name": "Apple",
+    "job_title": "Software Engineer — Face ID",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "4d",
+    "job_description": "• Minimum QualificationsBS and a minimum of 10 years relevant industry experienceTrack record of designing and shipping robust software in a collaborative environment.\n• Strong software engineering fundamentals: API and framework design, data structures, concurrency, memory management, and debugging complex systemsExperience writing production software for resource-constrained or embedded platforms, with an emphasis on performance, memory, latency, and powerExperience integrating computer vision or machine learning components into shipping products (you don't need to invent the models, but you should be comfortable working alongside those who do)Experience with profiling, instrumentation, automated testing, and continuous integration.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200685202-3956/software-engineer-face-id?team=MLAI",
+    "id": "apple-software-engineer-face-id-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Distributed Systems Software Engineer (Golang)",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum Qualifications5+ years Software engineering or DevOps experienceProficient in at least one of these languages: Python, Go, Rust, C++Strong experience with large-scale distributed systems (replication, high availability, data processing/streaming)Strong experience with Linux/UNIX administration, configuration, and monitoringHave written or contributed to a batch or realtime processing systemExperience with cloud environments (AWS, GCP, Azure): identity & credential management, pub/sub, message queuingExperience with infrastructure-as-code tools (e.\n• , Terraform, CloudFormation, Puppet, Flux, Ansible, etc)Experience with containerization and orchestration technologies (e.\n• , Docker, Kubernetes)Experience with zero-downtime deployments, job scheduling systems, event-based messaging systemsAble to quickly learn and adapt to new technologiesStrong operational and troubleshooting skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200676528-3543/distributed-systems-software-engineer-golang?team=SFTWR",
+    "id": "apple-distributed-systems-software-engineer-golang-san-diego"
+  },
+  {
+    "employer_name": "Apple",
     "job_title": "Software Engineer, Real-Time Video Streaming",
     "job_city": "Cupertino",
     "job_state": "US",
@@ -1028,16 +988,6 @@
     "job_description": "• Minimum QualificationsBachelor's degree in Computer Science or related field1+ years of professional software industry experience.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200682437-3543/software-quality-engineer-media?team=SFTWR",
     "id": "apple-software-quality-engineer-media-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Journal Team",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum Qualifications2+ years of experience with Swift and/or Objective-C design patterns2+ years of experience with UIKit and/or SwiftUITalent for cleanly architecting UI featuresExperience with AI assisted development toolsExcellent oral and written communication skillsBS in Computer Science or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200684192-0836/software-engineer-journal-team?team=SFTWR",
-    "id": "apple-software-engineer-journal-team-cupertino"
   },
   {
     "employer_name": "Apple",
@@ -1191,16 +1141,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Front-End Engineer, Amazon Quick",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "3w",
-    "job_description": "software engineering job for the role Front-End Engineer, Amazon Quick",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10528746/front-end-engineer-amazon-quick",
-    "id": "amazon-front-end-engineer-amazon-quick-new-york"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Engineer, DynamoDB Performance",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -1208,6 +1148,16 @@
     "job_description": "software engineering job for the role Software Engineer, DynamoDB Performance",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10524940/software-engineer-dynamodb-performance",
     "id": "amazon-software-engineer-dynamodb-performance-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Front-End Engineer, Amazon Quick",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "3w",
+    "job_description": "software engineering job for the role Front-End Engineer, Amazon Quick",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10528746/front-end-engineer-amazon-quick",
+    "id": "amazon-front-end-engineer-amazon-quick-new-york"
   },
   {
     "employer_name": "Amazon",
@@ -1281,16 +1231,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, AWS Marketing, Data Science & Engineering (D:SE)",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2d",
-    "job_description": "software engineering job for the role Software Development Engineer, AWS Marketing, Data Science & Engineering (D:SE)",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10560626/software-development-engineer-aws-marketing-data-science-engineering-d-se",
-    "id": "amazon-software-development-engineer-aws-marketing-data-science-engineering-d-se-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Devices Software & Services",
     "job_city": "Irvine",
     "job_state": "CA",
@@ -1298,6 +1238,16 @@
     "job_description": "software engineering job for the role Software Development Engineer, Devices Software & Services",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10560849/software-development-engineer-devices-software-services",
     "id": "amazon-software-development-engineer-devices-software-services-irvine"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, AWS Marketing, Data Science & Engineering (D:SE)",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2d",
+    "job_description": "software engineering job for the role Software Development Engineer, AWS Marketing, Data Science & Engineering (D:SE)",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10560626/software-development-engineer-aws-marketing-data-science-engineering-d-se",
+    "id": "amazon-software-development-engineer-aws-marketing-data-science-engineering-d-se-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -1311,16 +1261,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, AWS Kumo Wolfpack",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Development Engineer II, AWS Kumo Wolfpack",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10539091/software-development-engineer-ii-aws-kumo-wolfpack",
-    "id": "amazon-software-development-engineer-ii-aws-kumo-wolfpack-bellevue"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, AWS Contract Onboarding",
     "job_city": "New York",
     "job_state": "NY",
@@ -1328,5 +1268,15 @@
     "job_description": "software engineering job for the role Software Development Engineer, AWS Contract Onboarding",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10542458/software-development-engineer-aws-contract-onboarding",
     "id": "amazon-software-development-engineer-aws-contract-onboarding-new-york"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer II, AWS Kumo Wolfpack",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Development Engineer II, AWS Kumo Wolfpack",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10539091/software-development-engineer-ii-aws-kumo-wolfpack",
+    "id": "amazon-software-development-engineer-ii-aws-kumo-wolfpack-bellevue"
   }
 ]
