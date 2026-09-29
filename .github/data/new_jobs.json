@@ -1,53 +1,13 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Software Developer Intern 2027 - Cambridge",
-    "job_city": "shipCambridge",
+    "job_title": "Software Developer Intern 2027 - Bellevue",
+    "job_city": "shipBellevue",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Developer Intern 2027 - Cambridge",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134934&source=WEB_Search_NA",
-    "id": "ibm-software-developer-intern-2027-cambridge-shipcambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "2027 Software Developer Intern",
-    "job_city": "shipPOUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role 2027 Software Developer Intern",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134708&source=WEB_Search_NA",
-    "id": "ibm-2027-software-developer-intern-shippoughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Algorithms Engineer Intern",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Quantum Algorithms Engineer Intern 2027",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133789&source=WEB_Search_NA",
-    "id": "ibm-quantum-algorithms-engineer-intern-ship"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineer- Infrastructure/Service Mesh",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "No description found",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR358458/software-engineer-infrastructureservice-mesh/",
-    "id": "salesforce-software-engineer-infrastructure-service-mesh-california-san-francisco"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Embedded Software Engineer Intern",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Staff Software EngineerlocationsUS, MA, Bostonposted onPosted 20 Days AgoR265432Staff Backend Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR263257Senior Embedded Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR265433Embedded Software Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266132Associate Embedded Software Engineerlocations3 Locationsposted onPosted 13 Days AgoR266131Software Development Manager, MedTechlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR261937ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Staff PDK Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262678Senior Software Engineer, Enterprise AI PlatformlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR266396Staff Cloud Security Engineer, Healthcare PlatformlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR264917Forward Deployed Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264808Staff AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265562Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265563Senior Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265564Principal Audio/DSP Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262446Senior Engineer, AI/ML SoftwarelocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265599Senior Embedded Hardware and Firmware EngineerlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR263186Deep Agentic Reasoning Engineer (Lorenz Labs)locations2 Locationsposted onPosted 17 Days AgoR257953Principal Forward Deployed Engineer, Enterprise AI Productivitylocations2 Locationsposted onPosted TodayR266395Principal AI Accelerator Architect Leadlocations2 Locationsposted onPosted 12 Days AgoR263269.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-embedded-software-engineer-intern-3-locations"
+    "job_description": "software engineering job for the role Software Developer Intern 2027 - Bellevue",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134100&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-2027-bellevue-shipbellevue"
   },
   {
     "employer_name": "Analog Devices",
@@ -55,9 +15,19 @@
     "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Staff Software EngineerlocationsUS, MA, Bostonposted onPosted 20 Days AgoR265432Staff Backend Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR263257Senior Embedded Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR265433Embedded Software Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266132Associate Embedded Software Engineerlocations3 Locationsposted onPosted 13 Days AgoR266131Software Development Manager, MedTechlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR261937ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Staff PDK Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262678Senior Software Engineer, Enterprise AI PlatformlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR266396Staff Cloud Security Engineer, Healthcare PlatformlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR264917Forward Deployed Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264808Staff AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265562Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265563Senior Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265564Principal Audio/DSP Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262446Senior Engineer, AI/ML SoftwarelocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265599Senior Embedded Hardware and Firmware EngineerlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR263186Deep Agentic Reasoning Engineer (Lorenz Labs)locations2 Locationsposted onPosted 17 Days AgoR257953Principal Forward Deployed Engineer, Enterprise AI Productivitylocations2 Locationsposted onPosted TodayR266395Principal AI Accelerator Architect Leadlocations2 Locationsposted onPosted 12 Days AgoR263269.",
+    "job_description": "• Staff Software EngineerlocationsUS, MA, Bostonposted onPosted 20 Days AgoR265432Staff Backend Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR263257Senior Embedded Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR265433Associate Embedded Software Engineerlocations3 Locationsposted onPosted 13 Days AgoR266131Embedded Software Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266132Software Development Manager, MedTechlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR261937ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Staff PDK Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262678Senior Software Engineer, Enterprise AI PlatformlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR266396Staff Cloud Security Engineer, Healthcare PlatformlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR264917Forward Deployed Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264808Staff AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265562Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265563Senior Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265564Principal Audio/DSP Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262446Senior Engineer, AI/ML SoftwarelocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265599Senior Embedded Hardware and Firmware EngineerlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR263186Deep Agentic Reasoning Engineer (Lorenz Labs)locations2 Locationsposted onPosted 17 Days AgoR257953Principal Forward Deployed Engineer, Enterprise AI Productivitylocations2 Locationsposted onPosted TodayR266395Principal AI Accelerator Architect Leadlocations2 Locationsposted onPosted 12 Days AgoR263269.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-embedded-software-engineer-3-locations"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Embedded Software Engineer Intern",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Staff Software EngineerlocationsUS, MA, Bostonposted onPosted 20 Days AgoR265432Staff Backend Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR263257Senior Embedded Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR265433Associate Embedded Software Engineerlocations3 Locationsposted onPosted 13 Days AgoR266131Embedded Software Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266132Software Development Manager, MedTechlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR261937ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Staff PDK Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262678Senior Software Engineer, Enterprise AI PlatformlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR266396Staff Cloud Security Engineer, Healthcare PlatformlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR264917Forward Deployed Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264808Staff AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265562Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265563Senior Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265564Principal Audio/DSP Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262446Senior Engineer, AI/ML SoftwarelocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265599Senior Embedded Hardware and Firmware EngineerlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR263186Deep Agentic Reasoning Engineer (Lorenz Labs)locations2 Locationsposted onPosted 17 Days AgoR257953Principal Forward Deployed Engineer, Enterprise AI Productivitylocations2 Locationsposted onPosted TodayR266395Principal AI Accelerator Architect Leadlocations2 Locationsposted onPosted 12 Days AgoR263269.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-software-engineer-intern-3-locations"
   },
   {
     "employer_name": "Analog Devices",
@@ -65,7 +35,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "2w",
-    "job_description": "• Staff Software EngineerlocationsUS, MA, Bostonposted onPosted 20 Days AgoR265432Staff Backend Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR263257Senior Embedded Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR265433Embedded Software Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266132Associate Embedded Software Engineerlocations3 Locationsposted onPosted 13 Days AgoR266131Software Development Manager, MedTechlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR261937ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Staff PDK Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262678Senior Software Engineer, Enterprise AI PlatformlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR266396Staff Cloud Security Engineer, Healthcare PlatformlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR264917Forward Deployed Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264808Staff AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265562Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265563Senior Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265564Principal Audio/DSP Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262446Senior Engineer, AI/ML SoftwarelocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265599Senior Embedded Hardware and Firmware EngineerlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR263186Deep Agentic Reasoning Engineer (Lorenz Labs)locations2 Locationsposted onPosted 17 Days AgoR257953Principal Forward Deployed Engineer, Enterprise AI Productivitylocations2 Locationsposted onPosted TodayR266395Principal AI Accelerator Architect Leadlocations2 Locationsposted onPosted 12 Days AgoR263269.",
+    "job_description": "• Staff Software EngineerlocationsUS, MA, Bostonposted onPosted 20 Days AgoR265432Staff Backend Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR263257Senior Embedded Software EngineerlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR265433Associate Embedded Software Engineerlocations3 Locationsposted onPosted 13 Days AgoR266131Embedded Software Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266132Software Development Manager, MedTechlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR261937ASIC Design and Verification Engineer - AIlocations2 Locationsposted onPosted 30+ Days AgoR260556Staff PDK Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262678Senior Software Engineer, Enterprise AI PlatformlocationsUS, CA, San Jose, Rio Roblesposted onPosted TodayR266396Staff Cloud Security Engineer, Healthcare PlatformlocationsUS, MA, Wilmingtonposted onPosted 5 Days AgoR264917Forward Deployed Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264808Staff AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265562Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265563Senior Principal AI/ML Engineer, Deep Agentic Reasoning Engineer (Lorenz Labs)locationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR265564Principal Audio/DSP Systems EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262446Senior Engineer, AI/ML SoftwarelocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265599Senior Embedded Hardware and Firmware EngineerlocationsUS, MA, Wilmingtonposted onPosted 19 Days AgoR263186Deep Agentic Reasoning Engineer (Lorenz Labs)locations2 Locationsposted onPosted 17 Days AgoR257953Principal Forward Deployed Engineer, Enterprise AI Productivitylocations2 Locationsposted onPosted TodayR266395Principal AI Accelerator Architect Leadlocations2 Locationsposted onPosted 12 Days AgoR263269.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-Engineer--AI-ML-Software_R257953?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-deep-agentic-reasoning-engineer-lorenz-labs-2-locations"
   },
@@ -95,7 +65,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "2w",
-    "job_description": "• Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR266553Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264759Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264764Principal Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265694Senior Engineer, Process Sustaining EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264402Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR265548Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR265475Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261438Senior Engineer, Product EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264357Principal Project ManagerlocationsUS, MA, Wilmingtonposted onPosted TodayR266139Principal System EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264843Senior Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265071Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261961Senior Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262135Test Engineering Internlocations2 Locationsposted onPosted 12 Days AgoR266146Reliability Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR264232Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387.",
+    "job_description": "• Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR266553Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264759Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264764Principal Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265694Senior Engineer, Process Sustaining EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264402Principal Project ManagerlocationsUS, MA, Wilmingtonposted onPosted TodayR266139Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR265548Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR265475Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261438Principal System EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264843Senior Engineer, Product EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264357Senior Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265071Reliability Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR264232Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261961Test Engineering Internlocations2 Locationsposted onPosted 12 Days AgoR266146Senior Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262135Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263805.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Engineer--Process-Sustaining-Engineering_R265548?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-engineer-process-sustaining-engineering-us"
   },
@@ -105,19 +75,9 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "1w",
-    "job_description": "• Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR266553Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264759Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264764Principal Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265694Senior Engineer, Process Sustaining EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264402Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR265548Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR265475Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261438Senior Engineer, Product EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264357Principal Project ManagerlocationsUS, MA, Wilmingtonposted onPosted TodayR266139Principal System EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264843Senior Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265071Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261961Senior Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262135Test Engineering Internlocations2 Locationsposted onPosted 12 Days AgoR266146Reliability Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR264232Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387.",
+    "job_description": "• Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR266553Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264759Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264764Principal Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265694Senior Engineer, Process Sustaining EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264402Principal Project ManagerlocationsUS, MA, Wilmingtonposted onPosted TodayR266139Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR265548Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR265475Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261438Principal System EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264843Senior Engineer, Product EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264357Senior Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265071Reliability Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR264232Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261961Test Engineering Internlocations2 Locationsposted onPosted 12 Days AgoR266146Senior Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262135Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263805.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Engineer--Semi-Packaging-Engineering_R265475?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-engineer-semi-packaging-engineering-us"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Test Engineering Intern",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR266553Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264759Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264764Principal Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265694Senior Engineer, Process Sustaining EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264402Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR265548Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR265475Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261438Senior Engineer, Product EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264357Principal Project ManagerlocationsUS, MA, Wilmingtonposted onPosted TodayR266139Principal System EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264843Senior Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265071Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261961Senior Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262135Test Engineering Internlocations2 Locationsposted onPosted 12 Days AgoR266146Reliability Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR264232Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Engineering-Intern_R266146?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-test-engineering-intern-2-locations"
   },
   {
     "employer_name": "Analog Devices",
@@ -125,9 +85,19 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "2w",
-    "job_description": "• Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR266553Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264759Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264764Principal Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265694Senior Engineer, Process Sustaining EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264402Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR265548Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR265475Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261438Senior Engineer, Product EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264357Principal Project ManagerlocationsUS, MA, Wilmingtonposted onPosted TodayR266139Principal System EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264843Senior Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265071Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261961Senior Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262135Test Engineering Internlocations2 Locationsposted onPosted 12 Days AgoR266146Reliability Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR264232Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387.",
+    "job_description": "• Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR266553Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264759Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264764Principal Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265694Senior Engineer, Process Sustaining EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264402Principal Project ManagerlocationsUS, MA, Wilmingtonposted onPosted TodayR266139Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR265548Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR265475Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261438Principal System EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264843Senior Engineer, Product EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264357Senior Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265071Reliability Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR264232Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261961Test Engineering Internlocations2 Locationsposted onPosted 12 Days AgoR266146Senior Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262135Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263805.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Reliability-Engineering_R264232?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-reliability-hardware-engineer-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Test Engineering Intern",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR266553Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Staff Engineer, Test EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264759Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264764Principal Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265694Senior Engineer, Process Sustaining EngineeringlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264402Principal Project ManagerlocationsUS, MA, Wilmingtonposted onPosted TodayR266139Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR265548Senior Engineer, Digital Design EngineeringlocationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR262587Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR265475Staff Engineer, Analog Design EngineeringlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR261438Principal System EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR264843Senior Engineer, Product EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264357Senior Engineer, Reliability EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265071Reliability Hardware EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 20 Days AgoR264232Staff Engineer, Facilities EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR261961Test Engineering Internlocations2 Locationsposted onPosted 12 Days AgoR266146Senior Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262135Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263805.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Engineering-Intern_R266146?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-test-engineering-intern-2-locations"
   },
   {
     "employer_name": "Analog Devices",
@@ -135,7 +105,7 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "4d",
-    "job_description": "• Principal Engineer, Process Development EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263753Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Principal Engineer, Research Science EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 24 Days AgoR265222Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573Staff Engineer, Customer Quality EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263566Staff Engineer, Process Sustaining EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264415Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265395Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR261276Senior Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263149Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR266037Product Engineer / Design EvaluationlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263805Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 30+ Days AgoR264914Bio-Optics EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264158Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR265554Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR262890Process Sustaining EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264837Integration EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264224Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264360Staff FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264103.",
+    "job_description": "• Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Principal Engineer, Process Development EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263753Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Principal Engineer, Research Science EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 24 Days AgoR265222Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Engineer, Defect Reduction & Yield EnhancementlocationsUS, WA, Camasposted onPosted 30+ Days AgoR264914Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573Bio-Optics EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264158Staff Engineer, Customer Quality EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263566Staff Engineer, Process Sustaining EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264415Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265395Staff Engineer, Test Engineering - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR261276Process Sustaining EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264837Senior Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263149Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR266037Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR265554Staff Design Verification Engineer – SoC and eFPGAlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264360Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR262890Staff FPGA Systems Development Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264103Integration EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264224.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Packaging-Engineer_R265554?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-packaging-engineer-us"
   },
@@ -145,7 +115,7 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "1w",
-    "job_description": "• Embedded Systems Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265602Staff Test EngineerlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264206Staff Digital Design Engineer (PCB Design)locationsUS, MA, Chelmsford, Elizabethposted onPosted 27 Days AgoR263239Product Marketing Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264417Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Staff Mixed-Signal IC Design Engineerlocations2 Locationsposted onPosted 24 Days AgoR260175Staff RF Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264586Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR264847Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR265577Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264385Staff Equipment EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266171Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264154Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 30+ Days AgoR264005Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR263682.",
+    "job_description": "• Staff Test EngineerlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264206Staff Digital Design Engineer (PCB Design)locationsUS, MA, Chelmsford, Elizabethposted onPosted 27 Days AgoR263239Embedded Systems Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265602Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Staff Mixed-Signal IC Design Engineerlocations2 Locationsposted onPosted 24 Days AgoR260175Staff RF Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264586Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264385Staff Equipment EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266171Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264154Product Marketing Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264417Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR263682CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR264642.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Systems-Applications-Engineer_R265602?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-embedded-systems-applications-engineer-us"
   },
@@ -155,7 +125,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "6d",
-    "job_description": "• Embedded Systems Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265602Staff Test EngineerlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264206Staff Digital Design Engineer (PCB Design)locationsUS, MA, Chelmsford, Elizabethposted onPosted 27 Days AgoR263239Product Marketing Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264417Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Staff Mixed-Signal IC Design Engineerlocations2 Locationsposted onPosted 24 Days AgoR260175Staff RF Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264586Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR264847Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR265577Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264385Staff Equipment EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266171Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264154Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 30+ Days AgoR264005Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR263682.",
+    "job_description": "• Staff Test EngineerlocationsUS, CA, Milpitas, Tasmanposted onPosted 27 Days AgoR264206Staff Digital Design Engineer (PCB Design)locationsUS, MA, Chelmsford, Elizabethposted onPosted 27 Days AgoR263239Embedded Systems Applications EngineerlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR265602Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Senior Linux Administrator, Engineering IT Infrastructure & Operating SystemslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264049Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Staff Mixed-Signal IC Design Engineerlocations2 Locationsposted onPosted 24 Days AgoR260175Staff RF Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264586Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262073Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Equipment Technician 2, Metrology (Days)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264385Staff Equipment EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266171Senior Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264154Product Marketing Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264417Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR263682CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR264642.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Associate-Equipment-Engineer_R263682?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-equipment-engineer-us"
   },
@@ -165,7 +135,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "4w",
-    "job_description": "• CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR264642Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 30+ Days AgoR2614212nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264834Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 30+ Days AgoR265284Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264596System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 11 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Associate Product Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR266148Associate Product Quality EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR266149Thinfilms Process Sustaining Engineering Technician (Days)locationsUS, OR, Beavertonposted onPosted 13 Days AgoR265982Staff Systems Design Engineerlocations2 Locationsposted onPosted 20 Days AgoR264626Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR2643471st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264404Technician 3, Process Sustaining Engineering (Night Shift)locationsUS, WA, Camasposted onPosted TodayR266398.",
+    "job_description": "• Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 30+ Days AgoR2614212nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264834Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR265577Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 30+ Days AgoR265284Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR264847Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 30+ Days AgoR264005Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264596System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 11 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Associate Product Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR266148Associate Product Quality EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR266149Thinfilms Process Sustaining Engineering Technician (Days)locationsUS, OR, Beavertonposted onPosted 13 Days AgoR265982Staff Systems Design Engineerlocations2 Locationsposted onPosted 20 Days AgoR264626Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR2643471st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264404Technician 3, Process Sustaining Engineering (Night Shift)locationsUS, WA, Camasposted onPosted TodayR266398.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Process-Engineering-Technician--Nights-_R264348?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-process-engineering-technician-nights-us"
   },
@@ -175,7 +145,7 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "1w",
-    "job_description": "• CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR264642Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 30+ Days AgoR2614212nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264834Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 30+ Days AgoR265284Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264596System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 11 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Associate Product Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR266148Associate Product Quality EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR266149Thinfilms Process Sustaining Engineering Technician (Days)locationsUS, OR, Beavertonposted onPosted 13 Days AgoR265982Staff Systems Design Engineerlocations2 Locationsposted onPosted 20 Days AgoR264626Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR2643471st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264404Technician 3, Process Sustaining Engineering (Night Shift)locationsUS, WA, Camasposted onPosted TodayR266398.",
+    "job_description": "• Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 30+ Days AgoR2614212nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264834Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR265577Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 30+ Days AgoR265284Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR264847Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 30+ Days AgoR264005Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264596System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 11 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Associate Product Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR266148Associate Product Quality EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR266149Thinfilms Process Sustaining Engineering Technician (Days)locationsUS, OR, Beavertonposted onPosted 13 Days AgoR265982Staff Systems Design Engineerlocations2 Locationsposted onPosted 20 Days AgoR264626Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR2643471st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264404Technician 3, Process Sustaining Engineering (Night Shift)locationsUS, WA, Camasposted onPosted TodayR266398.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Product-Quality-Engineer_R266148?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-product-quality-engineer-us"
   },
@@ -185,7 +155,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "1w",
-    "job_description": "• CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR264642Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 30+ Days AgoR2614212nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264834Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 30+ Days AgoR265284Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264596System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 11 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Associate Product Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR266148Associate Product Quality EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR266149Thinfilms Process Sustaining Engineering Technician (Days)locationsUS, OR, Beavertonposted onPosted 13 Days AgoR265982Staff Systems Design Engineerlocations2 Locationsposted onPosted 20 Days AgoR264626Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR2643471st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264404Technician 3, Process Sustaining Engineering (Night Shift)locationsUS, WA, Camasposted onPosted TodayR266398.",
+    "job_description": "• Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 30+ Days AgoR2614212nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264834Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR265577Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 30+ Days AgoR265284Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR264847Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 30+ Days AgoR264005Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264596System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 11 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Associate Product Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR266148Associate Product Quality EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR266149Thinfilms Process Sustaining Engineering Technician (Days)locationsUS, OR, Beavertonposted onPosted 13 Days AgoR265982Staff Systems Design Engineerlocations2 Locationsposted onPosted 20 Days AgoR264626Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR2643471st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264404Technician 3, Process Sustaining Engineering (Night Shift)locationsUS, WA, Camasposted onPosted TodayR266398.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Thinfilms-Process-Sustaining-Engineering-Technician--Days-_R265982?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-thinfilms-process-sustaining-engineering-technician-days-us"
   },
@@ -195,7 +165,7 @@
     "job_city": "US",
     "job_state": "WA",
     "job_posted_at": "1d",
-    "job_description": "• CMP Equipment Maintenance Technician - Night ShiftlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263807Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 20 Days AgoR264642Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 30+ Days AgoR2614212nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264834Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 30+ Days AgoR265284Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264596System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 11 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Associate Product Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR266148Associate Product Quality EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR266149Thinfilms Process Sustaining Engineering Technician (Days)locationsUS, OR, Beavertonposted onPosted 13 Days AgoR265982Staff Systems Design Engineerlocations2 Locationsposted onPosted 20 Days AgoR264626Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR2643471st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264404Technician 3, Process Sustaining Engineering (Night Shift)locationsUS, WA, Camasposted onPosted TodayR266398.",
+    "job_description": "• Principal Engineer, Design Verificationlocations2 Locationsposted onPosted 30+ Days AgoR2614212nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264834Biomedical Engineering InternlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR265577Senior Engineer Equipment - PVD/Thin FilmslocationsUS, WA, Camasposted onPosted 30+ Days AgoR265284Principal Engineer, Mixed Signal Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR264847Senior Engineer, Physical Design Engineering (ASIC)locations2 Locationsposted onPosted 30+ Days AgoR264005Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR264596System Mechanical & Integration EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264128Principal Engineer, Mixed Signal Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR261313Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 11 Days AgoR264130Staff System Architecture and Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264131Thinfilms Process Sustaining Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263271Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 28 Days AgoR264348Associate Product Quality EngineerlocationsUS, MA, Wilmingtonposted onPosted 12 Days AgoR266148Associate Product Quality EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR266149Thinfilms Process Sustaining Engineering Technician (Days)locationsUS, OR, Beavertonposted onPosted 13 Days AgoR265982Staff Systems Design Engineerlocations2 Locationsposted onPosted 20 Days AgoR264626Diff/Wet Process Engineering Technician (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR2643471st Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264404Technician 3, Process Sustaining Engineering (Night Shift)locationsUS, WA, Camasposted onPosted TodayR266398.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Technician-3--Process-Sustaining-Engineering--Night-Shift-_R266398?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-technician-3-process-sustaining-engineering-night-shift-us"
   },
@@ -205,7 +175,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "2w",
-    "job_description": "• Associate Product Applications Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265307RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263851Tech 3 Process Sustaining Engineer - Night shiftlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR264407Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265313Staff Digital Design Engineerlocations3 Locationsposted onPosted 19 Days AgoR264004Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266172Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Staff Product Development EngineerlocationsUS, NJ, Somersetposted onPosted 30+ Days AgoR261644Senior Mixed-Signal Design Engineerlocations3 Locationsposted onPosted 12 Days AgoR260403Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262379Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 28 Days AgoR262378Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 19 Days AgoR262385Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Senior Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR2634322nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264405Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR264205Senior Principal RF/Microwave Amplifier MMIC Design Engineerlocations14 Locationsposted onPosted 30+ Days AgoR264833.",
+    "job_description": "• RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263851Tech 3 Process Sustaining Engineer - Night shiftlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR264407Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265313Staff Digital Design Engineerlocations3 Locationsposted onPosted 19 Days AgoR264004Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266172Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Staff Product Development EngineerlocationsUS, NJ, Somersetposted onPosted 30+ Days AgoR261644Senior Mixed-Signal Design Engineerlocations3 Locationsposted onPosted 12 Days AgoR260403Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262379Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 28 Days AgoR262378Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 19 Days AgoR262385Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Senior Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR2634322nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264405Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR264205Senior Principal RF/Microwave Amplifier MMIC Design Engineerlocations14 Locationsposted onPosted 30+ Days AgoR264833Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/R14983-Tech-3--Process-Sustaining-Engineering-15_R264407?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-tech-3-process-sustaining-engineer-night-shift-us"
   },
@@ -215,39 +185,9 @@
     "job_city": "5 Locations",
     "job_state": "US",
     "job_posted_at": "4w",
-    "job_description": "• Associate Product Applications Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265307RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263851Tech 3 Process Sustaining Engineer - Night shiftlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR264407Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265313Staff Digital Design Engineerlocations3 Locationsposted onPosted 19 Days AgoR264004Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266172Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Staff Product Development EngineerlocationsUS, NJ, Somersetposted onPosted 30+ Days AgoR261644Senior Mixed-Signal Design Engineerlocations3 Locationsposted onPosted 12 Days AgoR260403Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262379Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 28 Days AgoR262378Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 19 Days AgoR262385Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Senior Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR2634322nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264405Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR264205Senior Principal RF/Microwave Amplifier MMIC Design Engineerlocations14 Locationsposted onPosted 30+ Days AgoR264833.",
+    "job_description": "• RF Test Technicianlocations2 Locationsposted onPosted 30+ Days AgoR254217Mixed Signal Design Verification EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263851Tech 3 Process Sustaining Engineer - Night shiftlocationsUS, OR, Beavertonposted onPosted 19 Days AgoR264407Associate Digital Design EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265313Staff Digital Design Engineerlocations3 Locationsposted onPosted 19 Days AgoR264004Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266172Senior Product Engineer - High Speed Interfacelocations2 Locationsposted onPosted 30+ Days AgoR261654Staff Product Development EngineerlocationsUS, NJ, Somersetposted onPosted 30+ Days AgoR261644Senior Mixed-Signal Design Engineerlocations3 Locationsposted onPosted 12 Days AgoR260403Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262380Staff Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262379Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 28 Days AgoR262378Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 19 Days AgoR262385Principal Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263413Senior Process Development EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR263340Senior Semi Packaging EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 14 Days AgoR2634322nd Shift Process Engineering TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264405Principal Chip LeadlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR264205Senior Principal RF/Microwave Amplifier MMIC Design Engineerlocations14 Locationsposted onPosted 30+ Days AgoR264833Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mixed-Signal-Design-Engineer_R262378?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-mixed-signal-design-engineer-5-locations"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Equipment Engineering Intern",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Intern_R266095?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-equipment-engineering-intern-3-locations"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Algorithm Development Engineer Intern",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-algorithm-development-engineer-intern-2-locations"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "SiP Layout Design Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "3w",
-    "job_description": "• Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/SiP-Layout-Design-Engineer_R265358?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-sip-layout-design-engineer-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -255,7 +195,7 @@
     "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Associate Product Applications Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265307Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796Semiconductor Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263497Senior MEMS Design and Simulation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263712Principal IC Analog / Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265660Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Associate-Analog-Design-Engineer_R266120?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-analog-design-engineer-3-locations"
   },
@@ -265,9 +205,39 @@
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1w",
-    "job_description": "• Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796.",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Associate Product Applications Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265307Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796Semiconductor Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263497Senior MEMS Design and Simulation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263712Principal IC Analog / Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265660Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Associate-Analog-Design-Engineer_R266119?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-analog-design-engineer-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Equipment Engineering Intern",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Associate Product Applications Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265307Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796Semiconductor Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263497Senior MEMS Design and Simulation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263712Principal IC Analog / Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265660Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Intern_R266095?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-equipment-engineering-intern-3-locations"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Algorithm Development Engineer Intern",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Associate Product Applications Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265307Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796Semiconductor Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263497Senior MEMS Design and Simulation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263712Principal IC Analog / Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265660Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-algorithm-development-engineer-intern-2-locations"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "SiP Layout Design Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "3w",
+    "job_description": "• Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Associate Product Applications Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265307Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796Semiconductor Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263497Senior MEMS Design and Simulation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263712Principal IC Analog / Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265660Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/SiP-Layout-Design-Engineer_R265358?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sip-layout-design-engineer-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -275,7 +245,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796.",
+    "job_description": "• Senior Engineer, Digital Design (Physical)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263750Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296Staff Analog Design Engineer (AMS)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263717AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266315Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266316Staff Network EngineerlocationsUS, OR, Beavertonposted onPosted 3 Days AgoR2656032nd Shift Manufacturing EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264835Senior Product Applications Engineerlocations3 Locationsposted onPosted 7 Days AgoR265553Manufacturing Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR265301Communications System Architectlocations2 Locationsposted onPosted 25 Days AgoR260160Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal EDA Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264470Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262197Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 30+ Days AgoR265304Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR265805Staff Engineer, Mixed Signal DesignlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR265806Senior Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266317Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-ai-ml-engineer-intern-2-locations"
   },
@@ -285,7 +255,7 @@
     "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Staff RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264831Associate Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265286Staff Product Engineer- RFlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262278Equipment Engineering Internlocations3 Locationsposted onPosted 14 Days AgoR266095Algorithm Development Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265306SiP Layout Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 26 Days AgoR265358Principal Analog & Mixed-Signal Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258818Staff Power IC Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR263952RF/Microwave Amplifier MMIC Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR2648302nd Shift Rework TechnicianlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264840Associate Test Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265308Associate Design Verification EngineerlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR265415Associate Analog Design Engineerlocations3 Locationsposted onPosted 13 Days AgoR266120Associate Analog Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR266119Staff Power Module Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 11 Days AgoR266006Staff Process Sustaining EngineerlocationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR266173Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed-Signal/Analog Design Engineer - Power/ATElocations2 Locationsposted onPosted 30+ Days AgoR258796.",
+    "job_description": "• Senior Engineer, Digital Design (Physical)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263750Principal Data EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265296Staff Analog Design Engineer (AMS)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263717AI/ML Engineer Internlocations2 Locationsposted onPosted 12 Days AgoR265579Design Evaluation Engineer Internlocations3 Locationsposted onPosted 13 Days AgoR266128Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266315Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266316Staff Network EngineerlocationsUS, OR, Beavertonposted onPosted 3 Days AgoR2656032nd Shift Manufacturing EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264835Senior Product Applications Engineerlocations3 Locationsposted onPosted 7 Days AgoR265553Manufacturing Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR265301Communications System Architectlocations2 Locationsposted onPosted 25 Days AgoR260160Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal EDA Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264470Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262197Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 30+ Days AgoR265304Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR265805Staff Engineer, Mixed Signal DesignlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR265806Senior Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266317Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-design-evaluation-engineer-intern-3-locations"
   },
@@ -295,7 +265,7 @@
     "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Semiconductor Packaging EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263497Senior MEMS Design and Simulation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263712Principal IC Analog / Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 25 Days AgoR265660Staff Network EngineerlocationsUS, OR, Beavertonposted onPosted 3 Days AgoR2656032nd Shift Manufacturing EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR264835Senior Product Applications Engineerlocations3 Locationsposted onPosted 7 Days AgoR265553Senior Engineer, Digital Design (Physical)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263750Manufacturing Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR265301Staff Analog Design Engineer (AMS)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR263717Principal EDA Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264470Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266315Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266316Communications System Architectlocations2 Locationsposted onPosted 25 Days AgoR260160Senior/Staff Field Robotic Systems Engineerlocations4 Locationsposted onPosted 30+ Days AgoR262608Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262197Associate Product Engineer (Product Development)locations2 Locationsposted onPosted 30+ Days AgoR265304Principal Mixed Signal Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR265805Staff Engineer, Mixed Signal DesignlocationsUS, MA, Wilmingtonposted onPosted 13 Days AgoR265806Senior Principal Mixed Signal Design EngineerlocationsUS, AZ, Chandler, East Elliotposted onPosted 5 Days AgoR266317Product Engineer (Product Development) Internlocations3 Locationsposted onPosted 12 Days AgoR265302.",
+    "job_description": "• Senior Principal Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 13 Days AgoR264481Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265312Product Engineer (Product Development) Internlocations3 Locationsposted onPosted 12 Days AgoR265302Battery Test and Validation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR266013Principal Mixed Signal Design Engineer, Technical LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262198Senior Principal Engineer, Systems Design/ArchitectlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262563Senior Product Engineer RF and ADClocations2 Locationsposted onPosted 30+ Days AgoR261731Principal Engineer, Digital IC Design and Architecturelocations2 Locationsposted onPosted 30+ Days AgoR263955Senior Equipment Engineer - PhotolithographylocationsUS, OR, Beavertonposted onPosted 24 Days AgoR265598System Integration Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265305Senior Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 7 Days AgoR265601Staff Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 6 Days AgoR266584Digital Design Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR265319Analog Design Engineer Internlocations3 Locationsposted onPosted 12 Days AgoR265297Staff Applications Engineer – PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR266296Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Field Applications Engineer (FAE) – Aerospace, Defense & Communicationslocations3 Locationsposted onPosted 30+ Days AgoR260541.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-product-engineer-product-development-intern-3-locations"
   },
@@ -305,7 +275,7 @@
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "2w",
-    "job_description": "• Battery Test and Validation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR266013Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Senior Principal Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 13 Days AgoR264481Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265312Principal Mixed Signal Design Engineer, Technical LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262198Senior Equipment Engineer - PhotolithographylocationsUS, OR, Beavertonposted onPosted 24 Days AgoR265598Senior Principal Engineer, Systems Design/ArchitectlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262563Senior Product Engineer RF and ADClocations2 Locationsposted onPosted 30+ Days AgoR261731Principal Engineer, Digital IC Design and Architecturelocations2 Locationsposted onPosted 30+ Days AgoR263955System Integration Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265305Senior Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 7 Days AgoR265601Staff Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 6 Days AgoR266584Digital Design Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR265319Analog Design Engineer Internlocations3 Locationsposted onPosted 12 Days AgoR265297Staff Applications Engineer – PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR266296Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR265600.",
+    "job_description": "• Senior Principal Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 13 Days AgoR264481Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265312Product Engineer (Product Development) Internlocations3 Locationsposted onPosted 12 Days AgoR265302Battery Test and Validation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR266013Principal Mixed Signal Design Engineer, Technical LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262198Senior Principal Engineer, Systems Design/ArchitectlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262563Senior Product Engineer RF and ADClocations2 Locationsposted onPosted 30+ Days AgoR261731Principal Engineer, Digital IC Design and Architecturelocations2 Locationsposted onPosted 30+ Days AgoR263955Senior Equipment Engineer - PhotolithographylocationsUS, OR, Beavertonposted onPosted 24 Days AgoR265598System Integration Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265305Senior Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 7 Days AgoR265601Staff Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 6 Days AgoR266584Digital Design Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR265319Analog Design Engineer Internlocations3 Locationsposted onPosted 12 Days AgoR265297Staff Applications Engineer – PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR266296Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Field Applications Engineer (FAE) – Aerospace, Defense & Communicationslocations3 Locationsposted onPosted 30+ Days AgoR260541.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Battery-Test-and-Validation-Engineer_R266013?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-battery-test-and-validation-engineer-us"
   },
@@ -315,39 +285,9 @@
     "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Battery Test and Validation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR266013Principal Mixed-Signal Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR262381Senior Principal Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 13 Days AgoR264481Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265312Principal Mixed Signal Design Engineer, Technical LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262198Senior Equipment Engineer - PhotolithographylocationsUS, OR, Beavertonposted onPosted 24 Days AgoR265598Senior Principal Engineer, Systems Design/ArchitectlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262563Senior Product Engineer RF and ADClocations2 Locationsposted onPosted 30+ Days AgoR261731Principal Engineer, Digital IC Design and Architecturelocations2 Locationsposted onPosted 30+ Days AgoR263955System Integration Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265305Senior Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 7 Days AgoR265601Staff Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 6 Days AgoR266584Digital Design Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR265319Analog Design Engineer Internlocations3 Locationsposted onPosted 12 Days AgoR265297Staff Applications Engineer – PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR266296Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Staff Engineer, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR265600.",
+    "job_description": "• Senior Principal Mixed-Signal IC Design Engineerlocations5 Locationsposted onPosted 13 Days AgoR264481Associate Mixed Signal Design Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265312Product Engineer (Product Development) Internlocations3 Locationsposted onPosted 12 Days AgoR265302Battery Test and Validation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR266013Principal Mixed Signal Design Engineer, Technical LeadlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262198Senior Principal Engineer, Systems Design/ArchitectlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262563Senior Product Engineer RF and ADClocations2 Locationsposted onPosted 30+ Days AgoR261731Principal Engineer, Digital IC Design and Architecturelocations2 Locationsposted onPosted 30+ Days AgoR263955Senior Equipment Engineer - PhotolithographylocationsUS, OR, Beavertonposted onPosted 24 Days AgoR265598System Integration Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265305Senior Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 7 Days AgoR265601Staff Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 6 Days AgoR266584Digital Design Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265298Senior Facilities Electrical EngineerlocationsUS, WA, Camasposted onPosted 30+ Days AgoR263405Mixed Signal Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR265319Analog Design Engineer Internlocations3 Locationsposted onPosted 12 Days AgoR265297Staff Applications Engineer – PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR266296Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR263589Field Applications Engineer (FAE) – Aerospace, Defense & Communicationslocations3 Locationsposted onPosted 30+ Days AgoR260541.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-analog-design-engineer-intern-3-locations"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "ESD & CAD Design Engineer",
-    "job_city": "USA-AZ-Chandler-North Juniper Drive",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Community & Virtual Events Manager – Mainframe Customer Engagementlocations4 Locationstime typeFull timeposted onPosted 10 Days AgoR027086 Senior IC Validation EngineerlocationsUSA-Colorado-Colorado Springs-4420 Arrowswest Drivetime typeFull timeposted onPosted TodayR027173 SLT Program ManagerlocationsUSA-CA Irvine Alton Parkway Bldg 2time typeFull timeposted onPosted 5 Days AgoR027172 Sr Mainframe Technical Consultantlocations101 Locationstime typeFull timeposted onPosted 10 Days AgoR027128.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-AZ-Chandler-North-Juniper-Drive/ESD---CAD-Design-Engineer_R027157-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-esd-cad-design-engineer-usa-az-chandler-north-juniper-drive"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "R&D Engineer Software",
-    "job_city": "USA-CA - Promontory E",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Community & Virtual Events Manager – Mainframe Customer Engagementlocations4 Locationstime typeFull timeposted onPosted 10 Days AgoR027086 Senior IC Validation EngineerlocationsUSA-Colorado-Colorado Springs-4420 Arrowswest Drivetime typeFull timeposted onPosted TodayR027173 SLT Program ManagerlocationsUSA-CA Irvine Alton Parkway Bldg 2time typeFull timeposted onPosted 5 Days AgoR027172 Sr Mainframe Technical Consultantlocations101 Locationstime typeFull timeposted onPosted 10 Days AgoR027128.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/Senior-Manager---Engineering_R026440?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-r-d-engineer-software-usa-ca-promontory-e"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "• AI/ML CAD Engineer, RTL & Design Verification",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Enterprise Account ExecutivelocationsUS, California, Santa Claraposted onPosted 25 Days AgoJR0286881Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted 25 Days AgoJR0286831Technical Sales - Intern, Bachelor’slocations4 Locationsposted onPosted 25 Days AgoJR0286835Sales Account Manager (Team Dell)locationsUS, Texas, Austinposted onPosted 3 Days AgoJR0286592Foundry Cloud Services Developerlocations2 Locationsposted onPosted 4 Days AgoJR0287203New Mexico Site Automation IntegratorlocationsUS, New Mexico, Albuquerqueposted onPosted 18 Days AgoJR0286961Senior Customer Solutions Architect, Graphics & AIlocationsUS, California, Folsomposted onPosted 6 Days AgoJR0287290Senior Customer Solutions EngineerlocationsUS, California, Folsomposted onPosted 6 Days AgoJR0287285SAP MM/PP Business Systems Analystlocations4 Locationsposted onPosted 30+ Days AgoJR0284864• AI/ML CAD Engineer, RTL & Design Verificationlocations2 Locationsposted onPosted TodayJR0287395Senior Network Operations Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0286035TD Media and Collaterals Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0287421Thin Films Module Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0286288Module Development Defect Inspection EngineerlocationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0286735Packaging Module Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0286711Module Development EngineerlocationsUS, Oregon, Hillsboroposted onPosted 4 Days AgoJR0287415ATD MIHL Equipment Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0286590Module Development Engineer - RF TestlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0286275Module Development Engineer - RF TestlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0284605Metrology Engineering TechnicanlocationsUS, Arizona, Phoenixposted onPosted 30+ Days AgoJR0286742.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/XMLNAME---AI-ML-CAD-Engineer--RTL---Design-Verification_JR0287395?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-ai-ml-cad-engineer-rtl-design-verification-2-locations"
   },
   {
     "employer_name": "AMD",
@@ -641,6 +581,16 @@
   },
   {
     "employer_name": "AMD",
+    "job_title": "P4 Compiler Engineer - DPU",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Strong C++ skillsAbility to write high quality code with a keen attention to detailAbility to test and review the codeExperience with LLVM frameworkFamiliarity with P4 language or networking domain is a big plusExperience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilersEffective communication and problem-solving skills Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/87571/login",
+    "id": "amd-p4-compiler-engineer-dpu-us"
+  },
+  {
+    "employer_name": "AMD",
     "job_title": "2027 Undergrad Hadware Design Verification Engineering Intern/Co-Op",
     "job_city": "Multiple",
     "job_state": "US",
@@ -651,6 +601,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Location Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033927/R-D-Engineer",
+    "id": "abb-r-d-engineer-location-richmond"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer, Data Centers - ELSE",
+    "job_city": "Available in one of 5 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046427/Field-Service-Engineer-Data-Centers-ELSE",
+    "id": "abb-field-service-engineer-data-centers-else-available-in-one-of-5-locations"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Engineer - MV Switchgear",
     "job_city": "Location Mebane",
     "job_state": "North Carolina",
@@ -658,6 +628,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035343/R-D-Engineer-MV-Switchgear",
     "id": "abb-r-d-engineer-mv-switchgear-location-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Location Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048596/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-location-mebane"
   },
   {
     "employer_name": "ABB",
@@ -701,33 +681,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer, Data Centers - ELSE",
-    "job_city": "Available in one of 5 locations",
+    "job_title": "Digital Engineer - Process Performance Optimization",
+    "job_city": "Available in one of 2 locations",
     "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046427/Field-Service-Engineer-Data-Centers-ELSE",
-    "id": "abb-field-service-engineer-data-centers-else-available-in-one-of-5-locations"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046431/Digital-Engineer-Process-Performance-Optimization",
+    "id": "abb-digital-engineer-process-performance-optimization-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Engineer",
-    "job_city": "Location Richmond",
-    "job_state": "Virginia",
+    "job_title": "Systems Engineering Intern – Summer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033927/R-D-Engineer",
-    "id": "abb-r-d-engineer-location-richmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Intern Florence-- Summer",
-    "job_city": "Location Florence",
-    "job_state": "South Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046528/R-D-Intern-Florence-Summer-2027",
-    "id": "abb-r-d-intern-florence-summer-location-florence"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047388/Systems-Engineering-Intern-Summer-2027",
+    "id": "abb-systems-engineering-intern-summer-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -748,46 +718,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045530/Systems-Engineer-Pulp-Paper-and-Fiber",
     "id": "abb-systems-engineer-pulp-paper-and-fiber-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Engineer - Process Performance Optimization",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046431/Digital-Engineer-Process-Performance-Optimization",
-    "id": "abb-digital-engineer-process-performance-optimization-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Summer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045706/Application-Engineering-Intern-Summer-2027",
-    "id": "abb-application-engineering-intern-summer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Spring",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045705/Application-Engineering-Intern-Spring-2027",
-    "id": "abb-application-engineering-intern-spring-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Systems Engineering Intern – Summer",
-    "job_city": "Location Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047388/Systems-Engineering-Intern-Summer-2027",
-    "id": "abb-systems-engineering-intern-summer-location-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -831,13 +761,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "System Drives Field Service Technician",
-    "job_city": "Location",
-    "job_state": "United States of America",
+    "job_title": "R&D Intern Florence-- Summer",
+    "job_city": "Location Florence",
+    "job_state": "South Carolina",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034560/System-Drives-Field-Service-Technician",
-    "id": "abb-system-drives-field-service-technician-location"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046528/R-D-Intern-Florence-Summer-2027",
+    "id": "abb-r-d-intern-florence-summer-location-florence"
   },
   {
     "employer_name": "ABB",
@@ -868,6 +798,36 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039797/Robotics-Paint-Mechanical-Project-Engineer",
     "id": "abb-robotics-paint-mechanical-project-engineer-location-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "System Drives Field Service Technician",
+    "job_city": "Location",
+    "job_state": "United States of America",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034560/System-Drives-Field-Service-Technician",
+    "id": "abb-system-drives-field-service-technician-location"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Summer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045706/Application-Engineering-Intern-Summer-2027",
+    "id": "abb-application-engineering-intern-summer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Spring",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045705/Application-Engineering-Intern-Spring-2027",
+    "id": "abb-application-engineering-intern-spring-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -965,239 +925,9 @@
     "job_city": "Location Vega Baja",
     "job_state": "Puerto Rico",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Candidate Log in GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China) Saved jobs(0) Candidate GlobalEnter location or LanguageClear textCzech German English (Global) SelectedEnglish (United States) Spanish (Global) Finnish French (Canada) French (Global) Italian (Global) Dutch Polish Portuguese (Global) Swedish Chinese (China).",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045691/Intern",
     "id": "abb-intern-location-vega-baja"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Development Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "3w",
-    "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science, Engineering, Informatics, or equivalent with relevant proven experience with biomedical, health, or sensitive data.\n• 3+ years of software engineering experienceStrong software development skills, with proficiency in PythonExperience integrating LLM-based functionality (e.\n• , OpenAI, Anthropic APIs) into production web tools to create richer, smoother user experiencesExperience leveraging LLMs in a closed-loop development workflow — from planning and architecture, to design review, to implementation, to generating pull requests, to deployment.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200680250-3956/software-development-engineer?team=HRDWR",
-    "id": "apple-software-development-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Systems Software Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBS in CS/CE/EE and 0-2+ years of software engineer career experienceExpertise in at least one of C++/Objective-C/SwiftExperience developing drivers/applications in Unix, Linux, or macOS.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200683808-3543/systems-software-engineer?team=HRDWR",
-    "id": "apple-systems-software-engineer-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Applied AI/ML Software Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "3w",
-    "job_description": "• Minimum QualificationsBachelor’s Degree in Computer Science, Computer Engineering, related field, or equivalent work experience3+ years professional software engineering experience working in Python or other object-oriented programming language(s)Demonstrated ability to write applications in a high-level programming language like Python, Ruby, Java, etc.\n• Excellent written and verbal communication skills to both technical and non-technical audiences.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200682044-3543/applied-ai-ml-software-engineer?team=MLAI",
-    "id": "apple-applied-ai-ml-software-engineer-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Backend Software Engineer (Golang)",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "6d",
-    "job_description": "• Minimum QualificationsBachelors degree in Engineering (CS or CE)3 years of experience in software engineering.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200676254-3543/backend-software-engineer-golang?team=SFTWR",
-    "id": "apple-backend-software-engineer-golang-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Reliability Engineering, AiDP",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "5d",
-    "job_description": "• Minimum QualificationsBS/MS in computer science or equivalent experience.\n• 2+ years experience programming skills in one of the following areas: Python, Java, or Go.\n• 2+ years experience in Kubernetes, Docker or other container orchestration framework.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200685582-0240/software-engineer-reliability-engineering-aidp?team=SFTWR",
-    "id": "apple-software-engineer-reliability-engineering-aidp-"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Reliability Engineering, AiDP",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "5d",
-    "job_description": "• Minimum QualificationsBS/MS in computer science or equivalent experience.\n• 2+ years experience programming skills in one of the following areas: Python, Java, or Go.\n• 2+ years experience in Kubernetes, Docker or other container orchestration framework.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200685582-3956/software-engineer-reliability-engineering-aidp?team=SFTWR",
-    "id": "apple-software-engineer-reliability-engineering-aidp-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Algorithms (SDE)",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum Qualifications5+ years of professional software development experience.\n• Experience with C++14/C++17, including working knowledge of templates and parallel programming.\n• BS in Computer ScienceStrong command of C/C++ and an object-oriented language.\n• Proficiency in Python for algorithm implementation, tooling, prototyping, and correlation analysis.\n• Working knowledge of Matlab.\n• Knowledge of signal and/or image processing and algorithm design.\n• Understanding of DSP (digital signal processing).\n• Proficiency using AI tools and LLMs (e.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200672921-0836/software-engineer-algorithms-sde?team=HRDWR",
-    "id": "apple-software-engineer-algorithms-sde-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Power Systems Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "4w",
-    "job_description": "• Minimum QualificationsDeep understanding of operating systems and software architectureExperience working with many cross-functional teamsAbility to independently learn new technologies, prototype and design software solutions.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200681350-0836/software-power-systems-engineer?team=SFTWR",
-    "id": "apple-software-power-systems-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Triage Services",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsProgramming experience in PythonExperience building scalable data platforms and distributed systems.\n• Experience with LLM and agent development.\n• Bachelor's degree in Computer Science, Data Engineering, or a related field.\n• Knowledge of RAG architectures, embedding generation, vector databases, and AI data preparation for agentic workflows.\n• Familiarity with eval frameworks for agent quality (offline benchmarks, drift detection, confidence scoring).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200683343-0836/software-engineer-triage-services?team=SFTWR",
-    "id": "apple-software-engineer-triage-services-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Camera Software Frameworks Engineer",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum QualificationsProficiency in C, C++, and/or Objective-C.\n• Experience in software development and debugging in embedded environmentsPassionate and inquisitive.\n• Seek to solve everyday problems in innovative waysExperience and/or coursework in image processing or imaging pipelinesStrong collaborative and communication skills.\n• Passionate about working in larger cross-functional teams.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200683544/camera-software-frameworks-engineer?team=SFTWR",
-    "id": "apple-camera-software-frameworks-engineer-"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Music Search",
-    "job_city": "Culver City",
-    "job_state": "US",
-    "job_posted_at": "5d",
-    "job_description": "• Minimum QualificationsStrong programming skills in Python, Java and Go for building scalable distributed and ML systems.\n• Experience in machine learning, NLP, IR, or more recently Large Language Model ( LLMs).\n• Ability to translate product goals into technical solutions, improving user experience.\n• Strong communication, collaboration, and analytical problem-solving skills.\n• Experience with retrieval and ranking algorithms and building big data pipelines using Hadoop, Java, Scala, Spark and more.\n• Industrial experience in search, classification, recommendation systems, or related fields.\n• Bachelor’s degree or higher (or equivalent practical experience) in Computer Science, Machine Learning, Natural Language Processing, Artificial Intelligence, or a related field.\n• In-depth knowledge of search and information retrieval fundamentals, including indexing and ranking.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200685742-0670/software-engineer-music-search?team=SFTWR",
-    "id": "apple-software-engineer-music-search-culver-city"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Backend Software Engineer (Golang)",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "6d",
-    "job_description": "• Minimum QualificationsBachelors degree in Engineering (CS or CE)3 years of experience in software engineering.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200676254-0157/backend-software-engineer-golang?team=SFTWR",
-    "id": "apple-backend-software-engineer-golang-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Real-Time Video Streaming",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "3w",
-    "job_description": "• Minimum QualificationsYou are proficient in multi-threaded systems software development.\n• You are highly motivated, self-directed, and a fast learner with strong communication skills.\n• You have a bachelor's degree in Computer Science, Computer Engineering, or Electrical Engineering, or have equivalent work experience.\n• You write elegant and maintainable object-oriented code in Objective-C, C, or C++.\n• You have excellent attention to detail.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200681395-0836/software-engineer-real-time-video-streaming?team=SFTWR",
-    "id": "apple-software-engineer-real-time-video-streaming-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Quality Engineer - Media",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science or related field1+ years of professional software industry experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200682437-3543/software-quality-engineer-media?team=SFTWR",
-    "id": "apple-software-quality-engineer-media-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Apple Gift Systems",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "4w",
-    "job_description": "• Minimum QualificationsBachelor’s degree in Computer Science or Software Engineering, or equivalent practical experience5+ years of professional backend software engineering experienceExperience architecting, building, and operating mission-critical distributed systems at large scale.\n• Experience using generative AI tools throughout the software development lifecycle to produce high-quality software.\n• The ability to reason about distributed systems trade-offs across consistency, latency, and throughput, and to defend the choices you make.\n• A commitment to engineering excellence, continuous improvement, and the curiosity to evaluate and advocate for new technologies and patterns.\n• An ability to communicate thoughtfully and clearly, both verbally and in writing, to drive consensus on complex technical concepts with diverse audiences, including global teams and external partners.\n• A track record of building and sustaining healthy long-term relationships and technical influence within your team and beyond its boundaries.\n• The tenacity and perseverance to lead complex projects all the way from conception to production.\n• Able to work with cross-functional partners to define product objectives.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200681297-3543/software-engineer-apple-gift-systems?team=SFTWR",
-    "id": "apple-software-engineer-apple-gift-systems-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Journal Team",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum Qualifications2+ years of experience with Swift and/or Objective-C design patterns2+ years of experience with UIKit and/or SwiftUITalent for cleanly architecting UI featuresExperience with AI assisted development toolsExcellent oral and written communication skillsBS in Computer Science or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200684192-0836/software-engineer-journal-team?team=SFTWR",
-    "id": "apple-software-engineer-journal-team-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer — Face ID",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "6d",
-    "job_description": "• Minimum QualificationsBS and a minimum of 10 years relevant industry experienceTrack record of designing and shipping robust software in a collaborative environment.\n• Strong software engineering fundamentals: API and framework design, data structures, concurrency, memory management, and debugging complex systemsExperience writing production software for resource-constrained or embedded platforms, with an emphasis on performance, memory, latency, and powerExperience integrating computer vision or machine learning components into shipping products (you don't need to invent the models, but you should be comfortable working alongside those who do)Experience with profiling, instrumentation, automated testing, and continuous integration.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200685202-3956/software-engineer-face-id?team=MLAI",
-    "id": "apple-software-engineer-face-id-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Security Infrastructure Software Engineer, SEAR",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum QualificationsBS/MS in Computer Science or 5+ years equivalent experienceAbility to demonstrate strong problem solving and logic in backend programmingExperienced with building cloud services and distributed systems at scaleDemonstrated end-to-end ownership of cross-organizational projects.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200683652-0157/security-infrastructure-software-engineer-sear?team=SFTWR",
-    "id": "apple-security-infrastructure-software-engineer-sear-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Distributed Systems Software Engineer (Golang)",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "5d",
-    "job_description": "• Minimum Qualifications5+ years Software engineering or DevOps experienceProficient in at least one of these languages: Python, Go, Rust, C++Strong experience with large-scale distributed systems (replication, high availability, data processing/streaming)Strong experience with Linux/UNIX administration, configuration, and monitoringHave written or contributed to a batch or realtime processing systemExperience with cloud environments (AWS, GCP, Azure): identity & credential management, pub/sub, message queuingExperience with infrastructure-as-code tools (e.\n• , Terraform, CloudFormation, Puppet, Flux, Ansible, etc)Experience with containerization and orchestration technologies (e.\n• , Docker, Kubernetes)Experience with zero-downtime deployments, job scheduling systems, event-based messaging systemsAble to quickly learn and adapt to new technologiesStrong operational and troubleshooting skills.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200676528-3749/distributed-systems-software-engineer-golang?team=SFTWR",
-    "id": "apple-distributed-systems-software-engineer-golang-san-jose"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Distributed Systems Software Engineer (Golang)",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "5d",
-    "job_description": "• Minimum Qualifications5+ years Software engineering or DevOps experienceProficient in at least one of these languages: Python, Go, Rust, C++Strong experience with large-scale distributed systems (replication, high availability, data processing/streaming)Strong experience with Linux/UNIX administration, configuration, and monitoringHave written or contributed to a batch or realtime processing systemExperience with cloud environments (AWS, GCP, Azure): identity & credential management, pub/sub, message queuingExperience with infrastructure-as-code tools (e.\n• , Terraform, CloudFormation, Puppet, Flux, Ansible, etc)Experience with containerization and orchestration technologies (e.\n• , Docker, Kubernetes)Experience with zero-downtime deployments, job scheduling systems, event-based messaging systemsAble to quickly learn and adapt to new technologiesStrong operational and troubleshooting skills.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200676528-3543/distributed-systems-software-engineer-golang?team=SFTWR",
-    "id": "apple-distributed-systems-software-engineer-golang-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Systems Engineer - Health Software",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum QualificationsBachelor’s degree in a technical field with 7+ years of relevant industry experience OR equivalent combination of education and professional experienceWillingness to travel internationally (~10%)Medical device development experience, particularly Software as a Medical Device (SaMD) or other regulated software productsStrong technical fluency in software architecture and development processes, including the ability to hold substantive discussions with engineering teamsTrack record of driving alignment and decisions across diverse stakeholder groupsExcellent written and verbal communication skillsAbility to reason at multiple levels of abstraction — knowing when to treat something as a black box and when to dig into details that matter inside of it.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200685121-3543/systems-engineer-health-software?team=SFTWR",
-    "id": "apple-systems-engineer-health-software-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Systems Engineer - Health Software",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Minimum QualificationsBachelor’s degree in a technical field with 7+ years of relevant industry experience OR equivalent combination of education and professional experienceWillingness to travel internationally (~10%)Medical device development experience, particularly Software as a Medical Device (SaMD) or other regulated software productsStrong technical fluency in software architecture and development processes, including the ability to hold substantive discussions with engineering teamsTrack record of driving alignment and decisions across diverse stakeholder groupsExcellent written and verbal communication skillsAbility to reason at multiple levels of abstraction — knowing when to treat something as a black box and when to dig into details that matter inside of it.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200685121-3956/systems-engineer-health-software?team=SFTWR",
-    "id": "apple-systems-engineer-health-software-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Trusted Execution, SEAR",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "2w",
-    "job_description": "• Minimum Qualifications5 years of experience as a Software Engineer in a Systems Programming or Kernel Development roleStrong understanding of operating systems internalsIndustry knowledge of OS security and applied cryptography (PKI, Attestations, Public Key Signatures)Excellent C and Systems programming skills including secure development practices.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200675757-0836/software-engineer-trusted-execution-sear?team=SFTWR",
-    "id": "apple-software-engineer-trusted-execution-sear-cupertino"
   },
   {
     "employer_name": "Arm",
@@ -1241,16 +971,6 @@
   },
   {
     "employer_name": "Arm",
-    "job_title": "Applications Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/applications-engineer/33099/97112476448",
-    "id": "arm-applications-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
     "job_title": "Functional Safety Hardware Engineer",
     "job_city": "Austin",
     "job_state": "Texas",
@@ -1260,34 +980,14 @@
     "id": "arm-functional-safety-hardware-engineer-austin"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Software Engineer",
-    "job_city": "Framingham",
-    "job_state": "MA",
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "1d",
-    "job_description": "• You will collaborate with cross-functional teams to create scalable, high-quality software that meets complex business needs and supports Honeywell’s commitment to technological excellence.\n• Software Engineer Co-Op - Spring/Summer 2027 Locations Pittsford, NY, United States Posting Date09/17/2026 Trending As a Software Engineer Co-Op here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.\n• Advanced Software Engineer - Developer Experience Locations Pittsford, NY, United States and 2 more (Hybrid) Posting Date08/13/2026 Trending As an Advanced Software Engineer here at Honeywell, you will lead advanced software development projects, enhance and maintain critical software components, and troubleshoot complex issues.\n• Sr Engineering Manager Locations Phoenix, AZ, United States (Hybrid) Posting Date09/21/2026 Fantastic career opportunity as a Senior Engineering Manager in Phoenix, AZ, SBG Process Automation, Engineering Software Engineer & Computer Science - Summer 2027 Intern Locations United States Posting Date08/25/2026 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell Technologies interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Software Engineer & Computer Science - Summer 2027 Intern (US Person Required) Locations United States Posting Date08/25/2026 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell Technologies interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Advanced Software Engr Locations Hamilton Township, NJ, United States (Hybrid) Posting Date06/11/2026 Trending Director of Product Management, Industrial Intelligence Locations Houston, TX, United States (Hybrid) Posting Date09/17/2026 Principal Software Architect Locations Atlanta, GA, United States Posting Date08/04/2026 Fantastic career opportunity as a Principal Software Architect in Atlanta, GA, Business Automation, Engineering Lead Project Engineer - Technical Program Management Locations Atlanta, GA, United States (Hybrid) Posting Date09/23/2026 Fantastic career opportunity as a Lead Project Engineer – Technical Program Management in Atlanta, GA, Corporate, Engineering Data Science Co-Op - Spring/Summer 2027 Locations Pittsford, NY, United States Posting Date09/17/2026 Trending As a Data Science Co-Op here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/157870/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-software-engineer-framingham"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Application Engineer",
-    "job_city": "Plymouth",
-    "job_state": "MN",
-    "job_posted_at": "1d",
-    "job_description": "• You will collaborate with cross-functional teams to create scalable, high-quality software that meets complex business needs and supports Honeywell’s commitment to technological excellence.\n• Software Engineer Co-Op - Spring/Summer 2027 Locations Pittsford, NY, United States Posting Date09/17/2026 Trending As a Software Engineer Co-Op here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.\n• Advanced Software Engineer - Developer Experience Locations Pittsford, NY, United States and 2 more (Hybrid) Posting Date08/13/2026 Trending As an Advanced Software Engineer here at Honeywell, you will lead advanced software development projects, enhance and maintain critical software components, and troubleshoot complex issues.\n• Sr Engineering Manager Locations Phoenix, AZ, United States (Hybrid) Posting Date09/21/2026 Fantastic career opportunity as a Senior Engineering Manager in Phoenix, AZ, SBG Process Automation, Engineering Software Engineer & Computer Science - Summer 2027 Intern Locations United States Posting Date08/25/2026 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell Technologies interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Software Engineer & Computer Science - Summer 2027 Intern (US Person Required) Locations United States Posting Date08/25/2026 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell Technologies interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Advanced Software Engr Locations Hamilton Township, NJ, United States (Hybrid) Posting Date06/11/2026 Trending Director of Product Management, Industrial Intelligence Locations Houston, TX, United States (Hybrid) Posting Date09/17/2026 Principal Software Architect Locations Atlanta, GA, United States Posting Date08/04/2026 Fantastic career opportunity as a Principal Software Architect in Atlanta, GA, Business Automation, Engineering Lead Project Engineer - Technical Program Management Locations Atlanta, GA, United States (Hybrid) Posting Date09/23/2026 Fantastic career opportunity as a Lead Project Engineer – Technical Program Management in Atlanta, GA, Corporate, Engineering Data Science Co-Op - Spring/Summer 2027 Locations Pittsford, NY, United States Posting Date09/17/2026 Trending As a Data Science Co-Op here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/157546/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-application-engineer-plymouth"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, YouTube Ads Machine Learning Infrastructure",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, YouTube Ads Machine Learning Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/136571968743711430-software-engineer-youtube-ads-machine-learning-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-youtube-ads-machine-learning-infrastructure-mountain-view"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/applications-engineer/33099/97112476448",
+    "id": "arm-applications-engineer-austin"
   },
   {
     "employer_name": "Amazon",
@@ -1451,16 +1151,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Special Projects",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1w",
-    "job_description": "software engineering job for the role Software Development Engineer, Special Projects",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10547105/software-development-engineer-special-projects",
-    "id": "amazon-software-development-engineer-special-projects-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Data Engineer, Infra-Finance Business intelligence & Transformations",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -1468,6 +1158,16 @@
     "job_description": "software engineering job for the role Data Engineer, Infra-Finance Business intelligence & Transformations",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10552312/data-engineer-infra-finance-business-intelligence-transformations",
     "id": "amazon-data-engineer-infra-finance-business-intelligence-transformations-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Special Projects",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1w",
+    "job_description": "software engineering job for the role Software Development Engineer, Special Projects",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10547105/software-development-engineer-special-projects",
+    "id": "amazon-software-development-engineer-special-projects-seattle"
   },
   {
     "employer_name": "Amazon",
