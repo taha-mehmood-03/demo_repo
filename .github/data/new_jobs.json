@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Site Reliability Engineer (MTS) GovCloud 24x7",
-    "job_city": "Colorado - Denver",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR357830/site-reliability-engineer-mts-govcloud-24x7/",
-    "id": "salesforce-site-reliability-engineer-mts-govcloud-24x7-colorado-denver"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Solutions Builder - Private Equity",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR360956/solutions-builder-private-equity/",
-    "id": "salesforce-solutions-builder-private-equity-california-san-francisco"
+    "employer_name": "Micron Technology",
+    "job_title": "Systems Software Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/44765943",
+    "id": "micron-technology-systems-software-engineer-richardson"
   },
   {
     "employer_name": "Analog Devices",
@@ -350,16 +340,6 @@
     "id": "analog-devices-associate-central-applications-sales-rotational-4-locations"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Developer, Software",
-    "job_city": "Carrollton",
-    "job_state": "Georgia",
-    "job_posted_at": "1d",
-    "job_description": "• Software EngineerlocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00240538Software Engineering StudentlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00259672Sr Manager, Software EngineeringlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00234312Sr.\n• Engineer, SoftwarelocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00251346Engineer II - Software TestlocationsSouthfield, Michigan, USposted onPosted 9 Days AgoR00241284Senior Engineer – Robotics Softwarelocations2 Locationsposted onPosted 30+ Days AgoR00256863Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00209295AI/ML ADAS Perception EngineerlocationsAuburn Hills, Michigan, USposted onPosted 29 Days AgoR00243822Sr.\n• Engineer - Architect Software Functional SafetylocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00237813Principal Software Engineer – Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00206002Intern - Engineering SoftwarelocationsSouthfield, Michigan, USposted onPosted 30 Days AgoR00258617Developer, SoftwarelocationsCarrollton, Georgia, USposted onPosted TodayR00264514Engineer II - Systems and Software QualitylocationsAuburn Hills, Michigan, USposted onPosted YesterdayR00261125Intern - Engineering SoftwarelocationsSouthfield, Michigan, USposted onPosted 22 Days AgoR00260232SCADA EngineerlocationsNorthwood, Ohio, USposted onPosted 16 Days AgoR00260488Product Engineer - FastenerlocationsNovi, Michigan, USposted onPosted TodayR00263392Quality InternlocationsHolly, Michigan, USposted onPosted 9 Days AgoR00261328Intern - ITlocationsAuburn Hills, Michigan, USposted onPosted 15 Days AgoR00262352Senior Full Stack Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00236390.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Carrollton-Georgia-US/Developer--Software_R00264514?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-developer-software-carrollton"
-  },
-  {
     "employer_name": "AMD",
     "job_title": "AI Networking System/Solution Test Engineer",
     "job_city": "US",
@@ -631,16 +611,6 @@
   },
   {
     "employer_name": "AMD",
-    "job_title": "Software Engineer - ML Compilation",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Strong programming skills in C++Experience with compilation stack to any custom hardware acceleratorKnowledge of MLIR and dialects is an added plusPrior work using Modern source control system such as GitHubKnowledge of machine learning model structuresExperience with AI agents for development or qualification tasks Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, related field, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Apply a data-driven and structured approach for analysis and optimization effortsContribute to AMD's innovation, algorithms, and architectural design changesDevelop relationships with technical leads and peers Debug, analyze, resolve existing issues, and explore more efficient alternatives Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/89971/login",
-    "id": "amd-software-engineer-ml-compilation-us"
-  },
-  {
-    "employer_name": "AMD",
     "job_title": "Systems Design Engineer",
     "job_city": "US",
     "job_state": "NJ",
@@ -691,6 +661,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Software Engineer",
+    "job_city": "Location Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047145/R-D-Software-Engineer",
+    "id": "abb-r-d-software-engineer-location-bartlesville"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Field Service Engineer, Data Centers - ELSE",
     "job_city": "Available in one of 5 locations",
     "job_state": "US",
@@ -701,13 +681,63 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Software Engineer",
-    "job_city": "Location Bartlesville",
-    "job_state": "Oklahoma",
+    "job_title": "Application Engineering Intern - Summer",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047145/R-D-Software-Engineer",
-    "id": "abb-r-d-software-engineer-location-bartlesville"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045706/Application-Engineering-Intern-Summer-2027",
+    "id": "abb-application-engineering-intern-summer-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern - Spring",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045705/Application-Engineering-Intern-Spring-2027",
+    "id": "abb-application-engineering-intern-spring-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Systems Engineer Pulp Paper and Fiber",
+    "job_city": "Available in one of 2 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045530/Systems-Engineer-Pulp-Paper-and-Fiber",
+    "id": "abb-systems-engineer-pulp-paper-and-fiber-available-in-one-of-2-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician-Gary, IN",
+    "job_city": "Available in one of 3 locations",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048460/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Location Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048876/R-D-Engineer",
+    "id": "abb-r-d-engineer-location-memphis"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Process Quality Engineer",
+    "job_city": "Location Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046147/Process-Quality-Engineer",
+    "id": "abb-process-quality-engineer-location-senatobia"
   },
   {
     "employer_name": "ABB",
@@ -761,36 +791,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Available in one of 4 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047243/Field-Service-Technician",
-    "id": "abb-field-service-technician-available-in-one-of-4-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer",
-    "job_city": "Location Memphis",
-    "job_state": "Tennessee",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048876/R-D-Engineer",
-    "id": "abb-r-d-engineer-location-memphis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Process Quality Engineer",
-    "job_city": "Location Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046147/Process-Quality-Engineer",
-    "id": "abb-process-quality-engineer-location-senatobia"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Engineering Co-op- Spring",
     "job_city": "Location Selmer",
     "job_state": "Tennessee",
@@ -798,46 +798,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040981/Engineering-Co-op-Spring-2026",
     "id": "abb-engineering-co-op-spring-location-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Summer",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045706/Application-Engineering-Intern-Summer-2027",
-    "id": "abb-application-engineering-intern-summer-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineering Intern - Spring",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045705/Application-Engineering-Intern-Spring-2027",
-    "id": "abb-application-engineering-intern-spring-available-in-one-of-2-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician-Gary, IN",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048460/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-available-in-one-of-3-locations"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Systems Engineer Pulp Paper and Fiber",
-    "job_city": "Available in one of 2 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045530/Systems-Engineer-Pulp-Paper-and-Fiber",
-    "id": "abb-systems-engineer-pulp-paper-and-fiber-available-in-one-of-2-locations"
   },
   {
     "employer_name": "ABB",
@@ -851,13 +811,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Application Engineer-Pulp & Paper",
-    "job_city": "Location Westerville",
-    "job_state": "Ohio",
+    "job_title": "Field Service Technician",
+    "job_city": "Available in one of 4 locations",
+    "job_state": "US",
     "job_posted_at": "1h",
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045532/Application-Engineer-Pulp-Paper",
-    "id": "abb-application-engineer-pulp-paper-location-westerville"
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047243/Field-Service-Technician",
+    "id": "abb-field-service-technician-available-in-one-of-4-locations"
   },
   {
     "employer_name": "ABB",
@@ -871,6 +831,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Application Engineer-Pulp & Paper",
+    "job_city": "Location Westerville",
+    "job_state": "Ohio",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045532/Application-Engineer-Pulp-Paper",
+    "id": "abb-application-engineer-pulp-paper-location-westerville"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Systems Engineering Intern - Summer",
     "job_city": "Location Cleveland",
     "job_state": "Ohio",
@@ -878,16 +848,6 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00048328/Systems-Engineering-Intern-Summer-2027",
     "id": "abb-systems-engineering-intern-summer-location-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Intern Florence-- Summer",
-    "job_city": "Location Florence",
-    "job_state": "South Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046528/R-D-Intern-Florence-Summer-2027",
-    "id": "abb-r-d-intern-florence-summer-location-florence"
   },
   {
     "employer_name": "ABB",
@@ -931,6 +891,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Intern Florence-- Summer",
+    "job_city": "Location Florence",
+    "job_state": "South Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046528/R-D-Intern-Florence-Summer-2027",
+    "id": "abb-r-d-intern-florence-summer-location-florence"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Global Customer Application Engineer",
     "job_city": "Location Cary",
     "job_state": "North Carolina",
@@ -945,7 +915,7 @@
     "job_city": "Location Cary",
     "job_state": "North Carolina",
     "job_posted_at": "1h",
-    "job_description": "• Create training materials, value propositions, and marketing communicationsCustomer Engagement – Collect and understand customer requirements from US-based OEMs.\n• Conduct market intelligence and competitive analysis to inform product strategyCross-Functional Leadership – Coordinate with internal ABB teams (R&D, Product Management, Digital) to execute business plans and develop dedicated customer solutionsValidation & Testing – Support application testing, validation, and optimization to ensure quality and performanceSolution Consulting – Help customers identify optimal solutions for their projects and ensure seamless customer journey experiences (e.\n• Supplemental benefits – 100% employee paid (Accident insurance, hospital indemnity, critical illness, pet insuranceParental Leave – up to 6 weeksEmployee Assistance ProgramHealth Advocate support resources for mental/behavioral health, general health navigation and virtual health, and infertility/adoptionEmployee discount program Bachelor's degree in Mechanical or Electrical Engineering (Master's preferred)Technical understanding with willingness to continuously learn and acquire new competenciesExperience with CAD design (3D, 2D, and BOMs) and PLM software (Windchill)Experience in product development and new product introductionStrong understanding of electrical systems.\n• Ability to read, understand, and design electrical diagramsAgile mindset with experience in agile working environmentsNegotiation, market knowledge, leadership, and strong interpersonal skillsAbility to travel domestically up to 20% of the time Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Master's degree in EngineeringSecond language proficiencyKnowledge of NEC codes (NEC 700, 701, 702) and electrical design standardsFamiliarity with Uptime Institute Tier design and ANSI/TIA-942-A ratingsExperience with ANSI/BICSI 002 levels or similar electrical distribution design requirementsKnowledge of UL standards (UL67, UL891, UL508/508a, UL489)Data center power systems experience.\n• Application Development – Develop applications and solutions for critical power and building electrification.\n• , application configurators)Market Strategy – Monitor industry trends, competitive landscape, and regulatory standards.\n• Recommend strategic adjustments for long and mid-term planningIndustry Collaboration – Participate in national and international standardization committeesDigital Marketing Support – Contribute to application-related digital marketing campaigns and initiatives Choice between two medical plan options: A PPO plan called the Copay Plan OR a High-Deductible Health Plan (with a Health Savings Account) called the High-Deductible Plan.\n• Choice between two dental plan options: Core and Core PlusVision benefitCompany paid life insurance (2X base pay)Company paid AD&D (1X base pay)Voluntary life and AD&D – 100% employee paid up to maximumsShort Term Disability – up to 26 weeks – Company paidLong Term Disability – 60% of pay – Company paid.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040333/Global-Application-Engineer-Critical-Infrastructure-Applications",
     "id": "abb-global-application-engineer-critical-infrastructure-applications-location-cary"
   },
@@ -961,33 +931,43 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027863/R-D-Engineer",
+    "id": "abb-r-d-engineer-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer - Panelboards",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028179/R-D-Engineer-Panelboards",
+    "id": "abb-r-d-engineer-panelboards-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Intern Bloomfield - Summer",
+    "job_city": "Location Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046279/R-D-Intern-Bloomfield-Summer-2027",
+    "id": "abb-r-d-intern-bloomfield-summer-location-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Field Service Engineer",
     "job_city": "Location Miramar",
     "job_state": "Florida",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Increases product and technical knowledge through factory or third-party training, technical manuals, and conventional or non-conventional resourcesTroubleshoot and repair equipment, applying personal knowledge and experience.\n• Four or more years’ experience in marine power generation and power distribution with a focus on variable frequency drives, both low and medium voltage, and control systems and programming.\n• Bachelor’s degree in electrical engineering or another Electrical technical field.\n• Experience in marine power generation and power distribution.\n• Preferred experience with ABB marine equipment.\n• Ship electrician experience or have experience from shipyards, understanding and interest in marine installations.\n• Marine Field Service Engineer (Power) Available in one of 2 locations Category Service VFD Technical Support Specialist Available in one of 50 locations Category Service Senior Field Service Technician Location Remote, United States of America Category Service Data Center CoE Sr.\n• Field Service Technician Available in one of 50 locations Category Service Data Center CoE - Sr.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00012222/Field-Service-Engineer",
     "id": "abb-field-service-engineer-location-miramar"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Systems Engineer",
-    "job_city": "Location Sesto San Giovanni",
-    "job_state": "Milano",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046553/Robotics-Systems-Engineer",
-    "id": "abb-robotics-systems-engineer-location-sesto-san-giovanni"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Junior Control Software Engineer",
-    "job_city": "Available in one of 3 locations",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048815/Junior-Control-Software-Engineer",
-    "id": "abb-junior-control-software-engineer-available-in-one-of-3-locations"
   },
   {
     "employer_name": "Apple",
@@ -1014,7 +994,7 @@
     "job_title": "Backend Software Engineer (Golang)",
     "job_city": "San Diego",
     "job_state": "US",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "• Minimum QualificationsBachelors degree in Engineering (CS or CE)3 years of experience in software engineering.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200686863-3543/backend-software-engineer-golang?team=SFTWR",
     "id": "apple-backend-software-engineer-golang-san-diego"
@@ -1061,20 +1041,30 @@
   },
   {
     "employer_name": "Apple",
-    "job_title": "SW Optimization Engineer AI/ML",
-    "job_city": "Cupertino",
+    "job_title": "Camera Software Frameworks Engineer",
+    "job_city": "",
     "job_state": "US",
-    "job_posted_at": "23h",
-    "job_description": "• Minimum QualificationsBachelor’s degree or equivalent job-related experience in Computer Engineering, Computer Science, or a related field.\n• Experience in software development for at least one of the following hardware IPs: AI/ML HW accelerators, GPUs processing units, image/video encoders, or similar.\n• Experience with AI/ML, graphics, or HPC performance benchmarks and workloads.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200687019-0836/sw-optimization-engineer-ai-ml?team=HRDWR",
-    "id": "apple-sw-optimization-engineer-ai-ml-cupertino"
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsProficiency in C, C++, and/or Objective-C.\n• Experience in software development and debugging in embedded environmentsPassionate and inquisitive.\n• Seek to solve everyday problems in innovative waysExperience and/or coursework in image processing or imaging pipelinesStrong collaborative and communication skills.\n• Passionate about working in larger cross-functional teams.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200683544/camera-software-frameworks-engineer?team=SFTWR",
+    "id": "apple-camera-software-frameworks-engineer-"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Satellite Operations",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science, Electrical Engineering, or Aerospace Engineering5+ years of software engineering experience, including production PythonExperience with developing automation of (preferred) satellite constellations or fleets of autonomous vehicles/dronesAbility to independently navigate and reason about large, unfamiliar code repositories spanning both embedded and cloud-based softwareHands-on fluency with Linux and Mac OS, cloud service APIs, modern command-line usage and HTTP toolingExperience working with CI and production CD pipelines for a software serviceExperience using design documents and ICDs as foundations for an operational serviceExport Compliance Requirement: This position requires access to U.\n• Applicants must be eligible to access this export-controlled information.\n• Export-controlled technology and technical data regulated under the Export Administration Regulations (EAR).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200687074-3543/software-engineer-satellite-operations?team=HRDWR",
+    "id": "apple-software-engineer-satellite-operations-san-diego"
   },
   {
     "employer_name": "Apple",
     "job_title": "SW Optimization Engineer AI/ML",
     "job_city": "Seattle",
     "job_state": "US",
-    "job_posted_at": "23h",
+    "job_posted_at": "1d",
     "job_description": "• Minimum QualificationsBachelor’s degree or equivalent job-related experience in Computer Engineering, Computer Science, or a related field.\n• Experience in software development for at least one of the following hardware IPs: AI/ML HW accelerators, GPUs processing units, image/video encoders, or similar.\n• Experience with AI/ML, graphics, or HPC performance benchmarks and workloads.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200687019-3337/sw-optimization-engineer-ai-ml?team=HRDWR",
     "id": "apple-sw-optimization-engineer-ai-ml-seattle"
@@ -1084,37 +1074,17 @@
     "job_title": "Software Engineer, Infrastructure Services",
     "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "• Minimum QualificationsBS in Computer Science or a related field or equivalent job-related experience5+ years of software development experience with languages such as Go, Rust, C++, Swift, etc.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200648019-0157/software-engineer-infrastructure-services?team=SFTWR",
     "id": "apple-software-engineer-infrastructure-services-austin"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer, Satellite Operations",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "23h",
-    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science, Electrical Engineering, or Aerospace Engineering5+ years of software engineering experience, including production PythonExperience with developing automation of (preferred) satellite constellations or fleets of autonomous vehicles/dronesAbility to independently navigate and reason about large, unfamiliar code repositories spanning both embedded and cloud-based softwareHands-on fluency with Linux and Mac OS, cloud service APIs, modern command-line usage and HTTP toolingExperience working with CI and production CD pipelines for a software serviceExperience using design documents and ICDs as foundations for an operational serviceExport Compliance Requirement: This position requires access to U.\n• Applicants must be eligible to access this export-controlled information.\n• Export-controlled technology and technical data regulated under the Export Administration Regulations (EAR).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200687074-3543/software-engineer-satellite-operations?team=HRDWR",
-    "id": "apple-software-engineer-satellite-operations-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Satellite Operations",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "23h",
-    "job_description": "• Minimum QualificationsBachelor's degree in Computer Science, Electrical Engineering, or Aerospace Engineering5+ years of software engineering experience, including production PythonExperience with developing automation of (preferred) satellite constellations or fleets of autonomous vehicles/dronesAbility to independently navigate and reason about large, unfamiliar code repositories spanning both embedded and cloud-based softwareHands-on fluency with Linux and Mac OS, cloud service APIs, modern command-line usage and HTTP toolingExperience working with CI and production CD pipelines for a software serviceExperience using design documents and ICDs as foundations for an operational serviceExport Compliance Requirement: This position requires access to U.\n• Applicants must be eligible to access this export-controlled information.\n• Export-controlled technology and technical data regulated under the Export Administration Regulations (EAR).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200687074-3749/software-engineer-satellite-operations?team=HRDWR",
-    "id": "apple-software-engineer-satellite-operations-san-jose"
-  },
-  {
-    "employer_name": "Apple",
     "job_title": "Software Engineer, Apple Services Engineering",
     "job_city": "Seattle",
     "job_state": "US",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "• Minimum QualificationsBachelor’s Degree in an engineering-related field, or equivalent related experience.\n• Strong experience with building and scaling core components of Kubernetes or similar orchestration systemsExperience with Kueue, Yunikorn or related technologies to increase efficiency of Kubernetes clusters preferredHighly proficient in GolangExcellent verbal and written communication skills to effectively collaborate with multidisciplinary teams.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200678453-3337/software-engineer-apple-services-engineering?team=SFTWR",
     "id": "apple-software-engineer-apple-services-engineering-seattle"
@@ -1214,7 +1184,7 @@
     "job_title": "AI Software Engineer, App Intelligence",
     "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "• Minimum Qualifications4+ years experience developing and shipping production softwareStrong proficiency in Swift, Objective-C or C++Experience building product features on top of large language models — designing tool and function-calling interfaces, constructing context, and validating model outputFluency with agentic coding tools for accelerating engineering productivity, with good judgment about where to apply them and how to verify what they produceExceptional problem-solving skills, and the ability to drive alignment across teams on shared API surfacesProven ability to excel in a fast-paced development team.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200686874-0836/ai-software-engineer-app-intelligence?team=SFTWR",
     "id": "apple-ai-software-engineer-app-intelligence-cupertino"
@@ -1224,7 +1194,7 @@
     "job_title": "Software Development Engineer - MultiCloud",
     "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "3d",
+    "job_posted_at": "4d",
     "job_description": "• Minimum QualificationsSoftware Engineering: Solid understanding of software engineering fundamentals and experience developing and maintaining production software, services, tools, or automation.\n• Kubernetes: Hands-on experience with Kubernetes and containers, including deploying and troubleshooting applications.\n• Familiarity with Helm, Kustomize, or similar tools is preferred.\n• Cloud: Experience with at least one major cloud platform such as AWS, Google Cloud, or Azure.\n• Observability: Experience with or exposure to technologies such as Prometheus, Grafana, Splunk, OpenTelemetry, or similar observability platforms.\n• Programming: Proficiency in Python and/or Go (Golang), with the ability to write clean, maintainable, and testable code.\n• Infrastructure as Code: Familiarity with Terraform, Ansible, or similar infrastructure automation technologies.\n• Reliability Engineering: Understanding of reliability concepts such as monitoring, alerting, SLIs/SLOs, incident management, capacity planning, and automation.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200686299-0157/software-development-engineer-multicloud?team=SFTWR",
     "id": "apple-software-development-engineer-multicloud-austin"
@@ -1234,7 +1204,7 @@
     "job_title": "Software Engineer, Cloud Services ASE",
     "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "• Minimum QualificationsExtensive experience working on large enterprise environments with the demonstrated ability to architect and deliver solutions at scale.\n• 1+ YOE with cloud platforms such as AWS or GCP1+ YOE with CI/CD tools and techniques, containers, and Kubernetes1+ YOE in Golang programming and the ability to pivot to other languages as neededStrong understanding of architectural design principles, including security, high availability, and resiliency.\n• Experience applying cloud security best practices at the organizational level, including AWS Organizations, Service Control Policies (SCPs), and management (root) and member accounts, with exposure to equivalent constructs in other clouds such as GCP and Alibaba Cloud.\n• Hands-on experience operating and developing infrastructure and services in cloud platforms.\n• In Computer Science, Computer Engineering, or equivalent professional experience.\n• Proficiency in designing and building RESTful APIs.\n• Knowledge of network protocols and Linux/Unix system internals.\n• Familiarity with authentication and authorization technologies such as IAM and SSO.",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200674218-0157/software-engineer-cloud-services-ase?team=SFTWR",
     "id": "apple-software-engineer-cloud-services-ase-austin"
@@ -1291,16 +1261,6 @@
   },
   {
     "employer_name": "Arm",
-    "job_title": "Functional Safety Hardware Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/functional-safety-hardware-engineer/33099/96569126768",
-    "id": "arm-functional-safety-hardware-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
     "job_title": "Power and Performance Engineer, PAI Platforms and Performance Analysis",
     "job_city": "San Jose",
     "job_state": "California",
@@ -1308,6 +1268,16 @@
     "job_description": "• Gain hands-on experience with cutting-edge hardware, create FPGA test images, improve implementation flows, and help power world-leading GPUs and compute platforms.\n• Experienced Professionals Hardware Engineering, Intern.\n• Design, build and automate FPGA solutions to verify next-generation Arm technology.",
     "job_apply_link": "https://careers.arm.com/job/san-jose/power-and-performance-engineer-pai-platforms-and-performance-analysis/33099/77390277488",
     "id": "arm-power-and-performance-engineer-pai-platforms-and-performance-analysis-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Functional Safety Hardware Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/functional-safety-hardware-engineer/33099/96569126768",
+    "id": "arm-functional-safety-hardware-engineer-austin"
   },
   {
     "employer_name": "Arm",
@@ -1338,16 +1308,6 @@
     "job_description": "• Experienced Professionals.",
     "job_apply_link": "https://careers.arm.com/job/chandler/ip-verification-engineer/33099/100146368240",
     "id": "arm-ip-verification-engineer-chandler"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, App Ads Horizontal Modeling",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, App Ads Horizontal Modeling",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75652657275904710-software-engineer-iii-app-ads-horizontal-modeling?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=8",
-    "id": "google-software-engineer-iii-app-ads-horizontal-modeling-mountain-view"
   },
   {
     "employer_name": "Amazon",
@@ -1414,7 +1374,7 @@
     "job_title": "Software Development Engineer - Distributed Services",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Software Development Engineer - Distributed Services",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10562446/software-development-engineer-distributed-services",
     "id": "amazon-software-development-engineer-distributed-services-seattle"
@@ -1441,16 +1401,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Front-End Engineer, Amazon Quick",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "4w",
-    "job_description": "software engineering job for the role Front-End Engineer, Amazon Quick",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10528746/front-end-engineer-amazon-quick",
-    "id": "amazon-front-end-engineer-amazon-quick-new-york"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Fintech",
     "job_city": "Seattle",
     "job_state": "WA",
@@ -1474,7 +1424,7 @@
     "job_title": "Data Engineer II, OpsTech Team, OTS Anchor Team",
     "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "3d",
+    "job_posted_at": "4d",
     "job_description": "software engineering job for the role Data Engineer II, OpsTech Team, OTS Anchor Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10564399/data-engineer-ii-opstech-team-ots-anchor-team",
     "id": "amazon-data-engineer-ii-opstech-team-ots-anchor-team-austin"
@@ -1484,7 +1434,7 @@
     "job_title": "TPM, Fwd Deployed Engineer, Business Innovation and AI",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role TPM, Fwd Deployed Engineer, Business Innovation and AI",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10562370/tpm-fwd-deployed-engineer-business-innovation-and-ai",
     "id": "amazon-tpm-fwd-deployed-engineer-business-innovation-and-ai-bellevue"
@@ -1494,7 +1444,7 @@
     "job_title": "Machine Learning Engineer, Sequence Models (project Sequoia)",
     "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "software engineering job for the role Machine Learning Engineer, Sequence Models (project Sequoia)",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10565690/machine-learning-engineer-sequence-models-project-sequoia",
     "id": "amazon-machine-learning-engineer-sequence-models-project-sequoia-new-york"
@@ -1524,7 +1474,7 @@
     "job_title": "Data Engineer II, Amazon Key",
     "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "software engineering job for the role Data Engineer II, Amazon Key",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10566103/data-engineer-ii-amazon-key",
     "id": "amazon-data-engineer-ii-amazon-key-austin"
@@ -1534,7 +1484,7 @@
     "job_title": "Software Development Engineer, ADC2S",
     "job_city": "Arlington",
     "job_state": "VA",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role Software Development Engineer, ADC2S",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10567329/software-development-engineer-adc2s",
     "id": "amazon-software-development-engineer-adc2s-arlington"
@@ -1544,7 +1494,7 @@
     "job_title": "Software Development Engineer, FinTech/Customer Service Tech",
     "job_city": "Newark",
     "job_state": "NJ",
-    "job_posted_at": "3d",
+    "job_posted_at": "4d",
     "job_description": "software engineering job for the role Software Development Engineer, FinTech/Customer Service Tech",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10564323/software-development-engineer-fintech-customer-service-tech",
     "id": "amazon-software-development-engineer-fintech-customer-service-tech-newark"
@@ -1554,7 +1504,7 @@
     "job_title": "Software Development Engineer",
     "job_city": "Newark",
     "job_state": "NJ",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role Software Development Engineer",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10566605/software-development-engineer",
     "id": "amazon-software-development-engineer-newark"
@@ -1614,9 +1564,9 @@
     "job_title": "Software Development Engineer, AWS Contract Onboarding",
     "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "4w",
+    "job_posted_at": "2w",
     "job_description": "software engineering job for the role Software Development Engineer, AWS Contract Onboarding",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10528933/software-development-engineer-aws-contract-onboarding",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10542458/software-development-engineer-aws-contract-onboarding",
     "id": "amazon-software-development-engineer-aws-contract-onboarding-new-york"
   }
 ]
