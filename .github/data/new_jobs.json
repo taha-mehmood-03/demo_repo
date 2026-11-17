@@ -1,5 +1,35 @@
 [
   {
+    "employer_name": "Salesforce",
+    "job_title": "Systems Engineer- Procure To Pay",
+    "job_city": "Texas - Dallas",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR359344/systems-engineer-procure-to-pay/",
+    "id": "salesforce-systems-engineer-procure-to-pay-texas-dallas"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Forward Deployed Engineer LMTS",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/company/careers/jobs/JR360491/forward-deployed-engineer-lmts/",
+    "id": "salesforce-forward-deployed-engineer-lmts-california-san-francisco"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Data Science, SMAI",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "1d",
+    "job_description": "• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• Information and rights:If you prefer not to have your application processed using the AI-assisted tools described above, you may submit your resume directly to TA_EMEA@micron.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• The Platform will assign a match score based on how closely your stated and inferred skills match the requirements for the open role based on the content of your application, the Platform’s analysis described above and Micron’s configuration of the skill and AI qualification matching software.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Impact on Employment Decisions: The Eightfold AI recruiting software generates matching scores and skill inferences.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.\n• Type of AI Technology: Micron uses the Eightfold AI recruiting software, a machine-learning talent-intelligence platform that uses natural-language processing to parse resumes, infer candidate skills and calculate compatibility scores with open positions.",
+    "job_apply_link": "https://careers.micron.com/careers/job/45530213",
+    "id": "micron-technology-intern-data-science-smai-boise"
+  },
+  {
     "employer_name": "Analog Devices",
     "job_title": "Software Engineering Intern (Medical Device & Healthcare Integration)",
     "job_city": "US",
@@ -21,23 +51,23 @@
   },
   {
     "employer_name": "Analog Devices",
+    "job_title": "Algorithms/ML Modeling Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Robotics Application Engineer (Physical AI)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266704Associate Machine Learning EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR266607Algorithms/ML Modeling EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR268535Principal Software Architectlocations2 Locationsposted onPosted 3 Days AgoR267664Sr.\n• Principal Product Management – Software and Digital Platformslocations5 Locationsposted onPosted 30+ Days AgoR265591Embedded SW Systems Architectlocations3 Locationsposted onPosted 11 Days AgoR267488Staff Product Engineer Data AnalyticslocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR268363Senior Principal Mixed Signal Power Design ArchitectlocationsUS, CA, Milpitas, Tasmanposted onPosted 3 Days AgoR268458Staff Product Engineer – RF & Mixed-Signal SystemslocationsUS, NJ, Somersetposted onPosted 21 Days AgoR262374Associate Design Evaluation Engineerlocations2 Locationsposted onPosted 30+ Days AgoR266124Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 19 Days AgoR267238Associate Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR268367Staff Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 10 Days AgoR267985Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266553AMS CAD EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265913Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR267393Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Associate Field Sales EngineerlocationsUS, MI, Livoniaposted onPosted 24 Days AgoR266933Senior Power Systems EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR267175.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithms-ML-Modeling-Engineer_R268535?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-algorithms-ml-modeling-engineer-us"
+  },
+  {
+    "employer_name": "Analog Devices",
     "job_title": "Associate Design Evaluation Engineer",
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "2w",
-    "job_description": "• Senior Robotics Application Engineer (Physical AI)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266704Associate Machine Learning EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR266607Principal Software Architectlocations2 Locationsposted onPosted 3 Days AgoR267664Sr.\n• Principal Product Management – Software and Digital Platformslocations5 Locationsposted onPosted 30+ Days AgoR265591Embedded SW Systems Architectlocations3 Locationsposted onPosted 11 Days AgoR267488Staff Product Engineer Data AnalyticslocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR268363Senior Principal Mixed Signal Power Design ArchitectlocationsUS, CA, Milpitas, Tasmanposted onPosted 3 Days AgoR268458Staff Product Engineer – RF & Mixed-Signal SystemslocationsUS, NJ, Somersetposted onPosted 21 Days AgoR262374Associate Design Evaluation Engineerlocations2 Locationsposted onPosted 30+ Days AgoR266124Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 19 Days AgoR267238Associate Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR268367Staff Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 10 Days AgoR267985Design Evaluation Engineer - Summer 2027locationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR266633Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266553AMS CAD EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265913Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR267393Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Associate Field Sales EngineerlocationsUS, MI, Livoniaposted onPosted 24 Days AgoR266933Senior Power Systems EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR267175.",
+    "job_description": "• Senior Robotics Application Engineer (Physical AI)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266704Associate Machine Learning EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR266607Algorithms/ML Modeling EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR268535Principal Software Architectlocations2 Locationsposted onPosted 3 Days AgoR267664Sr.\n• Principal Product Management – Software and Digital Platformslocations5 Locationsposted onPosted 30+ Days AgoR265591Embedded SW Systems Architectlocations3 Locationsposted onPosted 11 Days AgoR267488Staff Product Engineer Data AnalyticslocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR268363Senior Principal Mixed Signal Power Design ArchitectlocationsUS, CA, Milpitas, Tasmanposted onPosted 3 Days AgoR268458Staff Product Engineer – RF & Mixed-Signal SystemslocationsUS, NJ, Somersetposted onPosted 21 Days AgoR262374Associate Design Evaluation Engineerlocations2 Locationsposted onPosted 30+ Days AgoR266124Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 19 Days AgoR267238Associate Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR268367Staff Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 10 Days AgoR267985Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266553AMS CAD EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265913Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR267393Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Associate Field Sales EngineerlocationsUS, MI, Livoniaposted onPosted 24 Days AgoR266933Senior Power Systems EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR267175.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Design-Evaluation-Engineer_R268367?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-design-evaluation-engineer-us"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Design Evaluation Engineer - Summer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "• Senior Robotics Application Engineer (Physical AI)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266704Associate Machine Learning EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR266607Principal Software Architectlocations2 Locationsposted onPosted 3 Days AgoR267664Sr.\n• Principal Product Management – Software and Digital Platformslocations5 Locationsposted onPosted 30+ Days AgoR265591Embedded SW Systems Architectlocations3 Locationsposted onPosted 11 Days AgoR267488Staff Product Engineer Data AnalyticslocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR268363Senior Principal Mixed Signal Power Design ArchitectlocationsUS, CA, Milpitas, Tasmanposted onPosted 3 Days AgoR268458Staff Product Engineer – RF & Mixed-Signal SystemslocationsUS, NJ, Somersetposted onPosted 21 Days AgoR262374Associate Design Evaluation Engineerlocations2 Locationsposted onPosted 30+ Days AgoR266124Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 19 Days AgoR267238Associate Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR268367Staff Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 10 Days AgoR267985Design Evaluation Engineer - Summer 2027locationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR266633Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266553AMS CAD EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265913Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR267393Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Associate Field Sales EngineerlocationsUS, MI, Livoniaposted onPosted 24 Days AgoR266933Senior Power Systems EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR267175.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineer---Summer-2027_R266633?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-design-evaluation-engineer-summer-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -45,7 +75,7 @@
     "job_city": "US",
     "job_state": "MI",
     "job_posted_at": "3w",
-    "job_description": "• Senior Robotics Application Engineer (Physical AI)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266704Associate Machine Learning EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR266607Principal Software Architectlocations2 Locationsposted onPosted 3 Days AgoR267664Sr.\n• Principal Product Management – Software and Digital Platformslocations5 Locationsposted onPosted 30+ Days AgoR265591Embedded SW Systems Architectlocations3 Locationsposted onPosted 11 Days AgoR267488Staff Product Engineer Data AnalyticslocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR268363Senior Principal Mixed Signal Power Design ArchitectlocationsUS, CA, Milpitas, Tasmanposted onPosted 3 Days AgoR268458Staff Product Engineer – RF & Mixed-Signal SystemslocationsUS, NJ, Somersetposted onPosted 21 Days AgoR262374Associate Design Evaluation Engineerlocations2 Locationsposted onPosted 30+ Days AgoR266124Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 19 Days AgoR267238Associate Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR268367Staff Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 10 Days AgoR267985Design Evaluation Engineer - Summer 2027locationsUS, CA, San Jose, Rio Roblesposted onPosted 3 Days AgoR266633Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266553AMS CAD EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265913Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR267393Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Associate Field Sales EngineerlocationsUS, MI, Livoniaposted onPosted 24 Days AgoR266933Senior Power Systems EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR267175.",
+    "job_description": "• Senior Robotics Application Engineer (Physical AI)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266704Associate Machine Learning EngineerlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR266607Algorithms/ML Modeling EngineerlocationsUS, MA, Wilmingtonposted onPosted TodayR268535Principal Software Architectlocations2 Locationsposted onPosted 3 Days AgoR267664Sr.\n• Principal Product Management – Software and Digital Platformslocations5 Locationsposted onPosted 30+ Days AgoR265591Embedded SW Systems Architectlocations3 Locationsposted onPosted 11 Days AgoR267488Staff Product Engineer Data AnalyticslocationsUS, CA, Milpitas, Tasmanposted onPosted 11 Days AgoR268363Senior Principal Mixed Signal Power Design ArchitectlocationsUS, CA, Milpitas, Tasmanposted onPosted 3 Days AgoR268458Staff Product Engineer – RF & Mixed-Signal SystemslocationsUS, NJ, Somersetposted onPosted 21 Days AgoR262374Associate Design Evaluation Engineerlocations2 Locationsposted onPosted 30+ Days AgoR266124Senior Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 19 Days AgoR267238Associate Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 17 Days AgoR268367Staff Design Evaluation EngineerlocationsUS, NC, Durhamposted onPosted 10 Days AgoR267985Associate System Integration Engineerlocations2 Locationsposted onPosted 30+ Days AgoR265285Staff Engineer, Data EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR266553AMS CAD EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265913Senior Engineer, Quality EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR267393Associate Manufacturing Engineerlocations3 Locationsposted onPosted 30+ Days AgoR265295Associate Field Sales EngineerlocationsUS, MI, Livoniaposted onPosted 24 Days AgoR266933Senior Power Systems EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 12 Days AgoR267175.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MI-Livonia/Associate-Field-Sales-Engineer_R266933?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-field-sales-engineer-us"
   },
@@ -55,7 +85,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "3w",
-    "job_description": "• Senior Process Sustaining EngineerlocationsUS, WA, Camasposted onPosted 6 Days AgoR268465Staff Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR266046Test Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR266146Staff Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR268405Equipment Technician 2, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 25 Days AgoR267497Associate Equipment Engineerlocations2 Locationsposted onPosted 4 Days AgoR268923Impant and EPI Engineering ManagerlocationsUS, OR, Beavertonposted onPosted 20 Days AgoR266613Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Equipment Engineering Technician 3 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 14 Days AgoR263426Staff Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR268175Mechatronics Engineering InternlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR268831Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Principal/Staff System EngineerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR264843Senior Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 14 Days AgoR264596Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573.",
+    "job_description": "• Staff Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR266046Test Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR266146Staff Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR268405Equipment Technician 2, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 25 Days AgoR267497Associate Equipment Engineerlocations2 Locationsposted onPosted 4 Days AgoR268923Impant and EPI Engineering ManagerlocationsUS, OR, Beavertonposted onPosted 20 Days AgoR266613Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Equipment Engineering Technician 3 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 14 Days AgoR263426Staff Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR268175Mechatronics Engineering InternlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR268831Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Principal/Staff System EngineerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR264843Senior Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 14 Days AgoR264596Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-2--Epitaxy--Night-Shift-_R267497?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-equipment-technician-2-epitaxy-night-shift-us"
   },
@@ -65,7 +95,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "4d",
-    "job_description": "• Senior Process Sustaining EngineerlocationsUS, WA, Camasposted onPosted 6 Days AgoR268465Staff Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR266046Test Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR266146Staff Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR268405Equipment Technician 2, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 25 Days AgoR267497Associate Equipment Engineerlocations2 Locationsposted onPosted 4 Days AgoR268923Impant and EPI Engineering ManagerlocationsUS, OR, Beavertonposted onPosted 20 Days AgoR266613Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Equipment Engineering Technician 3 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 14 Days AgoR263426Staff Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR268175Mechatronics Engineering InternlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR268831Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Principal/Staff System EngineerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR264843Senior Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 14 Days AgoR264596Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573.",
+    "job_description": "• Staff Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR266046Test Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR266146Staff Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR268405Equipment Technician 2, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 25 Days AgoR267497Associate Equipment Engineerlocations2 Locationsposted onPosted 4 Days AgoR268923Impant and EPI Engineering ManagerlocationsUS, OR, Beavertonposted onPosted 20 Days AgoR266613Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Equipment Engineering Technician 3 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 14 Days AgoR263426Staff Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR268175Mechatronics Engineering InternlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR268831Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Principal/Staff System EngineerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR264843Senior Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 14 Days AgoR264596Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Equipment-Engineer_R268923?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-associate-equipment-engineer-2-locations"
   },
@@ -75,7 +105,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "2w",
-    "job_description": "• Senior Process Sustaining EngineerlocationsUS, WA, Camasposted onPosted 6 Days AgoR268465Staff Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR266046Test Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR266146Staff Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR268405Equipment Technician 2, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 25 Days AgoR267497Associate Equipment Engineerlocations2 Locationsposted onPosted 4 Days AgoR268923Impant and EPI Engineering ManagerlocationsUS, OR, Beavertonposted onPosted 20 Days AgoR266613Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Equipment Engineering Technician 3 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 14 Days AgoR263426Staff Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR268175Mechatronics Engineering InternlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR268831Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Principal/Staff System EngineerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR264843Senior Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 14 Days AgoR264596Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573.",
+    "job_description": "• Staff Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR266046Test Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR266146Staff Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR268405Equipment Technician 2, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 25 Days AgoR267497Associate Equipment Engineerlocations2 Locationsposted onPosted 4 Days AgoR268923Impant and EPI Engineering ManagerlocationsUS, OR, Beavertonposted onPosted 20 Days AgoR266613Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Equipment Engineering Technician 3 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 14 Days AgoR263426Staff Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR268175Mechatronics Engineering InternlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR268831Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Principal/Staff System EngineerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR264843Senior Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 14 Days AgoR264596Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Technician-3---Photolithography_R263426?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-equipment-engineering-technician-3-photolithography-us"
   },
@@ -85,19 +115,9 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "6d",
-    "job_description": "• Senior Process Sustaining EngineerlocationsUS, WA, Camasposted onPosted 6 Days AgoR268465Staff Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR266046Test Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR266146Staff Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR268405Equipment Technician 2, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 25 Days AgoR267497Associate Equipment Engineerlocations2 Locationsposted onPosted 4 Days AgoR268923Impant and EPI Engineering ManagerlocationsUS, OR, Beavertonposted onPosted 20 Days AgoR266613Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Equipment Engineering Technician 3 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 14 Days AgoR263426Staff Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR268175Mechatronics Engineering InternlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR268831Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Principal/Staff System EngineerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR264843Senior Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 14 Days AgoR264596Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573.",
+    "job_description": "• Staff Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 19 Days AgoR266046Test Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR266146Staff Engineer, Facilities EngineeringlocationsUS, MA, Wilmingtonposted onPosted 6 Days AgoR268405Equipment Technician 2, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 25 Days AgoR267497Associate Equipment Engineerlocations2 Locationsposted onPosted 4 Days AgoR268923Impant and EPI Engineering ManagerlocationsUS, OR, Beavertonposted onPosted 20 Days AgoR266613Senior Principal Engineer, Digital Design EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262199Equipment Engineering Technician 5 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR262896Equipment Technician 3, Diffusion & Wet Sink (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264633Equipment Engineering Technician 5 - Photolithography (Nights)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263425Equipment Engineering Technician 3 - PhotolithographylocationsUS, OR, Beavertonposted onPosted 14 Days AgoR263426Staff Engineer, Process Sustaining EngineeringlocationsUS, OR, Beavertonposted onPosted 4 Days AgoR268175Mechatronics Engineering InternlocationsUS, OR, Beavertonposted onPosted 6 Days AgoR268831Staff Engineer, Design Verification EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR262387Staff Engineer, Failure Analysis EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR264006Bio-Medical EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264157Principal/Staff System EngineerlocationsUS, MA, Bostonposted onPosted 5 Days AgoR264843Senior Test Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 14 Days AgoR264596Product EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR264573Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-mechatronics-engineering-intern-us"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "System Applications Engineer",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "1w",
-    "job_description": "• Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267489Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR2674632nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/System-Applications-Engineer_R267491?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-system-applications-engineer-3-locations"
   },
   {
     "employer_name": "Analog Devices",
@@ -105,7 +125,7 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "2w",
-    "job_description": "• Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267489Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR2674632nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
+    "job_description": "• Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR267463System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR2674892nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Process EngineerlocationsUS, OR, Beavertonposted onPosted TodayR268937Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Technician-4--Epitaxy_R267494?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-equipment-technician-4-epitaxy-night-shift-us"
   },
@@ -115,9 +135,19 @@
     "job_city": "US",
     "job_state": "OR",
     "job_posted_at": "3w",
-    "job_description": "• Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267489Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR2674632nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
+    "job_description": "• Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR267463System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR2674892nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Process EngineerlocationsUS, OR, Beavertonposted onPosted TodayR268937Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/CMP-Equipment-Maintenance-Technician_R267463?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-cmp-equipment-maintenance-technician-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "System Applications Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR267463System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR2674892nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Process EngineerlocationsUS, OR, Beavertonposted onPosted TodayR268937Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/System-Applications-Engineer_R267491?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-system-applications-engineer-3-locations"
   },
   {
     "employer_name": "Analog Devices",
@@ -125,9 +155,19 @@
     "job_city": "US",
     "job_state": "NC",
     "job_posted_at": "2w",
-    "job_description": "• Principal Test Engineer - Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR258731Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267489Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR2674632nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
+    "job_description": "• Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR267463System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR2674892nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Process EngineerlocationsUS, OR, Beavertonposted onPosted TodayR268937Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/PCB-Design-Engineer_R263848?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-pcb-layout-engineer-us"
+  },
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Process Engineer",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "1d",
+    "job_description": "• Staff Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 21 Days AgoR263238Associate Equipment EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR263682Equipment Technician 2, Diffusion & Wet Sink (Night Shift)locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR264631Senior Reliability Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR264642Equipment Technician 4, Epitaxy (Night Shift)locationsUS, OR, Beavertonposted onPosted 20 Days AgoR267494CMP Equipment Maintenance TechnicianlocationsUS, OR, Beavertonposted onPosted 25 Days AgoR267463System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR267491System Applications Engineerlocations3 Locationsposted onPosted 11 Days AgoR2674892nd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2648341st Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR2667833rd Shift Manufacturing Test EngineerlocationsUS, MA, Chelmsford, Alphaposted onPosted 30+ Days AgoR266789PCB Layout EngineerlocationsUS, NC, Durhamposted onPosted 17 Days AgoR263848Principal Engineer, Failure Analysis EngineeringlocationsUS, CA, Milpitas, Tasmanposted onPosted 30+ Days AgoR266037Staff Engineer, Process Sustaining EngineeringlocationsUS, WA, Camasposted onPosted 21 Days AgoR266964Senior Engineer Equipment - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR265284Staff Equipment Engineer - CVD/Thin FilmslocationsUS, WA, Camasposted onPosted 28 Days AgoR267126Process EngineerlocationsUS, OR, Beavertonposted onPosted TodayR268937Digital Design Engineer, DFTlocationsUS, TX, Dallas, Tollwayposted onPosted 30+ Days AgoR266601Senior Engineer, Semi Packaging EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR262890Staff Engineer, Semi Packaging EngineeringlocationsUS, CA, San Jose, Rio Roblesposted onPosted 21 Days AgoR267191.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Process-Engineer_R268937?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-process-engineer-us"
   },
   {
     "employer_name": "Analog Devices",
@@ -265,9 +305,19 @@
     "job_city": "US",
     "job_state": "MN",
     "job_posted_at": "2w",
-    "job_description": "• Manufacturing Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR265301Advanced Algorithms Research InternlocationsUS, MA, Bostonposted onPosted 7 Days AgoR268506Principal EDA Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264470Product Engineer (Product Development) Internlocations3 Locationsposted onPosted 30+ Days AgoR265302Field Applications Engineer (Graduate Rotational Program)locationsUS, MN, Bloomingtonposted onPosted 20 Days AgoR267392Associate Central Applications (Sales Rotational)locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265315Associate Field Sales Rotational Programlocations4 Locationsposted onPosted 30+ Days AgoR265316Senior Equipment Engineer - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR265598Applications Engineer - Embedded Systems, Digital Communications, High Speed ConverterslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR265602System Integration Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265305Senior Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265601Staff Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 30+ Days AgoR266584Digital Design Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265298Senior Field Technical Leader, ConsumerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR266738Mechanical Engineer - Advanced Robotics InternlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR268505Mixed Signal Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR265319Analog Design Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR265297Staff Applications Engineer – PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR266296Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR268403.",
+    "job_description": "• Manufacturing Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR265301Principal EDA Engineerlocations2 Locationsposted onPosted 30+ Days AgoR264470Advanced Algorithms Research InternlocationsUS, MA, Bostonposted onPosted 7 Days AgoR268506Product Engineer (Product Development) Internlocations3 Locationsposted onPosted 30+ Days AgoR265302Field Applications Engineer (Graduate Rotational Program)locationsUS, MN, Bloomingtonposted onPosted 20 Days AgoR267392Associate Central Applications (Sales Rotational)locationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR265315Associate Field Sales Rotational Programlocations4 Locationsposted onPosted 30+ Days AgoR265316Senior Equipment Engineer - PhotolithographylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR265598Applications Engineer - Embedded Systems, Digital Communications, High Speed ConverterslocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR265602System Integration Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265305Senior Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 30+ Days AgoR265601Staff Engineer, Product ApplicationslocationsUS, NC, Durhamposted onPosted 30+ Days AgoR266584Digital Design Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265298Senior Field Technical Leader, ConsumerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR266738Mechanical Engineer - Advanced Robotics InternlocationsUS, MA, Wilmingtonposted onPosted 4 Days AgoR268505Mixed Signal Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR265299Process Sustaining Engineering Internlocations2 Locationsposted onPosted 30+ Days AgoR265319Analog Design Engineer Internlocations3 Locationsposted onPosted 30+ Days AgoR265297Staff Applications Engineer – PowerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR266296Staff Engineer, Field ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 6 Days AgoR268403.",
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MN-Bloomington/Field-Applications-Engineer--Graduate-Rotational-Program-_R267392?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
     "id": "analog-devices-field-applications-engineer-graduate-rotational-program-us"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Software Engineer",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer, Seniorlocations2 Locationsposted onPosted 18 Days AgoR0237633 Software Engineer, Leadlocations2 Locationsposted onPosted 18 Days AgoR0237634.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Engineer_R0243588?q=software+engineering",
+    "id": "bae-systems-software-engineer-annapolis-junction"
   },
   {
     "employer_name": "BAE Systems",
@@ -311,21 +361,11 @@
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "Software Engineer, Junior",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
-    "job_posted_at": "1w",
-    "job_description": "• Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0249160 Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 30+ Days AgoR0243352 Software Engineer, JuniorlocationsAlbuquerque, NMposted onPosted 13 Days AgoR0242700 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0241426 Software Engineer, SeniorlocationsAshburn, VAposted onPosted 27 Days AgoR0252035 Software Engineer, SeniorlocationsDahlgren, VAposted onPosted 6 Days AgoR0253349 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 28 Days AgoR0250323 Software Engineer, LeadlocationsRome, NYposted onPosted 30+ Days AgoR0248085.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700?q=software+engineering",
-    "id": "bae-systems-software-engineer-junior-albuquerque"
-  },
-  {
-    "employer_name": "BAE Systems",
     "job_title": "Software Engineer, Mid",
     "job_city": "Lexington Park",
     "job_state": "MD",
     "job_posted_at": "3w",
-    "job_description": "• Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0249160 Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 30+ Days AgoR0243352 Software Engineer, JuniorlocationsAlbuquerque, NMposted onPosted 13 Days AgoR0242700 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0241426 Software Engineer, SeniorlocationsAshburn, VAposted onPosted 27 Days AgoR0252035 Software Engineer, SeniorlocationsDahlgren, VAposted onPosted 6 Days AgoR0253349 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 28 Days AgoR0250323 Software Engineer, LeadlocationsRome, NYposted onPosted 30+ Days AgoR0248085.",
+    "job_description": "• Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0249160 Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 30+ Days AgoR0243352 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0241426 Software Engineer, SeniorlocationsAshburn, VAposted onPosted 27 Days AgoR0252035 Software Engineer, SeniorlocationsDahlgren, VAposted onPosted 6 Days AgoR0253349 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 28 Days AgoR0250323.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Software-Engineer--Mid_R0244134?q=software+engineering",
     "id": "bae-systems-software-engineer-mid-lexington-park"
   },
@@ -335,7 +375,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0249160 Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 30+ Days AgoR0243352 Software Engineer, JuniorlocationsAlbuquerque, NMposted onPosted 13 Days AgoR0242700 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0241426 Software Engineer, SeniorlocationsAshburn, VAposted onPosted 27 Days AgoR0252035 Software Engineer, SeniorlocationsDahlgren, VAposted onPosted 6 Days AgoR0253349 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 28 Days AgoR0250323 Software Engineer, LeadlocationsRome, NYposted onPosted 30+ Days AgoR0248085.",
+    "job_description": "• Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0249160 Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 30+ Days AgoR0243352 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0241426 Software Engineer, SeniorlocationsAshburn, VAposted onPosted 27 Days AgoR0252035 Software Engineer, SeniorlocationsDahlgren, VAposted onPosted 6 Days AgoR0253349 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 28 Days AgoR0250323.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Backend-Software-Engineer_R0252682?q=software+engineering",
     "id": "bae-systems-backend-software-engineer-2-locations"
   },
@@ -345,7 +385,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "3d",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0249160 Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 Software Engineer, SeniorlocationsSpringfield, VAposted onPosted 30+ Days AgoR0243352 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0241426 Software Engineer, SeniorlocationsAshburn, VAposted onPosted 27 Days AgoR0252035 Software Engineer, SeniorlocationsDahlgren, VAposted onPosted 6 Days AgoR0253349 Software Engineer, SeniorlocationsMcLean, VAposted onPosted 28 Days AgoR0250323.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/Systems-Software-Engineer_R0253509?q=software+engineering",
     "id": "bae-systems-systems-software-engineer-2-locations"
   },
@@ -355,9 +395,19 @@
     "job_city": "Chantilly",
     "job_state": "VA",
     "job_posted_at": "3w",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Back-End-Software-Engineer_R0241006?q=software+engineering",
     "id": "bae-systems-back-end-software-engineer-chantilly"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "UAV Embedded Software Engineer",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_posted_at": "1d",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/UAV-Software-Engineer_R0241711?q=software+engineering",
+    "id": "bae-systems-uav-embedded-software-engineer-huntsville"
   },
   {
     "employer_name": "BAE Systems",
@@ -365,7 +415,7 @@
     "job_city": "Chantilly",
     "job_state": "VA",
     "job_posted_at": "4d",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Front-End-Software-Engineer_R0245448?q=software+engineering",
     "id": "bae-systems-front-end-software-engineer-chantilly"
   },
@@ -375,7 +425,7 @@
     "job_city": "Chantilly",
     "job_state": "VA",
     "job_posted_at": "4d",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0245774?q=software+engineering",
     "id": "bae-systems-full-stack-software-engineer-chantilly"
   },
@@ -385,7 +435,7 @@
     "job_city": "Washington",
     "job_state": "DC",
     "job_posted_at": "2w",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Full-Stack-Software-Engineer_R0246949?q=software+engineering",
     "id": "bae-systems-full-stack-software-engineer-washington"
   },
@@ -395,7 +445,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "6d",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Real-Time-Software-Engineer_R0247301?q=software+engineering",
     "id": "bae-systems-real-time-software-engineer-2-locations"
   },
@@ -405,7 +455,7 @@
     "job_city": "Annapolis Junction",
     "job_state": "MD",
     "job_posted_at": "1w",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Full-Stack-Software-Engineer_R0247789?q=software+engineering",
     "id": "bae-systems-full-stack-software-engineer-annapolis-junction"
   },
@@ -415,7 +465,7 @@
     "job_city": "Lorton",
     "job_state": "VA",
     "job_posted_at": "4w",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251326?q=software+engineering",
     "id": "bae-systems-augmented-reality-software-engineer-lorton"
   },
@@ -425,7 +475,7 @@
     "job_city": "McLean",
     "job_state": "VA",
     "job_posted_at": "3w",
-    "job_description": "• Software Engineer, SeniorlocationsLexington Park, MDposted onPosted 3 Days AgoR0253211 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Test-Automation-Software-Engineer_R0252018?q=software+engineering",
     "id": "bae-systems-test-automation-software-engineer-mclean"
   },
@@ -435,19 +485,9 @@
     "job_city": "Indian Head",
     "job_state": "MD",
     "job_posted_at": "3w",
-    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042 Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
+    "job_description": "• Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 AI Software Engineer, SeniorlocationsHonolulu, HIposted onPosted 30+ Days AgoR0248104 AI Software Engineer, SeniorlocationsLaurel, MDposted onPosted 30+ Days AgoR0234279 AI Software Engineer, Seniorlocations2 Locationsposted onPosted 7 Days AgoR0238008.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Indian-Head-MD/Java-Software-Engineer--Mid_R0252181?q=software+engineering",
     "id": "bae-systems-java-software-engineer-mid-indian-head"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Full-Stack Software Engineer",
-    "job_city": "Langley AFB",
-    "job_state": "VA",
-    "job_posted_at": "2w",
-    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042 Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0252590?q=software+engineering",
-    "id": "bae-systems-full-stack-software-engineer-langley-afb"
   },
   {
     "employer_name": "BAE Systems",
@@ -455,7 +495,7 @@
     "job_city": "King George",
     "job_state": "VA",
     "job_posted_at": "1w",
-    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042 Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
+    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Full Stack Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0246182 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Embedded-C---Software-Engineer_R0253100?q=software+engineering",
     "id": "bae-systems-embedded-c-software-engineer-king-george"
   },
@@ -465,7 +505,7 @@
     "job_city": "Beavercreek",
     "job_state": "OH",
     "job_posted_at": "4d",
-    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042 Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
+    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Full Stack Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0246182 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425?q=software+engineering",
     "id": "bae-systems-c-software-engineer-junior-beavercreek"
   },
@@ -475,7 +515,7 @@
     "job_city": "Fayetteville",
     "job_state": "NC",
     "job_posted_at": "4d",
-    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042 Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
+    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Full Stack Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0246182 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Special-Missions-Software-Engineer_R0253467?q=software+engineering",
     "id": "bae-systems-special-missions-software-engineer-fayetteville"
   },
@@ -485,9 +525,19 @@
     "job_city": "Fort Meade",
     "job_state": "MD",
     "job_posted_at": "3d",
-    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042 Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
+    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Full Stack Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0246182 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Full-Stack-Software-Engineer_R0253527?q=software+engineering",
     "id": "bae-systems-full-stack-software-engineer-fort-meade"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Full Stack Software Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Full Stack Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0246182 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tinton-Falls-NJ/Full-Stack-Software-Engineer_R0253621?q=software+engineering",
+    "id": "bae-systems-full-stack-software-engineer-2-locations"
   },
   {
     "employer_name": "BAE Systems",
@@ -495,7 +545,7 @@
     "job_city": "Fort Meade",
     "job_state": "MD",
     "job_posted_at": "1w",
-    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042 Java Software Engineer, MidlocationsIndian Head, MDposted onPosted 25 Days AgoR0252181 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
+    "job_description": "• Remote Sensing Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0242685 Embedded C++ Software Engineer, LeadlocationsKing George, VAposted onPosted 6 Days AgoR0253351 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290 Software Developer, LeadlocationsNorth Charleston, SCposted onPosted 12 Days AgoR0253001 C++ Software Engineer, JuniorlocationsBeavercreek, OHposted onPosted 4 Days AgoR0253425 Software Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0226321 Full Stack Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0246182 Software Developer, SeniorlocationsArlington, VAposted onPosted 26 Days AgoR0252082 Software Developer, LeadlocationsFort Meade, MDposted onPosted 18 Days AgoR0226754.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Software-Developer_R0236271?q=software+engineering",
     "id": "bae-systems-software-developer-fort-meade"
   },
@@ -505,7 +555,7 @@
     "job_city": "Suffolk",
     "job_state": "VA",
     "job_posted_at": "6d",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Model-and-Simulation-Software-Engineer_R0248517?q=software+engineering",
     "id": "bae-systems-model-and-simulation-software-engineer-suffolk"
   },
@@ -515,7 +565,7 @@
     "job_city": "Aurora",
     "job_state": "CO",
     "job_posted_at": "3w",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Remote-Sensing-Software-Engineer--Mid_R0250626?q=software+engineering",
     "id": "bae-systems-remote-sensing-software-engineer-mid-aurora"
   },
@@ -525,7 +575,7 @@
     "job_city": "Chantilly",
     "job_state": "VA",
     "job_posted_at": "3w",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-and-ML-Software-Engineer_R0252322-1?q=software+engineering",
     "id": "bae-systems-ai-and-ml-software-engineer-chantilly"
   },
@@ -535,7 +585,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "3d",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Digital-Signal-Processing-Software-Engineer_R0244344-1?q=software+engineering",
     "id": "bae-systems-digital-signal-processing-software-engineer-2-locations"
   },
@@ -545,7 +595,7 @@
     "job_city": "Tampa",
     "job_state": "FL",
     "job_posted_at": "1w",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Full-Stack-Software-Developer_R0252508-1?q=software+engineering",
     "id": "bae-systems-full-stack-software-developer-tampa"
   },
@@ -555,7 +605,7 @@
     "job_city": "Scott AFB",
     "job_state": "IL",
     "job_posted_at": "3w",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/API-Engineer_R0243799?q=software+engineering",
     "id": "bae-systems-api-engineer-scott-afb"
   },
@@ -565,7 +615,7 @@
     "job_city": "Ashburn",
     "job_state": "VA",
     "job_posted_at": "2w",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Automation-Engineer_R0252497?q=software+engineering",
     "id": "bae-systems-automation-engineer-ashburn"
   },
@@ -575,7 +625,7 @@
     "job_city": "Arlington",
     "job_state": "VA",
     "job_posted_at": "1w",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Implementation-Engineer_R0253056?q=software+engineering",
     "id": "bae-systems-implementation-engineer-arlington"
   },
@@ -585,7 +635,7 @@
     "job_city": "Warner Robins",
     "job_state": "GA",
     "job_posted_at": "1w",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Firmware-Engineer_R0253123?q=software+engineering",
     "id": "bae-systems-firmware-engineer-warner-robins"
   },
@@ -595,7 +645,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "2w",
-    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Computer Vision Software Engineer, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0245705 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Full Stack Software Engineer, SeniorlocationsDayton, OHposted onPosted 30+ Days AgoR0243290.",
+    "job_description": "• Software Integrator & Administrator, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 7 Days AgoR0249413 Full Stack Software Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0248506 Remote Sensing Software Engineer, SeniorlocationsAurora, COposted onPosted 30+ Days AgoR0250625 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 30+ Days AgoR0250623 Full Stack Software Engineer, LeadlocationsSan Antonio, TXposted onPosted 11 Days AgoR0246298 Software Test Engineer, SeniorlocationsSan Diego, CAposted onPosted 11 Days AgoR0253042.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/UI-Full-Stack-Software-Developer_R0237666?q=software+engineering",
     "id": "bae-systems-ui-full-stack-software-developer-2-locations"
   },
@@ -605,7 +655,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
+    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0234280 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/RAG-Application-Engineer_R0251615?q=software+engineering",
     "id": "bae-systems-rag-application-engineer-2-locations"
   },
@@ -615,39 +665,9 @@
     "job_city": "Colorado Springs",
     "job_state": "CO",
     "job_posted_at": "1w",
-    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
+    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0234280 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Full-Stack-Modeling-and-Simulation-Software-Engineer_R0252901?q=software+engineering",
     "id": "bae-systems-full-stack-modeling-and-simulation-software-engineer-colorado-springs"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Modeling and Simulation Engineer",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "1w",
-    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Modeling-and-Simulation-Engineer_R0252364?q=software+engineering",
-    "id": "bae-systems-modeling-and-simulation-engineer-washington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Full Stack Development Engineer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "2w",
-    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Development-Engineer_R0252545?q=software+engineering",
-    "id": "bae-systems-full-stack-development-engineer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Digital Twin Simulation Engineer",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "6d",
-    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Digital-Twin-Simulation-Engineer_R0253158?q=software+engineering",
-    "id": "bae-systems-digital-twin-simulation-engineer-3-locations"
   },
   {
     "employer_name": "BAE Systems",
@@ -655,7 +675,7 @@
     "job_city": "McLean",
     "job_state": "VA",
     "job_posted_at": "3w",
-    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
+    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0234280 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Signals-Engineer_R0244250-1?q=software+engineering",
     "id": "bae-systems-software-signals-engineer-mclean"
   },
@@ -665,7 +685,7 @@
     "job_city": "Honolulu",
     "job_state": "HI",
     "job_posted_at": "3d",
-    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
+    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0234280 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Software-Data-Engineer_R0253503?q=software+engineering",
     "id": "bae-systems-software-data-engineer-honolulu"
   },
@@ -675,9 +695,49 @@
     "job_city": "Laurel",
     "job_state": "MD",
     "job_posted_at": "3d",
-    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
+    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0234280 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Laurel-MD/Software-Reverse-Engineer_R0253496?q=software+engineering",
     "id": "bae-systems-software-reverse-engineer-laurel"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Modeling and Simulation Engineer",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_posted_at": "1w",
+    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0234280 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Modeling-and-Simulation-Engineer_R0252364?q=software+engineering",
+    "id": "bae-systems-modeling-and-simulation-engineer-washington"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Full Stack Development Engineer",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "2w",
+    "job_description": "• Front End Software Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 12 Days AgoR0252943 Software Lead and Integration ManagerlocationsPeterson AFB, COposted onPosted 4 Days AgoR0246688 AI-Assisted Tooling Software Engineer, SeniorlocationsLaurel, MDposted onPosted TodayR0234280 AI Platform Engineer, SeniorlocationsLaurel, MDposted onPosted 19 Days AgoR0234072.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Development-Engineer_R0252545?q=software+engineering",
+    "id": "bae-systems-full-stack-development-engineer-mclean"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Digital Twin Simulation Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "6d",
+    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Digital-Twin-Simulation-Engineer_R0253158?q=software+engineering",
+    "id": "bae-systems-digital-twin-simulation-engineer-3-locations"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Application Developer",
+    "job_city": "Laurel",
+    "job_state": "MD",
+    "job_posted_at": "1d",
+    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Laurel-MD/Application-Developer_R0234563?q=software+engineering",
+    "id": "bae-systems-application-developer-laurel"
   },
   {
     "employer_name": "BAE Systems",
@@ -685,7 +745,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "3w",
-    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
+    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Mission-Essential-System-Developer_R0237863?q=software+engineering",
     "id": "bae-systems-full-stack-mission-essential-system-developer-2-locations"
   },
@@ -695,7 +755,7 @@
     "job_city": "Chantilly",
     "job_state": "VA",
     "job_posted_at": "3w",
-    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
+    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Developer_R0241001?q=software+engineering",
     "id": "bae-systems-full-stack-developer-chantilly"
   },
@@ -705,7 +765,7 @@
     "job_city": "Annapolis Junction",
     "job_state": "MD",
     "job_posted_at": "1w",
-    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
+    "job_description": "• Full Stack Mission Essential System Developerlocations2 Locationsposted onPosted 21 Days AgoR0237863 Full-Stack Linux Cyber Application Developer, LeadlocationsHerndon, VAposted onPosted 30+ Days AgoR0244420 Embedded Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0238550 Full Stack Developer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0238021.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Embedded-Developer_R0243402?q=software+engineering",
     "id": "bae-systems-embedded-developer-annapolis-junction"
   },
@@ -715,7 +775,7 @@
     "job_city": "Aurora",
     "job_state": "CO",
     "job_posted_at": "3w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
+    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Full-Stack-Developer--Mid_R0250631?q=software+engineering",
     "id": "bae-systems-full-stack-developer-mid-aurora"
   },
@@ -725,7 +785,7 @@
     "job_city": "Huntsville",
     "job_state": "AL",
     "job_posted_at": "3w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
+    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Agentic-Cyber-Capabilities-Developer_R0252045?q=software+engineering",
     "id": "bae-systems-full-stack-agentic-cyber-capabilities-developer-huntsville"
   },
@@ -735,19 +795,9 @@
     "job_city": "McLean",
     "job_state": "VA",
     "job_posted_at": "2w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
+    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/TAK-Developer_R0252429?q=software+engineering",
     "id": "bae-systems-tak-developer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Full Stack Developer",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "2w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Full-Stack-Developer_R0252593?q=software+engineering",
-    "id": "bae-systems-full-stack-developer-atlanta"
   },
   {
     "employer_name": "BAE Systems",
@@ -755,7 +805,7 @@
     "job_city": "Fort Belvoir",
     "job_state": "VA",
     "job_posted_at": "2w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
+    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Back-End-Node-Developer_R0252668?q=software+engineering",
     "id": "bae-systems-back-end-node-developer-fort-belvoir"
   },
@@ -765,7 +815,7 @@
     "job_city": "Lorton",
     "job_state": "VA",
     "job_posted_at": "2w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
+    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Android-Tactical-Assault-Kit-Engineer_R0252691?q=software+engineering",
     "id": "bae-systems-android-tactical-assault-kit-engineer-lorton"
   },
@@ -775,7 +825,7 @@
     "job_city": "Monterey",
     "job_state": "CA",
     "job_posted_at": "2w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
+    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Monterey-CA/Full-Stack-Developer_R0252753-1?q=software+engineering",
     "id": "bae-systems-full-stack-developer-monterey"
   },
@@ -785,7 +835,7 @@
     "job_city": "Albuquerque",
     "job_state": "NM",
     "job_posted_at": "1w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
+    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/UI-Full-Stack-Developer_R0252885?q=software+engineering",
     "id": "bae-systems-ui-full-stack-developer-albuquerque"
   },
@@ -795,7 +845,7 @@
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1w",
-    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
+    "job_description": "• University - Full-Stack DeveloperlocationsHuntsville, ALposted onPosted 30+ Days AgoR0251336 Mission Critical Program Full Stack Developer, Leadlocations2 Locationsposted onPosted 30+ Days AgoR0250228 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250629 Full Stack Developer, SeniorlocationsAurora, COposted onPosted 27 Days AgoR0250630 Full Stack Developer, LeadlocationsAtlanta, GAposted onPosted 19 Days AgoR0252475 MUMPS Developer, LeadlocationsMelbourne, FLposted onPosted 30+ Days AgoR0250839.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Nodejs-Developer-SME_R0252938?q=software+engineering",
     "id": "bae-systems-node-js-developer-sme-2-locations"
   },
@@ -895,9 +945,19 @@
     "job_city": "Belcamp",
     "job_state": "MD",
     "job_posted_at": "3w",
-    "job_description": "• Cybersecurity Compliance and Risk Managerlocations2 Locationsposted onPosted 7 Days AgoR0253243 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0251910 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0249865 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0242157 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0243767 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0245084 Software Architect, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0246897.",
+    "job_description": "• Knowledge Managerlocations2 Locationsposted onPosted TodayR0253482 Cybersecurity Compliance and Risk Managerlocations2 Locationsposted onPosted 7 Days AgoR0253243 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0251910 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0249865 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0242157 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0243767 Software Architect, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0246897.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Belcamp-MD/Cyber-Security-Code-Analyst--Mid_R0251986?q=software+engineering",
     "id": "bae-systems-cyber-security-code-analyst-mid-belcamp"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Software Developer",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• Knowledge Managerlocations2 Locationsposted onPosted TodayR0253482 Cybersecurity Compliance and Risk Managerlocations2 Locationsposted onPosted 7 Days AgoR0253243 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0251910 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0249865 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0242157 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0243767 Software Architect, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0246897.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Developer_R0253584?q=software+engineering",
+    "id": "bae-systems-software-developer-mclean"
   },
   {
     "employer_name": "BAE Systems",
@@ -905,7 +965,7 @@
     "job_city": "Alexandria",
     "job_state": "VA",
     "job_posted_at": "2w",
-    "job_description": "• Cybersecurity Compliance and Risk Managerlocations2 Locationsposted onPosted 7 Days AgoR0253243 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0251910 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0249865 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0242157 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0243767 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0245084 Software Architect, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0246897.",
+    "job_description": "• Knowledge Managerlocations2 Locationsposted onPosted TodayR0253482 Cybersecurity Compliance and Risk Managerlocations2 Locationsposted onPosted 7 Days AgoR0253243 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0251910 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0249865 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0242157 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0243767 Software Architect, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0246897.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Software-Developer_R0252821?q=software+engineering",
     "id": "bae-systems-software-developer-alexandria"
   },
@@ -915,29 +975,59 @@
     "job_city": "Huntsville",
     "job_state": "AL",
     "job_posted_at": "6d",
-    "job_description": "• Cybersecurity Compliance and Risk Managerlocations2 Locationsposted onPosted 7 Days AgoR0253243 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0251910 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0249865 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0242157 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0243767 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0245084 Software Architect, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0246897.",
+    "job_description": "• Knowledge Managerlocations2 Locationsposted onPosted TodayR0253482 Cybersecurity Compliance and Risk Managerlocations2 Locationsposted onPosted 7 Days AgoR0253243 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0251910 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0249865 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0242157 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0243767 Software Architect, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0246897.",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Software-Developer_R0253313?q=software+engineering",
     "id": "bae-systems-software-developer-huntsville"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Maritime Software Integration and DevOps Engineer",
-    "job_city": "Oxnard",
-    "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "• Cybersecurity Compliance and Risk Managerlocations2 Locationsposted onPosted 7 Days AgoR0253243 Software and Systems Engineer, SeniorlocationsChantilly, VAposted onPosted 28 Days AgoR0251910 Product Security Senior Managerlocations8 Locationsposted onPosted 30+ Days AgoR0249865 Software Developer, SeniorlocationsHuntsville, ALposted onPosted 30+ Days AgoR0242157 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0243767 Software Developer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0245084 Software Architect, LeadlocationsDayton, OHposted onPosted 30+ Days AgoR0246897.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Oxnard-CA/Maritime-Software-Integration-and-DevOps-Engineer_R0252944?q=software+engineering",
-    "id": "bae-systems-maritime-software-integration-and-devops-engineer-oxnard"
+    "employer_name": "Broadcom",
+    "job_title": "Systems Validation & Integration Engineer (PCIe/SerDes)",
+    "job_city": "USA-CA San Jose Innovation Drive",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Principle Product Line Manager, Outbound Marketing – Ethernet SwitcheslocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 4 Days AgoR027236 Senior/Staff Process Integration Engineer (Optoelectronics)locations2 Locationstime typeFull timeposted onPosted 6 Days AgoR027801 Memory Validation Lab ManagerlocationsUSA-Mendota Heights-Northlandtime typeFull timeposted onPosted 3 Days AgoR027771 Account Directorlocations6 Locationstime typeFull timeposted onPosted 4 Days AgoR027785.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Systems-Validation---Integration-Engineer--PCIe-SerDes-_R027602?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-systems-validation-integration-engineer-pcie-serdes-usa-ca-san-jose-innovation-drive"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "System Software Engineer, Video Chips",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "Broadcom",
+    "job_title": "Security Engineer – Quality Engineering",
+    "job_city": "USA-CA - Promontory E",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Principal Software Engineer - DGX Cloudlocations2 Locationsposted onPosted 17 Days AgoJR2028363Senior Software Engineer, AI NetworkinglocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR2028144Senior System Software Engineer - Securitylocations5 Locationsposted onPosted 2 Days AgoJR2028417Senior Software Engineer - AI SystemlocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR2028657Senior Software Engineer Aerial Platformlocations5 Locationsposted onPosted 17 Days AgoJR2028821Senior Software Engineer - DGX Cloudlocations2 Locationsposted onPosted 4 Days AgoJR2028688Senior Software Engineer, Datacenter Modelinglocations3 Locationsposted onPosted 17 Days AgoJR2028188Senior System Software Engineer - SlurmlocationsUS, UT, Remoteposted onPosted 17 Days AgoJR2028324Senior System Software Engineer - SlurmlocationsUS, UT, Remoteposted onPosted 17 Days AgoJR2027990Senior Software Engineer - Embedded PlatformlocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR2028739System Software Engineer - Trusted FirmwarelocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2028868Staff Software Engineer - Agentic AutomationlocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2028169Senior System Software Engineer - Networkinglocations2 Locationsposted onPosted 13 Days AgoJR2028076Manager, Systems Software Engineering - GPUlocations2 Locationsposted onPosted 12 Days AgoJR2028913Senior Software Engineer - Quantum Simulationslocations6 Locationsposted onPosted 2 Days AgoJR2028862System Software Engineer, Video ChipslocationsUS, CA, Santa Claraposted onPosted TodayJR2029548Senior Software Engineer, AI Datalocations4 Locationsposted onPosted 7 Days AgoJR2029702Principal Software Engineer, Cloud InfrastructurelocationsUS, CA, Santa Claraposted onPosted 7 Days AgoJR2029455Principal Software Engineer – CSP EngagementslocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR1998405Senior Software Engineer, Humanoid RoboticslocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR2005063.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Video-Chips_JR2029548?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-software-engineer-video-chips-us"
+    "job_description": "• Principle Product Line Manager, Outbound Marketing – Ethernet SwitcheslocationsUSA-CA San Jose Innovation Drivetime typeFull timeposted onPosted 4 Days AgoR027236 Senior/Staff Process Integration Engineer (Optoelectronics)locations2 Locationstime typeFull timeposted onPosted 6 Days AgoR027801 Memory Validation Lab ManagerlocationsUSA-Mendota Heights-Northlandtime typeFull timeposted onPosted 3 Days AgoR027771 Account Directorlocations6 Locationstime typeFull timeposted onPosted 4 Days AgoR027785.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/Security-Engineer---Quality-Engineering_R027864?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-security-engineer-quality-engineering-usa-ca-promontory-e"
+  },
+  {
+    "employer_name": "Illumina",
+    "job_title": "Software Development Test Engineer",
+    "job_city": "US - California - San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Staff Software Engineerlocations2 Locationsposted onPosted 30+ Days Ago43096-JOBStaff Software EngineerlocationsUS - Remoteposted onPosted 30+ Days Ago43240-JOBSr.\n• Software EngineerlocationsUS - California - San Diegoposted onPosted 30+ Days Ago43568-JOBSoftware Development Test Engineer 1locationsUS - California - San Diegoposted onPosted Today43752-JOBDirector, Bioinformatics - MultiomicslocationsUS - California - San Diegoposted onPosted 30+ Days Ago43468-JOBSr.\n• Manager, BioinformaticslocationsUS - California - San Diegoposted onPosted 27 Days Ago43592-JOBDirector, Software Technical Product Management -- BioInsight Platform CorelocationsUS - California - San Diegoposted onPosted 17 Days Ago43588-JOBDirector, Software Technical Product Management - IVD / SaMDlocationsUS - California - San Diegoposted onPosted 4 Days Ago43903-JOBDirector, Software Technical Product Management - BioInsight Platform FoundationlocationsUS - California - San Diegoposted onPosted 17 Days Ago43589-JOBSenior Director, Embedded SystemslocationsUS - California - San Diegoposted onPosted 10 Days Ago43843-JOBStaff DevOps EngineerlocationsUS - California - San Diegoposted onPosted 20 Days Ago43575-JOBStaff Electrical EngineerlocationsUS - Bay Area - Haywardposted onPosted 30+ Days Ago43534-JOBElectrical Engineer 2locationsUS - Bay Area - Haywardposted onPosted 26 Days Ago43672-JOBSr Systems Test EngineerlocationsUS - California - San Diegoposted onPosted 21 Days Ago43711-JOBSenior Global Technical Training & Development EngineerlocationsUS - California - San Diegoposted onPosted 30+ Days Ago43384-JOBSenior Bioinformatics Scientist – AI/ML for Protein EngineeringlocationsUS - California - San Diegoposted onPosted 30+ Days Ago43541-JOBStaff Bioinformatics Scientist -- Signal ProcessinglocationsUS - California - San Diegoposted onPosted 30+ Days Ago43098-JOBDirector of AI Strategy, Architecture and SolutionslocationsUS - California - San Diegoposted onPosted 20 Days Ago43424-JOBStaff ScientistlocationsUS - California - San Diegoposted onPosted 30+ Days Ago43387-JOB.",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Software-Development-Test-Engineer-1_43752-JOB?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-software-development-test-engineer-us-california-san-diego"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Engineering Technician",
+    "job_city": "Troy",
+    "job_state": "Michigan",
+    "job_posted_at": "1d",
+    "job_description": "• Sr Manager, Software EngineeringlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00234312Senior Software Engineer RoboticslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00264681Engineer II - Software TestlocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00241284Senior Engineer – Robotics Softwarelocations2 Locationsposted onPosted 30+ Days AgoR00256863Software and HiL EngineerlocationsTroy, Michigan, USposted onPosted 11 Days AgoR00267835Principal Software Engineer – Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00206002Sr.\n• Engineer - Architect Software Functional SafetylocationsSouthfield, Michigan, USposted onPosted 21 Days AgoR00237813Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00209295AI/ML ADAS Perception EngineerlocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00243822Engineer II - Systems and Software QualitylocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00261125SCADA EngineerlocationsNorthwood, Ohio, USposted onPosted 30+ Days AgoR00260488Junior AI EngineerlocationsTroy, Michigan, USposted onPosted 24 Days AgoR00266828Product Engineer - FastenerlocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00263392Senior Full Stack Developer, Smart Factory SolutionslocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00236390Systems Administrator (Night Shift)locationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00264853IT ProgrammerlocationsMoore, South Carolina, USposted onPosted 10 Days AgoR00263375Engineering TechnicianlocationsTroy, Michigan, USposted onPosted TodayR00270273Tooling EngineerlocationsTroy, Michigan, USposted onPosted 5 Days AgoR00268851Moldflow EngineerlocationsTroy, Michigan, USposted onPosted 10 Days AgoR00255105.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Engineering-Technician_R00270273?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-engineering-technician-troy"
+  },
+  {
+    "employer_name": "Marvel Technology",
+    "job_title": "Substrate Engineer",
+    "job_city": "Chandler",
+    "job_state": "AZ",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted 30+ Days Ago2604929Principal Test Solutions EngineerlocationsBurlington, VTposted onPosted Today2605359Product Manager – Intelligent EdgelocationsSanta Clara, CAposted onPosted Today2605261Senior Principal Package Engineerlocations2 Locationsposted onPosted Today2605318Substrate EngineerlocationsChandler, AZposted onPosted Today2605319Ph.\n• Intern - Architecture, DSP & Systems Architecturelocations7 Locationsposted onPosted Today2604415Senior Staff, SRAM Validation EngineerlocationsBurlington, VTposted onPosted Today2605371Principal Engineer, SRAM Circuit DesignlocationsBurlington, VTposted onPosted Today2605367Senior Staff, SRAM Layout EngineerlocationsBurlington, VTposted onPosted Today2605372Staff, SRAM Layout EngineerlocationsBurlington, VTposted onPosted Today2605373Advanced Packaging SI/PI Senior Engineerlocations2 Locationsposted onPosted Today2605287Principal Engineer, ATE Test Engineering - Customer Engineering Solutionslocations2 Locationsposted onPosted 3 Days Ago2605312Principal ATE Test Development EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2602861Principal System Validation EngineerlocationsSanta Clara, CAposted onPosted 6 Days Ago2604972Software Engineering Director - Switching/Routing, Layer 1, PHY, Kernel, Platform arealocationsSanta Clara, CAposted onPosted 6 Days Ago2602109Sr Staff CAD EngineerlocationsSanta Clara, CAposted onPosted 6 Days Ago2605225Staff Hardware Engineer, OpticslocationsSanta Clara, CAposted onPosted 6 Days Ago2605031FP&A Systems Principal Professional / Application Architectlocations2 Locationsposted onPosted 6 Days Ago2604524Package Development, Signal Integrity and Power Integrity Engineer, Principallocations2 Locationsposted onPosted 6 Days Ago2605038Associate Vice President, Engineering – DCE Connectivity HardwarelocationsSanta Clara, CAposted onPosted 7 Days Ago2605191.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Chandler-AZ/Substrate-Engineer_2605319?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-substrate-engineer-chandler"
   },
   {
     "employer_name": "AMD",
@@ -1001,6 +1091,16 @@
   },
   {
     "employer_name": "AMD",
+    "job_title": "Gen AI Software Development Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Ability to write high quality code with a keen attention to detail Experience with modern concurrent programming and threading APIs Experience with Windows, Linux and/or Android operating system development Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilers is a plus Effective communication and problem-solving skills Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Strong object-oriented programming background, C/C++ preferred Motivating leader with good interpersonal skills Work with AMD’s architecture specialists to improve future products Apply a data minded approach to target optimization efforts Stay informed of software and hardware trends and innovations, especially pertaining to algorithms and architecture Design and develop new groundbreaking AMD technologies Participating in new ASIC and hardware bring ups Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/91795/login",
+    "id": "amd-gen-ai-software-development-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
     "job_title": "Data Scientist Software Engineering AI/ML",
     "job_city": "US",
     "job_state": "TX",
@@ -1048,16 +1148,6 @@
     "job_description": "• Deep hands-on experience with VMware VCF, vSphere/ESX, NSX and other products.\n• Strong debugging skills in VMware including at the system/hypervisor level.\n• Experience working directly with enterprise customers, OEMs, and OS partners to drive virtualization solutions and platform enablement.\n• Experience building or maintaining automation frameworks for system software validation and performance/regression workflows.\n• Experience leading distributed engineering teams across time zones in an agile development environment Master’s degree preferred in Electrical Engineering, Computer Engineering, or Computer Science AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• VMware enablement & ecosystem readiness: Drive enablement for AMD platforms and GPUs in VMware VCF environments, including readiness activities that unblock internal validation and partner/customer adoption.\n• Hardware bring-up support with FW/OS dependency awareness: Partner with platform/firmware teams to support hardware bring-up and triage issues where behavior depends on firmware/BIOS settings and OS/hypervisor interactions.\n• ESXi debugging & root-cause: Analyze, debug, and resolve complex issues observed on VMware ESXi (kernel/system-level), driving end-to-end root cause across platform software layers.",
     "job_apply_link": "https://careers-amd.icims.com/jobs/93796/login",
     "id": "amd-virtualization-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Applied AI Engineer, Top Hardware Priorities",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Build human-in-the-loop workflows for tasks where annotated data, expert judgment, or subjective triage is required.\n• Experience with hardware design or verification workflows, including RTL, Verilog/SystemVerilog, simulation, formal verification, EDA tools, timing analysis, or power/performance/area tradeoffs.\n• Experience with GPU/CPU performance engineering, compiler tooling, profilers, kernel optimization, ROCm/HIP, CUDA, or benchmarking.\n• Experience designing evaluation datasets, graders, dashboards, leaderboards, or experiment tracking systems.\n• Experience working with internal engineering customers, forward-deployed teams, or cross-functional product engineering programs.\n• Strong software engineering experience in Python and at least one systems language such as C++, C, HIP, CUDA, or Rust.\n• Experience building applied AI, ML, agentic, automation, or developer tooling systems for technical users.\n• Strong debugging and root-cause analysis skills across software systems, AI workflows, or hardware-adjacent tooling.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/87872/login",
-    "id": "amd-applied-ai-engineer-top-hardware-priorities-us"
   },
   {
     "employer_name": "AMD",
@@ -1361,6 +1451,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Electrification Sales Internship - Summer",
+    "job_city": "Location Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048198/Electrification-Sales-Internship-Summer-2027",
+    "id": "abb-electrification-sales-internship-summer-location-houston"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Electrical Tendering & Sales Support Intern - Summer",
     "job_city": "Location Houston",
     "job_state": "Texas",
@@ -1461,16 +1561,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Product Owner - Embedded Systems",
-    "job_city": "Location Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050575/Technical-Product-Owner-Embedded-Systems",
-    "id": "abb-technical-product-owner-embedded-systems-location-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Engineer Control Firmware (80 -100%)",
     "job_city": "Location Quartino",
     "job_state": "Ticino",
@@ -1505,7 +1595,7 @@
     "job_city": "Location Hangzhou",
     "job_state": "Zhejiang",
     "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Senior Insulation Engineer Location Shanghai, Shanghai, China Category Research & Development R&D Software Engineer(HMI) Location Shanghai, Shanghai, China Category Research & Development 应用软件开发(AI) Location Shanghai, Shanghai, China Category Research & Development R&D Software Engineer(HMI) Location Shanghai, Shanghai, China Category Research & Development Head of Quality Engineering Available in one of 8 locations Category Research & Development R&D Engineer Location Shanghai, Shanghai, China Category Research & Development R&D Engineer Location Shanghai, Shanghai, China Category Research & Development R&D Engineer Location Shanghai, Shanghai, China Category Research & Development R&D Engineer Location Shanghai, Shanghai, China Category Research & Development.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00050709/Test-Automation-Engineer",
     "id": "abb-test-automation-engineer-location-hangzhou"
   },
@@ -1700,24 +1790,44 @@
     "id": "arm-instructional-design-intern-austin"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Home and Health Infrastructure, Special Projects",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Home and Health Infrastructure, Special Projects",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/143282246063661766-software-engineer-home-and-health-infrastructure-special-projects?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-home-and-health-infrastructure-special-projects-los-angeles"
+    "employer_name": "Honeywell",
+    "job_title": "Field Service Engr II- Process Controls- Albany, NY",
+    "job_city": "Albany",
+    "job_state": "NY",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer Co-Op - Spring/Summer 2027 Locations Pittsford, NY, United States Posting Date09/17/2026 Trending As a Software Engineer Co-Op here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.\n• Spring 2027 Software Engineering Co-op Locations United States Posting Date09/29/2026 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell Co-ops will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Software Engineer & Computer Science - Summer 2027 Intern Locations United States Posting Date08/25/2026 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell Technologies interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Software Engineer & Computer Science - Summer 2027 Intern (US Person Required) Locations United States Posting Date08/25/2026 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell Technologies interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Working under the guidance of Principal Sales Engineers, this role helps translate customer needs in the life sciences industry into practical, compliant, and scalable solutions.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/162243/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-field-service-engr-ii-process-controls-albany-ny-albany"
   },
   {
-    "employer_name": "Google",
-    "job_title": "[T] Software Engineer III, AI/ML GenAI, Google Cloud",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role [T] Software Engineer III, AI/ML GenAI, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/114224284045320902-t-software-engineer-iii-aiml-genai-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-t-software-engineer-iii-ai-ml-genai-google-cloud-new-york"
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Java Backend Software Engineer",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer Program Early Careers - April 2027 Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Lead Software Engineer - Java/Python Plano, TX, United States TechnologySoftware Engineering Drive innovation and deliver secure, scalable technology solutions as a Lead Software Engineer in Data Protection & Recovery Lead Software Engineer Bengaluru, Karnataka, India and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Director of Software Engineering OH, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned full stack member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Promote strategic initiatives for the J P Morgan Wealth Management team, enhancing client experiences and supporting business growth.\n• Lead Software Engineer - Java/React/AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer (React/Java/AWS) Software Engineer III Palo Alto, CA, United States TechnologySoftware Engineering Apply your skillsets to drive innovation and modernize the world's most complex and mission-critical systems Software Engineer II - Electronic Trading Services - Automation Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Join the Nitrous Network Automation team within Electronic Trading Services to design, build, and support software that improves network automation capabilities and developer/operator workflows.\n• Senior Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Jobshare Software engineer Assoc - Jobshare/Part - time Dublin, Ireland TechnologySoftware Engineering are you looking for flexibility & have Software engineering skills Software Engineer III-DevOps Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Java Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III-DevOps Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Sr.\n• Join a collaborative engineering team where you can grow your skills, strengthen reliability at scale, and help deliver resilient customer experiences.\n• As an SRE Software Engineer II at JPMorganChase, you will build and operate resilient software solutions that improve availability, scalability, and customer experience.\n• Java / AWS Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer strong with Java and AWS Software Engineer III - Scala Engineer Jersey City, NJ, United States TechnologySoftware Engineering Design and develop secure, scalable software, troubleshoot key components, and grow your career as an experienced software engineer.\n• Lead Software Engineer Atlanta, GA, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer II - Java / Python GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Build secure, scalable software on agile teams while growing your engineering skills and impact.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779159/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-java-backend-software-engineer-tampa"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Java Fullstack Software Engineer II - React / Oracle",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer Program Early Careers - April 2027 Ciudad Autónoma de Buenos Aires, Argentina TechnologySoftware Engineering The Software Engineer Program (SEP) is a global two year career development program.\n• Lead Software Engineer - Java/Python Plano, TX, United States TechnologySoftware Engineering Drive innovation and deliver secure, scalable technology solutions as a Lead Software Engineer in Data Protection & Recovery Lead Software Engineer Bengaluru, Karnataka, India and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Director of Software Engineering OH, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned full stack member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Promote strategic initiatives for the J P Morgan Wealth Management team, enhancing client experiences and supporting business growth.\n• Lead Software Engineer - Java/React/AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer (React/Java/AWS) Software Engineer III Palo Alto, CA, United States TechnologySoftware Engineering Apply your skillsets to drive innovation and modernize the world's most complex and mission-critical systems Software Engineer II - Electronic Trading Services - Automation Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Join the Nitrous Network Automation team within Electronic Trading Services to design, build, and support software that improves network automation capabilities and developer/operator workflows.\n• Senior Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Jobshare Software engineer Assoc - Jobshare/Part - time Dublin, Ireland TechnologySoftware Engineering are you looking for flexibility & have Software engineering skills Software Engineer III-DevOps Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Java Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III-DevOps Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Sr.\n• Join a collaborative engineering team where you can grow your skills, strengthen reliability at scale, and help deliver resilient customer experiences.\n• As an SRE Software Engineer II at JPMorganChase, you will build and operate resilient software solutions that improve availability, scalability, and customer experience.\n• Java / AWS Lead Software Engineer New York, NY, United States TechnologySoftware Engineering Seeking a Lead Software Engineer strong with Java and AWS Software Engineer III - Scala Engineer Jersey City, NJ, United States TechnologySoftware Engineering Design and develop secure, scalable software, troubleshoot key components, and grow your career as an experienced software engineer.\n• Lead Software Engineer Atlanta, GA, United States TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Jersey City, NJ, United States TechnologySoftware Engineering Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications Software Engineer II - Java / Python GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Build secure, scalable software on agile teams while growing your engineering skills and impact.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793180/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-java-fullstack-software-engineer-ii-react-oracle-tampa"
+  },
+  {
+    "employer_name": "Texas Instruments",
+    "job_title": "Industrial Systems Engineer (RFAB)",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• (5) South Portland, South Portland, ME (4) Categories 0 Engineering - Product Dev (67) Manufacturing (36) Information Technology (13) Facilities (9) Administration (1) Supply Chain & Operations (1) Sales (1) Experience Level 0 Experienced Professional (96) Interns (16) Recent College Grads (16) Work Locations 0 Dallas, South Campus (45) Richardson, Richardson Fab, Renner Rd (19) Sherman, Sherman - SM1 Fab (14) Lehi, Lehi, UT (10) Dallas, North Campus - DMOS V South (9) Dallas, North Campus - DMOS 6 (7) Dallas, North Campus - Kilby East (6) Tucson, Tucson Williams Ctr-South Bldg,.\n• (5) South Portland, South Portland, ME (4) Categories 0 Engineering - Product Dev (67) Manufacturing (36) Information Technology (13) Facilities (9) Administration (1) Supply Chain & Operations (1) Sales (1) Experience Level 0 Experienced Professional (96) Interns (16) Recent College Grads (16) Experience developing a workflow solution.\n• Experience with workflow platforms.\n• Front-end semiconductor manufacturing experience is valued.\n• Experience with Applied Materials SmartFactory software suite and/or Activity Manager for Reporting (AMR) or Automation (AMA) is a plus.\n• Experience developing dispatching and scheduling logic with Real-Time Dispatch (RTD).\n• Experience with querying data with SQL and creating reports in platforms such as Spotfire, PowerBI, Tableau, or Excel & VBA.\n• Team player - must be able to work effectively across functional and cultural boundaries.",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25019880/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-industrial-systems-engineer-rfab-richardson"
   },
   {
     "employer_name": "Amazon",
@@ -1734,7 +1844,7 @@
     "job_title": "Software Development Engineer, Platform Engineering & Emerging Technology",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Development Engineer, Platform Engineering & Emerging Technology",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10602358/software-development-engineer-platform-engineering-emerging-technology",
     "id": "amazon-software-development-engineer-platform-engineering-emerging-technology-seattle"
@@ -1744,7 +1854,7 @@
     "job_title": "Software Development Engineer, Network Fabric Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "14h",
+    "job_posted_at": "1d",
     "job_description": "software engineering job for the role Software Development Engineer, Network Fabric Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10599162/software-development-engineer-network-fabric-engineering",
     "id": "amazon-software-development-engineer-network-fabric-engineering-seattle"
@@ -1772,6 +1882,16 @@
   {
     "employer_name": "Amazon",
     "job_title": "Software Development Engineer, Trainium Systems",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Development Engineer, Trainium Systems",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10606081/software-development-engineer-trainium-systems",
+    "id": "amazon-software-development-engineer-trainium-systems-cupertino"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Trainium Systems",
     "job_city": "Austin",
     "job_state": "TX",
     "job_posted_at": "2w",
@@ -1784,7 +1904,7 @@
     "job_title": "Service Engineer, PSO, Prime Air, Prime Air",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "software engineering job for the role Service Engineer, PSO, Prime Air, Prime Air",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10600752/service-engineer-pso-prime-air-prime-air",
     "id": "amazon-service-engineer-pso-prime-air-prime-air-seattle"
@@ -1794,20 +1914,10 @@
     "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10602900/software-development-engineer-ec2-ultraserver-delivery-team",
     "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, SDN Controller, Amazon LEO",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "4d",
-    "job_description": "software engineering job for the role Software Development Engineer II, SDN Controller, Amazon LEO",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10603866/software-development-engineer-ii-sdn-controller-amazon-leo",
-    "id": "amazon-software-development-engineer-ii-sdn-controller-amazon-leo-redmond"
   },
   {
     "employer_name": "Amazon",
@@ -1816,8 +1926,18 @@
     "job_state": "WA",
     "job_posted_at": "1w",
     "job_description": "software engineering job for the role Software Engineer, Worldwide Amazon Stores Finance Technology, Controllership Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10599940/software-engineer-worldwide-amazon-stores-finance-technology-controllership-engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10600471/software-engineer-worldwide-amazon-stores-finance-technology-controllership-engineering",
     "id": "amazon-software-engineer-worldwide-amazon-stores-finance-technology-controllership-engineering-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer II, SDN Controller, Amazon LEO",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "5d",
+    "job_description": "software engineering job for the role Software Development Engineer II, SDN Controller, Amazon LEO",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10603866/software-development-engineer-ii-sdn-controller-amazon-leo",
+    "id": "amazon-software-development-engineer-ii-sdn-controller-amazon-leo-redmond"
   },
   {
     "employer_name": "Amazon",
@@ -1844,7 +1964,7 @@
     "job_title": "Front End Development Engineer, DASH",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "1w",
+    "job_posted_at": "2w",
     "job_description": "software engineering job for the role Front End Development Engineer, DASH",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10594886/front-end-development-engineer-dash",
     "id": "amazon-front-end-development-engineer-dash-redmond"
@@ -1854,7 +1974,7 @@
     "job_title": "Software Development Engineer",
     "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "6d",
+    "job_posted_at": "1w",
     "job_description": "software engineering job for the role Software Development Engineer",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10598928/software-development-engineer",
     "id": "amazon-software-development-engineer-new-york"
@@ -1871,16 +1991,6 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "SDE II, ML Infra Services, Annapurna Labs",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "2w",
-    "job_description": "software engineering job for the role SDE II, ML Infra Services, Annapurna Labs",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10589802/sde-ii-ml-infra-services-annapurna-labs",
-    "id": "amazon-sde-ii-ml-infra-services-annapurna-labs-seattle"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Software Dev Engineer",
     "job_city": "Sunnyvale",
     "job_state": "CA",
@@ -1888,6 +1998,16 @@
     "job_description": "software engineering job for the role Software Dev Engineer",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10597316/software-dev-engineer",
     "id": "amazon-software-dev-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "SDE II, ML Infra Services, Annapurna Labs",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "3w",
+    "job_description": "software engineering job for the role SDE II, ML Infra Services, Annapurna Labs",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10589802/sde-ii-ml-infra-services-annapurna-labs",
+    "id": "amazon-sde-ii-ml-infra-services-annapurna-labs-seattle"
   },
   {
     "employer_name": "Amazon",
@@ -1924,27 +2044,17 @@
     "job_title": "Communications Engineer, Production Network Performance, Amazon Leo",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Communications Engineer, Production Network Performance, Amazon Leo",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10602633/communications-engineer-production-network-performance-amazon-leo",
     "id": "amazon-communications-engineer-production-network-performance-amazon-leo-redmond"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Security & Compliance Engineer I, AWS Security Assurance Services, LLC",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "3w",
-    "job_description": "software engineering job for the role Security & Compliance Engineer I, AWS Security Assurance Services, LLC",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10588655/security-compliance-engineer-i-aws-security-assurance-services-llc",
-    "id": "amazon-security-compliance-engineer-i-aws-security-assurance-services-llc-arlington"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Data Engineer, Advertising Demand Enablement & Product Ops (DEPO)",
     "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "1w",
+    "job_posted_at": "2w",
     "job_description": "software engineering job for the role Data Engineer, Advertising Demand Enablement & Product Ops (DEPO)",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10595951/data-engineer-advertising-demand-enablement-product-ops-depo",
     "id": "amazon-data-engineer-advertising-demand-enablement-product-ops-depo-new-york"
