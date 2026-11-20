@@ -1,6 +1,4 @@
 [
-  "broadcom-forward-deployed-engineer-kubernetes-usa-tn-location",
-  "broadcom-government-public-sector-india-bangalore-remote-2-locations",
   "broadcom-hardware-engineer-2-locations",
   "broadcom-hardware-engineer-usa-california-san-jose-1320-ridder-park-drive",
   "broadcom-hardware-engineer-usa-california-san-jose-1730-fox-drive",
@@ -5087,6 +5085,7 @@
   "intel-gpu-logic-design-engineer-2-locations",
   "intel-gpu-logic-design-engineer-4-locations",
   "intel-gpu-performance-engineer-2-locations",
+  "intel-gpu-performance-engineer-us",
   "intel-gpu-software-development-engineer-2-locations",
   "intel-gpu-software-development-engineer-3-locations",
   "intel-gpu-software-development-engineer-us",
@@ -9791,6 +9790,7 @@
   "verizon-engr-iii-spec-ai-ml-engring-2-locations",
   "verizon-engr-iii-spec-cloud-2-locations",
   "verizon-engr-iii-spec-network-performance-vran-2-locations",
+  "verizon-engr-iii-spec-ntwk-constr-southfield",
   "verizon-engr-iii-spec-ntwk-engring-2-locations",
   "verizon-engr-iii-spec-ntwk-perf-2-locations",
   "verizon-engr-iii-spec-outside-plant-3003-monroe-way",
