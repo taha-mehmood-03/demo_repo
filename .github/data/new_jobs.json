@@ -1715,7 +1715,7 @@
     "job_city": "Location Houston",
     "job_state": "Texas",
     "job_posted_at": "1h",
-    "job_description": "• Bachelor’s degree in Electrical Engineering from an accredited university.\n• 2+ years of experience in electrical engineering, with demonstrated success supporting multidisciplinary engineering projects.\n• Experience in one of the following technical areas:Power system studies and associated software (ETAP, SKM, PSCAD, EasyPower)Substation and electrical building design.\n• Demonstrated experience serving as an Electrical Engineer low to medium complexity engineering projects.\n• Excellent technical problem-solving, communication, and documentation skills.\n• Develop, review, and approve electrical engineering deliverables, ensuring compliance with project requirements, applicable codes, industry standards, and ABB engineering practices.\n• Support factory acceptance testing (FAT), site acceptance testing (SAT), commissioning, and startup activities as required.\n• Coordinate and provide technical oversight of multi-discipline vendors and subcontractors, ensuring alignment with project requirements, engineering standards, schedules, and overall project objectives.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045531/Project-Engineer",
     "id": "abb-project-engineer-location-houston"
   },
@@ -1821,16 +1821,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Production Engineering Technician - 2nd shift",
-    "job_city": "Location Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1h",
-    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00052187/Production-Engineering-Technician-2nd-shift",
-    "id": "abb-production-engineering-technician-2nd-shift-location-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Production Engineering Technician - 3rd shift",
     "job_city": "Location Pinetops",
     "job_state": "North Carolina",
@@ -1838,6 +1828,16 @@
     "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00052188/Production-Engineering-Technician-3rd-shift",
     "id": "abb-production-engineering-technician-3rd-shift-location-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Engineering Technician - 2nd shift",
+    "job_city": "Location Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00052187/Production-Engineering-Technician-2nd-shift",
+    "id": "abb-production-engineering-technician-2nd-shift-location-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -1875,7 +1875,7 @@
     "job_city": "Location Heidelberg",
     "job_state": "Baden-Wurttemberg",
     "job_posted_at": "1h",
-    "job_description": "• Practical experience in the development of machine control and/or automation software using TwinCAT (ideally TwinCAT 3), for example as an Automation Software Developer (m/f/d), PLC Programmer (m/f/d), PLC Developer (m/f/d), TwinCAT Developer (m/f/d), Automation Engineer (m/f/d), Automation Technician (m/f/d), or Mechanical Engineering Software Developer (m/f/d)Qualification as a State-Certified Technician specializing in Electrical Engineering or Automation Technology, or a degree in Computer Science, Electrical Engineering, Automation Engineering, or a comparable field Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action Reliability, willingness to learn, and strong teamwork skillsA background in special machinery engineering is a plus Strong knowledge of SQL and database managementExperience with networked systems and IoT technologies Fluent German language skills, both written and spoken, as well as advanced English proficiency.",
+    "job_description": "• Customer events News & media Who we are Innovation Careers Sustainability Supplying EEO and Affirmative Action.",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042690/Software-Developer-f-m-d-Special-Purpose-Machinery-Mechanical-Engineering-TwinCAT",
     "id": "abb-software-developer-f-m-d-special-purpose-machinery-mechanical-engineering-twincat-location-heidelberg"
   },
@@ -2064,7 +2064,7 @@
     "job_title": "Software Development Engineer, Checkout Engineering Excellence Team",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Software Development Engineer, Checkout Engineering Excellence Team",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10607210/software-development-engineer-checkout-engineering-excellence-team",
     "id": "amazon-software-development-engineer-checkout-engineering-excellence-team-seattle"
@@ -2074,7 +2074,7 @@
     "job_title": "Software Development Engineer, Region Reliability Engineering",
     "job_city": "Denver",
     "job_state": "CO",
-    "job_posted_at": "3d",
+    "job_posted_at": "4d",
     "job_description": "software engineering job for the role Software Development Engineer, Region Reliability Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10608480/software-development-engineer-region-reliability-engineering",
     "id": "amazon-software-development-engineer-region-reliability-engineering-denver"
@@ -2084,7 +2084,7 @@
     "job_title": "Software Development Engineer, Network Fabric Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Development Engineer, Network Fabric Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10599162/software-development-engineer-network-fabric-engineering",
     "id": "amazon-software-development-engineer-network-fabric-engineering-seattle"
@@ -2114,7 +2114,7 @@
     "job_title": "Software Development Engineer, Trainium Systems",
     "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "5d",
+    "job_posted_at": "6d",
     "job_description": "software engineering job for the role Software Development Engineer, Trainium Systems",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10606081/software-development-engineer-trainium-systems",
     "id": "amazon-software-development-engineer-trainium-systems-cupertino"
@@ -2144,7 +2144,7 @@
     "job_title": "Software Development Engineer II, Managed Operations (MO)",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "2d",
+    "job_posted_at": "3d",
     "job_description": "software engineering job for the role Software Development Engineer II, Managed Operations (MO)",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10609588/software-development-engineer-ii-managed-operations-mo",
     "id": "amazon-software-development-engineer-ii-managed-operations-mo-seattle"
@@ -2164,7 +2164,7 @@
     "job_title": "Software Development Engineer, Network Operations",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role Software Development Engineer, Network Operations",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10607608/software-development-engineer-network-operations",
     "id": "amazon-software-development-engineer-network-operations-redmond"
@@ -2211,20 +2211,10 @@
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, ADC2S",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "4w",
-    "job_description": "software engineering job for the role Software Development Engineer, ADC2S",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10587444/software-development-engineer-adc2s",
-    "id": "amazon-software-development-engineer-adc2s-arlington"
-  },
-  {
-    "employer_name": "Amazon",
     "job_title": "Ontologist, Product Knowledge, Ontology",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "3d",
+    "job_posted_at": "4d",
     "job_description": "software engineering job for the role Ontologist, Product Knowledge, Ontology",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10604994/ontologist-product-knowledge-ontology",
     "id": "amazon-ontologist-product-knowledge-ontology-seattle"
@@ -2264,7 +2254,7 @@
     "job_title": "Data Engineer II, AWS Analytics Engineering",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "4d",
+    "job_posted_at": "5d",
     "job_description": "software engineering job for the role Data Engineer II, AWS Analytics Engineering",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10603754/data-engineer-ii-aws-analytics-engineering",
     "id": "amazon-data-engineer-ii-aws-analytics-engineering-seattle"
@@ -2284,7 +2274,7 @@
     "job_title": "Embedded SDE II, Hardware Engineering Services",
     "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "1d",
+    "job_posted_at": "2d",
     "job_description": "software engineering job for the role Embedded SDE II, Hardware Engineering Services",
     "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/10610733/embedded-sde-ii-hardware-engineering-services",
     "id": "amazon-embedded-sde-ii-hardware-engineering-services-cupertino"
